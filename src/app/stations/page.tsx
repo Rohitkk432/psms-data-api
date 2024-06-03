@@ -83,13 +83,13 @@ export default function StationsPage() {
             </div>
 
             {StationData.map((item: any) => {
-                if (item.stationDomain === "CSIS/IT" || item.stationDomain === "Others")
+                if (item.stationDomain === "CSIS/IT" || item.stationDomain === "Finance and Mgmt" || item.stationDomain === "Others")
                     if (
                         (pune && item.city === "Pune") ||
                         (hyd && item.city === "Hyderabad") ||
                         (mumbai && item.city === "Mumbai") ||
                         (gurgaon && item.city === "Gurgaon") ||
-                        (bangalore && item.city === "Bangalore" && item.city === "Bengaluru") ||
+                        (bangalore && (item.city === "Bangalore" || item.city === "Bengaluru")) ||
                         (delhi && item.city === "Delhi") ||
                         (other &&
                             item.city !== "Pune" &&
