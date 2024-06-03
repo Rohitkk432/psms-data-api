@@ -13,7 +13,10 @@ export default function StationsPage() {
     const [delhi, setDelhi] = useState(true);
     const [other, setOther] = useState(true);
 
+    const [csis, setCsis] = useState(true);
     const [addOther, setAddOther] = useState(false);
+    const [Others, setOthers] = useState(false);
+    const [finance, setfinance] = useState(false);
 
     const [gt0, setGT0] = useState(true);
     const [gt6, setGT6] = useState(true);
@@ -32,7 +35,10 @@ export default function StationsPage() {
         setGurgaon(localStorage.getItem("gurgaon") === "false" ? false : true);
         setDelhi(localStorage.getItem("delhi") === "false" ? false : true);
         setOther(localStorage.getItem("other") === "false" ? false : true);
+        setCsis(localStorage.getItem("csis") === "false" ? false : true);
         setAddOther(localStorage.getItem("addOther") === "true" ? true : false);
+        setOthers(localStorage.getItem("Others") === "true" ? true : false);
+        setfinance(localStorage.getItem("finance") === "true" ? true : false);
         setGT0(localStorage.getItem("gt0") === "false" ? false : true);
         setGT6(localStorage.getItem("gt6") === "false" ? false : true);
         setGT65(localStorage.getItem("gt65") === "false" ? false : true);
@@ -52,11 +58,12 @@ export default function StationsPage() {
                     <div className="text-violet-500">M</div>
                     <div className="text-green-500">S</div>
                 </div>
-                <div className="w-full tracking-wider flex gap-1 items-center justify-center text-2xl font-normal">
+                {/* <div className="w-full tracking-wider flex gap-1 items-center justify-center text-2xl font-normal">
                     <div className="text-blue-500">Mere</div>
                     <div className="text-red-500">Lode</div>
                     <div className="text-yellow-500">Pe</div>
-                </div>
+                </div> */}
+                BRRR
             </div>
             <div className="w-full flex items-center justify-center text-2xl font-bold">PS Stations List</div>
             <div className="w-full flex items-center justify-center my-3 gap-4">
@@ -127,7 +134,34 @@ export default function StationsPage() {
             </div>
 
             <div className="w-full flex items-center justify-center my-3 gap-4">
-                <div className="text-lg">Branch Filters(default: CSIS/IT, Finance and Mgmt, Other, Health Care) - </div>
+                <div className="text-lg">Branch Filters - </div>
+                <button
+                    onClick={() => {
+                        localStorage.setItem("csis", !csis ? "true" : "false");
+                        setCsis(!csis);
+                    }}
+                    type="button"
+                    className={!csis ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    CSIS/IT, HealthCare
+                </button>
+                <button
+                    onClick={() => {
+                        localStorage.setItem("finance", !finance ? "true" : "false");
+                        setfinance(!finance);
+                    }}
+                    type="button"
+                    className={!finance ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    Finance and Mgmt
+                </button>
+                <button
+                    onClick={() => {
+                        localStorage.setItem("Others", !Others ? "true" : "false");
+                        setOthers(!Others);
+                    }}
+                    type="button"
+                    className={!Others ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    Others
+                </button>
                 <button
                     onClick={() => {
                         localStorage.setItem("addOther", !addOther ? "true" : "false");
@@ -235,7 +269,14 @@ export default function StationsPage() {
                     (gt9 && item.minCgpa >= 9) ||
                     (gt0 && item.minCgpa >= 0 && item.minCgpa < 6)
                 )
-                    if (!addOther ? item.stationDomain === "CSIS/IT" || item.stationDomain === "Finance and Mgmt" || item.stationDomain === "Others" || item.stationDomain === "Health Care" : true)
+                    if (
+                        !addOther
+                            ? (csis && item.stationDomain === "CSIS/IT") ||
+                              (csis && item.stationDomain === "Health Care") ||
+                              (finance && item.stationDomain === "Finance and Mgmt") ||
+                              (Others && item.stationDomain === "Others")
+                            : true
+                    )
                         if (
                             (pune && item.city === "Pune") ||
                             (hyd && item.city === "Hyderabad") ||
