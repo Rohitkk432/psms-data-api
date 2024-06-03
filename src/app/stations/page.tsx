@@ -1,8 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import StationData from "@/data/stations.json";
-import cn from 'classnames'
+import cn from "classnames";
 
 export default function StationsPage() {
     const [bangalore, setBangalore] = useState(true);
@@ -13,6 +13,8 @@ export default function StationsPage() {
     const [delhi, setDelhi] = useState(true);
     const [other, setOther] = useState(true);
 
+    const [addOther, setAddOther] = useState(false);
+
     const [gt0, setGT0] = useState(true);
     const [gt6, setGT6] = useState(true);
     const [gt65, setGT65] = useState(true);
@@ -22,7 +24,25 @@ export default function StationsPage() {
     const [gt85, setGT85] = useState(true);
     const [gt9, setGT9] = useState(true);
 
-    const [addOther, setAddOther] = useState(false);
+    useEffect(() => {
+        setBangalore(localStorage.getItem("bangalore") === "false" ? false : true);
+        setMumbai(localStorage.getItem("mumbai") === "false" ? false : true);
+        setPune(localStorage.getItem("pune") === "false" ? false : true);
+        setHyd(localStorage.getItem("hyd") === "false" ? false : true);
+        setGurgaon(localStorage.getItem("gurgaon") === "false" ? false : true);
+        setDelhi(localStorage.getItem("delhi") === "false" ? false : true);
+        setOther(localStorage.getItem("other") === "false" ? false : true);
+        setAddOther(localStorage.getItem("addOther") === "true" ? true : false);
+        setGT0(localStorage.getItem("gt0") === "false" ? false : true);
+        setGT6(localStorage.getItem("gt6") === "false" ? false : true);
+        setGT65(localStorage.getItem("gt65") === "false" ? false : true);
+        setGT7(localStorage.getItem("gt7") === "false" ? false : true);
+        setGT75(localStorage.getItem("gt75") === "false" ? false : true);
+        setGT8(localStorage.getItem("gt8") === "false" ? false : true);
+        setGT85(localStorage.getItem("gt85") === "false" ? false : true);
+        setGT9(localStorage.getItem("gt9") === "false" ? false : true);
+    }, []);
+
     return (
         <main className="flex min-h-screen flex-col items-center gap-4 px-24 py-12">
             <div className="w-full flex flex-col border border-gray-600 py-3 rounded-md gap-1 items-center justify-center">
@@ -40,8 +60,10 @@ export default function StationsPage() {
             </div>
             <div className="w-full flex items-center justify-center text-2xl font-bold">PS Stations List</div>
             <div className="w-full flex items-center justify-center my-3 gap-4">
+                <div className="text-lg">Location Filters - </div>
                 <button
                     onClick={() => {
+                        localStorage.setItem("bangalore", !bangalore ? "true" : "false");
                         setBangalore(!bangalore);
                     }}
                     type="button"
@@ -50,6 +72,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("hyd", !hyd ? "true" : "false");
                         setHyd(!hyd);
                     }}
                     type="button"
@@ -58,6 +81,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("mumbai", !mumbai ? "true" : "false");
                         setMumbai(!mumbai);
                     }}
                     type="button"
@@ -66,6 +90,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("pune", !pune ? "true" : "false");
                         setPune(!pune);
                     }}
                     type="button"
@@ -74,6 +99,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gurgaon", !gurgaon ? "true" : "false");
                         setGurgaon(!gurgaon);
                     }}
                     type="button"
@@ -82,6 +108,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("delhi", !delhi ? "true" : "false");
                         setDelhi(!delhi);
                     }}
                     type="button"
@@ -90,6 +117,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("other", !other ? "true" : "false");
                         setOther(!other);
                     }}
                     type="button"
@@ -99,8 +127,10 @@ export default function StationsPage() {
             </div>
 
             <div className="w-full flex items-center justify-center my-3 gap-4">
+                <div className="text-lg">Branch Filters(default: CSIS/IT, Finance and Mgmt, Other, Health Care) - </div>
                 <button
                     onClick={() => {
+                        localStorage.setItem("addOther", !addOther ? "true" : "false");
                         setAddOther(!addOther);
                     }}
                     type="button"
@@ -110,8 +140,10 @@ export default function StationsPage() {
             </div>
 
             <div className="w-full flex items-center justify-center my-3 gap-4">
+                <div className="text-lg">CGPA Filters - </div>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gt0", !gt0 ? "true" : "false");
                         setGT0(!gt0);
                     }}
                     type="button"
@@ -120,6 +152,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gt6", !gt6 ? "true" : "false");
                         setGT6(!gt6);
                     }}
                     type="button"
@@ -128,6 +161,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gt65", !gt65 ? "true" : "false");
                         setGT65(!gt65);
                     }}
                     type="button"
@@ -136,6 +170,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gt7", !gt7 ? "true" : "false");
                         setGT7(!gt7);
                     }}
                     type="button"
@@ -144,6 +179,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gt75", !gt75 ? "true" : "false");
                         setGT75(!gt75);
                     }}
                     type="button"
@@ -152,6 +188,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gt8", !gt8 ? "true" : "false");
                         setGT8(!gt8);
                     }}
                     type="button"
@@ -160,6 +197,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gt85", !gt85 ? "true" : "false");
                         setGT85(!gt85);
                     }}
                     type="button"
@@ -168,6 +206,7 @@ export default function StationsPage() {
                 </button>
                 <button
                     onClick={() => {
+                        localStorage.setItem("gt9", !gt9 ? "true" : "false");
                         setGT9(!gt9);
                     }}
                     type="button"
