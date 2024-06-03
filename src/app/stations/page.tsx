@@ -89,9 +89,16 @@ export default function StationsPage() {
                         (hyd && item.city === "Hyderabad") ||
                         (mumbai && item.city === "Mumbai") ||
                         (gurgaon && item.city === "Gurgaon") ||
-                        (bangalore && item.city === "Bangalore") ||
+                        (bangalore && item.city === "Bangalore" && item.city === "Bengaluru") ||
                         (delhi && item.city === "Delhi") ||
-                        (other && item.city !== "Pune" && item.city !== "Hyderabad" && item.city !== "Mumbai" && item.city !== "Gurgaon" && item.city !== "Bangalore" && item.city !== "Delhi")
+                        (other &&
+                            item.city !== "Pune" &&
+                            item.city !== "Hyderabad" &&
+                            item.city !== "Mumbai" &&
+                            item.city !== "Gurgaon" &&
+                            item.city !== "Bangalore" &&
+                            item.city !== "Delhi" &&
+                            item.city !== "Bengaluru")
                     )
                         return (
                             <div key={item.stationId} className="w-full grid grid-cols-6 py-2 items-center justify-center border-b text-white text-lg">
