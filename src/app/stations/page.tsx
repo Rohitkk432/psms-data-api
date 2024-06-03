@@ -24,9 +24,22 @@ export default function StationsPage() {
 
     const [addOther, setAddOther] = useState(false);
     return (
-        <main className="flex min-h-screen flex-col items-center gap-4 p-24">
+        <main className="flex min-h-screen flex-col items-center gap-4 px-24 py-12">
+            <div className="w-full flex flex-col border border-gray-600 py-3 rounded-md gap-1 items-center justify-center">
+                <div className="w-full flex gap-1 items-center justify-center text-6xl font-black">
+                    <div className="text-green-500">P</div>
+                    <div className="text-orange-500">S</div>
+                    <div className="text-violet-500">M</div>
+                    <div className="text-green-500">S</div>
+                </div>
+                <div className="w-full tracking-wider flex gap-1 items-center justify-center text-2xl font-normal">
+                    <div className="text-blue-500">Mere</div>
+                    <div className="text-red-500">Lode</div>
+                    <div className="text-yellow-500">Pe</div>
+                </div>
+            </div>
             <div className="w-full flex items-center justify-center text-2xl font-bold">PS Stations List</div>
-            <div className="w-full flex items-center justify-center my-6 gap-4">
+            <div className="w-full flex items-center justify-center my-3 gap-4">
                 <button
                     onClick={() => {
                         setBangalore(!bangalore);
@@ -85,7 +98,7 @@ export default function StationsPage() {
                 </button>
             </div>
 
-            <div className="w-full flex items-center justify-center my-6 gap-4">
+            <div className="w-full flex items-center justify-center my-3 gap-4">
                 <button
                     onClick={() => {
                         setAddOther(!addOther);
@@ -96,13 +109,13 @@ export default function StationsPage() {
                 </button>
             </div>
 
-            <div className="w-full flex items-center justify-center my-6 gap-4">
+            <div className="w-full flex items-center justify-center my-3 gap-4">
                 <button
                     onClick={() => {
                         setGT0(!gt0);
                     }}
                     type="button"
-                    className={!gt0 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                    className={!gt0 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     0-6 CGPA
                 </button>
                 <button
@@ -110,7 +123,7 @@ export default function StationsPage() {
                         setGT6(!gt6);
                     }}
                     type="button"
-                    className={!gt6 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                    className={!gt6 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     6-6.5 CGPA
                 </button>
                 <button
@@ -118,7 +131,7 @@ export default function StationsPage() {
                         setGT65(!gt65);
                     }}
                     type="button"
-                    className={!gt65 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                    className={!gt65 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     6.5-7 CGPA
                 </button>
                 <button
@@ -126,7 +139,7 @@ export default function StationsPage() {
                         setGT7(!gt7);
                     }}
                     type="button"
-                    className={!gt7 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                    className={!gt7 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     7-7.5 CGPA
                 </button>
                 <button
@@ -134,7 +147,7 @@ export default function StationsPage() {
                         setGT75(!gt75);
                     }}
                     type="button"
-                    className={!gt75 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                    className={!gt75 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     7.5-8 CGPA
                 </button>
                 <button
@@ -142,7 +155,7 @@ export default function StationsPage() {
                         setGT8(!gt8);
                     }}
                     type="button"
-                    className={!gt8 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                    className={!gt8 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     8-8.5 CGPA
                 </button>
                 <button
@@ -150,7 +163,7 @@ export default function StationsPage() {
                         setGT85(!gt85);
                     }}
                     type="button"
-                    className={!gt85 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                    className={!gt85 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     8.5-9 CGPA
                 </button>
                 <button
@@ -158,7 +171,7 @@ export default function StationsPage() {
                         setGT9(!gt9);
                     }}
                     type="button"
-                    className={!gt9 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                    className={!gt9 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     9+ CGPA
                 </button>
             </div>
