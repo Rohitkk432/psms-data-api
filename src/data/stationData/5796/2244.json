@@ -1,0 +1,155 @@
+{
+  "projectId": 2244,
+  "stationId": 5796,
+  "problemBankId": 1273,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Building & Factories Division",
+  "description": "<p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Description: </strong>Construction of PWD-SNDT women’s University</p><p class=\"ql-align-justify\"><strong>Skill sets: </strong>Civil Engineering</p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2244,
+      "projectDisciplineId": 4390,
+      "projectDisciplineCodes": "AnyA4,A4",
+      "discCodesPerProject": "AnyA4,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4390,
+      "projectId": 2244,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11162,
+          "projectDisciplineId": 4390,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 11163,
+          "projectDisciplineId": 4390,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2158,
+      "projectId": 2244,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 18000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "-",
+      "boysAccomodationAddress2": "-",
+      "boysAccomodationCity": 120410,
+      "boysAccomodationState": 14,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "000000",
+      "girlsAccomodationAddress1": "-",
+      "girlsAccomodationAddress2": "-",
+      "girlsAccomodationCity": 120410,
+      "girlsAccomodationState": 14,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "000000",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T13:29:09",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-03T06:39:04",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": "Chandrapur",
+      "boysAccomodationCityName": "Chandrapur"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50793,
+      "projectId": 2244,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50794,
+      "projectId": 2244,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2244,
+      "projectDomainId": 3162,
+      "academicDomainId": 21
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2903,
+      "projectId": 2244,
+      "academicSubDomainId": 70
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

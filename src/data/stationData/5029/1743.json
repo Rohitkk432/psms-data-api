@@ -1,0 +1,186 @@
+{
+  "projectId": 1743,
+  "stationId": 5029,
+  "problemBankId": 942,
+  "problemBankCreatedBy": "maitya@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Improving the Supply Chain Management system",
+  "description": "<p>Study the existing supply chain management system. Identifying the bottlenecks and improving the system. Also prepare reports based on supply chain analytics.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Ms.",
+  "mentorName": "Shraddha Thakur",
+  "mentorEmailId": "shraddha.thakur@mosdorfer.com",
+  "mentorContactNumber": "9860330081",
+  "discViewModels": [
+    {
+      "projectId": 1743,
+      "projectDisciplineId": 4437,
+      "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "discCodesPerProject": "AnyA4,AnyAB,A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4437,
+      "projectId": 1743,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 2,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11312,
+          "projectDisciplineId": 4437,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 11313,
+          "projectDisciplineId": 4437,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 11314,
+          "projectDisciplineId": 4437,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11315,
+          "projectDisciplineId": 4437,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 322,
+      "projectId": 1743,
+      "electiveId": 612,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1663,
+      "projectId": 1743,
+      "officeStartTime": "08:15",
+      "officeEndTime": "17:30",
+      "weekHolidays": "Monday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 1,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "maitya@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-19T03:34:56",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T05:30:04",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37232,
+      "projectId": 1743,
+      "skillId": 259
+    },
+    {
+      "projectSkillId": 37233,
+      "projectId": 1743,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1743,
+      "projectDomainId": 2484,
+      "academicDomainId": 84
+    },
+    {
+      "projectId": 1743,
+      "projectDomainId": 2485,
+      "academicDomainId": 148
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2286,
+      "projectId": 1743,
+      "academicSubDomainId": 169
+    },
+    {
+      "projectSubDomainId": 2287,
+      "projectId": 1743,
+      "academicSubDomainId": 260
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

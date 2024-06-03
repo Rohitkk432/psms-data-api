@@ -1,0 +1,155 @@
+{
+  "projectId": 1599,
+  "stationId": 5521,
+  "problemBankId": 855,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Software upgrade of open sourced Dalton",
+  "description": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Our Threat Research team developed and open-sourced </span><a href=\"https://github.com/secureworks/dalton\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">Dalton</a><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> (years ago), a system to easily replay PCAPS against an IDS/IPS. This was used in the field and we have a large demand to upgrade its underlying technologies to the latest infra used at Secureworks.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Docker/Containerization, Networking and Network Security concepts, Python</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Traits expectation: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Ability to understand existing code, Quick learning of new technologies</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Solid hands on exposure to programming Network security (aka Cyber</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Security) control </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">devices</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\"> </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">and applications, Agile Based software development, GitLab CI/CD Deployment&nbsp; and&nbsp; AWS infrastructure as a service.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Python, Computer Networks, AWS and Kubernetes</span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1599,
+      "projectDisciplineId": 3592,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3592,
+      "projectId": 1599,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8951,
+          "projectDisciplineId": 3592,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8952,
+          "projectDisciplineId": 3592,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1522,
+      "projectId": 1599,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-08T09:06:11",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-20T08:47:35",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36089,
+      "projectId": 1599,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 36090,
+      "projectId": 1599,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1599,
+      "projectDomainId": 2282,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2088,
+      "projectId": 1599,
+      "academicSubDomainId": 400
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

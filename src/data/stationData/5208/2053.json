@@ -1,0 +1,155 @@
+{
+  "projectId": 2053,
+  "stationId": 5208,
+  "problemBankId": 1157,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Multivariate Analysis for Marketing Campaign Optimisation",
+  "description": "<p>Description: Explore the application of multivariate analysis techniques, such as</p><p>multivariate regression or multivariate hypothesis testing, to analyse the interrelationships</p><p>between multiple variables in marketing campaign data. The goal is to identify complex</p><p>patterns and interactions among different campaign factors (e.g., audience</p><p>demographics, ad creatives, channel performance) to generate more comprehensive and</p><p>actionable insights for campaign optimisation.</p><p>Skill sets: Multivariate statistical techniques such as multivariate regression, principal</p><p>component analysis (PCA), or factor analysis.</p><p>Data preprocessing, dimensionality reduction, and exploratory data analysis.</p><p>Traits expectation: Strong analytical skills with a focus on understanding complex data</p><p>relationships.</p><p>Curiosity and eagerness to explore advanced statistical methodologies in marketing</p><p>analytics.</p><p>Expected learning: Gain practical experience in applying multivariate analysis</p><p>techniques to marketing campaign data.</p><p>Understand the advantages and limitations of multivariate analysis compared to single</p><p>variant analysis.</p><p>Learn about the interpretation and visualization of multivariate analysis results for</p><p>generating actionable insights.</p><p>Specific courses required for project execution: 1. Multivariate Data Analysis</p><p>2. Applied Multivariate Analysis</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2053,
+      "projectDisciplineId": 4131,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4131,
+      "projectId": 2053,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10437,
+          "projectDisciplineId": 4131,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 10438,
+          "projectDisciplineId": 4131,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1969,
+      "projectId": 2053,
+      "officeStartTime": "11:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Food (Breakfast, Lunch, Evening snack and Dinner)\nis provided and office Laptop is provided for work",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-26T18:13:53",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50353,
+      "projectId": 2053,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50354,
+      "projectId": 2053,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2053,
+      "projectDomainId": 2905,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2657,
+      "projectId": 2053,
+      "academicSubDomainId": 281
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

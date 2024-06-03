@@ -1,0 +1,155 @@
+{
+  "projectId": 2240,
+  "stationId": 5792,
+  "problemBankId": 1269,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Transportation Division - ",
+  "description": "<p class=\"ql-align-justify\"><strong>Description</strong><strong style=\"color: rgb(237, 125, 49);\">: </strong>CG-03 Package </p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2240,
+      "projectDisciplineId": 4385,
+      "projectDisciplineCodes": "AnyA4,A4",
+      "discCodesPerProject": "AnyA4,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4385,
+      "projectId": 2240,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11152,
+          "projectDisciplineId": 4385,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 11153,
+          "projectDisciplineId": 4385,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2154,
+      "projectId": 2240,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "-",
+      "boysAccomodationAddress2": "-",
+      "boysAccomodationCity": 124192,
+      "boysAccomodationState": 5,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "000000",
+      "girlsAccomodationAddress1": "-",
+      "girlsAccomodationAddress2": "-",
+      "girlsAccomodationCity": 124192,
+      "girlsAccomodationState": 5,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "00000",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T13:04:29",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-31T13:05:38",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": "Kanker",
+      "boysAccomodationCityName": "Kanker"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50785,
+      "projectId": 2240,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50786,
+      "projectId": 2240,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2240,
+      "projectDomainId": 3158,
+      "academicDomainId": 21
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2899,
+      "projectId": 2240,
+      "academicSubDomainId": 70
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

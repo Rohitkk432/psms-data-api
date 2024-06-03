@@ -1,0 +1,180 @@
+{
+  "projectId": 2259,
+  "stationId": 5046,
+  "problemBankId": 1288,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1 Title: Development of Customer facing webapp integrated with ERP platform, Project 2 Title: Development of HRMS portal and field professional operations app, ",
+  "description": "<p>Project 1 Title: Development of Customer facing webapp integrated with ERP platform</p><p><br></p><p>Description: Web app for all customer business interactions-reports, spares, finance</p><p>information and communication which is then linked with Company’s internal ERP</p><p>Skill sets: Frontend Developer-React.js/MySQL; Backend developer-Node.js/Express.js/Restful</p><p>APIs/MySQL (must have projects built using above in his/her portfolio)</p><p>Expected learning: Hands-on experience on enterprise product development including project</p><p>operations, procurement and field planning &amp; tracking</p><p>Specific courses required for project execution: Course on Javascript, MySQL, frameworks and</p><p>libraries of Javascript- React and Express/Node, API integration and development</p><p>Project 2 Title: Development of HRMS portal and field professional operations app</p><p><br></p><p>Description: Payroll processing, attendance and leave management, expenses, feedback of</p><p>projects</p><p><br></p><p>Skill sets: Frontend Developer-React.js and redux/MySQL/UI designing; Backend developer-</p><p>Node.js/Express.js/Restful APIs/MySQL (must have projects built using above in his/her portfolio)</p><p><br></p><p>Expected learning: Hands-on experience on enterprise HRIS and employee payroll processing</p><p>Specific courses required for project execution: Course on Javascript, MySQL, frameworks and</p><p>libraries of Javascript- React and Express/Node, API development</p><p><br></p><p>Project 3 Title: Revamping and developing mega responsive, world-class company website</p><p><br></p><p>Description: Since inception, the organization has grown in leaps and bounds and offer a lot</p><p>more services than what we started with. Objective is to create such a website with focus on</p><p>branding/awareness aspects.</p><p>Skill sets: Frontend Developer-React.js/Javascript/UI design(must have projects built using above in</p><p>his/her portfolio)</p><p>Expected learning: Hands-on experience on designing and developing websites with guiding</p><p>principles and standard practices</p><p>Specific courses required for project execution: Course on Javascript, MySQL, frameworks and</p><p>libraries of Javascript- React and UI designing</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Shubham Mehta",
+  "mentorEmailId": "shm@ergontec.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2259,
+      "projectDisciplineId": 4439,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4439,
+      "projectId": 2259,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11316,
+          "projectDisciplineId": 4439,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 11317,
+          "projectDisciplineId": 4439,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2172,
+      "projectId": 2259,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Accommodation::Shared, provided by company\nfor first 7 days\nTravel from hometown to organization::3 AC train\nor equivalent; pre-approved will be re-imbursed\nLocal Conveyance::Self-arranged",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-01T05:35:08",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T05:42:03",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50828,
+      "projectId": 2259,
+      "skillId": 231
+    },
+    {
+      "projectSkillId": 50829,
+      "projectId": 2259,
+      "skillId": 230
+    },
+    {
+      "projectSkillId": 50830,
+      "projectId": 2259,
+      "skillId": 225
+    },
+    {
+      "projectSkillId": 50831,
+      "projectId": 2259,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2259,
+      "projectDomainId": 3183,
+      "academicDomainId": 57
+    },
+    {
+      "projectId": 2259,
+      "projectDomainId": 3184,
+      "academicDomainId": 230
+    },
+    {
+      "projectId": 2259,
+      "projectDomainId": 3185,
+      "academicDomainId": 92
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2921,
+      "projectId": 2259,
+      "academicSubDomainId": 264
+    },
+    {
+      "projectSubDomainId": 2922,
+      "projectId": 2259,
+      "academicSubDomainId": 179
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

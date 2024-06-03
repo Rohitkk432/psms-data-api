@@ -1,0 +1,175 @@
+{
+  "projectId": 2218,
+  "stationId": 5777,
+  "problemBankId": 1249,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1 Title: Full Stack Developer",
+  "description": "<p>Project 1 Title: Full Stack Developer</p><p><br></p><p>Description: Responsible for development using mentioned technologies and</p><p>frameworks in diverse domains; Design competitive and performant application services</p><p>with a rich user experience.</p><p>Skill sets: Java Spring, NodeJS, Angular, HTML, CSS, SQL(postgres), NOSQL(Mongo)</p><p>and mobile frameworks, Understanding of application architecture, Sound knowledge of</p><p>full stack development and troubleshooting, understanding of complex system</p><p>architecture, components and requirements</p><p>Traits expectation: Highly innovative, systematic and capable of redefining solutions,</p><p>Self-driven, energetic, creative, with ability to work with teams</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2218,
+      "projectDisciplineId": 4342,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4342,
+      "projectId": 2218,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11027,
+          "projectDisciplineId": 4342,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 11028,
+          "projectDisciplineId": 4342,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2131,
+      "projectId": 2218,
+      "officeStartTime": "10:30:00",
+      "officeEndTime": "19:30:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 12000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T09:12:05",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50727,
+      "projectId": 2218,
+      "skillId": 211
+    },
+    {
+      "projectSkillId": 50728,
+      "projectId": 2218,
+      "skillId": 244
+    },
+    {
+      "projectSkillId": 50729,
+      "projectId": 2218,
+      "skillId": 161
+    },
+    {
+      "projectSkillId": 50730,
+      "projectId": 2218,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2218,
+      "projectDomainId": 3129,
+      "academicDomainId": 78
+    },
+    {
+      "projectId": 2218,
+      "projectDomainId": 3130,
+      "academicDomainId": 273
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2871,
+      "projectId": 2218,
+      "academicSubDomainId": 156
+    },
+    {
+      "projectSubDomainId": 2872,
+      "projectId": 2218,
+      "academicSubDomainId": 474
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

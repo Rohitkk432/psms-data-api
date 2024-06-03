@@ -1,0 +1,162 @@
+{
+  "projectId": 1862,
+  "stationId": 5642,
+  "problemBankId": 1040,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Program Manger",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Description: </strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">As an intern in our Revenue Strategy team, students will gain hands-on experience supporting the development and execution of revenue initiatives, collaborating across departments to optimize strategies and drive growth.</span></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\"><em>Principal Accountabilities</em></strong></p><p><br></p><ul><li><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lead the development and execution of comprehensive revenue strategies to achieve and surpass sales targets and financial goals.</em></li><li><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Conduct in-depth market research and analysis to identify emerging trends, opportunities, and challenges within the industry.</em></li><li><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Collaborate with cross-functional teams to design and implement revenue optimization programs, including pricing strategies, product bundling, and promotional campaigns.</em></li><li><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Monitor and evaluate the performance of revenue-generating initiatives, leveraging data analytics to inform strategic decisions and adjustments.</em></li><li><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Develop and maintain robust forecasting models to predict revenue trends and inform business planning.</em></li><li><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Facilitate the alignment of revenue strategies with overall business objectives, ensuring cohesive and strategic growth across all departments.</em></li><li><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Communicate effectively with stakeholders at all levels, providing regular updates on strategy, progress, and results.</em></li><li><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Champion a culture of innovation and continuous improvement, encouraging the exploration of new ideas and approaches to revenue generation.</em></li></ul><p class=\"ql-align-justify\"><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1862,
+      "projectDisciplineId": 4106,
+      "projectDisciplineCodes": "A1B4,B1,A4",
+      "discCodesPerProject": "A1B4,B1,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4106,
+      "projectId": 1862,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A1B4,B1,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10357,
+          "projectDisciplineId": 4106,
+          "graduationTypeId": 0,
+          "disciplineId": 1,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 10358,
+          "projectDisciplineId": 4106,
+          "graduationTypeId": 1,
+          "disciplineId": 16,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 10359,
+          "projectDisciplineId": 4106,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1781,
+      "projectId": 1862,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T10:07:35",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-25T05:31:00",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37557,
+      "projectId": 1862,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 37558,
+      "projectId": 1862,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1862,
+      "projectDomainId": 2651,
+      "academicDomainId": 44
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2429,
+      "projectId": 1862,
+      "academicSubDomainId": 155
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

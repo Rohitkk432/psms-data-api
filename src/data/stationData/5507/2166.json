@@ -1,0 +1,179 @@
+{
+  "projectId": 2166,
+  "stationId": 5507,
+  "problemBankId": 1210,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 4 Title: Social Media Campaign ",
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">Description: The Social Media Campaign project aims to create and execute a comprehensive marketing strategy on various social media platforms to promote a product, service, or brand. The project will involve developing engaging content, managing social media accounts, analyzing metrics, and implementing targeted advertising campaigns. Skill sets: Social media management, Content creation, Graphic design, Mass Communication Traits expectation: Communication Skills, Creative Writing, Athletics Expected learning: Design principles, Strategic planning, Understanding social media algorithms Specific courses required for project execution: Print, Audio and Visual Advertising: Pattern Recognition</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2166,
+      "projectDisciplineId": 4272,
+      "projectDisciplineCodes": "AnyA4,AnyB5,B5,A4",
+      "discCodesPerProject": "AnyA4,AnyB5,B5,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4272,
+      "projectId": 2166,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,AnyB5,B5,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10835,
+          "projectDisciplineId": 4272,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 10836,
+          "projectDisciplineId": 4272,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 20
+        },
+        {
+          "projectDisciplineDetailId": 10837,
+          "projectDisciplineId": 4272,
+          "graduationTypeId": 1,
+          "disciplineId": 20,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 10838,
+          "projectDisciplineId": 4272,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2081,
+      "projectId": 2166,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "nepal",
+      "boysAccomodationAddress2": "nepal",
+      "boysAccomodationCity": 197033,
+      "boysAccomodationState": 2954,
+      "boysAccomodationCountry": 156,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "nepal",
+      "girlsAccomodationAddress2": "nepal",
+      "girlsAccomodationCity": 197033,
+      "girlsAccomodationState": 2954,
+      "girlsAccomodationCountry": 156,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-30T07:31:07",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": "Biratnagar",
+      "boysAccomodationOtherCityName": "Biratnagar",
+      "girlsAccomodationCityName": "Biratnagar",
+      "boysAccomodationCityName": "Biratnagar"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50624,
+      "projectId": 2166,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50625,
+      "projectId": 2166,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2166,
+      "projectDomainId": 3069,
+      "academicDomainId": 21
+    },
+    {
+      "projectId": 2166,
+      "projectDomainId": 3070,
+      "academicDomainId": 66
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2811,
+      "projectId": 2166,
+      "academicSubDomainId": 70
+    },
+    {
+      "projectSubDomainId": 2812,
+      "projectId": 2166,
+      "academicSubDomainId": 204
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

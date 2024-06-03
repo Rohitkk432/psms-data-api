@@ -1,0 +1,210 @@
+{
+  "projectId": 1822,
+  "stationId": 5159,
+  "problemBankId": 1011,
+  "problemBankCreatedBy": "ps@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project details are confidential",
+  "description": "<p>The work carried out by II sem 23-24 students involves use of Cadence back end tools to design CMOS image sensors.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Ms.",
+  "mentorName": "Pallavi Singh",
+  "mentorEmailId": "pallavi@3rditech.in",
+  "mentorContactNumber": "9005785549",
+  "discViewModels": [
+    {
+      "projectId": 1822,
+      "projectDisciplineId": 4500,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4500,
+      "projectId": 1822,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11567,
+          "projectDisciplineId": 4500,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 11568,
+          "projectDisciplineId": 4500,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 11569,
+          "projectDisciplineId": 4500,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 11570,
+          "projectDisciplineId": 4500,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11571,
+          "projectDisciplineId": 4500,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11572,
+          "projectDisciplineId": 4500,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 343,
+      "projectId": 1822,
+      "electiveId": 1026,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1741,
+      "projectId": 1822,
+      "officeStartTime": "09:30",
+      "officeEndTime": "18:30",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "ps@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-20T05:16:57",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T10:57:27",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37451,
+      "projectId": 1822,
+      "skillId": 412
+    },
+    {
+      "projectSkillId": 37452,
+      "projectId": 1822,
+      "skillId": 117
+    },
+    {
+      "projectSkillId": 37453,
+      "projectId": 1822,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 37454,
+      "projectId": 1822,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 37455,
+      "projectId": 1822,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 50875,
+      "projectId": 1822,
+      "skillId": 411
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1822,
+      "projectDomainId": 2598,
+      "academicDomainId": 70
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2383,
+      "projectId": 1822,
+      "academicSubDomainId": 452
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

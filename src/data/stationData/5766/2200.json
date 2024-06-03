@@ -1,0 +1,152 @@
+{
+  "projectId": 2200,
+  "stationId": 5766,
+  "problemBankId": 1235,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Financial Analyst ",
+  "description": "<p>Description:</p><p>This role will be anchored around Business KPls management, interfacing with Founders, Team Heads &amp; Finance team. The rote is expected to work as part of Founder's office and serve as central intelligence for leadership team to take data-backed initiatives timely.</p><p>Skill sets:</p><p>Excel modelling is a must.</p><p>Written communication (emails &amp; excel).</p><p>Knowledge of Tableau, PowerBl is a bonus plus.</p><p>Traits expectation:</p><p>Strives for perfection in output.</p><p>Attention to detail &amp; love for numbers. Able to develop data-backed point of view.</p><p>Expected learning:</p><p>The candidate will learn to get first-hand experience on how to scale a business in the 1 to 10 journey. Learning will be steep on getting business insights from data, MIS management and soft-skills essential to corporate.</p><p>Specific courses required for project execution:</p><p><span style=\"color: black;\">Intermediate to advanced level Excel is a must</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2200,
+      "projectDisciplineId": 4585,
+      "projectDisciplineCodes": "AnyB3",
+      "discCodesPerProject": "AnyB3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4585,
+      "projectId": 2200,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB3",
+      "graduationTypeIds": [
+        0
+      ],
+      "degree": "Dual",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12002,
+          "projectDisciplineId": 4585,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 18
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2114,
+      "projectId": 2200,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 80000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Accommodation — 14days\nTravel from hometown to organization\n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T05:17:14",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T16:24:28",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50693,
+      "projectId": 2200,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 50694,
+      "projectId": 2200,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2200,
+      "projectDomainId": 3106,
+      "academicDomainId": 4
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2848,
+      "projectId": 2200,
+      "academicSubDomainId": 469
+    },
+    {
+      "projectSubDomainId": 2849,
+      "projectId": 2200,
+      "academicSubDomainId": 13
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,155 @@
+{
+  "projectId": 1885,
+  "stationId": 5516,
+  "problemBankId": 1048,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Cloud DB Backup Recommendations and Estimations",
+  "description": "<p> In the realm of data management, ensuring the integrity, security, and availability of databases is paramount. Database backups play a crucial role in safeguarding against data loss due to various factors such as hardware failures, software glitches, cyberattacks, or human errors. Today, Oracle offers Managed Database Services such as Base Database Cloud Service and Exadata Cloud Service as part of Oracle Cloud. This project aims to leverage machine learning techniques to add a layer of value to Oracle Database Cloud Service customers regarding -</p><p> &nbsp;Estimated time taken to complete their backups</p><p> &nbsp;Backup window recommendations</p><p> &nbsp;Estimated total size of backups for the recovery window</p><p> &nbsp;VM Resource Usage Prediction Java, Python, and Linux fundamentals</p><p> Git and version control basics</p><p> Machine learning and statistics You should be able to apply your knowledge of Machine Learning theory and model it with real-world considerations</p><p> </p><p> Ability to analyze data, identify patterns, and draw meaningful insights from large datasets.</p><p> Familiarity with various machine learning algorithms such as regression, classification, clustering, neural networks, and ensemble methods. Cloud fundamentals</p><p> Machine Learning Fundamentals</p><p> </p><p> Model Selection and Evaluation using metrics like mean absolute error, mean squared error, or other relevant metrics for regression tasks.</p><p> Deployment Considerations include scalability, latency, and model monitoring.</p><p> Communication Skills: How to effectively communicate to stakeholders with varying levels of technical expertise Relational Database Management Systems</p><p> Operating Systems</p><p> Machine Learning</p><p> Object Oriented Programming</p><p> Any additional AI/ML courses are a bonus</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1885,
+      "projectDisciplineId": 3927,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3927,
+      "projectId": 1885,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9978,
+          "projectDisciplineId": 3927,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9979,
+          "projectDisciplineId": 3927,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1802,
+      "projectId": 1885,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T11:17:24",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37601,
+      "projectId": 1885,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37602,
+      "projectId": 1885,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1885,
+      "projectDomainId": 2673,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2451,
+      "projectId": 1885,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

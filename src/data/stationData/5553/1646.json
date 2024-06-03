@@ -1,0 +1,197 @@
+{
+  "projectId": 1646,
+  "stationId": 5553,
+  "problemBankId": 892,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 3  Title: Green Hydrogen Projects-Project Management",
+  "description": "<p><br></p><p>Description: Support the Project Management team on the overall lifecycle of projects under implementation including Engineering, Procurement, Installation and Commissioning of the systems.</p><p>Skill sets: P&amp;ID, Planning, Cost Analysis, Stakeholder Management</p><p>Traits expectation: Application Engineering, Micro Planning &amp; scheduling of tasks, Strong Written &amp; Oral communication</p><p>Expected learning: Project Management, Understanding of overall system, Planning, Stakeholder Management</p><p>Specific courses required for project execution: As required for above</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Stegn Samuel ",
+  "mentorEmailId": "info@n3e.tech",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1646,
+      "projectDisciplineId": 3634,
+      "projectDisciplineCodes": "AnyA1,AnyA3,AnyA4,AnyA8,A1,A4,A8,A3",
+      "discCodesPerProject": "AnyA1,AnyA3,AnyA4,AnyA8,A1,A4,A8,A3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3634,
+      "projectId": 1646,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA1,AnyA3,AnyA4,AnyA8,A1,A4,A8,A3",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9117,
+          "projectDisciplineId": 3634,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 9118,
+          "projectDisciplineId": 3634,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 9119,
+          "projectDisciplineId": 3634,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 9120,
+          "projectDisciplineId": 3634,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 9121,
+          "projectDisciplineId": 3634,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9122,
+          "projectDisciplineId": 3634,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9123,
+          "projectDisciplineId": 3634,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9124,
+          "projectDisciplineId": 3634,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1566,
+      "projectId": 1646,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-11T04:56:11",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36214,
+      "projectId": 1646,
+      "skillId": 251
+    },
+    {
+      "projectSkillId": 36215,
+      "projectId": 1646,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1646,
+      "projectDomainId": 2349,
+      "academicDomainId": 130
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2157,
+      "projectId": 1646,
+      "academicSubDomainId": 239
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

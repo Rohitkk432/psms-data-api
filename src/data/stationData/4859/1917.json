@@ -1,0 +1,198 @@
+{
+  "projectId": 1917,
+  "stationId": 4859,
+  "problemBankId": 1059,
+  "problemBankCreatedBy": "kranthi.kumar@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Converging Two Regression Management Systems at the UI Front",
+  "description": "<p>The project aims to merge two systems at the UI level, utilizing Vue.js to create a unified</p><p>interface capable of communicating with both systems seamlessly. The backend APIs of these systems</p><p>are containerized and hosted in Kubernetes on the Azure platform.</p><p>Skill sets: Exposure in Vue.js for front-end development, familiarity with containerization and</p><p>Kubernetes for backend deployment, knowledge of Python and FastAPI for backend development,</p><p>experience with database management (specifically PostgreSQL).</p><p>Traits expectation: : Strong problem-solving skills, proficient coding abilities, adaptability to work with</p><p>diverse technologies, ability to communicate effectively within a team, attention to detail, and a proactive</p><p>approach to learning new concepts and technologies.</p><p>Expected learning: Gain expertise in FastAPI for building robust backend APIs, acquire knowledge of</p><p>Kubernetes for efficient deployment and management of containerized applications, deepen</p><p>understanding of database management with PostgreSQL.</p><p>Specific courses required for project execution:</p><p>1. Programming fundamentals course to strengthen coding skills.</p><p>2. Data Structures and Algorithms (DSA) course to enhance problem-solving abilities.</p><p>3. Exposure to Web Development courses is preferre</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1917,
+      "projectDisciplineId": 3961,
+      "projectDisciplineCodes": "A7,AA,A3,A8",
+      "discCodesPerProject": "A7,AA,A3,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3961,
+      "projectId": 1917,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AA,A3,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10063,
+          "projectDisciplineId": 3961,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 10064,
+          "projectDisciplineId": 3961,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 10065,
+          "projectDisciplineId": 3961,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 10066,
+          "projectDisciplineId": 3961,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1833,
+      "projectId": 1917,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "kranthi.kumar@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-20T18:17:02",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37754,
+      "projectId": 1917,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 37755,
+      "projectId": 1917,
+      "skillId": 244
+    },
+    {
+      "projectSkillId": 37756,
+      "projectId": 1917,
+      "skillId": 231
+    },
+    {
+      "projectSkillId": 37757,
+      "projectId": 1917,
+      "skillId": 230
+    },
+    {
+      "projectSkillId": 37758,
+      "projectId": 1917,
+      "skillId": 375
+    },
+    {
+      "projectSkillId": 37759,
+      "projectId": 1917,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 37760,
+      "projectId": 1917,
+      "skillId": 332
+    },
+    {
+      "projectSkillId": 37761,
+      "projectId": 1917,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1917,
+      "projectDomainId": 2730,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2490,
+      "projectId": 1917,
+      "academicSubDomainId": 1
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

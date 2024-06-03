@@ -1,0 +1,160 @@
+{
+  "projectId": 2262,
+  "stationId": 5811,
+  "problemBankId": 1291,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Software Engineer Intern (BE and FE)",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong></p><p class=\"ql-align-justify\">Voltmoney is revolutionizing financial technology! We're developing a cutting-edge tech stack designed to transform financial services operations, making it the most advanced system in the industry. As part of our team, you'll get hands-on experience building large-scale financial systems such as Loan Management Systems, Loan Origination Systems, and KYC systems.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">You'll collaborate with highly skilled engineers on Java Spring Boot-based microservices architecture, all deployed on a serverless infrastructure. Additionally, you'll have the chance to work on exciting third-party integrations with organizations like UIDAI, Payment Gateways, Banks, and NPCI.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">This is a unique opportunity to enhance your skills, work on impactful projects, and contribute to the future of financial technology. Come innovate with us at Voltmoney!</p><p class=\"ql-align-justify\"><strong>&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong>Problem Solving, Data Structures, Experience with Java/Spring Boot will be an added advantage. JS/React JS/React Native experience for FE projects. </p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: </strong>Extreme Ownership, Entrepreneurial Mindset and </p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: </strong>You will get the opportunity to learn on building large scale backend systems from scratch, integration with external systems, start up experience.</p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2262,
+      "projectDisciplineId": 4442,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4442,
+      "projectId": 2262,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11318,
+          "projectDisciplineId": 4442,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 11319,
+          "projectDisciplineId": 4442,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2175,
+      "projectId": 2262,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 71000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-01T05:46:40",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50838,
+      "projectId": 2262,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 50839,
+      "projectId": 2262,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2262,
+      "projectDomainId": 3191,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2926,
+      "projectId": 2262,
+      "academicSubDomainId": 1
+    },
+    {
+      "projectSubDomainId": 2927,
+      "projectId": 2262,
+      "academicSubDomainId": 2
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

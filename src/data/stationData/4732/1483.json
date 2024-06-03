@@ -1,0 +1,266 @@
+{
+  "projectId": 1483,
+  "stationId": 4732,
+  "problemBankId": 825,
+  "problemBankCreatedBy": "shreyas.rao@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Data Engineering",
+  "description": "<p class=\"ql-align-justify\"><strong>Skill sets:</strong></p><p class=\"ql-align-justify\"><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;Must Be an extremely Curious Individual, keen on actively participating, never settling and trying to learn new things.</strong></p><p class=\"ql-align-justify\"><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;Data Structures and Algorithms is a must have skill.</strong></p><p class=\"ql-align-justify\"><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of Python, SQL, shell script is mandatory and Javascript (Node.js) is good to have.</strong></p><p class=\"ql-align-justify\"><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of multiple cloud storage options like S3, Redshift, or Bigquery is good to have.</strong></p><p class=\"ql-align-justify\"><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;Should be well versed with MySQL and have a working idea about NoSQL.</strong></p><p class=\"ql-align-justify\"><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of Pandas and Spark is a must.</strong></p><p class=\"ql-align-justify\"><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of Big data.</strong></p><p class=\"ql-align-justify\"><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of streaming services like AWS streams / Kafka / Google Pub/sub is good to have.</strong></p><p class=\"ql-align-justify\"><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of Queue systems like Rabbit MQ, SQS and assisting in building pipelines is an added bonus.</strong></p><p class=\"ql-align-justify\"><strong>10.&nbsp;&nbsp;Knowledge on Dockers, Kubernetes is good to have.</strong></p><p class=\"ql-align-justify\"><strong>11.&nbsp;&nbsp;Familiarity with multiple cloud providers (AWS, Azure &amp; GCP) is good to have.</strong></p><p><strong>Masters or Bachelor’s degree in Computer Science or the equivalent in experience.</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Ms.",
+  "mentorName": "Nilu Rainold",
+  "mentorEmailId": "nilu.r@zluri.com",
+  "mentorContactNumber": "7306697687",
+  "discViewModels": [
+    {
+      "projectId": 1483,
+      "projectDisciplineId": 1875,
+      "projectDisciplineCodes": "A7",
+      "discCodesPerProject": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 1875,
+      "projectId": 1483,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 2657,
+          "projectDisciplineId": 1875,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 244,
+      "projectId": 1483,
+      "electiveId": 39,
+      "grade": "B"
+    },
+    {
+      "projectElectiveId": 245,
+      "projectId": 1483,
+      "electiveId": 1090,
+      "grade": "B"
+    },
+    {
+      "projectElectiveId": 246,
+      "projectId": 1483,
+      "electiveId": 305,
+      "grade": "B"
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1399,
+      "projectId": 1483,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "shreyas.rao@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-04-24T09:04:41",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 34966,
+      "projectId": 1483,
+      "skillId": 331
+    },
+    {
+      "projectSkillId": 34967,
+      "projectId": 1483,
+      "skillId": 120
+    },
+    {
+      "projectSkillId": 34968,
+      "projectId": 1483,
+      "skillId": 97
+    },
+    {
+      "projectSkillId": 34969,
+      "projectId": 1483,
+      "skillId": 334
+    },
+    {
+      "projectSkillId": 34970,
+      "projectId": 1483,
+      "skillId": 43
+    },
+    {
+      "projectSkillId": 34971,
+      "projectId": 1483,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 34972,
+      "projectId": 1483,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 34973,
+      "projectId": 1483,
+      "skillId": 332
+    },
+    {
+      "projectSkillId": 34974,
+      "projectId": 1483,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 34975,
+      "projectId": 1483,
+      "skillId": 196
+    },
+    {
+      "projectSkillId": 34976,
+      "projectId": 1483,
+      "skillId": 348
+    },
+    {
+      "projectSkillId": 34977,
+      "projectId": 1483,
+      "skillId": 87
+    },
+    {
+      "projectSkillId": 34978,
+      "projectId": 1483,
+      "skillId": 86
+    },
+    {
+      "projectSkillId": 34979,
+      "projectId": 1483,
+      "skillId": 225
+    },
+    {
+      "projectSkillId": 34980,
+      "projectId": 1483,
+      "skillId": 202
+    },
+    {
+      "projectSkillId": 34981,
+      "projectId": 1483,
+      "skillId": 207
+    },
+    {
+      "projectSkillId": 34982,
+      "projectId": 1483,
+      "skillId": 105
+    },
+    {
+      "projectSkillId": 34983,
+      "projectId": 1483,
+      "skillId": 224
+    },
+    {
+      "projectSkillId": 34984,
+      "projectId": 1483,
+      "skillId": 78
+    },
+    {
+      "projectSkillId": 34985,
+      "projectId": 1483,
+      "skillId": 89
+    },
+    {
+      "projectSkillId": 34986,
+      "projectId": 1483,
+      "skillId": 208
+    },
+    {
+      "projectSkillId": 34987,
+      "projectId": 1483,
+      "skillId": 74
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1483,
+      "projectDomainId": 2109,
+      "academicDomainId": 159
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 1910,
+      "projectId": 1483,
+      "academicSubDomainId": 292
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

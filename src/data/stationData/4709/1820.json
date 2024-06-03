@@ -1,0 +1,175 @@
+{
+  "projectId": 1820,
+  "stationId": 4709,
+  "problemBankId": 1010,
+  "problemBankCreatedBy": "nithin.mathew@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "RLV-LEX Landing Gear",
+  "description": "<p><strong>https://timetooth.in/portfolio/rlv-lex-landing-gear/</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1820,
+      "projectDisciplineId": 4465,
+      "projectDisciplineCodes": "A4,AB,H106,H141",
+      "discCodesPerProject": "A4,AB,H106,H141",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4465,
+      "projectId": 1820,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A4,AB,H106,H141",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11430,
+          "projectDisciplineId": 4465,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11431,
+          "projectDisciplineId": 4465,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11432,
+          "projectDisciplineId": 4465,
+          "graduationTypeId": 2,
+          "disciplineId": 28,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11433,
+          "projectDisciplineId": 4465,
+          "graduationTypeId": 2,
+          "disciplineId": 25,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1739,
+      "projectId": 1820,
+      "officeStartTime": "06:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 30000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 1,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Daily Lunch and Evening Snacks will be provided. ",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "nithin.mathew@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-20T03:36:53",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T06:55:38",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37447,
+      "projectId": 1820,
+      "skillId": 118
+    },
+    {
+      "projectSkillId": 37448,
+      "projectId": 1820,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1820,
+      "projectDomainId": 2594,
+      "academicDomainId": 18
+    },
+    {
+      "projectId": 1820,
+      "projectDomainId": 2595,
+      "academicDomainId": 183
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2381,
+      "projectId": 1820,
+      "academicSubDomainId": 310
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

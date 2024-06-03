@@ -1,0 +1,197 @@
+{
+  "projectId": 1875,
+  "stationId": 5644,
+  "problemBankId": 1047,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "BigQuery Optimizer and Quantifier",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong></p><p><span style=\"color: black;\">1.&nbsp;&nbsp;&nbsp;&nbsp;Gathercodes ofBigQueryjobs from GCP alongwith resources utilization stats.</span></p><p><span style=\"color: black;\">2.&nbsp;&nbsp;&nbsp;&nbsp;Conduct thorough analysis to correlate the BQ codes, application parameters and resource utilization to establish a baseline.</span></p><p><span style=\"color: black;\">3.&nbsp;&nbsp;&nbsp;&nbsp;Create a knowledge base.</span></p><p><span style=\"color: black;\">4.&nbsp;&nbsp;&nbsp;&nbsp;Use the knowledge to build a mechanism to trigger and suggest optimized BQ codes.</span></p><p><span style=\"color: black;\">5.&nbsp;&nbsp;&nbsp;&nbsp;In addition to the suggestions and optimisations, quantify the efficacy of the optimisations in terms of compute (BQ slots) and runtime.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets:</strong><span style=\"color: black;\">GCP platform fundamentals, Hive, Spark understanding, log analysis, user behavior</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning:</strong><span style=\"color: black;\">Very good understanding of working in a restrictive compute setup on cloud platforms. </span></p><p><strong style=\"color: black;\">Specific courses required for project execution:</strong><span style=\"color: black;\">Cloud Architecture, fundamentals of Hive/ Spark</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1875,
+      "projectDisciplineId": 3917,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3917,
+      "projectId": 1875,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9952,
+          "projectDisciplineId": 3917,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 9953,
+          "projectDisciplineId": 3917,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9954,
+          "projectDisciplineId": 3917,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 9955,
+          "projectDisciplineId": 3917,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 9956,
+          "projectDisciplineId": 3917,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9957,
+          "projectDisciplineId": 3917,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9958,
+          "projectDisciplineId": 3917,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9959,
+          "projectDisciplineId": 3917,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1792,
+      "projectId": 1875,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 125000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "(1)\tTo & Fro Transportation Ticket from hometown / college – on actuals i.e. optimal economy class tickets purchased for any mode of transport, and \n(2)\t7 Days of Accommodation – has a daily cap of Rs. 7000 per day including meal and taxes.\n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T10:36:49",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37581,
+      "projectId": 1875,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37582,
+      "projectId": 1875,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1875,
+      "projectDomainId": 2663,
+      "academicDomainId": 81
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2441,
+      "projectId": 1875,
+      "academicSubDomainId": 162
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

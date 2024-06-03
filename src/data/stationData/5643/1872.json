@@ -1,0 +1,197 @@
+{
+  "projectId": 1872,
+  "stationId": 5643,
+  "problemBankId": 1045,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Amex on premise Big Data Cluster monitoring and Analysis System",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description and Outcome: </strong><span style=\"color: black;\">Financial institutions typically leverage Big Data frameworks to run their heavy data processing and machine learning applications for their business usecases. These frameworks require large compute to cater to Service Level Objectives (SLOs). </span></p><p class=\"ql-align-justify\"> In a shared infrastructure setup, computing resources are shared between different Line of Businesses (LOBs) that leads to various challenges, the primary one being resource starvation another challenge is disk utilization reaching its peak values leading to failure of jobs and wastage of disk resources. </p><p class=\"ql-align-justify\"> </p><p class=\"ql-align-justify\"> </p><p class=\"ql-align-justify\"><span style=\"color: black;\">As a data scientist / analytical user, this impacts their productivity. A Product / Platform owner has no prior way to predict about occurrences of such problems. Hence will have to provide adhoc, manual support to users.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">The project aims at contributing towards the Amex ML Platform Hardening initiative.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\"> The objective is to develop a capability to proactively track and monitor the overall cluster, disk utilization, queues, and its resources part of Amex Big Data infrastructure at a job and user level. Generate aggregations at the different levels like job type, user, team, time-period etc. and trigger notifications / alerts basis the results of aggregations. Further, the insights (output) from the capability must be leveraged to validate whether the policies (guidelines) outlined in rationalization are followed by end users.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets</strong><span style=\"color: black;\">: Python, Linux / Unix understanding, Big Data fundamentals such as Hadoop, Spark, Algorithms, Data Structures.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning</strong><span style=\"color: black;\">: Big Data framework for Analytical and AI / ML workloads in shared infrastructure, general recommendations for users based on jobs / workloads executed.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Specific courses required for project execution</strong><span style=\"color: black;\">:&nbsp;Programming in Python, Linux / Unix understanding, Data structures. Acquaintance with Big Data environments will be an added advantage, visualizing big data platform logs using Splunk / Kibana will be a plus.</span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1872,
+      "projectDisciplineId": 3914,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3914,
+      "projectId": 1872,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9928,
+          "projectDisciplineId": 3914,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 9929,
+          "projectDisciplineId": 3914,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9930,
+          "projectDisciplineId": 3914,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 9931,
+          "projectDisciplineId": 3914,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 9932,
+          "projectDisciplineId": 3914,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9933,
+          "projectDisciplineId": 3914,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9934,
+          "projectDisciplineId": 3914,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9935,
+          "projectDisciplineId": 3914,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1789,
+      "projectId": 1872,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 125000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "(1)\tTo & Fro Transportation Ticket from hometown / college – on actuals i.e. optimal economy class tickets purchased for any mode of transport, and \n(2)\t7 Days of Accommodation – has a daily cap of Rs. 7000 per day including meal and taxes.\n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T10:25:37",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37575,
+      "projectId": 1872,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37576,
+      "projectId": 1872,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1872,
+      "projectDomainId": 2660,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2438,
+      "projectId": 1872,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,212 @@
+{
+  "projectId": 2228,
+  "stationId": 5783,
+  "problemBankId": 1259,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1 Title: Product operations trainee",
+  "description": "<p>Project 1 Title: Product operations trainee</p><p><br></p><p>Description: Facilitating user interviews and other market research</p><p>Overseeing quality assurance checks on new features</p><p>Analyzing data to help product management make better-informed decisions</p><p>Developing business processes to streamline product development</p><p>Skill sets:Cloud infrastructures like AWS, Azure or Google Cloud platforms,</p><p>DevOps and Continuous Integration/Continuous Deployment (CI/CD), Internet of</p><p>Things (IoT), Adaptability and Future-Proofing, penetration testing.</p><p>Traits expectation: Innovative, Competitive, Highly Social.</p><p>Expected learning: conducting user research, defining user personas and</p><p>scenarios, writing user stories and acceptance criteria, creating wireframes and</p><p>prototypes, prioritizing and managing the backlog, collaborating with engineers</p><p>and designers</p><p>Specific courses required for project execution: Internet of things (IoT), Digital</p><p>Image Processing, Business Communication, Print and Audio-Visual</p><p>Advertisement</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2228,
+      "projectDisciplineId": 4354,
+      "projectDisciplineCodes": "AnyA3,AnyA4,AnyA8,AnyB2,A4,A8,B2,A3",
+      "discCodesPerProject": "AnyA3,AnyA4,AnyA8,AnyB2,A4,A8,B2,A3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4354,
+      "projectId": 2228,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA4,AnyA8,AnyB2,A4,A8,B2,A3",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11061,
+          "projectDisciplineId": 4354,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 11062,
+          "projectDisciplineId": 4354,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 11063,
+          "projectDisciplineId": 4354,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 11064,
+          "projectDisciplineId": 4354,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 17
+        },
+        {
+          "projectDisciplineDetailId": 11065,
+          "projectDisciplineId": 4354,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11066,
+          "projectDisciplineId": 4354,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11067,
+          "projectDisciplineId": 4354,
+          "graduationTypeId": 1,
+          "disciplineId": 17,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11068,
+          "projectDisciplineId": 4354,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2141,
+      "projectId": 2228,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 9000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T10:06:22",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-31T17:11:05",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50752,
+      "projectId": 2228,
+      "skillId": 207
+    },
+    {
+      "projectSkillId": 50753,
+      "projectId": 2228,
+      "skillId": 246
+    },
+    {
+      "projectSkillId": 50754,
+      "projectId": 2228,
+      "skillId": 293
+    },
+    {
+      "projectSkillId": 50755,
+      "projectId": 2228,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2228,
+      "projectDomainId": 3141,
+      "academicDomainId": 129
+    },
+    {
+      "projectId": 2228,
+      "projectDomainId": 3142,
+      "academicDomainId": 222
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2883,
+      "projectId": 2228,
+      "academicSubDomainId": 236
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,197 @@
+{
+  "projectId": 1873,
+  "stationId": 5643,
+  "problemBankId": 1045,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Enterprise ML Platform Workload Monitoring on Dataproc cluster & Cost Optimization Insights ",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description:&nbsp;</strong><span style=\"color: black;\">Enterprise is moving towards GCP as its point of arrival. We are gradually onboarding users along with relevant ML capabilities on them. We are working closely with the Google Cloud Platform team to enable dashboard for our workloads which would give insights into the resource (CPU/GPU) utilization and various other services being leveraged in the cluster. We also have a logging a framework that captures the cluster life cycle in terms start, end time, the workload it ran &amp; cost it incurred.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">The candidate would work toward developing a utility that generated insights (summary) which are easily interpretable and correlate the resource utilization KPIs to cost using statistical analysis techniques. The tool should be able to give a health report for a specific cluster resource by analyzing different KPIs and its effect on cost. Possibly detect its deviation from ideal behavior and come up with a scoring mechanism for the same. </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">A stretch goal would be to predict cost and ideal resource utilization behavior from workload details.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets</strong><span style=\"color: black;\">: Python, Linux / Unix understanding, Big Data fundamentals such as Hadoop, Spark, Algorithms, GCP platform fundamentals would be added plus. Understanding of Boosting algorithm, HPT, AI / ML GPU compatibility aspects would be a plus. </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning</strong><span style=\"color: black;\">: Big Data framework for Analytical and AI / ML workloads on public cloud, dask&amp; rapids framework support for compute intensive tasks ,&nbsp;general recommendations for users based on jobs / workloads executed by different modelling teams in Amex. </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Specific courses required for project execution:&nbsp;Programming in Python, Linux / Unix understanding, Data structures. Acquaintance with Big Data environments will be an added advantage, visualizing big data platform logs using Splunk / Kibana will be a plus.</span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1873,
+      "projectDisciplineId": 3915,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3915,
+      "projectId": 1873,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9936,
+          "projectDisciplineId": 3915,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 9937,
+          "projectDisciplineId": 3915,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9938,
+          "projectDisciplineId": 3915,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 9939,
+          "projectDisciplineId": 3915,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 9940,
+          "projectDisciplineId": 3915,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9941,
+          "projectDisciplineId": 3915,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9942,
+          "projectDisciplineId": 3915,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9943,
+          "projectDisciplineId": 3915,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1790,
+      "projectId": 1873,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 125000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "(1)\tTo & Fro Transportation Ticket from hometown / college – on actuals i.e. optimal economy class tickets purchased for any mode of transport, and \n(2)\t7 Days of Accommodation – has a daily cap of Rs. 7000 per day including meal and taxes.\n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T10:28:26",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37577,
+      "projectId": 1873,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37578,
+      "projectId": 1873,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1873,
+      "projectDomainId": 2661,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2439,
+      "projectId": 1873,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

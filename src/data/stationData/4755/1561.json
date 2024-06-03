@@ -1,0 +1,189 @@
+{
+  "projectId": 1561,
+  "stationId": 4755,
+  "problemBankId": 844,
+  "problemBankCreatedBy": "swarna.chaudhary@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Secure Enclaves",
+  "description": "<p>Secure enclaves are trusted execution environments that help code and data loaded in them to be protected in terms of integrity and confidentiality. Data/code integrity prevents unauthorized entities from altering or modifying the data/code, while data confidentiality</p><p>prevents unauthorized from reading the data variables. Real-world secure enclave execution environments include Intel SGX, ARM TrustZone, and AWS Nitro Enclaves. This project involves optimized implementation of machine learning algorithms on secure</p><p>enclaves.</p><p><br></p><p>Skill sets:</p><p>An ideal student for this project should be passionate about system engineering, having expertise in C++/Python/Linux environment.</p><p><br></p><p>Expected learning:</p><p>This project gives an opportunity to the student to gain hands-on experience on important privacy-preserving frameworks, while working closely with industry experts. </p><p><br></p><p>Specific courses required for project execution:</p><p>Programming, Data Science, Data Analytics</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Anshoo Tandon",
+  "mentorEmailId": "anshoo.tandon@datakaveri.org",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1561,
+      "projectDisciplineId": 3524,
+      "projectDisciplineCodes": "A3,A7",
+      "discCodesPerProject": "A3,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3524,
+      "projectId": 1561,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A3,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8794,
+          "projectDisciplineId": 3524,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8795,
+          "projectDisciplineId": 3524,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1488,
+      "projectId": 1561,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "19:00:43",
+      "weekHolidays": "Sunday,Saturday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "na",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "swarna.chaudhary@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-07T09:31:42",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 35993,
+      "projectId": 1561,
+      "skillId": 169
+    },
+    {
+      "projectSkillId": 35994,
+      "projectId": 1561,
+      "skillId": 164
+    },
+    {
+      "projectSkillId": 35995,
+      "projectId": 1561,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 35996,
+      "projectId": 1561,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 35997,
+      "projectId": 1561,
+      "skillId": 338
+    },
+    {
+      "projectSkillId": 35998,
+      "projectId": 1561,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 35999,
+      "projectId": 1561,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1561,
+      "projectDomainId": 2239,
+      "academicDomainId": 11
+    },
+    {
+      "projectId": 1561,
+      "projectDomainId": 2240,
+      "academicDomainId": 105
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2047,
+      "projectId": 1561,
+      "academicSubDomainId": 193
+    },
+    {
+      "projectSubDomainId": 2048,
+      "projectId": 1561,
+      "academicSubDomainId": 334
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,175 @@
+{
+  "projectId": 1556,
+  "stationId": 4726,
+  "problemBankId": 840,
+  "problemBankCreatedBy": "monali.mavani@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Enhance Voicegain Console",
+  "description": "<p>Build UI Configuration Tools to configure the Voicegain Voice AI platform</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Subodh Garg",
+  "mentorEmailId": "subodh@voicegain.ai",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1556,
+      "projectDisciplineId": 3517,
+      "projectDisciplineCodes": "A7",
+      "discCodesPerProject": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3517,
+      "projectId": 1556,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8777,
+          "projectDisciplineId": 3517,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 304,
+      "projectId": 1556,
+      "electiveId": 1090,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 305,
+      "projectId": 1556,
+      "electiveId": 1083,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1483,
+      "projectId": 1556,
+      "officeStartTime": "09:47:25",
+      "officeEndTime": "17:47:36",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 36000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "monali.mavani@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-06T15:21:41",
+      "modifiedBy": "monali.mavani@pilani.bits-pilani.ac.in",
+      "modifiedDate": "2024-05-06T15:26:26",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 35958,
+      "projectId": 1556,
+      "skillId": 223
+    },
+    {
+      "projectSkillId": 35959,
+      "projectId": 1556,
+      "skillId": 154
+    },
+    {
+      "projectSkillId": 35960,
+      "projectId": 1556,
+      "skillId": 187
+    },
+    {
+      "projectSkillId": 35961,
+      "projectId": 1556,
+      "skillId": 213
+    },
+    {
+      "projectSkillId": 35962,
+      "projectId": 1556,
+      "skillId": 134
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1556,
+      "projectDomainId": 2230,
+      "academicDomainId": 71
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2039,
+      "projectId": 1556,
+      "academicSubDomainId": 145
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

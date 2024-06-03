@@ -1,0 +1,169 @@
+{
+  "projectId": 2081,
+  "stationId": 5729,
+  "problemBankId": 1172,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Point cloud generation for meshfree methods ",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong><span style=\"color: black;\">Meshfree methods are numerical methods used in CFD simulations which require high performance computing. They work on a cloud of points. General purpose point cloud generators do not exist. This work is intended towards development of methods and necessary code development that can handle very large sized clouds. The work involves working with quadtree, octree and binary trees. Some new methods also need to be examined.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong><span style=\"color: black;\">Numerical methods and very good programming skills, high performance and GPU computing. </span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: &nbsp;</strong><span style=\"color: black;\">Use of HPC and GPU computing, tree based algorithms</span></p><p><strong style=\"color: black;\">Specific courses required for project execution:&nbsp;</strong>MSc/M.Tech (maths) or B.Tech (CS)</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2081,
+      "projectDisciplineId": 4172,
+      "projectDisciplineCodes": "AnyB4,AnyA7,A7,B4",
+      "discCodesPerProject": "AnyB4,AnyA7,A7,B4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4172,
+      "projectId": 2081,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB4,AnyA7,A7,B4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10507,
+          "projectDisciplineId": 4172,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 10508,
+          "projectDisciplineId": 4172,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 10509,
+          "projectDisciplineId": 4172,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 10510,
+          "projectDisciplineId": 4172,
+          "graduationTypeId": 1,
+          "disciplineId": 19,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1996,
+      "projectId": 2081,
+      "officeStartTime": "08:30:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 0,
+      "pgstipend": 0,
+      "scholarship": 20000,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Students eligible for scholarship who have CGPA 6.00 and above",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-29T09:54:11",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T11:53:35",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50423,
+      "projectId": 2081,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 50424,
+      "projectId": 2081,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2081,
+      "projectDomainId": 2939,
+      "academicDomainId": 265
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2692,
+      "projectId": 2081,
+      "academicSubDomainId": 464
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

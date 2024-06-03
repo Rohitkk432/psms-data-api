@@ -1,0 +1,147 @@
+{
+  "projectId": 1744,
+  "stationId": 5124,
+  "problemBankId": 943,
+  "problemBankCreatedBy": "maitya@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Product Design and Process Improvement in Bearings Manufacture",
+  "description": "<p>To study the existing design and improve using CAD/CAM. To streamline the process of manufacture of bearings.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Arendra Singh",
+  "mentorEmailId": "arendra.singh@nbcbearings.in",
+  "mentorContactNumber": "9828438570",
+  "discViewModels": [
+    {
+      "projectId": 1744,
+      "projectDisciplineId": 3773,
+      "projectDisciplineCodes": "A4",
+      "discCodesPerProject": "A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3773,
+      "projectId": 1744,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 2,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9593,
+          "projectDisciplineId": 3773,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1664,
+      "projectId": 1744,
+      "officeStartTime": "09:00",
+      "officeEndTime": "18:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "Room No 1",
+      "boysAccomodationAddress2": "Guest House NBC Bearings",
+      "boysAccomodationCity": 21,
+      "boysAccomodationState": 21,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "302001",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "maitya@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-19T03:56:24",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-30T06:10:44",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": "Jaipur"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37234,
+      "projectId": 1744,
+      "skillId": 107
+    },
+    {
+      "projectSkillId": 37235,
+      "projectId": 1744,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1744,
+      "projectDomainId": 2486,
+      "academicDomainId": 18
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2288,
+      "projectId": 1744,
+      "academicSubDomainId": 68
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,214 @@
+{
+  "projectId": 1480,
+  "stationId": 5316,
+  "problemBankId": 824,
+  "problemBankCreatedBy": "prasadbv@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Regulatory compliance automation",
+  "description": "<p><br></p><p>Regulatory compliance product development  and implementation for a global bank based in Dubai.</p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Mrutunjay Pattanayak",
+  "mentorEmailId": "mrutunjay@smarbl.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1480,
+      "projectDisciplineId": 1824,
+      "projectDisciplineCodes": "A3,A4,A7,B3,C6,D2,C7",
+      "discCodesPerProject": "A3,A4,A7,B3,C6,D2,C7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 1824,
+      "projectId": 1480,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A3,A4,A7,B3,C6,D2,C7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 2596,
+          "projectDisciplineId": 1824,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 2597,
+          "projectDisciplineId": 1824,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 2598,
+          "projectDisciplineId": 1824,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 2599,
+          "projectDisciplineId": 1824,
+          "graduationTypeId": 1,
+          "disciplineId": 18,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 2600,
+          "projectDisciplineId": 1824,
+          "graduationTypeId": 1,
+          "disciplineId": 37,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 2601,
+          "projectDisciplineId": 1824,
+          "graduationTypeId": 1,
+          "disciplineId": 21,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 2602,
+          "projectDisciplineId": 1824,
+          "graduationTypeId": 1,
+          "disciplineId": 38,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1397,
+      "projectId": 1480,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "prasadbv@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-04-24T03:40:14",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 34930,
+      "projectId": 1480,
+      "skillId": 199
+    },
+    {
+      "projectSkillId": 34931,
+      "projectId": 1480,
+      "skillId": 240
+    },
+    {
+      "projectSkillId": 34932,
+      "projectId": 1480,
+      "skillId": 78
+    },
+    {
+      "projectSkillId": 34933,
+      "projectId": 1480,
+      "skillId": 399
+    },
+    {
+      "projectSkillId": 34934,
+      "projectId": 1480,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 34935,
+      "projectId": 1480,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 34936,
+      "projectId": 1480,
+      "skillId": 43
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1480,
+      "projectDomainId": 2103,
+      "academicDomainId": 4
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 1907,
+      "projectId": 1480,
+      "academicSubDomainId": 177
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

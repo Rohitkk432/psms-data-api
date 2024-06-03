@@ -1,0 +1,155 @@
+{
+  "projectId": 2054,
+  "stationId": 5208,
+  "problemBankId": 1157,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": " Predictive Analytics for Campaign Performance Optimisation",
+  "description": "<p>Description: Develop a predictive analytics model that leverages historical marketing</p><p>data to forecast campaign performance metrics such as click-through rates, conversion</p><p>rates, and customer acquisition costs. The objective is to empower marketers with</p><p>actionable insights to optimize future campaign strategies and resource allocation.</p><p>Skill sets: Machine learning techniques such as regression, classification, and time</p><p>series analysis.</p><p>Data preprocessing, feature selection, and model evaluation.</p><p>Familiarity with tools and frameworks for data visualization and analysis (e.g., Pandas,</p><p>Matplotlib, Scikit-learn).</p><p>Traits expectation: Strong problem-solving skills and attention to detail.</p><p>Ability to work with large datasets and extract meaningful insights.</p><p>Creativity in exploring different modeling approaches and feature engineering techniques.</p><p>Expected learning: Gain practical experience in building predictive analytics models for</p><p>marketing applications.</p><p>Understand the importance of feature selection and model interpretation in predictive</p><p>modeling.</p><p>Learn about the challenges and considerations in deploying predictive models in a</p><p><br></p><p>production environment.</p><p>Specific courses required for project execution: Machine Learning for Predictive</p><p>Analytics</p><p>Applied Data Science with Python Specialisation</p><p>Time Series Forecasting</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2054,
+      "projectDisciplineId": 4132,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4132,
+      "projectId": 2054,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10439,
+          "projectDisciplineId": 4132,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 10440,
+          "projectDisciplineId": 4132,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1970,
+      "projectId": 2054,
+      "officeStartTime": "11:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Food (Breakfast, Lunch, Evening snack and Dinner)\nis provided and office Laptop is provided for work",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-26T18:16:09",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50355,
+      "projectId": 2054,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50356,
+      "projectId": 2054,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2054,
+      "projectDomainId": 2906,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2658,
+      "projectId": 2054,
+      "academicSubDomainId": 281
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

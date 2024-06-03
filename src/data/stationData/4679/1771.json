@@ -1,0 +1,239 @@
+{
+  "projectId": 1771,
+  "stationId": 4679,
+  "problemBankId": 964,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project Details",
+  "description": "<p>Problem Statement: Serviceability Platform</p><p>Refine our existing Serviceability Platform to more effectively connect restaurants, merchants, and riders with</p><p>user orders. The aim is to enhance geographical coverage, more accurately balance demand with supply,</p><p>reduce response times, and strategically manage resources to improve operational efficiency and elevate</p><p>customer satisfaction.</p><p>Problem Statement: Rider Assignment System</p><p>Refine our existing Rider Assignment System in our delivery app to better match orders with available riders</p><p>with the focus on improving delivery speed, reducing operational costs, and increasing rider and customer</p><p>satisfaction.</p><p>Problem Statement: Fraud Detection System</p><p>Improving our existing fraud detection system to effectively identify and prevent fraudulent activities across our</p><p>platform. The focus will be on implementing advanced algorithms that can detect unusual patterns, improve</p><p>5/3/24, 5:19 PM BITS Pilani University Mail - Fwd: Reg: BITS Pilani PS II@ Zomato: July 4 to Dec 14 2024</p><p><br></p><p>https://mail.google.com/mail/u/0/?ik=9233a0bef6&amp;view=pt&amp;search=all&amp;permthid=thread-f:1798014171331664025&amp;simpl=msg-f:179801417133... 1/11</p><p><br></p><p>real-time response capabilities, and reduce false positives.</p><p>Problem Statement: ETA Prediction</p><p>Improving our existing system to improve the accuracy of Estimated Time of Arrival (ETA) predictions with the</p><p>focus on incorporating real-time traffic data, historical travel times, and predictive models to refine ETA</p><p>calculations providing users with more reliable and precise arrival times and giving top notch experience on the</p><p>platform.</p><p>Problem Statement: Distance computation between user and restaurant location</p><p>Improving our current distance computation matrix to ensure more accurate and efficient route distance</p><p>calculations and route optimization incorporating real-time traffic data, historical traveled paths and various</p><p>other features.</p><p>AI/ML</p><p>Natural Language Search</p><p>Conversational Ordering Experience</p><p>Automated Customer Support Assistance</p><p>Menu Digitization and Automated Image Enhancement</p><p>Voice based Calling Assistants</p><p>Behavior Segmentation</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1771,
+      "projectDisciplineId": 4494,
+      "projectDisciplineCodes": "AnyA2,AnyA3,AnyA4,AnyA7,AnyA8,AnyAA,AnyAB,A3,A4,A7,A8,AA,AB,A2",
+      "discCodesPerProject": "AnyA2,AnyA3,AnyA4,AnyA7,AnyA8,AnyAA,AnyAB,A3,A4,A7,A8,AA,AB,A2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4494,
+      "projectId": 1771,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA2,AnyA3,AnyA4,AnyA7,AnyA8,AnyAA,AnyAB,A3,A4,A7,A8,AA,AB,A2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11539,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
+        },
+        {
+          "projectDisciplineDetailId": 11540,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 11541,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 11542,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 11543,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 11544,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 11545,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 11546,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11547,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11548,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11549,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11550,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11551,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11552,
+          "projectDisciplineId": 4494,
+          "graduationTypeId": 1,
+          "disciplineId": 2,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1691,
+      "projectId": 1771,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 60000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-19T10:46:29",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T07:33:30",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37339,
+      "projectId": 1771,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37340,
+      "projectId": 1771,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1771,
+      "projectDomainId": 2543,
+      "academicDomainId": 81
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2331,
+      "projectId": 1771,
+      "academicSubDomainId": 162
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

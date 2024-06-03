@@ -1,0 +1,155 @@
+{
+  "projectId": 2248,
+  "stationId": 5800,
+  "problemBankId": 1277,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": " Building & Factories Division",
+  "description": "<p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Description: </strong>Construction of Medical college and up gradation of District Hospital</p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2248,
+      "projectDisciplineId": 4394,
+      "projectDisciplineCodes": "AnyA4,A4",
+      "discCodesPerProject": "AnyA4,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4394,
+      "projectId": 2248,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11170,
+          "projectDisciplineId": 4394,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 11171,
+          "projectDisciplineId": 4394,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2162,
+      "projectId": 2248,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "-",
+      "boysAccomodationAddress2": "-",
+      "boysAccomodationCity": 197037,
+      "boysAccomodationState": 10,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "000000",
+      "girlsAccomodationAddress1": "-",
+      "girlsAccomodationAddress2": "-",
+      "girlsAccomodationCity": 197037,
+      "girlsAccomodationState": 10,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "000000",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T13:54:43",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": "West Subghbhum ",
+      "boysAccomodationOtherCityName": "West Subghbhum ",
+      "girlsAccomodationCityName": "West Subghbhum ",
+      "boysAccomodationCityName": "West Subghbhum "
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50801,
+      "projectId": 2248,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50802,
+      "projectId": 2248,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2248,
+      "projectDomainId": 3166,
+      "academicDomainId": 21
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2907,
+      "projectId": 2248,
+      "academicSubDomainId": 477
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

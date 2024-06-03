@@ -1,0 +1,187 @@
+{
+  "projectId": 1896,
+  "stationId": 4801,
+  "problemBankId": 1053,
+  "problemBankCreatedBy": "monali.mavani@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Platform Development ",
+  "description": "<p>Work on core PYOR platform - across front-end &amp; back end</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1896,
+      "projectDisciplineId": 3939,
+      "projectDisciplineCodes": "A7",
+      "discCodesPerProject": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3939,
+      "projectId": 1896,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10005,
+          "projectDisciplineId": 3939,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1813,
+      "projectId": 1896,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 70000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "monali.mavani@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-20T12:15:13",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37624,
+      "projectId": 1896,
+      "skillId": 230
+    },
+    {
+      "projectSkillId": 37625,
+      "projectId": 1896,
+      "skillId": 244
+    },
+    {
+      "projectSkillId": 37626,
+      "projectId": 1896,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 37627,
+      "projectId": 1896,
+      "skillId": 231
+    },
+    {
+      "projectSkillId": 37628,
+      "projectId": 1896,
+      "skillId": 115
+    },
+    {
+      "projectSkillId": 37629,
+      "projectId": 1896,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1896,
+      "projectDomainId": 2685,
+      "academicDomainId": 179
+    },
+    {
+      "projectId": 1896,
+      "projectDomainId": 2686,
+      "academicDomainId": 124
+    },
+    {
+      "projectId": 1896,
+      "projectDomainId": 2687,
+      "academicDomainId": 57
+    },
+    {
+      "projectId": 1896,
+      "projectDomainId": 2688,
+      "academicDomainId": 62
+    },
+    {
+      "projectId": 1896,
+      "projectDomainId": 2689,
+      "academicDomainId": 56
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2464,
+      "projectId": 1896,
+      "academicSubDomainId": 302
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,176 @@
+{
+  "projectId": 2041,
+  "stationId": 4963,
+  "problemBankId": 1154,
+  "problemBankCreatedBy": "ps@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Wi-Fi drivers for the Orinoco WIFI radio for QNX 8.0",
+  "description": "<p><strong style=\"color: black;\">&nbsp;New chipsets for the WIFI are highly in demand for various embedded boards. These new chipsets are eventually deployed in a variety of applications like Automotive, medical etc.&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\"><span class=\"ql-cursor\">?</span>Traits expectation: Understanding of Microprocessor or micro controllers.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: Board Support Package, Device drivers, RTOS, low level debugging.</strong></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Krishna",
+  "mentorEmailId": "sanjg@blackberry.com",
+  "mentorContactNumber": "7569064846",
+  "discViewModels": [
+    {
+      "projectId": 2041,
+      "projectDisciplineId": 4115,
+      "projectDisciplineCodes": "A7,AA",
+      "discCodesPerProject": "A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4115,
+      "projectId": 2041,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10424,
+          "projectDisciplineId": 4115,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 10425,
+          "projectDisciplineId": 4115,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 351,
+      "projectId": 2041,
+      "electiveId": 450,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1956,
+      "projectId": 2041,
+      "officeStartTime": "09:30",
+      "officeEndTime": "18:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Hometown to Hyd: One time reimbursement possible as outstation employee",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "ps@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-25T07:58:15",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50323,
+      "projectId": 2041,
+      "skillId": 152
+    },
+    {
+      "projectSkillId": 50324,
+      "projectId": 2041,
+      "skillId": 432
+    },
+    {
+      "projectSkillId": 50325,
+      "projectId": 2041,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 50326,
+      "projectId": 2041,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 50327,
+      "projectId": 2041,
+      "skillId": 44
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2041,
+      "projectDomainId": 2891,
+      "academicDomainId": 259
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2645,
+      "projectId": 2041,
+      "academicSubDomainId": 458
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

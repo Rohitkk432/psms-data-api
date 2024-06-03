@@ -1,0 +1,155 @@
+{
+  "projectId": 2245,
+  "stationId": 5797,
+  "problemBankId": 1274,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Building & Factories Division",
+  "description": "<p class=\"ql-align-justify\"><br></p><p><strong>Description: </strong>Construction of VIT MH6 Boys Hostel</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2245,
+      "projectDisciplineId": 4391,
+      "projectDisciplineCodes": "AnyA2,A2",
+      "discCodesPerProject": "AnyA2,A2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4391,
+      "projectId": 2245,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA2,A2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11164,
+          "projectDisciplineId": 4391,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
+        },
+        {
+          "projectDisciplineDetailId": 11165,
+          "projectDisciplineId": 4391,
+          "graduationTypeId": 1,
+          "disciplineId": 2,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2159,
+      "projectId": 2245,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 18000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "-",
+      "boysAccomodationAddress2": "-",
+      "boysAccomodationCity": 197036,
+      "boysAccomodationState": 1,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "000000",
+      "girlsAccomodationAddress1": "--",
+      "girlsAccomodationAddress2": "-",
+      "girlsAccomodationCity": 197036,
+      "girlsAccomodationState": 1,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "000000",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T13:36:32",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": "Thulluru Manda",
+      "boysAccomodationOtherCityName": "Thulluru Manda",
+      "girlsAccomodationCityName": "Thulluru Manda",
+      "boysAccomodationCityName": "Thulluru Manda"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50795,
+      "projectId": 2245,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50796,
+      "projectId": 2245,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2245,
+      "projectDomainId": 3163,
+      "academicDomainId": 3
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2904,
+      "projectId": 2245,
+      "academicSubDomainId": 183
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

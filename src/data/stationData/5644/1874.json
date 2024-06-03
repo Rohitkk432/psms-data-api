@@ -1,0 +1,197 @@
+{
+  "projectId": 1874,
+  "stationId": 5644,
+  "problemBankId": 1047,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Root Cause Analysis and Recommendation system",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description and Outcome</strong><span style=\"color: black;\">: Financial services organizations leverage Big Data frameworks / techniques to run their heavy data processing and machine learning applications for their business usecases. These frameworks require large compute to cater to Service Level Objectives (SLOs) associated with the application. A data scientists/analytical user often conducts multiple experiments which sometimes give error codes/prompts due to some error in pipeline or syntax. Often the user spends a lot of time on internet to understand the error and rectify it. Being a financial organization ChatGPT and other relevant open-source tools are not available for consumption readily.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">The candidate is expected to leverage the existing LLMs and tune them to convert the error prompts into understandable form and suggest possible options to rectify the error custom to Amex environment. For example, a ETL pyspark code could be failing due to a peculiar nature of a hive table then the expected output would be to highlight that behavior to user and resolution basis that.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets</strong><span style=\"color: black;\">: Python, Linux / Unix understanding, Big Data fundamentals such as Hadoop, Spark, Algorithms, Data Structures.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning</strong><span style=\"color: black;\">: Big Data Environment and execution mechanism for a distributed job. Principles of optimizing the Big Data Jobs.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p><span style=\"color: black;\">Specific courses required for project execution: Programming in Python, Linux / Unix understanding, Data structures. Acquaintance with Big Data environments and Gen AI will be an added advantage</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1874,
+      "projectDisciplineId": 3916,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3916,
+      "projectId": 1874,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9944,
+          "projectDisciplineId": 3916,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 9945,
+          "projectDisciplineId": 3916,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9946,
+          "projectDisciplineId": 3916,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 9947,
+          "projectDisciplineId": 3916,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 9948,
+          "projectDisciplineId": 3916,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9949,
+          "projectDisciplineId": 3916,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9950,
+          "projectDisciplineId": 3916,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 9951,
+          "projectDisciplineId": 3916,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1791,
+      "projectId": 1874,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 125000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "(1)\tTo & Fro Transportation Ticket from hometown / college – on actuals i.e. optimal economy class tickets purchased for any mode of transport, and \n(2)\t7 Days of Accommodation – has a daily cap of Rs. 7000 per day including meal and taxes.\n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T10:34:28",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37579,
+      "projectId": 1874,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37580,
+      "projectId": 1874,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1874,
+      "projectDomainId": 2662,
+      "academicDomainId": 81
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2440,
+      "projectId": 1874,
+      "academicSubDomainId": 162
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,155 @@
+{
+  "projectId": 2304,
+  "stationId": 5834,
+  "problemBankId": 1322,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Thermal coupling of highly endo- and exothermic reactions in milli- channel reactors",
+  "description": "<p>Description: Heterogeneously catalyzed highly endo and exothermic reactions are typically carried out in fixed bed reactors. However, the amount of energy (input or output) involved in the reactions are huge. It inhibits the reaction conversion and selectivity, consequently the yield of the products. Hence, it is planned to couple these type reactions in an efficient manner. The use of milli- channel reactors in enables precise temperature and pressure control, for such reactions which can significantly improve reaction selectivity and yield. The high surface-to-volume ratio in these reactors promotes rapid heat exchange, reducing heat loss and improving energy efficiency.</p><p>The project aims to complete the following objectives:</p><p>Extensive literature survey on both type the reactions, their properties, and operating conditions, etc.</p><p>Develop a mathematical model for the thermally coupled reactions in milli- channel reactors.</p><p>Design of a reactor module</p><p>Skill sets: numerical methods, MATLAB, reaction kinetics</p><p>Expected learning: Application of heat and mass transfer and reaction kinetic fundamentals in industry</p><p>Specific courses required for project execution: Heat &amp; Mass Transfer, Numerical methods for chemical engineers, Reaction engineering in BECC fractionator (To reduce olefin</p><p>Numerical methods for chemical engineers, Reaction engiling</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2304,
+      "projectDisciplineId": 4579,
+      "projectDisciplineCodes": "AnyA1,A1",
+      "discCodesPerProject": "AnyA1,A1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4579,
+      "projectId": 2304,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA1,A1",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11984,
+          "projectDisciplineId": 4579,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 11985,
+          "projectDisciplineId": 4579,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2218,
+      "projectId": 2304,
+      "officeStartTime": "08:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday,Saturday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-01T16:14:18",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50938,
+      "projectId": 2304,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50939,
+      "projectId": 2304,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2304,
+      "projectDomainId": 3254,
+      "academicDomainId": 14
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2987,
+      "projectId": 2304,
+      "academicSubDomainId": 480
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,183 @@
+{
+  "projectId": 1927,
+  "stationId": 5014,
+  "problemBankId": 1060,
+  "problemBankCreatedBy": "ashish.narang@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Frontend/Backend Development",
+  "description": "<p><strong>Skill Sets</strong></p><p>Nodejs, Reactjs, MySQL</p><p>Nodejs, MySQL, DevOps</p><p>HTML, CSS, Reactjs</p><p>Kotlin</p><p>React Native, Swift, C#</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1927,
+      "projectDisciplineId": 4642,
+      "projectDisciplineCodes": "A3,A7,AA,A8",
+      "discCodesPerProject": "A3,A7,AA,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4642,
+      "projectId": 1927,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A3,A7,AA,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12159,
+          "projectDisciplineId": 4642,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12160,
+          "projectDisciplineId": 4642,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12161,
+          "projectDisciplineId": 4642,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12162,
+          "projectDisciplineId": 4642,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1843,
+      "projectId": 1927,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Work from office",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "ashish.narang@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-21T04:40:42",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-02T10:30:55",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37825,
+      "projectId": 1927,
+      "skillId": 353
+    },
+    {
+      "projectSkillId": 37826,
+      "projectId": 1927,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 37827,
+      "projectId": 1927,
+      "skillId": 44
+    },
+    {
+      "projectSkillId": 37828,
+      "projectId": 1927,
+      "skillId": 120
+    },
+    {
+      "projectSkillId": 37829,
+      "projectId": 1927,
+      "skillId": 45
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1927,
+      "projectDomainId": 2744,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2503,
+      "projectId": 1927,
+      "academicSubDomainId": 1
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

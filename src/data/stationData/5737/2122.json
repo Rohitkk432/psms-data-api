@@ -1,0 +1,179 @@
+{
+  "projectId": 2122,
+  "stationId": 5737,
+  "problemBankId": 1181,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Process Control Tower for reducing chemicals in Pulp Mill and Soda recovery cycle",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">To identify optimal operation scenario for pulp production and soda recovery cycle, wherein the overall cost of operations remains minimal. The exercise is to make a process flow and apply theory of constraints and optimization to balance the requirements and ensure maximum efficiencies across systems, while bringing in financial/cost implications as well, using mathematical and programming tools like graph theory. Developing dashboards in Excel, Python and R</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Chemical Engineering, Data analysis in Excel, Python and R, Process understanding</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Traits expectation: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Passionate about applying mathematical concepts for modelling and optimization of processes and developing dashboards for data analysis, insights and visualisation</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Techno-managerial skill sets in Chemical Engineering Process Optimisation</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Stats and Probability, Numerical Optimisation, Process modelling and Computer programming</span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2122,
+      "projectDisciplineId": 4618,
+      "projectDisciplineCodes": "AnyA1,AnyA4,A1,A4",
+      "discCodesPerProject": "AnyA1,AnyA4,A1,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4618,
+      "projectId": 2122,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA1,AnyA4,A1,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12128,
+          "projectDisciplineId": 4618,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 12129,
+          "projectDisciplineId": 4618,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 12130,
+          "projectDisciplineId": 4618,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12131,
+          "projectDisciplineId": 4618,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2037,
+      "projectId": 2122,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "\nAccommodation – Will be provided by ITC\nTravel from hometown – To be borne by students\nLocal Conveyance – Not Applicable (Factory has a residential campus)\n\n",
+      "boysAccomodationAddress1": " Idustry 4.0 CoE, Engineering Office, ITC PSPD -  BCM Unit, ITC limited (PSPD), Sarapaka, Bhadrachalam, Telangana (507128)",
+      "boysAccomodationAddress2": " Idustry 4.0 CoE, Engineering Office, ITC PSPD -  BCM Unit, ITC limited (PSPD), Sarapaka, Bhadrachalam, Telangana (507128)",
+      "boysAccomodationCity": 121007,
+      "boysAccomodationState": 24,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "507128",
+      "girlsAccomodationAddress1": " Idustry 4.0 CoE, Engineering Office, ITC PSPD -  BCM Unit, ITC limited (PSPD), Sarapaka, Bhadrachalam, Telangana (507128)",
+      "girlsAccomodationAddress2": " Idustry 4.0 CoE, Engineering Office, ITC PSPD -  BCM Unit, ITC limited (PSPD), Sarapaka, Bhadrachalam, Telangana (507128)",
+      "girlsAccomodationCity": 121007,
+      "girlsAccomodationState": 24,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "507128",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-29T12:14:54",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T18:41:15",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": "Bhadrachalam",
+      "boysAccomodationCityName": "Bhadrachalam"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50514,
+      "projectId": 2122,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50515,
+      "projectId": 2122,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2122,
+      "projectDomainId": 3005,
+      "academicDomainId": 14
+    },
+    {
+      "projectId": 2122,
+      "projectDomainId": 3006,
+      "academicDomainId": 21
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2753,
+      "projectId": 2122,
+      "academicSubDomainId": 70
+    },
+    {
+      "projectSubDomainId": 2754,
+      "projectId": 2122,
+      "academicSubDomainId": 135
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

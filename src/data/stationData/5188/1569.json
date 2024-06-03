@@ -1,0 +1,234 @@
+{
+  "projectId": 1569,
+  "stationId": 5188,
+  "problemBankId": 848,
+  "problemBankCreatedBy": "raja.vadhana@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Data Engineering ",
+  "description": "<p class=\"ql-align-justify\"><u class=\"ql-size-small\">About Project Domain &amp; Work at Zeotap : </u></p><p class=\"ql-align-justify\"><span class=\"ql-size-small\">Development of Zeotap Customer Intelligence Platform. High scale problems dealing with 24+ billion IDs, 8+ billion profiles. Real time and batch systems. Handles 50000 QPS. All products involve Data engineering, ML engineering and full stack development</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><u class=\"ql-size-small\">Description Of Project:</u><span class=\"ql-size-small\"> </span><u class=\"ql-size-small\">Data Engineering </u></p><p class=\"ql-align-justify\"><u class=\"ql-size-small\">Expected Skill sets:</u><span class=\"ql-size-small\"> Data Structure &amp; Algorithm, Distributed Systems((not mandatory but preferable),  Problem solving</span></p><p><u class=\"ql-size-small\">Expected learning Outcomes: </u></p><p><span class=\"ql-size-small\">? Big Data Technologies</span></p><p><span class=\"ql-size-small\">? Data Engineering</span></p><p><span class=\"ql-size-small\">? NoSQL Technologies</span></p><p><span class=\"ql-size-small\">? Functional Programming</span></p><p><span class=\"ql-size-small\">? Developing High Scale applications</span></p><p><span class=\"ql-size-small\">? Writing production quality code.</span></p><p><span class=\"ql-size-small\">? Adhering to SDLC</span></p><p><span class=\"ql-size-small\">? Debugging and troubleshooting production issues</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><u class=\"ql-size-small\">Desirable Span Skill Sets in which Zeotap interns </u><strong class=\"ql-size-small\"><u>might work may </u></strong><u class=\"ql-size-small\">include below suite of tools: </u></p><p><span class=\"ql-size-small\">Big Data – Spark, Hadoop, Presto</span></p><p><span class=\"ql-size-small\">RDBMS : Postgresql, MySQL</span></p><p><span class=\"ql-size-small\">NoSQL&nbsp;&nbsp;: BigQuery, Elasticsearch, Druid, Aeropsike, Graph</span></p><p><span class=\"ql-size-small\">DBs, Columnar DB like Cassandra, HBase or ScyllaDB</span></p><p><span class=\"ql-size-small\">Languages : Java, Scala, Go, Python, Javascript</span></p><p><span class=\"ql-size-small\">Queuing tech :&nbsp;RabbitMQ, Active MQ or similar</span></p><p><span class=\"ql-size-small\">Caching Tech : Apache Ignite or Hazelcast or Redis or</span></p><p><span class=\"ql-size-small\">Similar Streaming :&nbsp;Kafka&nbsp;</span></p><p class=\"ql-align-justify\"><span class=\"ql-size-small\">Other tech : Docker, Angular JS, Node JS, Play, Dropwizard</span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1569,
+      "projectDisciplineId": 3533,
+      "projectDisciplineCodes": "AA,A7,H103,H112",
+      "discCodesPerProject": "AA,A7,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3533,
+      "projectId": 1569,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AA,A7,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8819,
+          "projectDisciplineId": 3533,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8820,
+          "projectDisciplineId": 3533,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8821,
+          "projectDisciplineId": 3533,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8822,
+          "projectDisciplineId": 3533,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 310,
+      "projectId": 1569,
+      "electiveId": 1090,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 311,
+      "projectId": 1569,
+      "electiveId": 1159,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 312,
+      "projectId": 1569,
+      "electiveId": 1064,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1495,
+      "projectId": 1569,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 65000,
+      "pgstipend": 65000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 1,
+      "others": "Temporary Accommodation for few days provided. After which the interns have to look for self arrangements. One time to-fro travel is provided. Interns  must discuss this with HR after the receipt of offer letter. Mode of Work : Hybrid . A round of interaction might be requested for by the company before confirmation of the offer. \n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "raja.vadhana@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-07T12:27:49",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36029,
+      "projectId": 1569,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 36030,
+      "projectId": 1569,
+      "skillId": 104
+    },
+    {
+      "projectSkillId": 36031,
+      "projectId": 1569,
+      "skillId": 269
+    },
+    {
+      "projectSkillId": 36032,
+      "projectId": 1569,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 36033,
+      "projectId": 1569,
+      "skillId": 43
+    },
+    {
+      "projectSkillId": 36034,
+      "projectId": 1569,
+      "skillId": 45
+    },
+    {
+      "projectSkillId": 36035,
+      "projectId": 1569,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 36036,
+      "projectId": 1569,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1569,
+      "projectDomainId": 2247,
+      "academicDomainId": 228
+    },
+    {
+      "projectId": 1569,
+      "projectDomainId": 2248,
+      "academicDomainId": 159
+    },
+    {
+      "projectId": 1569,
+      "projectDomainId": 2249,
+      "academicDomainId": 172
+    },
+    {
+      "projectId": 1569,
+      "projectDomainId": 2250,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2056,
+      "projectId": 1569,
+      "academicSubDomainId": 292
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

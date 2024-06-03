@@ -1,0 +1,211 @@
+{
+  "projectId": 1758,
+  "stationId": 5598,
+  "problemBankId": 957,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Assignments based on Operational Excellence i.e. Divgi-TTS production system",
+  "description": "<p>Project related to Assembly / part process development , Assembly layout, Lean Manufacturing, Productivity improvement, Production planning and control, Problem solving, Product part development documentation, SAP data analysis and interpretation, Training module, skill matrix development etc.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Gopal Dalvi",
+  "mentorEmailId": "gkdalvi@divgi-tts.com",
+  "mentorContactNumber": "9922909464",
+  "discViewModels": [
+    {
+      "projectId": 1758,
+      "projectDisciplineId": 4425,
+      "projectDisciplineCodes": "AB,A4",
+      "discCodesPerProject": "AB,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4425,
+      "projectId": 1758,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 2,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AB,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11273,
+          "projectDisciplineId": 4425,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11274,
+          "projectDisciplineId": 4425,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 327,
+      "projectId": 1758,
+      "electiveId": 667,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1677,
+      "projectId": 1758,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15500,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 1,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-19T09:35:13",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T04:52:02",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37294,
+      "projectId": 1758,
+      "skillId": 11
+    },
+    {
+      "projectSkillId": 37295,
+      "projectId": 1758,
+      "skillId": 107
+    },
+    {
+      "projectSkillId": 37296,
+      "projectId": 1758,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 37351,
+      "projectId": 1758,
+      "skillId": 288
+    },
+    {
+      "projectSkillId": 37352,
+      "projectId": 1758,
+      "skillId": 188
+    },
+    {
+      "projectSkillId": 37353,
+      "projectId": 1758,
+      "skillId": 425
+    },
+    {
+      "projectSkillId": 37354,
+      "projectId": 1758,
+      "skillId": 44
+    },
+    {
+      "projectSkillId": 37355,
+      "projectId": 1758,
+      "skillId": 45
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1758,
+      "projectDomainId": 2515,
+      "academicDomainId": 21
+    },
+    {
+      "projectId": 1758,
+      "projectDomainId": 2516,
+      "academicDomainId": 1
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2310,
+      "projectId": 1758,
+      "academicSubDomainId": 227
+    },
+    {
+      "projectSubDomainId": 2311,
+      "projectId": 1758,
+      "academicSubDomainId": 278
+    },
+    {
+      "projectSubDomainId": 2312,
+      "projectId": 1758,
+      "academicSubDomainId": 277
+    },
+    {
+      "projectSubDomainId": 2335,
+      "projectId": 1758,
+      "academicSubDomainId": 150
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

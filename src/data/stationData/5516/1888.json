@@ -1,0 +1,155 @@
+{
+  "projectId": 1888,
+  "stationId": 5516,
+  "problemBankId": 1048,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Oracle Patch Planner",
+  "description": "<p> In today's digital landscape, the importance of keeping systems up-to-date cannot be overstated. With cyber threats evolving rapidly, outdated systems become vulnerable targets for malicious attacks. Additionally, outdated systems often suffer from performance issues and compatibility constraints, hindering productivity and innovation. Therefore, the Oracle Patch Upgrade Framework is not only about staying current with the latest technology but also about safeguarding the integrity and security of customer systems. By empowering customers with personalized patch recommendations, detailed patching plans, and seamless upgrade options, this project aims to ensure that Oracle customers are well-equipped to navigate the ever-changing landscape of technology with confidence and resilience.</p><p> The Oracle Patch Planner is a comprehensive project aimed at modernizing the patching process for Oracle customers. It encompasses three major features: Patch Recommendation, Patch Plan, and Gold Image provisioning. Through these features, the framework offers personalized patch recommendations, detailed patching plans, and pre-configured Gold Images for seamless system upgrades. This project is pivotal in ensuring that customers maintain up-to-date and secure systems, thus safeguarding against security vulnerabilities, optimizing performance, and enhancing system stability. Proficiency in programming languages such as Python, Java, or C++</p><p> Understanding of system administration and patch management concepts</p><p> Strong problem-solving and analytical skills</p><p> Ability to work collaboratively in a team environment</p><p> Excellent communication and presentation skills Attention to Detail: Ensuring accuracy and precision in patch recommendations and deployment processes</p><p> Customer-Centric Approach: Prioritizing customer needs and satisfaction throughout the project lifecycle</p><p> Proactive Mindset: Anticipating potential challenges and addressing them proactively</p><p> Team Player: Collaborating effectively with team members to achieve project goals Gain hands-on experience in system administration and patch management best practices</p><p> Understand the importance of customer experience and satisfaction in software development</p><p> Enhance problem-solving and critical thinking skills through real-world project challenges</p><p> Develop proficiency in communication and presentation skills through project presentations and documentation System Administration: Learning about system configurations, patch management, and deployment strategies</p><p> Software Engineering: Acquiring skills in software development methodologies, coding practices, and version control systems</p><p> Data Analytics: Exploring data analysis techniques to derive insights from system usage patterns and historical data (though not emphasized, basic understanding could be beneficial)</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1888,
+      "projectDisciplineId": 3930,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3930,
+      "projectId": 1888,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9984,
+          "projectDisciplineId": 3930,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9985,
+          "projectDisciplineId": 3930,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1805,
+      "projectId": 1888,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T11:26:24",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37607,
+      "projectId": 1888,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37608,
+      "projectId": 1888,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1888,
+      "projectDomainId": 2676,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2454,
+      "projectId": 1888,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,154 @@
+{
+  "projectId": 1742,
+  "stationId": 5243,
+  "problemBankId": 941,
+  "problemBankCreatedBy": "maitya@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Study of Instrumentation and Automation at Energy Centres",
+  "description": "<p>To study the working of energy centres. Study of instrumentation and level of automation at Energy centres. Suggest ways and means to increase the level of automation and protecting instruments from environmental effects.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Ms.",
+  "mentorName": "Pratheeksha",
+  "mentorEmailId": "pratheeksha.prakash@adityabirla.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1742,
+      "projectDisciplineId": 3771,
+      "projectDisciplineCodes": "A8",
+      "discCodesPerProject": "A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3771,
+      "projectId": 1742,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 1,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9591,
+          "projectDisciplineId": 3771,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 321,
+      "projectId": 1742,
+      "electiveId": 596,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1662,
+      "projectId": 1742,
+      "officeStartTime": "08:15",
+      "officeEndTime": "17:30",
+      "weekHolidays": "Monday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 1,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "BACHELOR'S HOSTEL",
+      "boysAccomodationAddress2": "STAFF COLONY",
+      "boysAccomodationCity": 122622,
+      "boysAccomodationState": 11,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "581123",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "maitya@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-19T03:25:41",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": "Harihar"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37230,
+      "projectId": 1742,
+      "skillId": 164
+    },
+    {
+      "projectSkillId": 37231,
+      "projectId": 1742,
+      "skillId": 332
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1742,
+      "projectDomainId": 2483,
+      "academicDomainId": 156
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2285,
+      "projectId": 1742,
+      "academicSubDomainId": 284
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

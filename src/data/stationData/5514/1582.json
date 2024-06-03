@@ -1,0 +1,182 @@
+{
+  "projectId": 1582,
+  "stationId": 5514,
+  "problemBankId": 851,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Deep Learning-Driven Supply Chain Optimization, Incentive Structuring, and Polygon Optimization at Licious",
+  "description": "<p><strong style=\"color: black;\">Description: </strong><span style=\"color: rgb(13, 13, 13);\">This project intends to harness the power of deep learning algorithms to conduct a holistic analysis and optimization of the Licious supply chain. The objectives include identifying and addressing breakage points and inefficiencies in the supply chain design, optimizing service and cost through innovative incentive and penalty structures, and refining service polygon configurations to improve delivery efficiency and customer satisfaction.</span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supply Chain Breakage Point Analysis: Use deep learning to analyze the entire supply chain, identifying bottlenecks and inefficiencies that lead to delays, increased costs, inventory problems or compromised service quality.</span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supply Chain Design Optimization: Leverage insights from the analysis to propose and implement design improvements in the supply chain, reducing complexity and enhancing resilience.</span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incentive and Penalty Structures: Develop incentive and penalty structures for mid and last mile delivery operations, aligning them with optimized supply chain designs to enhance service quality and cost-efficiency.</span></p><p><span style=\"color: rgb(13, 13, 13);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polygon Optimization: Utilize deep learning algorithms to analyze delivery data, customer feedback, and geographic information, optimizing service polygons for maximum efficiency and customer satisfaction.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong><span style=\"color: rgb(34, 34, 34);\">SQL, python, advanced excel</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: </strong><span style=\"color: rgb(34, 34, 34);\">&nbsp;Stakeholder management, Out of the box thinking, Openness to ideas</span></p><p><strong style=\"color: black;\">Expected learning: </strong><span style=\"color: rgb(34, 34, 34);\">&nbsp;Interaction with industry leaders, Operational understanding and strategic insight, Converting data to actionable insights</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Rajiv Pandit",
+  "mentorEmailId": "rajiv@licious.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1582,
+      "projectDisciplineId": 3549,
+      "projectDisciplineCodes": "AnyA7,AnyAA,AnyA3,AnyA8,AnyAB,AnyA4",
+      "discCodesPerProject": "AnyA7,AnyAA,AnyA3,AnyA8,AnyAB,AnyA4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3549,
+      "projectId": 1582,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyAA,AnyA3,AnyA8,AnyAB,AnyA4",
+      "graduationTypeIds": [
+        0
+      ],
+      "degree": "Dual",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8851,
+          "projectDisciplineId": 3549,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 8852,
+          "projectDisciplineId": 3549,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 8853,
+          "projectDisciplineId": 3549,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 8854,
+          "projectDisciplineId": 3549,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 8855,
+          "projectDisciplineId": 3549,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 8856,
+          "projectDisciplineId": 3549,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1508,
+      "projectId": 1582,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Travel to and from",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-08T05:47:44",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T11:59:55",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36061,
+      "projectId": 1582,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 36062,
+      "projectId": 1582,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1582,
+      "projectDomainId": 2268,
+      "academicDomainId": 44
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2074,
+      "projectId": 1582,
+      "academicSubDomainId": 155
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

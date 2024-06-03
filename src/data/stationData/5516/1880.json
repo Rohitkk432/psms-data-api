@@ -1,0 +1,155 @@
+{
+  "projectId": 1880,
+  "stationId": 5516,
+  "problemBankId": 1048,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "AI/ML-driven Autonomous Exploratory Test (ET) development for the Oracle Cloud Database",
+  "description": "<p> For all bugs found by Exploratory Test (ET) tests running daily, we have the workload associated with these bugs i.e. a file containing the SQL workload sequence which caused the corresponding bug. We want these audited workloads to train a machine learning model and let it recommend more useful test sequences among the random ones. </p><p> Recommendation of such test sequences, having a higher probability of finding new bugs, will be extremely beneficial for the quality of the Oracle Cloud Database. By using a suitable machine learning algorithm, we want to improve the efficiency of the exploratory testing framework by controlling the randomization, so that it works in our favor and hits the path that is more bug-producible. </p><p> This project has the flavor of a research project where we discover the best solution through our journey of building the model. So, this way, there is flexibility in choosing any type of ML we want to use (Supervised/Unsupervised), any type of classifier we want to use (SVM/KNN/Naive Bayes/Deep learning etc.), whichever helps us achieve the objective of this project. Here is a quick overview of machine learning and how it would be beneficial to achieve our goal.</p><p> Why Machine Learning is beneficial to this project: </p><p> As described above, we have already filed considerable amounts of ET bugs and thus we have a lot of audited workloads. These audits would essentially contain all the steps to recreate the original bug, like some DDLs (create/drop of objects like table/view/MV) and/or DMLs (insert/delete/merge data) and/or select queries, etc. This gives us our dataset to begin the work with.</p><p> We can analyse the dataset and make use of this in our machine learning algorithm by simply training the ML model on this dataset (of course data cleaning would be required first) to recommend which random SQL workload sequences are more prone to finding new code bugs. • Must Have Skills:</p><p> (1) Basic Machine Learning Knowledge</p><p> (2) Machine Learning Classification Algorithms</p><p> (3) Python 3.x</p><p> (4) Python Modules/Libraries</p><p> • Desirable Skills:</p><p> (1) Linux</p><p> (2) PL/SQL • Strong Foundation in software engineering principles.</p><p> • Good understanding of Python programming language.</p><p> • Hands on experience on Machine/Deep Learning projects.</p><p> • RDBMS (Relational Database Management System) and SQL knowledge is strongly desirable.</p><p> • Excellent problem-solving skills and attention to detail. The intern gets hands-on experience exploring Machine / Deep learning and an extremely powerful tool like ET along with a behind-the-scenes view of all its features and capabilities. They also get valuable programming/scripting experience and get to apply their ML knowledge in an industry setting. • Python Course including:</p><p> 1. NumPy for mathematical operations</p><p> 2. Pandas for file operations.</p><p> 3. Scikit-Learn for classification and regression algorithms etc.</p><p> • Basic ML/Deep Learning Courses.</p><p> • Basic SQL, PL/SQL, Linux Courses.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1880,
+      "projectDisciplineId": 3922,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3922,
+      "projectId": 1880,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9968,
+          "projectDisciplineId": 3922,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9969,
+          "projectDisciplineId": 3922,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1797,
+      "projectId": 1880,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T11:03:35",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37591,
+      "projectId": 1880,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37592,
+      "projectId": 1880,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1880,
+      "projectDomainId": 2668,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2446,
+      "projectId": 1880,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

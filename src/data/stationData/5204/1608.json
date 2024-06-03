@@ -1,0 +1,183 @@
+{
+  "projectId": 1608,
+  "stationId": 5204,
+  "problemBankId": 865,
+  "problemBankCreatedBy": "rekha.anandrao@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "TCAD/Silvaco-based modeling of GaN HEMTs for RF & power electronics",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong><span style=\"color: black;\">For guiding experimental work as well as for generating new IP, we use TCAD (Silvaco) based device simulation to study, understand and design novel and/or high-performance GaN HEMTs. Energy band diagram, DC characteristics, field profile, RF and pulsed I-V behavior of GaN transistors are to be simulated and benchmarked against experimental data in this project. </span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong><span style=\"color: black;\">Strong background in semiconductor devices and device physics. Familiarity with TCAD is desirable. </span><strong style=\"color: black;\">&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: </strong><span style=\"color: black;\">Ability to drive the project and exhibit leadership on the ground. </span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: </strong><span style=\"color: black;\">Complete understand of GaN HEMTs for RF/power electronics including simulation of the same. </span></p><p><strong style=\"color: black;\">Specific courses required for project execution:&nbsp;</strong><span style=\"color: black;\">Semiconductor devices/device physics</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1608,
+      "projectDisciplineId": 3571,
+      "projectDisciplineCodes": "A3,AA,A8",
+      "discCodesPerProject": "A3,AA,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3571,
+      "projectId": 1608,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A3,AA,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8887,
+          "projectDisciplineId": 3571,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8888,
+          "projectDisciplineId": 3571,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8889,
+          "projectDisciplineId": 3571,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 313,
+      "projectId": 1608,
+      "electiveId": 594,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1534,
+      "projectId": 1608,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "-",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "rekha.anandrao@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-08T09:38:11",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36114,
+      "projectId": 1608,
+      "skillId": 416
+    },
+    {
+      "projectSkillId": 36115,
+      "projectId": 1608,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 36116,
+      "projectId": 1608,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 36117,
+      "projectId": 1608,
+      "skillId": 238
+    },
+    {
+      "projectSkillId": 36118,
+      "projectId": 1608,
+      "skillId": 43
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1608,
+      "projectDomainId": 2296,
+      "academicDomainId": 241
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2103,
+      "projectId": 1608,
+      "academicSubDomainId": 432
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

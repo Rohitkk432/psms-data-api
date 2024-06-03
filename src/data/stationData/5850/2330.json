@@ -1,0 +1,227 @@
+{
+  "projectId": 2330,
+  "stationId": 5850,
+  "problemBankId": 1344,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Telepresence Robot Assistant for Office Navigation and Customer Support",
+  "description": "<p>assist customers in a closed office environment. The robot will navigate users to their desired</p><p>locations, provide real-time interaction and support, and have the capability to carry goods, enhancing</p><p>overall customer experience and operational efficiency.</p><p>Skill sets: </p><p>? Programming languages: Python, C,&nbsp;C++, ROS, Java Script, Shell Scripting</p><p>? Linux OS</p><p>? Machine&nbsp;Learning</p><p>? Embedded Hardware Design</p><p>? Firmware development</p><p>? Knowledge of sensors and actuators</p><p>? Hardware and Software debugging skills</p><p>? 3D CAD drawing</p><p>Traits expectation:&nbsp;</p><p>? Machine Learning and AI</p><p>? Embedded Technology</p><p>? Web App development</p><p>? Sensor/Actuator Interfacing and Wireless Communication</p><p>? Mechanical Design and Assembly</p><p>Expected learning: </p><p>? Robotics Design and Control</p><p>? Developing and porting custom robotic application on SBC</p><p>? Computer vision techniques</p><p>? Wireless Communication</p><p>? Sensor Integration</p><p>? AI and ML algorithm development for&nbsp;path planning and image analytics</p><p>? Mechanical Design</p><p>? Systems Integration</p><p>? Testing and Debugging</p><p>? Collaboration and Communication</p><p>? Critical Thinking and Problem-Solving</p><p>Specific courses required for project execution:</p><p>? Programming languages: Python/C/C++ </p><p>? Introduction to ROS / ROS2</p><p><br></p><p>? Introduction to AI/ML</p><p>? Introduction to Sensors and Actuators</p><p>Team Composition: 1 Full Stack Developer (any language/framework), 1 Electronics, 1 Robotics</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Amol Gharpure",
+  "mentorEmailId": "amol.gharpure@cyient.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2330,
+      "projectDisciplineId": 4679,
+      "projectDisciplineCodes": "AnyA3,AnyAA,AnyA8,AnyA7,A7,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyAA,AnyA8,AnyA7,A7,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4679,
+      "projectId": 2330,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyAA,AnyA8,AnyA7,A7,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12268,
+          "projectDisciplineId": 4679,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 12269,
+          "projectDisciplineId": 4679,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 12270,
+          "projectDisciplineId": 4679,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 12271,
+          "projectDisciplineId": 4679,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 12272,
+          "projectDisciplineId": 4679,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12273,
+          "projectDisciplineId": 4679,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12274,
+          "projectDisciplineId": 4679,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12275,
+          "projectDisciplineId": 4679,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2244,
+      "projectId": 2330,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:30:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "As stipulated by Cyient Location specific Holiday Calendar",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-03T06:47:09",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-03T06:47:30",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51004,
+      "projectId": 2330,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51005,
+      "projectId": 2330,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2330,
+      "projectDomainId": 3304,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2330,
+      "projectDomainId": 3305,
+      "academicDomainId": 28
+    },
+    {
+      "projectId": 2330,
+      "projectDomainId": 3306,
+      "academicDomainId": 103
+    },
+    {
+      "projectId": 2330,
+      "projectDomainId": 3307,
+      "academicDomainId": 65
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3034,
+      "projectId": 2330,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 3035,
+      "projectId": 2330,
+      "academicSubDomainId": 138
+    },
+    {
+      "projectSubDomainId": 3036,
+      "projectId": 2330,
+      "academicSubDomainId": 133
+    },
+    {
+      "projectSubDomainId": 3037,
+      "projectId": 2330,
+      "academicSubDomainId": 191
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

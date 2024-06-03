@@ -1,0 +1,135 @@
+{
+  "projectId": 2045,
+  "stationId": 5721,
+  "problemBankId": 1155,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Deeptech Accelerator Program",
+  "description": "<p>Description: Good understanding of startup ecosystem</p><p>Skill sets: Good communication skills, Entrepreneurial mindset</p><p>Expected learning: Good network in ecosystem, 0 to 1 journey of startups</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2045,
+      "projectDisciplineId": 4120,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4120,
+      "projectId": 2045,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1961,
+      "projectId": 2045,
+      "officeStartTime": "09:30",
+      "officeEndTime": "16:30:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 5000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "BITS ",
+      "boysAccomodationAddress2": "PILANI ",
+      "boysAccomodationCity": 121332,
+      "boysAccomodationState": 21,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "333031",
+      "girlsAccomodationAddress1": "BITS",
+      "girlsAccomodationAddress2": "PILANI ",
+      "girlsAccomodationCity": 121332,
+      "girlsAccomodationState": 21,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "333031",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-26T09:37:30",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": "Pilani",
+      "boysAccomodationCityName": "Pilani"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50337,
+      "projectId": 2045,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50338,
+      "projectId": 2045,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2045,
+      "projectDomainId": 2897,
+      "academicDomainId": 44
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2649,
+      "projectId": 2045,
+      "academicSubDomainId": 155
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

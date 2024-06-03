@@ -1,0 +1,195 @@
+{
+  "projectId": 1559,
+  "stationId": 5079,
+  "problemBankId": 843,
+  "problemBankCreatedBy": "harish.aggarwal@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Backend",
+  "description": "<p>Python, SQL, C++, DSA</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Kushaagra Goyal",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1559,
+      "projectDisciplineId": 4363,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4363,
+      "projectId": 1559,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11105,
+          "projectDisciplineId": 4363,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11106,
+          "projectDisciplineId": 4363,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1486,
+      "projectId": 1559,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "harish.aggarwal@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-07T01:11:29",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-31T10:28:58",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 35977,
+      "projectId": 1559,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 35978,
+      "projectId": 1559,
+      "skillId": 78
+    },
+    {
+      "projectSkillId": 35979,
+      "projectId": 1559,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 35980,
+      "projectId": 1559,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 35981,
+      "projectId": 1559,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 35982,
+      "projectId": 1559,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 35983,
+      "projectId": 1559,
+      "skillId": 43
+    },
+    {
+      "projectSkillId": 35984,
+      "projectId": 1559,
+      "skillId": 238
+    },
+    {
+      "projectSkillId": 35985,
+      "projectId": 1559,
+      "skillId": 44
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1559,
+      "projectDomainId": 2237,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2044,
+      "projectId": 1559,
+      "academicSubDomainId": 151
+    },
+    {
+      "projectSubDomainId": 2045,
+      "projectId": 1559,
+      "academicSubDomainId": 163
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

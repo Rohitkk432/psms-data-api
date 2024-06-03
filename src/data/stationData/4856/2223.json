@@ -1,0 +1,197 @@
+{
+  "projectId": 2223,
+  "stationId": 4856,
+  "problemBankId": 1254,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Development/Optimization of Audio Codecs",
+  "description": "<p>2.</p><p>Subjects: Engineering subjects that are used in the project are Computer Architecture, Computer Arithmetic, C/Assembly Language Programming, Audio/Digital Signal Processing and Audio Coding and Should have written programs that are more than 1000 LOC (Lines of code) and strong in Engineering Mathematics (MUST and a prerequisite) .</p><p>3.</p><p>Topics, Learning Outcomes and Problem Sets: Topics, learning outcomes and problem sets in relation to the Subjects will be provided.</p><p>4.</p><p>Literature Survey Phase: Activities performed in this phase are</p><p>4.1</p><p>Perform literature survey on the topics provided by reviewing materials available from the Company and other sources.</p><p>4.2</p><p>Synthesis of ideas and organization of them in a logical and coherent fashion in form of crisp notes on the subject (Deliverable: Notes.pdf)</p><p>4.3</p><p>Solve the identified quiz, problem sets and lab projects to establish clarity on the topics provided in the subject (Deliverable: Solutions.zip/pdf)</p><p>4.4</p><p>In terms of computer architectures, one of them will be RISC-V with other being one of the following – ARM Cortex M Series, ARM Cortex A Series (32 bit), ARM Cortex A Series (64 bit), Renesas RX, TI C6000 DSP and x86-64.</p><p>5.</p><p>Performance Library Phase: Development of performance optimized libraries with features and performance that match or beat the performance of silicon vendor supplied libraries to</p><p>5.1</p><p>Close the knowledge and skills gaps involved in optimization of standard performance kernels for the architecture chosen (Package.zip)</p><p>5.2</p><p>Understand the tradeoffs involved in performance engineering through software (Notes.pdf)</p><p>6.</p><p>Porting and Optimization of audio codec: Porting and Optimization of various encoder/decoder implementation based on open/industry standards in relation with audio coding. Steps involved are</p><p>6.1</p><p>Understanding of various algorithms used in standards, identification of mathematical/functional equivalent approaches.</p><p>6.2</p><p>Implementation that is performant with best possible tradeoffs made based on underlying hardware architecture.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2223,
+      "projectDisciplineId": 4488,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4488,
+      "projectId": 2223,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11507,
+          "projectDisciplineId": 4488,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 11508,
+          "projectDisciplineId": 4488,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 11509,
+          "projectDisciplineId": 4488,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 11510,
+          "projectDisciplineId": 4488,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 11511,
+          "projectDisciplineId": 4488,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11512,
+          "projectDisciplineId": 4488,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11513,
+          "projectDisciplineId": 4488,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11514,
+          "projectDisciplineId": 4488,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2137,
+      "projectId": 2223,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Accommodation will be provided for the first one week on twin sharing basis. Airfare (The Flight ticket will be booked by the company and for booking inform us prior to 2 weeks)",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T09:41:47",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T07:24:37",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50743,
+      "projectId": 2223,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 50744,
+      "projectId": 2223,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2223,
+      "projectDomainId": 3137,
+      "academicDomainId": 274
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2879,
+      "projectId": 2223,
+      "academicSubDomainId": 475
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

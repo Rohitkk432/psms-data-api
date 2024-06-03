@@ -1,0 +1,165 @@
+{
+  "projectId": 2260,
+  "stationId": 5809,
+  "problemBankId": 1289,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Associate product manager role",
+  "description": "<p>Title: Associate product manager role</p><p><br></p><p>Description: Developing wireframes, userflows, PRDs for above projects and drawing analytical</p><p>insights from data in the product</p><p>Skill sets: Figma/Photoshop/AdobeXD, write SQL queries(must have), Advanced Excel;</p><p>Traits expectation: Good with designing, documentation, project management and data</p><p>Expected learning: Hands-on experience on designing and developing webapps with guiding</p><p>principles and standard practices</p><p>Specific courses required for project execution: Willingness and desire to enter product</p><p>management domain</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Shubham Mehta",
+  "mentorEmailId": "shm@ergontec.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2260,
+      "projectDisciplineId": 4440,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4440,
+      "projectId": 2260,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2173,
+      "projectId": 2260,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Accommodation::Shared, provided by company\nfor first 7 days\nTravel from hometown to organization::3 AC train\nor equivalent; pre-approved will be re-imbursed\nLocal Conveyance::Self-arranged",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-01T05:40:52",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50832,
+      "projectId": 2260,
+      "skillId": 115
+    },
+    {
+      "projectSkillId": 50833,
+      "projectId": 2260,
+      "skillId": 158
+    },
+    {
+      "projectSkillId": 50834,
+      "projectId": 2260,
+      "skillId": 212
+    },
+    {
+      "projectSkillId": 50835,
+      "projectId": 2260,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2260,
+      "projectDomainId": 3186,
+      "academicDomainId": 179
+    },
+    {
+      "projectId": 2260,
+      "projectDomainId": 3187,
+      "academicDomainId": 228
+    },
+    {
+      "projectId": 2260,
+      "projectDomainId": 3188,
+      "academicDomainId": 11
+    },
+    {
+      "projectId": 2260,
+      "projectDomainId": 3189,
+      "academicDomainId": 44
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2923,
+      "projectId": 2260,
+      "academicSubDomainId": 334
+    },
+    {
+      "projectSubDomainId": 2924,
+      "projectId": 2260,
+      "academicSubDomainId": 155
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

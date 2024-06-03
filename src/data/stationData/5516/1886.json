@@ -1,0 +1,155 @@
+{
+  "projectId": 1886,
+  "stationId": 5516,
+  "problemBankId": 1048,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Kafka-Based Real-Time Database Health Advisor",
+  "description": "<p> This project proposes utilizing Kafka, an industry-standard message bus for distributed applications, to offload hang detection from the Database to external applications. This approach promises faster and more deterministic hang identification. Additionally, the infrastructure can be leveraged to offer Database health analysis, including memory usage and critical resource consumption.</p><p> It can be integrated into the Database to trigger alerts based on critical events in the Database logs. Furthermore, proactive measures can be implemented to prevent imminent hangs and identify activities that could compromise Database health.</p><p> The proposed solution involves the Database publishing the critical events to a Kafka bus. External applications subscribed to this bus will consume and analyse these events, drawing insights that can be published back to the Database as new events. The Database can then process these insights and take appropriate corrective actions. Data pushed to Kafka can be used for incremental training of ML models on streaming data. The project aims to:</p><p> § Enhance the robustness of the existing Kafka messaging infrastructure within the Database.</p><p> § Develop features to enable high-velocity (one million messages per second) publishing and consumption of Kafka messages.</p><p> § Construct applications within/outside the Database that function as health advisors, leveraging the Kafka infrastructure for real-time analysis and proactive management. Familiarity with Oracle database.</p><p> Experience with Kafka architecture, message production/consumption, and tooling</p><p> Understanding of distributed architectures and communication protocols</p><p> Good programming skills in C/Java/Python Analyse complex system behaviour.</p><p> </p><p> Critical thinking and problem-solving skills.</p><p> Exposure to system design, scalable and optimized solutions for real-world tasks.</p><p> Collaboration with others. A strong understanding of Kafka's capabilities and how to leverage them for building event-driven architectures.</p><p> Working with database metrics and logs and using them to analyse database health and gain insights into database performance.</p><p> Understanding distributed system concepts like message-queuing, scalability, and fault-tolerance. Coursework on Distributed Systems and Networking would be useful.</p><p> Understanding of Kafka fundamentals, and developing event-driven services are a plus, but are not mandatory to work on the project.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1886,
+      "projectDisciplineId": 3928,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3928,
+      "projectId": 1886,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9980,
+          "projectDisciplineId": 3928,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9981,
+          "projectDisciplineId": 3928,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1803,
+      "projectId": 1886,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T11:20:13",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37603,
+      "projectId": 1886,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37604,
+      "projectId": 1886,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1886,
+      "projectDomainId": 2674,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2452,
+      "projectId": 1886,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,206 @@
+{
+  "projectId": 1757,
+  "stationId": 5167,
+  "problemBankId": 956,
+  "problemBankCreatedBy": "ravi.reosekar@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Projects based on Operational Excellence i.e Divgi -TTS Production System, Assembly/part process development, Lean Mfg, Productivity improvement, PPC, Design verification/calculation, Problem solving , SAP data analysis & interpretation etc.",
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">Projects based on Operational Excellence i.e&nbsp;Divgi&nbsp;-TTS Production System, Assembly/part process development, Assembly layout, Lean Manufacturing, Productivity improvement, Production Planning and control, Quality Improvement, Design verification/calculation, Problem solving &amp; Product/ part development documentation, SAP data analysis &amp; interpretation etc.</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Gopal Dalvi",
+  "mentorEmailId": "gkdalvi@divgi-tts.com",
+  "mentorContactNumber": "9922909464",
+  "discViewModels": [
+    {
+      "projectId": 1757,
+      "projectDisciplineId": 4427,
+      "projectDisciplineCodes": "A4,AB",
+      "discCodesPerProject": "A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4427,
+      "projectId": 1757,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 2,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11276,
+          "projectDisciplineId": 4427,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11277,
+          "projectDisciplineId": 4427,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 325,
+      "projectId": 1757,
+      "electiveId": 667,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1678,
+      "projectId": 1757,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15500,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 1,
+      "medical": 1,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "ravi.reosekar@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-19T09:37:44",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T04:54:00",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37287,
+      "projectId": 1757,
+      "skillId": 164
+    },
+    {
+      "projectSkillId": 37288,
+      "projectId": 1757,
+      "skillId": 107
+    },
+    {
+      "projectSkillId": 37289,
+      "projectId": 1757,
+      "skillId": 277
+    },
+    {
+      "projectSkillId": 37290,
+      "projectId": 1757,
+      "skillId": 425
+    },
+    {
+      "projectSkillId": 37291,
+      "projectId": 1757,
+      "skillId": 44
+    },
+    {
+      "projectSkillId": 37292,
+      "projectId": 1757,
+      "skillId": 45
+    },
+    {
+      "projectSkillId": 37293,
+      "projectId": 1757,
+      "skillId": 334
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1757,
+      "projectDomainId": 2512,
+      "academicDomainId": 187
+    },
+    {
+      "projectId": 1757,
+      "projectDomainId": 2513,
+      "academicDomainId": 1
+    },
+    {
+      "projectId": 1757,
+      "projectDomainId": 2514,
+      "academicDomainId": 140
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2307,
+      "projectId": 1757,
+      "academicSubDomainId": 277
+    },
+    {
+      "projectSubDomainId": 2308,
+      "projectId": 1757,
+      "academicSubDomainId": 251
+    },
+    {
+      "projectSubDomainId": 2309,
+      "projectId": 1757,
+      "academicSubDomainId": 312
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

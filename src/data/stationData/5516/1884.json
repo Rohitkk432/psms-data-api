@@ -1,0 +1,155 @@
+{
+  "projectId": 1884,
+  "stationId": 5516,
+  "problemBankId": 1048,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Autonomous Database Dedicated Cloud Service Management User Interface with Integrated Digital Assistant, AI-Generated Runbooks, and Autonomous Corrective Action",
+  "description": "<p> Oracle Autonomous Database is the world’s first autonomous data management in the cloud to deliver automated patching, upgrades, and tuning—including performing all routine database maintenance tasks while the system is running - without human intervention. This new autonomous database cloud is self-managing, self-securing, and self-repairing, which helps to eliminate manual database management and human errors.</p><p> Oracle Autonomous Database Dedicated offers a private cloud in the public cloud - a completely dedicated compute, storage, network, and database service for only a single tenant. This offers a multitenant database architecture, allowing you to create and manage multiple Autonomous Databases within a single database system. </p><p> The Autonomous Database Cloud Service Management User Interface project aims to create a comprehensive platform for effectively overseeing the Autonomous Database Cloud Service. This platform will act as a central hub for service engineers to monitor, troubleshoot, and optimize this cloud infrastructure. Alongside featuring an integrated digital assistant and AI-generated runbooks, the system will incorporate autonomous corrective action capabilities. This innovative feature will empower the platform to automatically detect and resolve common issues or anomalies within this cloud service, leveraging advanced algorithms and predefined rules. By seamlessly integrating autonomous corrective actions with AI-generated runbooks, the platform ensures swift issue resolution, minimizing downtime, and enhancing operational efficiency in the cloud environment. The platform will also aid operations personnel in debugging/root-causing challenging issues by suggesting corrective actions derived from a heuristics bank populated with AI-generated data from historical triaging activity. Familiarity with natural language processing (NLP) and conversational AI technologies</p><p> • Working knowledge of machine learning and generative AI models</p><p> • Familiarity with statistical analysis and forecasting techniques</p><p> • Proficiency in Java and Python programming languages for backend development</p><p> • Experience with Oracle SQL for database management and querying</p><p> •Familiarity with Docker containerization for deployment and management of applications</p><p> • Knowledge of Kubernetes for container orchestration and management in cloud environments Analytical Thinking: Capacity to analyze historical data, interpret forecasting insights, and troubleshoot technical issues</p><p> Innovation: Ability to devise creative solutions for enhancing forecasting accuracy, optimizing resource allocation, and improving overall platform functionality.</p><p> Collaboration: Willingness to work collaboratively with cross-functional teams to integrate forecasting capabilities seamlessly and ensure alignment with broader project goals.</p><p> Communication: Effective communication skills to convey technical concepts, forecasting insights, and recommendations clearly and concisely to stakeholders at all levels. Deeper understanding of forecasting techniques and algorithms for predicting future resource usage.</p><p> Enhanced skills in developing AI-generated runbooks tailored for Autonomous Database Cloud service management.</p><p> Improved knowledge of statistical analysis methods for interpreting forecasting results and making informed decisions. Database Management</p><p> Forecasting Methods and Applications</p><p> Machine Learning for Developers: </p><p> Statistical Analysis with Python: to interpret forecasting results effectively.</p><p> Proficiency in programming languages such as Python or Bash for automation of tasks related to cloud service management, including forecasting.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1884,
+      "projectDisciplineId": 3926,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3926,
+      "projectId": 1884,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9976,
+          "projectDisciplineId": 3926,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9977,
+          "projectDisciplineId": 3926,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1801,
+      "projectId": 1884,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T11:14:46",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37599,
+      "projectId": 1884,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37600,
+      "projectId": 1884,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1884,
+      "projectDomainId": 2672,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2450,
+      "projectId": 1884,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

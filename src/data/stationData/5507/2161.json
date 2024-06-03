@@ -1,0 +1,179 @@
+{
+  "projectId": 2161,
+  "stationId": 5507,
+  "problemBankId": 1210,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1 Title: Documentation and Analysis",
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\"> Description: The project focuses on gathering employee feedback and analyzing it to gain insights into employee satisfaction, engagement, and areas of improvement within the organization. The goal is to assess the overall employee experience, identify potential issues or opportunities, and develop strategies to enhance employee satisfaction and productivity. Skill sets: Word, Excel, Organizational psychology, Design Traits expectation: Communication Skills, Creative Writing. Chess Expected learning: Corporate Culture, Team Work, Employee engagement strategies Specific courses required for project execution: Science, Technology and Modernity. Introductory Psychology </span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Rajiv Malla",
+  "mentorEmailId": "pioneerelectrocables@gmail.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2161,
+      "projectDisciplineId": 4266,
+      "projectDisciplineCodes": "AnyA4,AnyB4,A4,B4",
+      "discCodesPerProject": "AnyA4,AnyB4,A4,B4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4266,
+      "projectId": 2161,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,AnyB4,A4,B4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10819,
+          "projectDisciplineId": 4266,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 10820,
+          "projectDisciplineId": 4266,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 10821,
+          "projectDisciplineId": 4266,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 10822,
+          "projectDisciplineId": 4266,
+          "graduationTypeId": 1,
+          "disciplineId": 19,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2077,
+      "projectId": 2161,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "nepal",
+      "boysAccomodationAddress2": "nepal",
+      "boysAccomodationCity": 197033,
+      "boysAccomodationState": 2954,
+      "boysAccomodationCountry": 156,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "nepal",
+      "girlsAccomodationAddress2": "nepal",
+      "girlsAccomodationCity": 197033,
+      "girlsAccomodationState": 2954,
+      "girlsAccomodationCountry": 156,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-30T07:26:53",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": "Biratnagar",
+      "boysAccomodationOtherCityName": "Biratnagar",
+      "girlsAccomodationCityName": "Biratnagar",
+      "boysAccomodationCityName": "Biratnagar"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50612,
+      "projectId": 2161,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50613,
+      "projectId": 2161,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2161,
+      "projectDomainId": 3060,
+      "academicDomainId": 68
+    },
+    {
+      "projectId": 2161,
+      "projectDomainId": 3061,
+      "academicDomainId": 21
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2802,
+      "projectId": 2161,
+      "academicSubDomainId": 140
+    },
+    {
+      "projectSubDomainId": 2803,
+      "projectId": 2161,
+      "academicSubDomainId": 70
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

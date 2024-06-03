@@ -1,0 +1,202 @@
+{
+  "projectId": 2221,
+  "stationId": 5772,
+  "problemBankId": 1252,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Software Developer",
+  "description": "<p><span style=\"color: rgb(72, 72, 72);\">Be part of a leading team of software developers at The Future University and get a chance to contribute to a high-performance, highly dynamic environment. We are looking for a motivated software development intern to join our amazing team and help us build the future of technology.</span></p><p><span style=\"color: rgb(72, 72, 72);\"> </span></p><p><span style=\"color: rgb(72, 72, 72);\"> This is a great opportunity for any aspiring software developer who wants to learn and work on cutting-edge technologies. The software development intern will be expected to develop, maintain and debug software applications using Java, ReactJS, Node.js, HTML, Python, and React Native.</span></p><p><span style=\"color: rgb(72, 72, 72);\"> </span></p><p><span style=\"color: rgb(72, 72, 72);\"> </span><strong style=\"color: rgb(72, 72, 72);\">Selected intern's day-to-day responsibilities include:</strong></p><p><strong> </strong></p><p><span style=\"color: rgb(72, 72, 72);\"> 1. Develop and maintain web-based applications using the listed technologies</span></p><p><span style=\"color: rgb(72, 72, 72);\"> 2. Analyze software requirements and create application designs</span></p><p><span style=\"color: rgb(72, 72, 72);\"> 3. Identify, troubleshoot, and debug software issues</span></p><p><span style=\"color: rgb(72, 72, 72);\"> 4. Work with various teams to ensure software applications are implemented according to design specifications</span></p><p><span style=\"color: rgb(72, 72, 72);\"> 5. Prepare and present software applications for deployment</span></p><p><span style=\"color: rgb(72, 72, 72);\"> 6. Participate in code reviews and suggest improvements</span></p><p>&nbsp;</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2221,
+      "projectDisciplineId": 4410,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,AA,A7",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,AA,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4410,
+      "projectId": 2221,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,AA,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11214,
+          "projectDisciplineId": 4410,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 11215,
+          "projectDisciplineId": 4410,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 11216,
+          "projectDisciplineId": 4410,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 11217,
+          "projectDisciplineId": 4410,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 11218,
+          "projectDisciplineId": 4410,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11219,
+          "projectDisciplineId": 4410,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11220,
+          "projectDisciplineId": 4410,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 11221,
+          "projectDisciplineId": 4410,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2133,
+      "projectId": 2221,
+      "officeStartTime": "11:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Monday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Initial 3 days accommodation",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T09:27:21",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-31T16:40:30",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50733,
+      "projectId": 2221,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 50734,
+      "projectId": 2221,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2221,
+      "projectDomainId": 3132,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2874,
+      "projectId": 2221,
+      "academicSubDomainId": 1
+    },
+    {
+      "projectSubDomainId": 2875,
+      "projectId": 2221,
+      "academicSubDomainId": 2
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

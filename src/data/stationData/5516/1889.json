@@ -1,0 +1,155 @@
+{
+  "projectId": 1889,
+  "stationId": 5516,
+  "problemBankId": 1048,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Low-code Application Data Security",
+  "description": "<p> Background</p><p> Oracle Real Application Security (RAS) introduces the next generation of application access control framework within the database enabling applications to declaratively define and enforce their security requirements. Oracle RAS introduces a powerful policy-based authorization model that recognizes application-level users, privileges, and roles within the database, and then controls access to both static and dynamic collections of records representing business objects. Refer to Oracle RAS white paper and Documentation for more information.</p><p> Problem</p><p> Security is essential for controlling application access to the valuable data of your organization. How to make it super easy and fast to develop applications to leverage the RAS security model?</p><p> Team project goal</p><p> Build tools and modules on Low-code platforms to help developers enforce end-to-end application data security.</p><p> Project 1 – Low-code DB application data security for APEX</p><p> Develop an Oracle Application Express (APEX) tool to help APEX developers secure their applications without writing PL/SQL code for RAS policy definition. The tool will provide a UI to help users specify data access control requirements easily, and auto-generate RAS policies for application tables and views. The user should be able to review policies, make changes as needed, and apply or un-apply them on database objects.</p><p> Project 2 – Low-code Java application data security for Sprint Boot</p><p> Develop a Sprint Boot module to manage RAS application sessions transparently for application access to the database. The module will be configurable and integrated with Sprint Boot Sessions to capture Application user identity, set up the RAS application session and enable it upon application connection pool access. </p><p> Project 3 – Demo application for college student record access using RAS</p><p> Develop an APEX application and a Java application to manage college student records. It will demonstrate end-to-end application data security for application table rows and columns based on access policies for admins, professors, and students. The application developers should define the application functionality and security requirements and implement the applications using the tool and integration modules from Project 1 and Project 2. o Database and security concepts</p><p> o SQL and PL/SQL </p><p> o Java programming &nbsp; o Database authorization, fine-grained access control</p><p> o Java application security </p><p> o Oracle Application Express</p><p> o Sprint Boot framework and security</p><p> o Oracle OCI and cloud databases Database and security concepts</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1889,
+      "projectDisciplineId": 3932,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3932,
+      "projectId": 1889,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9988,
+          "projectDisciplineId": 3932,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9989,
+          "projectDisciplineId": 3932,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1806,
+      "projectId": 1889,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-20T11:29:04",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37609,
+      "projectId": 1889,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37610,
+      "projectId": 1889,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1889,
+      "projectDomainId": 2677,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2455,
+      "projectId": 1889,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

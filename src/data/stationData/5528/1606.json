@@ -1,0 +1,197 @@
+{
+  "projectId": 1606,
+  "stationId": 5528,
+  "problemBankId": 862,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Implementation of testing setup as per BIS Standards for Water Pumping Systems and Solar PV  Modules",
+  "description": "<p>Description:</p><p>Skill sets: Electrical connections and working with DC and AC Energy.</p><p>Traits expectation: Knowledge of Motor designs</p><p>Expected learning:</p><p>? Testing of Water Pumping Systems for Hydraulic as well as electrical testing using Solar Array</p><p>Simulators.</p><p>? Testing of Solar PV Modules</p><p>? Calibration of measuring equipment</p><p>? Preparing test reports</p><p>? Calculation of Measurement uncertainty</p><p>? Maintenance of equipment</p><p>Specific courses required for project execution: Should go through ISO 17025:2017, ISO 9001:2015</p><p>standard, Guide to the expression of uncertainty in measurement, Basic knowledge of Solar PV</p><p>panels and pumps, IEC 61215/IS14286, IEC60904, IS 12762, IS 8034, IS 9283, IS 11346, IEC 62253.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1606,
+      "projectDisciplineId": 3596,
+      "projectDisciplineCodes": "AnyA3,AnyA4,AnyA8,AnyAA,A4,AA,A8,A3",
+      "discCodesPerProject": "AnyA3,AnyA4,AnyA8,AnyAA,A4,AA,A8,A3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3596,
+      "projectId": 1606,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA4,AnyA8,AnyAA,A4,AA,A8,A3",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8963,
+          "projectDisciplineId": 3596,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 8964,
+          "projectDisciplineId": 3596,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 8965,
+          "projectDisciplineId": 3596,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 8966,
+          "projectDisciplineId": 3596,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 8967,
+          "projectDisciplineId": 3596,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8968,
+          "projectDisciplineId": 3596,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8969,
+          "projectDisciplineId": 3596,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8970,
+          "projectDisciplineId": 3596,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1528,
+      "projectId": 1606,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-08T09:16:19",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-08T11:33:08",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36101,
+      "projectId": 1606,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 36102,
+      "projectId": 1606,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1606,
+      "projectDomainId": 2288,
+      "academicDomainId": 156
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2094,
+      "projectId": 1606,
+      "academicSubDomainId": 430
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

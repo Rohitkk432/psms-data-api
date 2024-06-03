@@ -1,0 +1,155 @@
+{
+  "projectId": 1645,
+  "stationId": 5553,
+  "problemBankId": 892,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 2  Title: Green Hydrogen Projects & Product Development- Control & Instrumentation",
+  "description": "<p>Project 2</p><p>Title: Green Hydrogen Projects &amp; Product Development- Control &amp; Instrumentation</p><p>Description: Support the Green Hydrogen solutions team on C&amp;I design and application of system</p><p>and it's components during design, manufacturing and implementation of various projects.</p><p>Skill sets: P&amp;ID, Cause &amp; Effect, System architecture design, Instrument selection, SIL study</p><p>Traits expectation: Innovative ability for Designing of Control philosophy and working on the optimized solutions, Application of process design concepts, Component selection based on desired specifications, Technical detailing, Timely delivery of tasks</p><p>Expected learning: Designing &amp;Selection of components of a system, Detail Engineering, Project Management</p><p>Specific courses required for project execution: As required for above</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Stegn Samuel ",
+  "mentorEmailId": "info@n3e.tech",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1645,
+      "projectDisciplineId": 3633,
+      "projectDisciplineCodes": "AnyA8,A8",
+      "discCodesPerProject": "AnyA8,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3633,
+      "projectId": 1645,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA8,A8",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9115,
+          "projectDisciplineId": 3633,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 9116,
+          "projectDisciplineId": 3633,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1565,
+      "projectId": 1645,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-11T04:51:52",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36212,
+      "projectId": 1645,
+      "skillId": 116
+    },
+    {
+      "projectSkillId": 36213,
+      "projectId": 1645,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1645,
+      "projectDomainId": 2348,
+      "academicDomainId": 242
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2156,
+      "projectId": 1645,
+      "academicSubDomainId": 434
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

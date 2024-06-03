@@ -1,0 +1,155 @@
+{
+  "projectId": 2305,
+  "stationId": 5834,
+  "problemBankId": 1322,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": " Project Title: Enhance olefin recovery in PFCC fractionator (To reduce olefin slippage in the PFCC LPG product stream)",
+  "description": "<p>Description: The PFCC (Petro Fluid Catalytic Cracking Unit) product stream refers to a gaseous mixture comprising gases, LPG (liquefied petroleum gas), gasoline, LCO (light cycle oil), and HCO (heavy cycle oil). These components undergo separation in a fractionator column. However, the current fractionator column fails to effectively separate olefins, resulting in the undesired inclusion of these valuable olefinic products into the LPG stream. This scenario poses two primary issues: it compromises the quality of the LPG stream and leads to the loss of high-value olefinic products.</p><p>To address this challenge, enhancements to the fractionation process are essential. Implementing modifications to the fractionator column could improve the separation efficiency, ensuring that olefins are adequately isolated from the LPG stream. By optimizing the fractionation conditions, such as temperature, pressure, and reflux ratio, the column can achieve better separation performance. Furthermore, considering alternative separation techniques or incorporating additional separation units may be necessary to specifically target olefinic compounds. Technologies like adsorption or membrane separation could complement the existing fractionation process and facilitate the selective removal of olefins from the product stream.</p><p>By rectifying the inefficiencies in the separation process, not only can the quality of the LPG stream be preserved, but the recovery of valuable olefinic products can also be maximized, mitigating potential economic losses and enhancing overall operational efficiency within the PFCC unit.</p><p>Skill sets: ASPEN plus/ ASPEN HYSYS (Preliminary flow sheeting)</p><p>Expected learning: Process intensification in refining processes</p><p>Specific courses required for project execution: Flowsheeting tutorials will help in starting the project quickly</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2305,
+      "projectDisciplineId": 4580,
+      "projectDisciplineCodes": "AnyA1,A2",
+      "discCodesPerProject": "AnyA1,A2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4580,
+      "projectId": 2305,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA1,A2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11986,
+          "projectDisciplineId": 4580,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 11987,
+          "projectDisciplineId": 4580,
+          "graduationTypeId": 1,
+          "disciplineId": 2,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2219,
+      "projectId": 2305,
+      "officeStartTime": "08:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday,Saturday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-01T16:16:54",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50940,
+      "projectId": 2305,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50941,
+      "projectId": 2305,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2305,
+      "projectDomainId": 3255,
+      "academicDomainId": 14
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2989,
+      "projectId": 2305,
+      "academicSubDomainId": 481
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
