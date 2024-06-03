@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details Awaited ",
-  "description": "<p>-</p>",
+  "title": "4 Projects",
+  "description": "<p class=\"ql-align-justify\">-<strong style=\"color: rgb(0, 0, 0);\">Project 1</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: Document Onboarding Pipelines</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: You will be part of a collaborative team working on both backend and frontend development using Java/Python and ReactJS technologies. This role offers an exciting opportunity to contribute to the entire software development lifecycle and significantly impact our products. Develop and maintain scalable data ingestion pipelines to ingest large volumes of documents efficiently and reliably from various sources on the web.</strong></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: React, Python, Java</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: Curious to explore, Go-getter</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: Design, Microservices, Cloud Services</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; Should be hands-on with coding in React and (Python or Java)</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Project 2</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: Document Pipelines Orchestration and Monitoring</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: Monitor and orchestrate highly performant pipelines which processes millions of documents each month using Java/Python. Develop and maintain scalable data ingestion pipelines to ingest large volumes of documents efficiently and reliably from various sources on the web.</strong></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: Python, Java</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: Curious to explore, Go-getter</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: Design, Microservices, Cloud Services</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; Should be hands-on with coding in python or Java</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Project 3</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: Build data table and visualization widgets in the Dashboard product</strong></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: AlphaSense has a dashboard product where users can see different types of data sets for companies they research. This project will involve building more widgets and increase the capability of the Dashboard</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: Python, Java, ReactJS</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: Humble, Hungry, Smart</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: Backend Development, Databases, Frontend Design, CI/CD</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp;&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Project 4</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: Build integrations with 3rd party platforms</strong></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: We want to allow our users to link their 3rd party data sources like Cloud Drives, Chat Applications, CRMs etc with AlphaSense and run the AlphaSense search and AI features on their own data. In this project, we will be expanding the number of integrations we support.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: Python, React JS</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: Humble, Hungry, Smart</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: Backend Development, Databases, Frontend Design, CI/CD</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp;</strong></p><p><br></p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -18,33 +18,38 @@
   "discViewModels": [
     {
       "projectId": 2309,
-      "projectDisciplineId": 4590,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectDisciplineId": 4692,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4590,
+      "projectDisciplineId": 4692,
       "projectId": 2309,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
+      "cgpamin": 8,
       "cgpamax": 10,
-      "freshRequirement": 1,
-      "totalRequirement": 1,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -53,8 +58,23 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12321,
+          "projectDisciplineId": 4692,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 12322,
+          "projectDisciplineId": 4692,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -66,8 +86,8 @@
       "projectId": 2309,
       "officeStartTime": "09:00:00",
       "officeEndTime": "17:00:00",
-      "weekHolidays": "Sunday",
-      "ugstipend": 0,
+      "weekHolidays": "Sunday,Saturday",
+      "ugstipend": 80000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -95,8 +115,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-01T16:44:51",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-03T16:51:41",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +125,59 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50948,
+      "projectSkillId": 51021,
       "projectId": 2309,
-      "skillId": 431
+      "skillId": 73
     },
     {
-      "projectSkillId": 50949,
+      "projectSkillId": 51022,
       "projectId": 2309,
-      "skillId": 436
+      "skillId": 89
+    },
+    {
+      "projectSkillId": 51023,
+      "projectId": 2309,
+      "skillId": 187
+    },
+    {
+      "projectSkillId": 51024,
+      "projectId": 2309,
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 2309,
-      "projectDomainId": 3259,
-      "academicDomainId": 156
+      "projectDomainId": 3315,
+      "academicDomainId": 127
+    },
+    {
+      "projectId": 2309,
+      "projectDomainId": 3316,
+      "academicDomainId": 128
+    },
+    {
+      "projectId": 2309,
+      "projectDomainId": 3317,
+      "academicDomainId": 5
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2993,
+      "projectSubDomainId": 3045,
       "projectId": 2309,
-      "academicSubDomainId": 454
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 3046,
+      "projectId": 2309,
+      "academicSubDomainId": 116
+    },
+    {
+      "projectSubDomainId": 3047,
+      "projectId": 2309,
+      "academicSubDomainId": 115
     }
   ],
   "projectSubjectArea": [],

@@ -12,6 +12,8 @@ export default function StationsPage() {
     const [gurgaon, setGurgaon] = useState(true);
     const [delhi, setDelhi] = useState(true);
     const [other, setOther] = useState(true);
+
+    const [addOther, setAddOther] = useState(false);
     return (
         <main className="flex min-h-screen flex-col items-center gap-4 p-24">
             <div className="w-full flex items-center justify-center text-2xl font-bold">PS Stations List</div>
@@ -74,6 +76,16 @@ export default function StationsPage() {
                 </button>
             </div>
 
+            <div className="w-full flex items-center justify-center my-6 gap-4">
+                <button
+                    onClick={() => {
+                        setAddOther(!addOther);
+                    }}
+                    type="button"
+                    className={!addOther ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    Add Other Domains
+                </button>
+            </div>
             <div className="w-full grid grid-cols-6 py-2 rounded-xl items-center justify-center bg-gray-700 text-white text-lg">
                 <div className="flex items-center justify-center">StationID</div>
                 <div className="flex col-span-2 items-center justify-center">Station Name</div>
@@ -83,7 +95,7 @@ export default function StationsPage() {
             </div>
 
             {StationData.map((item: any) => {
-                if (item.stationDomain !== "Chemical" || item.stationDomain !== "Infrastructure" || item.stationDomain !== "Mechanical" || item.stationDomain !== "Electronics")
+                if (!addOther ? item.stationDomain === "CSIS/IT" || item.stationDomain === "Finance and Mgmt" || item.stationDomain === "Others" || item.stationDomain === "Health Care" : true)
                     if (
                         (pune && item.city === "Pune") ||
                         (hyd && item.city === "Hyderabad") ||

@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "details awaited",
-  "description": "<p>details awaited</p>",
+  "title": "Projects",
+  "description": "<h3>Required Skill Sets</h3><ul><li><strong>Technical Skills:</strong> Python, Excel, Data Analytics</li><li><strong>Analytical Skills:</strong> Problem Solving</li></ul><h3>Desired Traits</h3><ul><li><strong>Relevant Fields:</strong> Electrical, Mechanical, Chemical, Industrial</li><li><strong>Personal Qualities:</strong> Collaboration, Willingness to learn, Experimentation, Ownership</li></ul><h3>Expectations</h3><ul><li><strong>Primary Task:</strong> Work on engineering/supply chain-based live business problem statements.</li><li><strong>Responsibilities:</strong></li><li class=\"ql-indent-1\">Completely own the charter.</li><li class=\"ql-indent-1\">Take guidance from mentors and other stakeholders.</li><li class=\"ql-indent-1\">Be ready to think outside the box and focus on execution.</li></ul><h3>Expected Learning Outcomes</h3><ul><li><strong>Application of Knowledge:</strong> Marry theoretical learnings to practical business outcomes.</li><li><strong>Learning Opportunities:</strong></li><li class=\"ql-indent-1\">Immense learning across diverse areas of manufacturing and operations.</li><li class=\"ql-indent-1\">Solve problems impacting customers.</li><li class=\"ql-indent-1\">Gain in-depth knowledge of optical manufacturing and operations processes.</li></ul><h3>Specific Courses Required for the Project</h3><ul><li>Data Analysis</li><li>Problem Solving</li></ul><h3>Project Names and Descriptions</h3><ol><li><strong>Improving Efficiencies of Warehousing Using Data Analytics &amp; Machine Learning</strong></li><li><strong>Enhancing Efficiency of Lens Manufacturing Laboratory</strong></li><li><strong>Reduction in Product Quality Returns</strong></li></ol><h3>Additional Projects for Students in Other Fields</h3><ol><li><strong>Quality Improvement Charter</strong></li></ol><ul><li class=\"ql-indent-1\"><strong>Description:</strong> Focus on quality improvement initiatives within manufacturing.</li></ul><ol><li><strong>Process Excellence and Improvement Charters</strong></li></ol><ul><li class=\"ql-indent-1\"><strong>Description:</strong> Enhance and streamline manufacturing processes.</li></ul><ol><li><strong>Lens Lab Process Optimization Charter</strong></li></ol><ul><li class=\"ql-indent-1\"><strong>Description:</strong> Optimize processes within the lens laboratory.</li></ul><h3>Specific Projects in Frames Manufacturing</h3><ol><li><strong>Quality Improvement of Frames (Acetate, TR &amp; Metal)</strong></li><li><strong>Process Standardization for Frames</strong></li></ol><ul><li class=\"ql-indent-1\"><strong>Description:</strong> Create value stream maps for frames manufacturing and develop SOPs.</li></ul><ol><li><strong>Automation Philosophy &amp; Business Case Preparation</strong></li></ol><ul><li class=\"ql-indent-1\"><strong>Description:</strong> Develop a business case for reducing manpower in frames manufacturing through automation.</li></ul><p><br></p><p><br></p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -18,20 +18,22 @@
   "discViewModels": [
     {
       "projectId": 1943,
-      "projectDisciplineId": 4375,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectDisciplineId": 4691,
+      "projectDisciplineCodes": "AnyA1,AnyA3,AnyA4,AnyA8,AnyAA,A1,A3,A4,A8,AA",
+      "discCodesPerProject": "AnyA1,AnyA3,AnyA4,AnyA8,AnyAA,A1,A3,A4,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4375,
+      "projectDisciplineId": 4691,
       "projectId": 1943,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -43,8 +45,11 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA1,AnyA3,AnyA4,AnyA8,AnyAA,A1,A3,A4,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -53,8 +58,79 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12311,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 12312,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 12313,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 12314,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 12315,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 12316,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12317,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12318,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12319,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12320,
+          "projectDisciplineId": 4691,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -64,8 +140,8 @@
     {
       "projectFacilityId": 1858,
       "projectId": 1943,
-      "officeStartTime": "09:09:00",
-      "officeEndTime": "17:00:00",
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
       "ugstipend": 35000,
       "pgstipend": 0,
@@ -96,7 +172,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-21T06:48:08",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-05-31T16:57:23",
+      "modifiedDate": "2024-06-03T16:15:15",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
