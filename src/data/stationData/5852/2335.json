@@ -1,13 +1,13 @@
 {
-  "projectId": 2193,
-  "stationId": 5762,
-  "problemBankId": 1229,
+  "projectId": 2335,
+  "stationId": 5852,
+  "problemBankId": 1349,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Personalization and User Attribute Enhancement",
-  "description": "<p><br></p><p>Description:</p><p>Enhance user experiences in our real money poker platform by analyzing user attributes like playing style and</p><p>frequency. Develop algorithms to segment users and tailor experiences such as game recommendations and</p><p>promotions. Implement dynamic adjustments in gameplay features based on individual attributes to optimize</p><p>satisfaction and retention. Candidate will work on data analysis, algorithm development, and testing to improve</p><p>user engagement and retention.</p><p>Skill sets:</p><p>Understanding of:</p><p>(1) SQL</p><p>(2) Basic of visualization tools (not compulsory)</p><p>(3) Good understanding of functions in Google workspace (Sheets, Slides etc) and Excel</p><p>(4) Knowledge of basics in Statistics</p><p>Traits expectation:</p><p>1) Ability to break down any problem into components that can be collaboratively solved</p><p>2) Good written and verbal communication skills</p><p>3) The ability to influence stakeholders and work closely with them to determine acceptable solutions.</p><p>4) Ability to multitask and work on a diverse range of requirements</p><p>Expected learning:</p><p>1) Understand end to end business metrics and product funnels of a fast pace B2C business 2) Skill of how to</p><p>leverage data to drive business and marketing decisions.</p><p>3) Develop the skill of extracting impactful and actionable insights from large data sets</p><p>Specific courses required for project execution: SQL</p>",
+  "title": "details awaited",
+  "description": "<p>--</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,35 +17,35 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2193,
-      "projectDisciplineId": 4699,
+      "projectId": 2335,
+      "projectDisciplineId": 4687,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
       "anySingle": false,
-      "anyDual": true,
-      "anyEither": false,
+      "anyDual": false,
+      "anyEither": true,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4699,
-      "projectId": 2193,
-      "degreeTypeId": 2,
+      "projectDisciplineId": 4687,
+      "projectId": 2335,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 8,
+      "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 1,
-      "totalRequirement": 1,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
       "disciplineCodes": "Any",
       "graduationTypeIds": [],
-      "degree": "Dual",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -62,12 +62,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2107,
-      "projectId": 2193,
+      "projectFacilityId": 2249,
+      "projectId": 2335,
       "officeStartTime": "09:00:00",
-      "officeEndTime": "17:00:00",
+      "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 75000,
+      "ugstipend": 0,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -94,7 +94,7 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-05-30T11:55:36",
+      "createdDate": "2024-06-03T15:31:29",
       "modifiedBy": null,
       "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
@@ -105,29 +105,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50679,
-      "projectId": 2193,
+      "projectSkillId": 51015,
+      "projectId": 2335,
       "skillId": 431
     },
     {
-      "projectSkillId": 50680,
-      "projectId": 2193,
-      "skillId": 141
+      "projectSkillId": 51016,
+      "projectId": 2335,
+      "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2193,
-      "projectDomainId": 3099,
-      "academicDomainId": 29
+      "projectId": 2335,
+      "projectDomainId": 3312,
+      "academicDomainId": 81
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2840,
-      "projectId": 2193,
-      "academicSubDomainId": 367
+      "projectSubDomainId": 3042,
+      "projectId": 2335,
+      "academicSubDomainId": 162
     }
   ],
   "projectSubjectArea": [],
