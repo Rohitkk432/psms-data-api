@@ -12,11 +12,7 @@ interface MarkdownRendererProps {
 
 const MarkdownRenderer = ({ children, className }: React.PropsWithChildren<MarkdownRendererProps>) => {
     return (
-        <ReactMarkdown
-            remarkPlugins={[remarkGfm]}
-            rehypePlugins={[rehypeRaw]}
-            className={cn(className)}
-            >
+        <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} className={cn(className)}>
             {children as string}
         </ReactMarkdown>
     );
