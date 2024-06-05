@@ -1,0 +1,147 @@
+{
+  "projectId": 2341,
+  "stationId": 5858,
+  "problemBankId": 1353,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Business Analytics Intern",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><strong style=\"background-color: rgb(255, 255, 255); color: rgb(13, 13, 13);\">As a Business Analytics Intern at Incedo, you'll use your healthcare knowledge to study data, make reports, and help with digital projects in healthcare. You'll create charts, research industry trends, and check data quality. You'll work with teams to provide insights and support important decisions for our clients.</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: MS Excel, SQL, Python</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Traits expectation: Strong knowledge of Healthcare, Analytical skills, Good Communication skills, Knowledge of Finance and Economics.</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: User research, Market Analysis</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; Derivatives and risk management, Fundamentals of finance and accounting, Business analysis and valuation, Security analysis and portfolio management, Financial management,&nbsp; Pharmacoeconomics, Principles of Economics, Linguistics, Bhagavad gita, Pharmaceutical formulations, Pharmaceutical Chemistry.</strong></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2341,
+      "projectDisciplineId": 4738,
+      "projectDisciplineCodes": "A5",
+      "discCodesPerProject": "A5",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4738,
+      "projectId": 2341,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A5",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12427,
+          "projectDisciplineId": 4738,
+          "graduationTypeId": 1,
+          "disciplineId": 11,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2255,
+      "projectId": 2341,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-04T06:01:21",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-04T11:14:40",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51031,
+      "projectId": 2341,
+      "skillId": 135
+    },
+    {
+      "projectSkillId": 51032,
+      "projectId": 2341,
+      "skillId": 167
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2341,
+      "projectDomainId": 3321,
+      "academicDomainId": 32
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3051,
+      "projectId": 2341,
+      "academicSubDomainId": 482
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

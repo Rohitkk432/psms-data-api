@@ -1,0 +1,135 @@
+{
+  "projectId": 2350,
+  "stationId": 5865,
+  "problemBankId": 1362,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project-1",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: Repurpose old EmpowerU Content to be regularly posted on the group.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Create more videos &amp; easy to consume collaterals for trainings</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Create regular quizzes for the sales &amp; CEA teams to ensure that the information is well retained.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Creating a booklet of FAQs</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Help in creating Credit Policy, KYC &amp; Collection policy.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:&nbsp; Sof</strong></p><p><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Manisha Bansal",
+  "mentorEmailId": "manisha.bansal.cons@kuhoo.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2350,
+      "projectDisciplineId": 4721,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4721,
+      "projectId": 2350,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2264,
+      "projectId": 2350,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-04T08:49:08",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51050,
+      "projectId": 2350,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51051,
+      "projectId": 2350,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2350,
+      "projectDomainId": 3333,
+      "academicDomainId": 81
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3063,
+      "projectId": 2350,
+      "academicSubDomainId": 162
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
