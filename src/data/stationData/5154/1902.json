@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1902,
-      "projectDisciplineId": 3946,
+      "projectDisciplineId": 4803,
       "projectDisciplineCodes": "A3,A7,A8,AA",
       "discCodesPerProject": "A3,A7,A8,AA",
       "graduationTypeIds": [
@@ -33,15 +33,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 3946,
+      "projectDisciplineId": 4803,
       "projectId": 1902,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 8,
       "cgpamax": 10,
-      "freshRequirement": 2,
-      "totalRequirement": 2,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -60,29 +60,29 @@
       "anyDualDegree": 1,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 10015,
-          "projectDisciplineId": 3946,
+          "projectDisciplineDetailId": 12924,
+          "projectDisciplineId": 4803,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 10016,
-          "projectDisciplineId": 3946,
+          "projectDisciplineDetailId": 12925,
+          "projectDisciplineId": 4803,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 10017,
-          "projectDisciplineId": 3946,
+          "projectDisciplineDetailId": 12926,
+          "projectDisciplineId": 4803,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 10018,
-          "projectDisciplineId": 3946,
+          "projectDisciplineDetailId": 12927,
+          "projectDisciplineId": 4803,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
@@ -129,7 +129,7 @@
       "createdBy": "kranthi.kumar@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-20T15:40:58",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-02T10:44:44",
+      "modifiedDate": "2024-06-06T07:30:44",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
