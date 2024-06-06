@@ -278,20 +278,20 @@ export default function StationsPage() {
                             : true
                     )
                         if (
-                            (pune && item.city === "Pune") ||
-                            (hyd && item.city === "Hyderabad") ||
-                            (mumbai && item.city === "Mumbai") ||
-                            (gurgaon && item.city === "Gurgaon") ||
-                            (bangalore && (item.city === "Bangalore" || item.city === "Bengaluru")) ||
-                            (delhi && item.city === "Delhi") ||
+                            (pune && item.city.includes("Pune")) ||
+                            (hyd && item.city.includes("Hyderabad")) ||
+                            (mumbai && item.city.includes("Mumbai")) ||
+                            (gurgaon && item.city.includes("Gurgaon")) ||
+                            (bangalore && (item.city.includes("Bangalore") || item.city.includes("Bengaluru"))) ||
+                            (delhi && item.city.includes("Delhi")) ||
                             (other &&
-                                item.city !== "Pune" &&
-                                item.city !== "Hyderabad" &&
-                                item.city !== "Mumbai" &&
-                                item.city !== "Gurgaon" &&
-                                item.city !== "Bangalore" &&
-                                item.city !== "Delhi" &&
-                                item.city !== "Bengaluru")
+                                !item.city.includes("Pune") &&
+                                !item.city.includes("Hyderabad") &&
+                                !item.city.includes("Mumbai") &&
+                                !item.city.includes("Gurgaon") &&
+                                !item.city.includes("Bangalore") &&
+                                !item.city.includes("Delhi") &&
+                                !item.city.includes("Bengaluru"))
                         )
                             return (
                                 <div key={item.stationId} className="w-full grid grid-cols-7 py-2 items-center justify-center border-b text-white text-lg">
