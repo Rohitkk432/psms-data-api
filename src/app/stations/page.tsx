@@ -249,11 +249,12 @@ export default function StationsPage() {
                 </button>
             </div>
 
-            <div className="w-full grid grid-cols-7 py-2 rounded-xl items-center justify-center bg-gray-700 text-white text-lg">
+            <div className="w-full grid grid-cols-9 py-2 rounded-xl items-center justify-center bg-gray-700 text-white text-lg">
                 <div className="flex items-center justify-center">StationID</div>
-                <div className="flex col-span-2 items-center justify-center">Station Name</div>
+                <div className="flex col-span-3 items-center justify-center">Station Name</div>
                 <div className="flex items-center justify-center">Location</div>
                 <div className="flex items-center justify-center">Domain</div>
+                <div className="flex items-center justify-center">Requirmnt</div>
                 <div className="flex items-center justify-center">MinCGPA</div>
                 <div className="flex items-center justify-center">Details</div>
             </div>
@@ -294,11 +295,12 @@ export default function StationsPage() {
                                 !item.city.includes("Bengaluru"))
                         )
                             return (
-                                <div key={item.stationId} className="w-full grid grid-cols-7 py-2 items-center justify-center border-b text-white text-lg">
+                                <div key={item.stationId} className="w-full grid grid-cols-9 py-2 items-center justify-center border-b text-white text-lg">
                                     <div className="flex items-center justify-center">{item.stationId}</div>
-                                    <div className="col-span-2 text-center flex items-center justify-center">{item.stationName}</div>
+                                    <div className="col-span-3 text-center flex items-center justify-center">{item.stationName}</div>
                                     <div className="flex items-center justify-center">{item.city}</div>
                                     <div className="flex items-center justify-center">{item.stationDomain}</div>
+                                    <div className="flex items-center justify-center">{item.requirements}</div>
                                     <div className="flex items-center justify-center">{item.minCgpa}</div>
                                     <a href={`/station-details/${item.stationId}`} className="flex items-center rounded-xl bg-blue-500 justify-center">
                                         Details
