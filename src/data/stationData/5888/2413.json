@@ -1,0 +1,155 @@
+{
+  "projectId": 2413,
+  "stationId": 5888,
+  "problemBankId": 1400,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Identification of Sepsis Biomarkers Title: Identifying the Role of Molecular and Regulatory Cell Death Biomarkers in Sepsis Pathophysiology",
+  "description": "<p>Sepsis is a life-threatening organ dysfunction caused by dysregulated host response to</p><p>infection. The pathophysiology of sepsis is quite complex and involves multiple organ</p><p>systems. We train the students starting from DNA/RNA isolation, serum protein estimation</p><p>by ELISA, real-time PCR (RT-PCR), and the estimation of protein biomarkers by Western</p><p>Blotting techniques.</p><p>The project aims to (a) investigate the role of molecular biomarkers that are involved in the</p><p>cell death mechanisms signalling pathways such as apoptosis, necroptosis, pyroptosis, and</p><p>autophagy pathways in sepsis, (b) to establish the regulatory mechanisms (Regulatory T-cells)</p><p>governing sepsis-induced immune cell death, and (c) developing a multiple marker diagnostic</p><p>panel using microfluidics technology.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2413,
+      "projectDisciplineId": 4813,
+      "projectDisciplineCodes": "AnyB1,B1",
+      "discCodesPerProject": "AnyB1,B1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4813,
+      "projectId": 2413,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB1,B1",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12943,
+          "projectDisciplineId": 4813,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 16
+        },
+        {
+          "projectDisciplineDetailId": 12944,
+          "projectDisciplineId": 4813,
+          "graduationTypeId": 1,
+          "disciplineId": 16,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2327,
+      "projectId": 2413,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-06T08:59:07",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51199,
+      "projectId": 2413,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51200,
+      "projectId": 2413,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2413,
+      "projectDomainId": 3412,
+      "academicDomainId": 121
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3144,
+      "projectId": 2413,
+      "academicSubDomainId": 229
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

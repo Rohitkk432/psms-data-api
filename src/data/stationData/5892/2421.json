@@ -1,13 +1,13 @@
 {
-  "projectId": 2276,
-  "stationId": 5819,
-  "problemBankId": 1301,
+  "projectId": 2421,
+  "stationId": 5892,
+  "problemBankId": 1404,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "UI UX Design",
-  "description": "<p>Description: Designing intuitive and visually appealing user interfaces to enhance</p><p>user experience.</p><p>Skill sets: Photoshop, Adobe AI, FIGMA, User research, prototyping, graphic</p><p>design, usability testing.</p><p>Expected learning: Human-computer interaction, visual design principles,</p><p>wireframing techniques.</p><p>Specific courses required for project execution: UI Design Fundamentals, UX</p><p>Research and Analysis, Adobe XD Essentials.</p>",
+  "title": "Forex Card Management System",
+  "description": "<p><br></p><p>Description: Forex card management System for launching any type of forex card with</p><p>quicker GTM</p><p>Skill sets: Java, Databases, Cloud (AWS, Google Cloud), Data Structures</p><p>Expected learning: Distributed System, Cloud native architecture, LDD, HLD, Scalability,</p><p>Cloud</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,34 +17,39 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2276,
-      "projectDisciplineId": 4599,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectId": 2421,
+      "projectDisciplineId": 4822,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4599,
-      "projectId": 2276,
+      "projectDisciplineId": 4822,
+      "projectId": 2421,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 5,
+      "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -53,8 +58,23 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12965,
+          "projectDisciplineId": 4822,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 12966,
+          "projectDisciplineId": 4822,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -62,12 +82,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2189,
-      "projectId": 2276,
+      "projectFacilityId": 2335,
+      "projectId": 2421,
       "officeStartTime": "10:00:00",
       "officeEndTime": "19:00:00",
       "weekHolidays": "Saturday,Sunday",
-      "ugstipend": 20000,
+      "ugstipend": 50000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -94,9 +114,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-01T08:33:40",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-06T13:03:03",
+      "createdDate": "2024-06-06T09:32:41",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,39 +125,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50880,
-      "projectId": 2276,
+      "projectSkillId": 51215,
+      "projectId": 2421,
       "skillId": 431
     },
     {
-      "projectSkillId": 50881,
-      "projectId": 2276,
+      "projectSkillId": 51216,
+      "projectId": 2421,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2276,
-      "projectDomainId": 3213,
-      "academicDomainId": 5
+      "projectId": 2421,
+      "projectDomainId": 3420,
+      "academicDomainId": 29
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2949,
-      "projectId": 2276,
-      "academicSubDomainId": 132
-    },
-    {
-      "projectSubDomainId": 2950,
-      "projectId": 2276,
-      "academicSubDomainId": 138
-    },
-    {
-      "projectSubDomainId": 2951,
-      "projectId": 2276,
-      "academicSubDomainId": 164
+      "projectSubDomainId": 3152,
+      "projectId": 2421,
+      "academicSubDomainId": 490
     }
   ],
   "projectSubjectArea": [],

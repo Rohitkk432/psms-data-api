@@ -1,13 +1,13 @@
 {
-  "projectId": 2276,
-  "stationId": 5819,
-  "problemBankId": 1301,
+  "projectId": 2423,
+  "stationId": 5893,
+  "problemBankId": 1405,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "UI UX Design",
-  "description": "<p>Description: Designing intuitive and visually appealing user interfaces to enhance</p><p>user experience.</p><p>Skill sets: Photoshop, Adobe AI, FIGMA, User research, prototyping, graphic</p><p>design, usability testing.</p><p>Expected learning: Human-computer interaction, visual design principles,</p><p>wireframing techniques.</p><p>Specific courses required for project execution: UI Design Fundamentals, UX</p><p>Research and Analysis, Adobe XD Essentials.</p>",
+  "title": "Product interns",
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">Note : The product interns will be simultaneously working on the product development aspect of all three projects.Hence their work description can be taken as a combination of all the three projects,but with focus on the product details.</span></p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,8 +17,8 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2276,
-      "projectDisciplineId": 4599,
+      "projectId": 2423,
+      "projectDisciplineId": 4824,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,12 +31,12 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4599,
-      "projectId": 2276,
+      "projectDisciplineId": 4824,
+      "projectId": 2423,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 5,
+      "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
@@ -62,12 +62,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2189,
-      "projectId": 2276,
+      "projectFacilityId": 2337,
+      "projectId": 2423,
       "officeStartTime": "10:00:00",
       "officeEndTime": "19:00:00",
       "weekHolidays": "Saturday,Sunday",
-      "ugstipend": 20000,
+      "ugstipend": 40000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -94,9 +94,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-01T08:33:40",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-06T13:03:03",
+      "createdDate": "2024-06-06T09:41:52",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,39 +105,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50880,
-      "projectId": 2276,
+      "projectSkillId": 51219,
+      "projectId": 2423,
       "skillId": 431
     },
     {
-      "projectSkillId": 50881,
-      "projectId": 2276,
+      "projectSkillId": 51220,
+      "projectId": 2423,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2276,
-      "projectDomainId": 3213,
-      "academicDomainId": 5
+      "projectId": 2423,
+      "projectDomainId": 3422,
+      "academicDomainId": 29
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2949,
-      "projectId": 2276,
-      "academicSubDomainId": 132
-    },
-    {
-      "projectSubDomainId": 2950,
-      "projectId": 2276,
-      "academicSubDomainId": 138
-    },
-    {
-      "projectSubDomainId": 2951,
-      "projectId": 2276,
-      "academicSubDomainId": 164
+      "projectSubDomainId": 3154,
+      "projectId": 2423,
+      "academicSubDomainId": 490
     }
   ],
   "projectSubjectArea": [],

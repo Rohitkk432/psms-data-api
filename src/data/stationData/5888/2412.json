@@ -1,0 +1,155 @@
+{
+  "projectId": 2412,
+  "stationId": 5888,
+  "problemBankId": 1400,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Genetic association studies (GAS):Title: Role of DNA markers in identifying the association with disease pathogenesis",
+  "description": "<p>Genome studies enable the discovery, and characterisation of genetic mutations/variations associated</p><p>with a specific disease. Currently, we are working on identifying the molecular signaling pathways</p><p>involved in the pathogenesis of diseases such as asthma, a chronic inflammatory lung disease;</p><p><br></p><p>Parkinson’s disease, a late-onset neurodegenerative disease; Premature Ovarian Failure, an infertility-</p><p>related reproductive disease; and Liver cirrhosis, a liver disease. Biomarker identification is carried out</p><p><br></p><p>using different techniques, such as DNA/RNA isolation, Agarose Gel Electrophoresis, PCR, PCR-RFLP,</p><p>and RT-PCR including primer designing.</p><p>Students will receive training on different hands-on molecular techniques, equipping them with the</p><p>skills required to independently manage tasks at bench-side.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2412,
+      "projectDisciplineId": 4812,
+      "projectDisciplineCodes": "AnyB1,B1",
+      "discCodesPerProject": "AnyB1,B1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4812,
+      "projectId": 2412,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB1,B1",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12941,
+          "projectDisciplineId": 4812,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 16
+        },
+        {
+          "projectDisciplineDetailId": 12942,
+          "projectDisciplineId": 4812,
+          "graduationTypeId": 1,
+          "disciplineId": 16,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2326,
+      "projectId": 2412,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-06T08:58:00",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51197,
+      "projectId": 2412,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51198,
+      "projectId": 2412,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2412,
+      "projectDomainId": 3411,
+      "academicDomainId": 121
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3143,
+      "projectId": 2412,
+      "academicSubDomainId": 229
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

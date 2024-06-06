@@ -1,0 +1,155 @@
+{
+  "projectId": 2411,
+  "stationId": 5888,
+  "problemBankId": 1400,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Development of Microfluidic Device (MFD): Title: Design and Fabrication of a Microfluidic Device for Biomedical Applications",
+  "description": "<p>Project Overview: This project involves designing, and fabricating a microfluidic device for biomedical</p><p>applications, utilizing CAD software for design and soft lithography techniques with materials like</p><p>PDMS for construction. The device's performance will be tested through flow tests. Required skills</p><p>include proficiency in CAD software, microfabrication techniques, and microscopy, along with, basic</p><p>laboratory and analytical skills. Effective communication, teamwork, and time management are also</p><p>essential. By the project's end, students will have hands-on experience in microfluidic device</p><p>fabrication and testing, equipping them with skills relevant to biomedical engineering.</p><p>Project Deliverables:</p><p>? A fully functional microfluidic device prototype.</p><p>? A comprehensive report detailing the design process, fabrication methods, testing procedures</p><p>and results.</p><p>? A presentation summarizing the project’s objectives, methodology, findings, and potential</p><p>applications.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2411,
+      "projectDisciplineId": 4811,
+      "projectDisciplineCodes": "AnyB1,B1",
+      "discCodesPerProject": "AnyB1,B1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4811,
+      "projectId": 2411,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB1,B1",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12939,
+          "projectDisciplineId": 4811,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 16
+        },
+        {
+          "projectDisciplineDetailId": 12940,
+          "projectDisciplineId": 4811,
+          "graduationTypeId": 1,
+          "disciplineId": 16,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2325,
+      "projectId": 2411,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-06T08:57:16",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51195,
+      "projectId": 2411,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51196,
+      "projectId": 2411,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2411,
+      "projectDomainId": 3410,
+      "academicDomainId": 121
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3142,
+      "projectId": 2411,
+      "academicSubDomainId": 229
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,155 @@
+{
+  "projectId": 2410,
+  "stationId": 5888,
+  "problemBankId": 1400,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Metagenomics analysis Title: Computational analysis of Gut Microbiome profiles in liver transplant donors and recipients",
+  "description": "<p>Metagenomics is a new approach to studying the composition of microorganisms found in a specific</p><p>environment using functional gene screening. This project focuses on identification of microbial</p><p>signatures in liver transplant (LT) recipients and donors using computational and statistical analysis of</p><p>bacterial profiles of 16S rRNA sequencing with Bioinformatics tools and by using QIIME 2 advanced</p><p>software. Alpha and Beta diversity indices assess the bacterial composition at various taxonomic</p><p>levels such as Phylum, Class, Order, Genus, and Species.</p><p>Computational screening helps us understand the variations in the intestinal microbial signatures of</p><p>LT recipients and, is recognized as an early target for therapeutic intervention during the post-LT</p><p>period. The methodology involves a series of steps such as cleaning the FASTq raw sequence data files,</p><p>removing first the overlapping sequences, and then chimeras, followed by clustering of quality filtered</p><p>unique sequences, and finally sorting them into taxonomic classification using operational taxonomic</p><p>units (OTUs) analysis pipeline. Handling the online Bioinformatics pipelines in this project benefits the</p><p>students to adopt dexterous usage of the metagenomics pipeline in identifying gut microbiome</p><p>signatures among LT patients.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2410,
+      "projectDisciplineId": 4814,
+      "projectDisciplineCodes": "B1,AnyB1",
+      "discCodesPerProject": "B1,AnyB1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4814,
+      "projectId": 2410,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "B1,AnyB1",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12945,
+          "projectDisciplineId": 4814,
+          "graduationTypeId": 1,
+          "disciplineId": 16,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12946,
+          "projectDisciplineId": 4814,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 16
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2324,
+      "projectId": 2410,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-06T08:56:24",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-06T09:00:22",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51193,
+      "projectId": 2410,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51194,
+      "projectId": 2410,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2410,
+      "projectDomainId": 3409,
+      "academicDomainId": 121
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3141,
+      "projectId": 2410,
+      "academicSubDomainId": 229
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

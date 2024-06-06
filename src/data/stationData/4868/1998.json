@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1998,
-      "projectDisciplineId": 4634,
+      "projectDisciplineId": 4809,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,15 +31,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4634,
+      "projectDisciplineId": 4809,
       "projectId": 1998,
       "degreeTypeId": null,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 0,
-      "totalRequirement": 0,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -95,8 +95,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-22T05:44:19",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-06T08:52:38",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
