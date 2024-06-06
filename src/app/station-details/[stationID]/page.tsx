@@ -81,7 +81,11 @@ const StationDetails = async ({ params }: any) => {
                         <div className="w-full flex items-start justify-between flex-wrap text-lg px-10 gap-2 my-4">
                             <strong>description-</strong>
                             <div>
-                                <MarkdownRenderer>{item.description.replaceAll("color: rgb(0, 0, 0);", "color: rgb(255, 255, 255);")}</MarkdownRenderer>
+                                <MarkdownRenderer>
+                                    {item.description
+                                        .replaceAll("color: rgb(0, 0, 0);", "color: rgb(255, 255, 255);")
+                                        .replaceAll("background-color: rgb(255, 255, 255)", "background-color: rgb(0, 0, 0)")}
+                                </MarkdownRenderer>
                             </div>
                         </div>
                         <div className="w-full flex items-center justify-between text-lg px-10">
