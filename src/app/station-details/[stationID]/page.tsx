@@ -88,36 +88,36 @@ const StationDetails = async ({ params }: any) => {
                                 </MarkdownRenderer>
                             </div>
                         </div>
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <div>CGPA </div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>CGPA </strong>
                             <div>
                                 {item.projectDiscipline[0].cgpamin} - {item.projectDiscipline[0].cgpamax}
                             </div>
                         </div>
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <div>disciplineCodes</div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>disciplineCodes</strong>
                             <div>{item.projectDiscipline[0].disciplineCodes}</div>
                         </div>
 
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <div>degree</div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>degree</strong>
                             <div>{item.projectDiscipline[0].degree}</div>
                         </div>
 
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <div>ugstipend</div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>ugstipend</strong>
                             <div>
                                 {item.projectFacility[0].ugstipend} {item.projectFacility[0].currency}
                             </div>
                         </div>
 
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <div>pgstipend</div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>pgstipend</strong>
                             <div>
                                 {item.projectFacility[0].pgstipend} {item.projectFacility[0].currency}
                             </div>
                         </div>
-                        <div className="w-full flex flex-col my-4 justify-between text-lg px-10">
+                        <div className="w-full flex flex-wrap flex-col my-4 justify-between text-lg px-10">
                             <strong>projectElective - </strong>
                             <div className="flex flex-col gap-1">
                                 {item.projectElective.map((skl: any) => {

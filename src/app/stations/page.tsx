@@ -50,7 +50,7 @@ export default function StationsPage() {
     }, []);
 
     return (
-        <main className="flex min-h-screen flex-col items-center gap-4 px-24 py-12">
+        <main className="flex min-h-screen flex-col items-center gap-4 px-8 py-12">
             <div className="w-full flex flex-col border border-gray-600 py-3 rounded-md gap-1 items-center justify-center">
                 <div className="w-full flex gap-1 items-center justify-center text-6xl font-black">
                     <div className="text-green-500">P</div>
@@ -58,11 +58,6 @@ export default function StationsPage() {
                     <div className="text-violet-500">M</div>
                     <div className="text-green-500">S</div>
                 </div>
-                {/* <div className="w-full tracking-wider flex gap-1 items-center justify-center text-2xl font-normal">
-                    <div className="text-blue-500">Mere</div>
-                    <div className="text-red-500">Lode</div>
-                    <div className="text-yellow-500">Pe</div>
-                </div> */}
                 BRRR
             </div>
             <div className="w-full flex items-center justify-center text-2xl font-bold">PS Stations List</div>
@@ -299,7 +294,7 @@ export default function StationsPage() {
                                     <div className="flex items-center justify-center">{item.stationId}</div>
                                     <div className="col-span-3 text-center flex items-center justify-center">{item.stationName}</div>
                                     <div className="flex items-center justify-center">{item.city}</div>
-                                    <div className="flex items-center justify-center">{item.stationDomain}</div>
+                                    <div className="flex items-center text-center justify-center">{item.stationDomain}</div>
                                     <div className="flex items-center justify-center">{item.requirements}</div>
                                     <div className="flex items-center justify-center">{item.minCgpa}</div>
                                     <a href={`/station-details/${item.stationId}`} className="flex items-center rounded-xl bg-blue-500 justify-center">
