@@ -1,0 +1,155 @@
+{
+  "projectId": 2371,
+  "stationId": 5875,
+  "problemBankId": 1374,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "AICA financing platform",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description</strong>: AI-Enabled Credit Assessment Platform that leverages cutting-edge artificial intelligence to revolutionize the way creditworthiness is evaluated. This innovative solution reduces the risk, accelerates the decision-making process, and extends credit access to the underserved market.</p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong>Programming proficiency in Java, ReactJS, NodeJS, MongoDB, MySQL</p><p class=\"ql-align-justify\"><strong>Traits expectation: </strong>Programming, SQL concepts</p><p class=\"ql-align-justify\"><strong>Expected learning: </strong>The intern is expected to have learning as a developer and at the end of internship can operate at the capacity of software developer.</p><p><strong>Specific courses required for project execution:&nbsp;Core Java, OOPs, Computer System Architecture</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Rishabh Khatri",
+  "mentorEmailId": "rishabh@recur.club",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2371,
+      "projectDisciplineId": 4754,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4754,
+      "projectId": 2371,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12485,
+          "projectDisciplineId": 4754,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 12486,
+          "projectDisciplineId": 4754,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2285,
+      "projectId": 2371,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-05T04:48:42",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51113,
+      "projectId": 2371,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51114,
+      "projectId": 2371,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2371,
+      "projectDomainId": 3366,
+      "academicDomainId": 235
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3095,
+      "projectId": 2371,
+      "academicSubDomainId": 485
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

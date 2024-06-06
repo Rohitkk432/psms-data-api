@@ -1,0 +1,155 @@
+{
+  "projectId": 2372,
+  "stationId": 5875,
+  "problemBankId": 1374,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Data Quality Engineering",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong>Data pipelines and engineering is the core platform to enable credit underwriting and matchmaking on Recur and AICA platform.&nbsp;</p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong>Python, AWS, Mysql, MongoDB</p><p class=\"ql-align-justify\"><strong>Traits expectation: </strong>Programming, SQL concepts</p><p class=\"ql-align-justify\"><strong>Expected learning: </strong>The intern is expected to have learning as a developer and at the end of internship can operate at the capacity of software developer.</p><p><strong>Specific courses required for project execution:&nbsp;Python, Computer System Architecture</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Udit Jaiswal",
+  "mentorEmailId": "udit@recur.club",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2372,
+      "projectDisciplineId": 4755,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4755,
+      "projectId": 2372,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12487,
+          "projectDisciplineId": 4755,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 12488,
+          "projectDisciplineId": 4755,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2286,
+      "projectId": 2372,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-05T04:50:39",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51115,
+      "projectId": 2372,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51116,
+      "projectId": 2372,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2372,
+      "projectDomainId": 3367,
+      "academicDomainId": 235
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3096,
+      "projectId": 2372,
+      "academicSubDomainId": 485
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

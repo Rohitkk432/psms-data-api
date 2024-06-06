@@ -1,11 +1,30 @@
 {
-  "problemBankGridLines": [],
+  "problemBankGridLines": [
+    {
+      "stationId": 4913,
+      "stationName": "DBOI - OPS, Bengaluru",
+      "parentStationName": "DBOI",
+      "stationCity": "Bengaluru",
+      "problemBankId": 1390,
+      "businessDomain": "Finance and Mgmt",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 10,
+      "noOfProject": 4,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 1,
+      "status": null,
+      "createdBy": "planning@bits.com"
+    }
+  ],
   "pageInfo": {
     "page": 1,
     "pageSize": 50,
     "defaultPageSize": 50,
-    "totalItemCount": 0,
-    "numberOfPages": 0,
+    "totalItemCount": 1,
+    "numberOfPages": 1,
     "sortBy": "ProblemBankId",
     "sortDirection": null
   }

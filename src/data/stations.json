@@ -329,8 +329,6 @@
     "accomodation": "null",
     "projectDomains": [
       5,
-      21,
-      27,
       28
     ],
     "preferenceNo": null,
@@ -1080,6 +1078,24 @@
     "minCgpa": 7.5
   },
   {
+    "stationId": 5885,
+    "stationName": "Concentric AI",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      281
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 5515,
     "stationName": "Covvalent",
     "cityId": 120306,
@@ -1239,12 +1255,104 @@
     "minCgpa": 8
   },
   {
+    "stationId": 4680,
+    "stationName": "DBOI - Business Finance,Mumbai",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      44
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
+    "stationId": 4742,
+    "stationName": "DBOI - Credit Risk Data Unit (CRDU),Pune",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      44
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
+    "stationId": 4681,
+    "stationName": "DBOI - ERM,Mumbai",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      44
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
+    "stationId": 4831,
+    "stationName": "DBOI - GCAF,Mumbai",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      44
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
+    "stationId": 5884,
+    "stationName": "DBOI - Global Reporting, Mumbai",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      44
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 4849,
     "stationName": "DBOI - Global Reporting,Pune",
     "cityId": 29,
     "city": "Pune",
     "accomodation": "null",
-    "projectDomains": [],
+    "projectDomains": [
+      44
+    ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
@@ -1260,7 +1368,9 @@
     "cityId": 14,
     "city": "Mumbai",
     "accomodation": "null",
-    "projectDomains": [],
+    "projectDomains": [
+      44
+    ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
@@ -1276,7 +1386,9 @@
     "cityId": 29,
     "city": "Pune",
     "accomodation": "null",
-    "projectDomains": [],
+    "projectDomains": [
+      44
+    ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
@@ -1288,11 +1400,13 @@
   },
   {
     "stationId": 4989,
-    "stationName": "DBOI - MRM,Mumbai",
+    "stationName": "DBOI - MRAC,Mumbai",
     "cityId": 14,
     "city": "Mumbai",
     "accomodation": "null",
-    "projectDomains": [],
+    "projectDomains": [
+      44
+    ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
@@ -1304,17 +1418,37 @@
   },
   {
     "stationId": 4913,
-    "stationName": "DBOI - Ops. IB CB,Bengaluru",
+    "stationName": "DBOI - OPS, Bengaluru",
     "cityId": 122567,
     "city": "Bengaluru",
     "accomodation": "null",
-    "projectDomains": [],
+    "projectDomains": [
+      44
+    ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
     "preferredByStudent": null,
     "stationDomain": "Finance and Mgmt",
     "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
+    "stationId": 4702,
+    "stationName": "DBOI - Valuations, Mumbai",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      44
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
     "country": "India",
     "minCgpa": 10
   },
@@ -1429,6 +1563,24 @@
     "state": "Maharashtra",
     "country": "India",
     "minCgpa": 7.5
+  },
+  {
+    "stationId": 5876,
+    "stationName": "Digicert Security India Pvt Ltd",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      44
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 10
   },
   {
     "stationId": 4761,
@@ -2958,6 +3110,24 @@
     "minCgpa": 7.5
   },
   {
+    "stationId": 5863,
+    "stationName": "INTELLIGENT SYSTEMS",
+    "cityId": 29,
+    "city": "Pune",
+    "accomodation": "null",
+    "projectDomains": [
+      28
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 5636,
     "stationName": "Inwise",
     "cityId": 122567,
@@ -3361,6 +3531,25 @@
     "state": "Maharashtra",
     "country": "India",
     "minCgpa": 7
+  },
+  {
+    "stationId": 5883,
+    "stationName": "KAAPD (Joyous Trendz Limited)",
+    "cityId": 120306,
+    "city": "Gurgaon",
+    "accomodation": "null",
+    "projectDomains": [
+      22,
+      155
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Haryana",
+    "country": "India",
+    "minCgpa": 10
   },
   {
     "stationId": 4747,
@@ -3975,6 +4164,25 @@
     "minCgpa": 0
   },
   {
+    "stationId": 5004,
+    "stationName": "Metadome,Gurugram",
+    "cityId": 120306,
+    "city": "Gurgaon",
+    "accomodation": "null",
+    "projectDomains": [
+      14,
+      67
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Mechanical",
+    "state": "Haryana",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 4998,
     "stationName": "Ministry of Tribal Affairs,New Delhi",
     "cityId": 121802,
@@ -4304,6 +4512,25 @@
     "minCgpa": 7.5
   },
   {
+    "stationId": 5886,
+    "stationName": "MSCI Services Pvt. Ltd. - Index Management Research",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      143,
+      4
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 5026,
     "stationName": "MSCI Services Pvt. Ltd. - NPD",
     "cityId": 14,
@@ -4381,8 +4608,8 @@
   {
     "stationId": 5655,
     "stationName": "Nagpal & Associates",
-    "cityId": 120306,
-    "city": "Gurgaon",
+    "cityId": 121224,
+    "city": "Bhiwadi",
     "accomodation": "null",
     "projectDomains": [
       156
@@ -4392,7 +4619,7 @@
     "isOwnAccommodation": null,
     "preferredByStudent": null,
     "stationDomain": "Others",
-    "state": "Haryana",
+    "state": "Rajasthan",
     "country": "India",
     "minCgpa": 0
   },
@@ -4690,8 +4917,8 @@
   {
     "stationId": 5790,
     "stationName": "Nomura- IT Internship - GMIT",
-    "cityId": 122567,
-    "city": "Bengaluru",
+    "cityId": 14,
+    "city": "Mumbai",
     "accomodation": "null",
     "projectDomains": [
       81
@@ -4701,7 +4928,7 @@
     "isOwnAccommodation": null,
     "preferredByStudent": null,
     "stationDomain": "Others",
-    "state": "Karnataka",
+    "state": "Maharashtra",
     "country": "India",
     "minCgpa": 7.5
   },
@@ -5510,6 +5737,24 @@
     "minCgpa": 7
   },
   {
+    "stationId": 5875,
+    "stationName": "Recur Club",
+    "cityId": 120306,
+    "city": "Gurgaon",
+    "accomodation": "null",
+    "projectDomains": [
+      235
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Haryana",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 5847,
     "stationName": "Rekonsile com tech private limited",
     "cityId": 122567,
@@ -5829,8 +6074,8 @@
   {
     "stationId": 5724,
     "stationName": "Shodh.ai",
-    "cityId": 122567,
-    "city": "Bengaluru",
+    "cityId": 21,
+    "city": "Jaipur",
     "accomodation": "null",
     "projectDomains": [
       43
@@ -5840,7 +6085,7 @@
     "isOwnAccommodation": null,
     "preferredByStudent": null,
     "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
+    "state": "Rajasthan",
     "country": "India",
     "minCgpa": 0
   },
@@ -6140,6 +6385,24 @@
     "minCgpa": 6.5
   },
   {
+    "stationId": 5880,
+    "stationName": "Smart Joules Pvt Ltd.",
+    "cityId": 121802,
+    "city": "New Delhi",
+    "accomodation": "null",
+    "projectDomains": [
+      28
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Delhi",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 5646,
     "stationName": "Spyne - Non Tech",
     "cityId": 120306,
@@ -6361,6 +6624,43 @@
     "state": "Telangana",
     "country": "India",
     "minCgpa": 6.5
+  },
+  {
+    "stationId": 5881,
+    "stationName": "Synergiz Global - Civil",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      44,
+      3
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
+    "stationId": 5882,
+    "stationName": "Synergiz Global - IT",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      5
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 10
   },
   {
     "stationId": 5747,
@@ -6728,6 +7028,44 @@
     "minCgpa": 0
   },
   {
+    "stationId": 5877,
+    "stationName": "The Agri Collaboratory (TAC)",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      4,
+      278
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
+    "stationId": 5878,
+    "stationName": "The Agri Collaboratory (TAC), Gurugram",
+    "cityId": 120306,
+    "city": "Gurgaon",
+    "accomodation": "null",
+    "projectDomains": [
+      279,
+      278
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Haryana",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 5771,
     "stationName": "The Future University - Community Manager",
     "cityId": 121460,
@@ -6893,12 +7231,33 @@
     "minCgpa": 7.5
   },
   {
+    "stationId": 5879,
+    "stationName": "Trijal Motors",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      44,
+      280
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Mechanical",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 10
+  },
+  {
     "stationId": 4844,
-    "stationName": "UBER - Data Analytics,Hyderabad",
+    "stationName": "UBER - Data Analytics,Hyderabad.",
     "cityId": 24,
     "city": "Hyderabad",
     "accomodation": "null",
-    "projectDomains": [],
+    "projectDomains": [
+      23
+    ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
@@ -6928,11 +7287,13 @@
   },
   {
     "stationId": 4842,
-    "stationName": "UBER - Software Engineer,Hyderabad",
-    "cityId": 24,
-    "city": "Hyderabad",
+    "stationName": "UBER - Software Engineer,Bangalore/Hyderabad",
+    "cityId": 197048,
+    "city": "Bangalore/Hyderabad",
     "accomodation": "null",
-    "projectDomains": [],
+    "projectDomains": [
+      281
+    ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,

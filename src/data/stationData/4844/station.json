@@ -1,11 +1,30 @@
 {
-  "problemBankGridLines": [],
+  "problemBankGridLines": [
+    {
+      "stationId": 4844,
+      "stationName": "UBER - Data Analytics,Hyderabad.",
+      "parentStationName": "UBER - Data Analytics, Hyderabad. ",
+      "stationCity": "Hyderabad",
+      "problemBankId": 1395,
+      "businessDomain": "CSIS/IT",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 7,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 1,
+      "status": null,
+      "createdBy": "planning@bits.com"
+    }
+  ],
   "pageInfo": {
     "page": 1,
     "pageSize": 50,
     "defaultPageSize": 50,
-    "totalItemCount": 0,
-    "numberOfPages": 0,
+    "totalItemCount": 1,
+    "numberOfPages": 1,
     "sortBy": "ProblemBankId",
     "sortDirection": null
   }

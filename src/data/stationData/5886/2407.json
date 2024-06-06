@@ -1,0 +1,186 @@
+{
+  "projectId": 2407,
+  "stationId": 5886,
+  "problemBankId": 1398,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Creation and maintenance of MSCI Equity & Fixed Income Indexes",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: Creation and maintenance of MSCI Equity &amp; Fixed Income Indexes</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: Constructing and rebalancing the MSCI Equity &amp; Fixed Income Indexes in accordance with the index methodology</strong></p><ul><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Detailed understanding of the index rebalancing framework and capabilities, in order to support the development and maintenance of MSCI indexes</strong></li><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Understand the rules for constructing and maintaining the index.</strong></li><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Understand global Equity &amp; Fixed Income Markets</strong></li><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Knowledge of financial ratios, portfolio management</strong></li></ul><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Knowledge of coding required for back testing of index methodologies &amp; automation</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: Coding skills (preferably python &amp; SQL); Excellent verbal &amp; written communication skills</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning:&nbsp;</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; Coding skills (preferably python &amp; SQL)</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2407,
+      "projectDisciplineId": 4801,
+      "projectDisciplineCodes": "AnyA7,AnyB3,AnyB4",
+      "discCodesPerProject": "AnyA7,AnyB3,AnyB4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4801,
+      "projectId": 2407,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyB3,AnyB4",
+      "graduationTypeIds": [
+        0
+      ],
+      "degree": "Dual",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12913,
+          "projectDisciplineId": 4801,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 12914,
+          "projectDisciplineId": 4801,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 18
+        },
+        {
+          "projectDisciplineDetailId": 12915,
+          "projectDisciplineId": 4801,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2321,
+      "projectId": 2407,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 60000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-06T07:07:05",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51186,
+      "projectId": 2407,
+      "skillId": 150
+    },
+    {
+      "projectSkillId": 51187,
+      "projectId": 2407,
+      "skillId": 301
+    },
+    {
+      "projectSkillId": 51188,
+      "projectId": 2407,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2407,
+      "projectDomainId": 3405,
+      "academicDomainId": 143
+    },
+    {
+      "projectId": 2407,
+      "projectDomainId": 3406,
+      "academicDomainId": 4
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3135,
+      "projectId": 2407,
+      "academicSubDomainId": 13
+    },
+    {
+      "projectSubDomainId": 3136,
+      "projectId": 2407,
+      "academicSubDomainId": 469
+    },
+    {
+      "projectSubDomainId": 3137,
+      "projectId": 2407,
+      "academicSubDomainId": 177
+    },
+    {
+      "projectSubDomainId": 3138,
+      "projectId": 2407,
+      "academicSubDomainId": 256
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

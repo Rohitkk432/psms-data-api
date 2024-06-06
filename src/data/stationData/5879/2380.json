@@ -1,0 +1,183 @@
+{
+  "projectId": 2380,
+  "stationId": 5879,
+  "problemBankId": 1378,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Developing Supply Chain Management system with integrated multithreading",
+  "description": "<p>Description: Design a web based system for a distribution sector company used to</p><p>automate communication between management, clients and dealers</p><p>Skill sets: Excel, MATLAB</p><p>Traits expectation: Passionate to learn</p><p>Expected learning: Student will be able to use existing material available and adapt</p><p>to industry usage</p><p>Specific courses required for project execution: CS F213: Object Oriented</p><p>Programming</p><p>MF F319: Supply Chain Management</p><p>GS F311: Introduction to Conflict Management</p><p>GS F232: Introductory Psychology</p><p>FIN F315: Financial Management</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2380,
+      "projectDisciplineId": 4763,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4763,
+      "projectId": 2380,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12497,
+          "projectDisciplineId": 4763,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 12498,
+          "projectDisciplineId": 4763,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 12499,
+          "projectDisciplineId": 4763,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 12500,
+          "projectDisciplineId": 4763,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12501,
+          "projectDisciplineId": 4763,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12502,
+          "projectDisciplineId": 4763,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2294,
+      "projectId": 2380,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-05T06:01:53",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51131,
+      "projectId": 2380,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51132,
+      "projectId": 2380,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2380,
+      "projectDomainId": 3375,
+      "academicDomainId": 280
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3105,
+      "projectId": 2380,
+      "academicSubDomainId": 488
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

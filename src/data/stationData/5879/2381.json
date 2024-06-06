@@ -1,0 +1,183 @@
+{
+  "projectId": 2381,
+  "stationId": 5879,
+  "problemBankId": 1378,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Electrical Warehouse Management",
+  "description": "<p>Description: Day to day logs and checks of the electrical warehouse equipments</p><p>Skill sets: Excel, MATLAB</p><p>Traits expectation: Passionate to learn</p><p>Expected learning: Student will be able to use existing material available and adapt</p><p>to industry usage</p><p>Specific courses required for project execution: BITS F415: Introduction to MEMS</p><p>GS F243: Current Affairs</p><p>BITS F314: Game Theory and Applications</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2381,
+      "projectDisciplineId": 4764,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4764,
+      "projectId": 2381,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12503,
+          "projectDisciplineId": 4764,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 12504,
+          "projectDisciplineId": 4764,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 12505,
+          "projectDisciplineId": 4764,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 12506,
+          "projectDisciplineId": 4764,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12507,
+          "projectDisciplineId": 4764,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12508,
+          "projectDisciplineId": 4764,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2295,
+      "projectId": 2381,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-05T06:03:47",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51133,
+      "projectId": 2381,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51134,
+      "projectId": 2381,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2381,
+      "projectDomainId": 3376,
+      "academicDomainId": 280
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3106,
+      "projectId": 2381,
+      "academicSubDomainId": 488
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
