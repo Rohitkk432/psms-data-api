@@ -84,6 +84,7 @@ const StationDetails = async ({ params }: any) => {
                                 <MarkdownRenderer>
                                     {item.description
                                         .replaceAll("color: rgb(0, 0, 0);", "color: rgb(255, 255, 255);")
+                                        .replaceAll("color: black", "color: rgb(255, 255, 255);")
                                         .replaceAll("background-color: rgb(255, 255, 255)", "background-color: rgb(0, 0, 0)")}
                                 </MarkdownRenderer>
                             </div>
