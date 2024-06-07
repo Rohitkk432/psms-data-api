@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details Awaited",
-  "description": "<p>--</p>",
+  "title": "Title:          NATIONAL HIGH SPEED RAIL MUMBAI TERMINAL STATION",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><span style=\"color: black;\">NATIONAL HIGH SPEED RAIL MUMBAI TERMINAL STATION</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: Underground station Building</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: &nbsp;&nbsp;&nbsp;&nbsp;Good academic skills and knowledge in softwares </strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: </strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: &nbsp;&nbsp;</strong><span style=\"color: black;\">Strength of Materials and RCC &amp; Structural steel design standards</span></p><p><strong style=\"color: black;\">Specific courses required for project execution:&nbsp;</strong><span style=\"color: black;\">Software like Staad pro &amp; Etabs</span></p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2133,
-      "projectDisciplineId": 4339,
+      "projectDisciplineId": 4851,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,15 +31,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4339,
+      "projectDisciplineId": 4851,
       "projectId": 2133,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 5,
-      "totalRequirement": 5,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -96,7 +96,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-30T05:33:25",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-05-31T16:59:10",
+      "modifiedDate": "2024-06-07T11:45:17",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +105,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50542,
+      "projectSkillId": 51269,
       "projectId": 2133,
-      "skillId": 431
+      "skillId": 128
     },
     {
-      "projectSkillId": 50543,
+      "projectSkillId": 51270,
       "projectId": 2133,
-      "skillId": 141
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 2133,
-      "projectDomainId": 3024,
-      "academicDomainId": 81
+      "projectDomainId": 3449,
+      "academicDomainId": 41
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2772,
+      "projectSubDomainId": 3180,
       "projectId": 2133,
-      "academicSubDomainId": 162
+      "academicSubDomainId": 100
     }
   ],
   "projectSubjectArea": [],
