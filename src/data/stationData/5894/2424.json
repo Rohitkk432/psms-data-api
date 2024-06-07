@@ -1,0 +1,180 @@
+{
+  "projectId": 2424,
+  "stationId": 5894,
+  "problemBankId": 1406,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "constrained allotment - 1 ",
+  "description": "<p>constrained allotment - 1&nbsp;</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2424,
+      "projectDisciplineId": 4826,
+      "projectDisciplineCodes": "AA,AnyAA",
+      "discCodesPerProject": "AA,AnyAA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4826,
+      "projectId": 2424,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AA,AnyAA",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12972,
+          "projectDisciplineId": 4826,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12973,
+          "projectDisciplineId": 4826,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2338,
+      "projectId": 2424,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 33000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "They have strong preference for Jainam Hemani (2021AAPS0029P)",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-06T10:30:11",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-07T06:20:58",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51221,
+      "projectId": 2424,
+      "skillId": 371
+    },
+    {
+      "projectSkillId": 51222,
+      "projectId": 2424,
+      "skillId": 117
+    },
+    {
+      "projectSkillId": 51223,
+      "projectId": 2424,
+      "skillId": 85
+    },
+    {
+      "projectSkillId": 51224,
+      "projectId": 2424,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2424,
+      "projectDomainId": 3423,
+      "academicDomainId": 134
+    },
+    {
+      "projectId": 2424,
+      "projectDomainId": 3424,
+      "academicDomainId": 28
+    },
+    {
+      "projectId": 2424,
+      "projectDomainId": 3425,
+      "academicDomainId": 236
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3155,
+      "projectId": 2424,
+      "academicSubDomainId": 113
+    },
+    {
+      "projectSubDomainId": 3156,
+      "projectId": 2424,
+      "academicSubDomainId": 131
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

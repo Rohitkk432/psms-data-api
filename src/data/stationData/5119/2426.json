@@ -1,0 +1,193 @@
+{
+  "projectId": 2426,
+  "stationId": 5119,
+  "problemBankId": 1408,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "AI for Education Innovation lab",
+  "description": "<p><strong>AI for Education Innovation lab</strong></p><p><br></p><p>CERI has set up an AI for Education Innovation lab with a view towards enabling the</p><p>Center to leverage the latest technological developments in the area of Artificial Intelligence to enhance the practice of teaching and learning</p><p><strong>&nbsp;</strong></p><p><strong>The objectives of the lab are as follows:</strong></p><p><br></p><p>Develop AI based models to support teaching and learning</p><p>Leverage AIML techniques to develop evidence based methodologies in teaching, learning, and assessment</p><p>Identify other innovative applications of AI to enhance teaching and learning</p><p><br></p><p><strong>The lab is expected to focus on the following initiatives:</strong></p><p><br></p><p>AI enabled Learning Management System and Adaptive learning platforms</p><p>AI powered Chat bots for guiding/ mentoring students</p><p>AI enabled virtual teaching assistant </p><p>Application of Generative AI to such areas as personalized instruction, virtual tutoring,</p><p>evaluation, and automation </p><p>Leverage gamification to improve student engagement</p><p>CERI AI for Education Innovation lab is partnering with Spanda.AI to implement state of the art solutions in the above</p><p>areas to improve the practice of teaching and learning.</p><p><br></p><p><strong>About Spanda.AI:</strong></p><p><br></p><p>Spanda.ai is a US based stealth startup that offers a platform for Federated Generative AI with blockchain for high</p><p>value use cases in multiple sectors. We have collaborations with the IITs and BITS, Pilani as well as engagements with</p><p>Amazon in the US and with other companies in India</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2426,
+      "projectDisciplineId": 4829,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4829,
+      "projectId": 2426,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12976,
+          "projectDisciplineId": 4829,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 12977,
+          "projectDisciplineId": 4829,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 12978,
+          "projectDisciplineId": 4829,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 12979,
+          "projectDisciplineId": 4829,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12980,
+          "projectDisciplineId": 4829,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12981,
+          "projectDisciplineId": 4829,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2340,
+      "projectId": 2426,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-07T08:58:40",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-07T09:35:05",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51227,
+      "projectId": 2426,
+      "skillId": 295
+    },
+    {
+      "projectSkillId": 51228,
+      "projectId": 2426,
+      "skillId": 90
+    },
+    {
+      "projectSkillId": 51229,
+      "projectId": 2426,
+      "skillId": 303
+    },
+    {
+      "projectSkillId": 51230,
+      "projectId": 2426,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2426,
+      "projectDomainId": 3427,
+      "academicDomainId": 86
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3158,
+      "projectId": 2426,
+      "academicSubDomainId": 192
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

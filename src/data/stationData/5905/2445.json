@@ -1,13 +1,13 @@
 {
-  "projectId": 2404,
-  "stationId": 4844,
-  "problemBankId": 1395,
+  "projectId": 2445,
+  "stationId": 5905,
+  "problemBankId": 1418,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details Awaited",
-  "description": "<p>-</p>",
+  "title": "Mumbai Coastal Road Project",
+  "description": "<p>Description: As general consultant we are involved in review of all design &amp;amp; drawings of</p><p>structures</p><p>Skill sets: Design of Bridges including both Substructure &amp;amp; superstructures.</p><p>Expected learning: IRC Codal provisions related to bridge design.</p><p>Specific courses required for project execution: Midas &amp;amp; MS-excel efficiency required</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,10 +17,10 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2404,
-      "projectDisciplineId": 4796,
-      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
-      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "projectId": 2445,
+      "projectDisciplineId": 4849,
+      "projectDisciplineCodes": "AnyA2,A2",
+      "discCodesPerProject": "AnyA2,A2",
       "graduationTypeIds": [
         1
       ],
@@ -33,19 +33,19 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4796,
-      "projectId": 2404,
+      "projectDisciplineId": 4849,
+      "projectId": 2445,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 8,
+      "cgpamin": 9,
       "cgpamax": 10,
-      "freshRequirement": 7,
-      "totalRequirement": 7,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "disciplineCodes": "AnyA2,A2",
       "graduationTypeIds": [
         0,
         1
@@ -61,59 +61,17 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 12867,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13046,
+          "projectDisciplineId": 4849,
           "graduationTypeId": 0,
           "disciplineId": null,
-          "discipline2Id": 3
+          "discipline2Id": 2
         },
         {
-          "projectDisciplineDetailId": 12868,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
-        },
-        {
-          "projectDisciplineDetailId": 12869,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 13
-        },
-        {
-          "projectDisciplineDetailId": 12870,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 14
-        },
-        {
-          "projectDisciplineDetailId": 12871,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13047,
+          "projectDisciplineId": 4849,
           "graduationTypeId": 1,
-          "disciplineId": 3,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12872,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 1,
-          "disciplineId": 13,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12873,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 1,
-          "disciplineId": 12,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12874,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 1,
-          "disciplineId": 14,
+          "disciplineId": 2,
           "discipline2Id": null
         }
       ],
@@ -124,12 +82,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2318,
-      "projectId": 2404,
+      "projectFacilityId": 2359,
+      "projectId": 2445,
       "officeStartTime": "09:00:00",
-      "officeEndTime": "17:00:00",
+      "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 60000,
+      "ugstipend": 10000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -142,7 +100,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "Stipend: Rs. 60,000/ month( inclusive of Rs.15,00 housing allowance/ month) +To and Fro air tickets + Uber credits and ( 50% gender diversity ), ",
+      "others": "",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -156,9 +114,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-06T06:28:28",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-07T15:49:33",
+      "createdDate": "2024-06-07T10:55:24",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -167,29 +125,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51180,
-      "projectId": 2404,
+      "projectSkillId": 51267,
+      "projectId": 2445,
       "skillId": 431
     },
     {
-      "projectSkillId": 51181,
-      "projectId": 2404,
+      "projectSkillId": 51268,
+      "projectId": 2445,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2404,
-      "projectDomainId": 3402,
-      "academicDomainId": 23
+      "projectId": 2445,
+      "projectDomainId": 3448,
+      "academicDomainId": 9
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3132,
-      "projectId": 2404,
-      "academicSubDomainId": 159
+      "projectSubDomainId": 3179,
+      "projectId": 2445,
+      "academicSubDomainId": 492
     }
   ],
   "projectSubjectArea": [],

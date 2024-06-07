@@ -1,26 +1,26 @@
 {
-  "projectId": 2404,
-  "stationId": 4844,
-  "problemBankId": 1395,
+  "projectId": 2434,
+  "stationId": 5899,
+  "problemBankId": 1412,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details Awaited",
-  "description": "<p>-</p>",
+  "title": "Automation Intern",
+  "description": "<p>Skill sets: GCP, AWS, Azure, Cloud understanding</p><p>Traits expectation:</p><p>Expected learning: Ability to understand efficiency and importance of automation in such</p><p>software platforms</p><p>Specific courses required for project execution: Digital Signal Processing(EEE F434),</p><p>Internet of Things(EEE F411), Green Communications &amp;amp; Network(EEE F430)</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
   "salutation": "Mr.",
-  "mentorName": "",
-  "mentorEmailId": "",
+  "mentorName": "Rohit Singh",
+  "mentorEmailId": "rohit.singh@safalsoftcom.com",
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2404,
-      "projectDisciplineId": 4796,
-      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
-      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "projectId": 2434,
+      "projectDisciplineId": 4847,
+      "projectDisciplineCodes": "B2AA,AnyA3,AnyA8,AnyAA,A3,A8,AA,B2",
+      "discCodesPerProject": "B2AA,AnyA3,AnyA8,AnyAA,A3,A8,AA,B2",
       "graduationTypeIds": [
         1
       ],
@@ -33,19 +33,19 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4796,
-      "projectId": 2404,
+      "projectDisciplineId": 4847,
+      "projectId": 2434,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 8,
+      "cgpamin": 5,
       "cgpamax": 10,
-      "freshRequirement": 7,
-      "totalRequirement": 7,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "disciplineCodes": "B2AA,AnyA3,AnyA8,AnyAA,A3,A8,AA,B2",
       "graduationTypeIds": [
         0,
         1
@@ -61,59 +61,59 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 12867,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13036,
+          "projectDisciplineId": 4847,
+          "graduationTypeId": 0,
+          "disciplineId": 17,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 13037,
+          "projectDisciplineId": 4847,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 12868,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
-        },
-        {
-          "projectDisciplineDetailId": 12869,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13038,
+          "projectDisciplineId": 4847,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 12870,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13039,
+          "projectDisciplineId": 4847,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 12871,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13040,
+          "projectDisciplineId": 4847,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12872,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13041,
+          "projectDisciplineId": 4847,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12873,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13042,
+          "projectDisciplineId": 4847,
           "graduationTypeId": 1,
-          "disciplineId": 12,
+          "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12874,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13043,
+          "projectDisciplineId": 4847,
           "graduationTypeId": 1,
-          "disciplineId": 14,
+          "disciplineId": 17,
           "discipline2Id": null
         }
       ],
@@ -124,14 +124,14 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2318,
-      "projectId": 2404,
+      "projectFacilityId": 2357,
+      "projectId": 2434,
       "officeStartTime": "09:00:00",
-      "officeEndTime": "17:00:00",
+      "officeEndTime": "19:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 60000,
+      "ugstipend": 15000,
       "pgstipend": 0,
-      "scholarship": null,
+      "scholarship": 0,
       "currency": "INR",
       "subsidizedLunch": 2,
       "boysAccommodation": 0,
@@ -142,7 +142,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "Stipend: Rs. 60,000/ month( inclusive of Rs.15,00 housing allowance/ month) +To and Fro air tickets + Uber credits and ( 50% gender diversity ), ",
+      "others": "",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -156,9 +156,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-06T06:28:28",
+      "createdDate": "2024-06-07T10:51:03",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-07T15:49:33",
+      "modifiedDate": "2024-06-07T10:51:16",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -167,29 +167,39 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51180,
-      "projectId": 2404,
+      "projectSkillId": 51263,
+      "projectId": 2434,
       "skillId": 431
     },
     {
-      "projectSkillId": 51181,
-      "projectId": 2404,
+      "projectSkillId": 51264,
+      "projectId": 2434,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2404,
-      "projectDomainId": 3402,
-      "academicDomainId": 23
+      "projectId": 2434,
+      "projectDomainId": 3445,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2434,
+      "projectDomainId": 3446,
+      "academicDomainId": 28
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3132,
-      "projectId": 2404,
-      "academicSubDomainId": 159
+      "projectSubDomainId": 3176,
+      "projectId": 2434,
+      "academicSubDomainId": 138
+    },
+    {
+      "projectSubDomainId": 3177,
+      "projectId": 2434,
+      "academicSubDomainId": 133
     }
   ],
   "projectSubjectArea": [],

@@ -1,13 +1,13 @@
 {
-  "projectId": 2404,
-  "stationId": 4844,
-  "problemBankId": 1395,
+  "projectId": 2436,
+  "stationId": 5900,
+  "problemBankId": 1413,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details Awaited",
-  "description": "<p>-</p>",
+  "title": "Thermal Management of Electric Vehicle Power Converters",
+  "description": "<p>Description:</p><p>As a Mechanical Engineering Intern at Ergon, you will be involved in developing</p><p>optimized thermal management strategies for AC-DC, DC-DC and other power</p><p>converters.</p><p>Skill sets:</p><p>Heat and Mass Transfer, CFD simulations, CAD (SolidWorks, CATIA or similar),</p><p>Manufacturing Processes</p><p>Expected learning:</p><p>Through the course of this internship, you will obtain hands-on experience with designing,</p><p>testing and manufacturing thermal management systems of automotive components.</p><p>This includes designing forced air cooling systems by performing CFD and castability</p><p>simulations, validating simulation results with test data and assisting in taking your design</p><p>to production. You will gain exposure to industry standard software tools and lab instrumentation. In addition, you will have an opportunity to understand the current</p><p>landscape of electric vehicle technology and future prospects in the domain.</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,10 +17,10 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2404,
-      "projectDisciplineId": 4796,
-      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
-      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "projectId": 2436,
+      "projectDisciplineId": 4838,
+      "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "discCodesPerProject": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
         1
       ],
@@ -33,19 +33,19 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4796,
-      "projectId": 2404,
+      "projectDisciplineId": 4838,
+      "projectId": 2436,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 8,
       "cgpamax": 10,
-      "freshRequirement": 7,
-      "totalRequirement": 7,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "disciplineCodes": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
         0,
         1
@@ -61,59 +61,31 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 12867,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13022,
+          "projectDisciplineId": 4838,
           "graduationTypeId": 0,
           "disciplineId": null,
-          "discipline2Id": 3
+          "discipline2Id": 4
         },
         {
-          "projectDisciplineDetailId": 12868,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13023,
+          "projectDisciplineId": 4838,
           "graduationTypeId": 0,
           "disciplineId": null,
-          "discipline2Id": 12
+          "discipline2Id": 15
         },
         {
-          "projectDisciplineDetailId": 12869,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 13
-        },
-        {
-          "projectDisciplineDetailId": 12870,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 14
-        },
-        {
-          "projectDisciplineDetailId": 12871,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13024,
+          "projectDisciplineId": 4838,
           "graduationTypeId": 1,
-          "disciplineId": 3,
+          "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12872,
-          "projectDisciplineId": 4796,
+          "projectDisciplineDetailId": 13025,
+          "projectDisciplineId": 4838,
           "graduationTypeId": 1,
-          "disciplineId": 13,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12873,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 1,
-          "disciplineId": 12,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12874,
-          "projectDisciplineId": 4796,
-          "graduationTypeId": 1,
-          "disciplineId": 14,
+          "disciplineId": 15,
           "discipline2Id": null
         }
       ],
@@ -124,12 +96,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2318,
-      "projectId": 2404,
+      "projectFacilityId": 2349,
+      "projectId": 2436,
       "officeStartTime": "09:00:00",
       "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 60000,
+      "ugstipend": 40000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -142,7 +114,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "Stipend: Rs. 60,000/ month( inclusive of Rs.15,00 housing allowance/ month) +To and Fro air tickets + Uber credits and ( 50% gender diversity ), ",
+      "others": "Several options for accommodation available\nnearby. Office is 1km away from a metro station.\nConveyance expenses for official purposes will\nbe reimbursed.",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -156,9 +128,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-06T06:28:28",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-07T15:49:33",
+      "createdDate": "2024-06-07T10:26:31",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -167,29 +139,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51180,
-      "projectId": 2404,
+      "projectSkillId": 51247,
+      "projectId": 2436,
       "skillId": 431
     },
     {
-      "projectSkillId": 51181,
-      "projectId": 2404,
+      "projectSkillId": 51248,
+      "projectId": 2436,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2404,
-      "projectDomainId": 3402,
-      "academicDomainId": 23
+      "projectId": 2436,
+      "projectDomainId": 3437,
+      "academicDomainId": 21
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3132,
-      "projectId": 2404,
-      "academicSubDomainId": 159
+      "projectSubDomainId": 3168,
+      "projectId": 2436,
+      "academicSubDomainId": 70
     }
   ],
   "projectSubjectArea": [],
