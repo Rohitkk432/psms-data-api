@@ -1,13 +1,13 @@
 {
-  "projectId": 2287,
-  "stationId": 5827,
-  "problemBankId": 1311,
+  "projectId": 2448,
+  "stationId": 5908,
+  "problemBankId": 1421,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Founder’s Office",
-  "description": "<p>Description: Work with the CEO and CTO on operational and strategic problem statements</p><p>Skill sets: Analytical skills, good communication skills in spoken &amp; written English</p><p>Traits expectation: High discipline and diligence</p><p>Expected learning: Strategy, Business Development, Investor relations, Demand Generation</p>",
+  "title": "Space/ atmospheric sciences",
+  "description": "<p>&nbsp;students who are specifically interested in undertaking scientific research works related to space/ atmospheric sciences.&nbsp;</p><p>They can provide accommodation and food at subsidised prices.</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,8 +17,8 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2287,
-      "projectDisciplineId": 4541,
+      "projectId": 2448,
+      "projectDisciplineId": 4855,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,8 +31,8 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4541,
-      "projectId": 2287,
+      "projectDisciplineId": 4855,
+      "projectId": 2448,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
@@ -62,72 +62,72 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2200,
-      "projectId": 2287,
-      "officeStartTime": "10:00:00",
-      "officeEndTime": "19:00:00",
+      "projectFacilityId": 2362,
+      "projectId": 2448,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 45000,
+      "ugstipend": 0,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
       "subsidizedLunch": 2,
-      "boysAccommodation": 0,
-      "girlsAccommodation": 0,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
       "accomodationAddress": "",
       "ta": 2,
       "da": 2,
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "",
-      "boysAccomodationAddress1": "",
-      "boysAccomodationAddress2": "",
-      "boysAccomodationCity": null,
-      "boysAccomodationState": null,
-      "boysAccomodationCountry": null,
-      "boysAccomodationPincode": "",
-      "girlsAccomodationAddress1": "",
-      "girlsAccomodationAddress2": "",
-      "girlsAccomodationCity": null,
-      "girlsAccomodationState": null,
-      "girlsAccomodationCountry": null,
-      "girlsAccomodationPincode": "",
+      "others": "They can provide accommodation and food at subsidised prices.",
+      "boysAccomodationAddress1": "-",
+      "boysAccomodationAddress2": "-",
+      "boysAccomodationCity": 121703,
+      "boysAccomodationState": 1,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "000000",
+      "girlsAccomodationAddress1": "-",
+      "girlsAccomodationAddress2": "-",
+      "girlsAccomodationCity": 121703,
+      "girlsAccomodationState": 1,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "000000",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-01T10:46:36",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-08T10:01:46",
+      "createdDate": "2024-06-07T15:57:34",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
-      "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "girlsAccomodationCityName": "Tirupati",
+      "boysAccomodationCityName": "Tirupati"
     }
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50902,
-      "projectId": 2287,
+      "projectSkillId": 51275,
+      "projectId": 2448,
       "skillId": 431
     },
     {
-      "projectSkillId": 50903,
-      "projectId": 2287,
-      "skillId": 42
+      "projectSkillId": 51276,
+      "projectId": 2448,
+      "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2287,
-      "projectDomainId": 3230,
-      "academicDomainId": 44
+      "projectId": 2448,
+      "projectDomainId": 3453,
+      "academicDomainId": 156
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2964,
-      "projectId": 2287,
-      "academicSubDomainId": 155
+      "projectSubDomainId": 3183,
+      "projectId": 2448,
+      "academicSubDomainId": 454
     }
   ],
   "projectSubjectArea": [],

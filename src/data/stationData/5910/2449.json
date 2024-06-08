@@ -1,0 +1,179 @@
+{
+  "projectId": 2449,
+  "stationId": 5910,
+  "problemBankId": 1422,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "IP Extension",
+  "description": "<p>Description: Given k existing episodes of AI generated content - images/video-</p><p>corresponding to an IP (video series), generate consistent and cohesive images/video-bits</p><p><br></p><p>for the (k+1)-th video given corresponding user’s input - textual prompt/script.</p><p>Skill sets: Explore Models - Machine Learning Deep Learning, Conduct Literature Review,</p><p>Conduct R&amp;D, Experimentation using Python, PyTorch, Productionze Models on AWS stack.</p><p>Traits expectation: Self Driven, Perseverant, High Integrity, High Aptitude, Curious,</p><p>Expected learning: Pre-Train/FineTune/Productionize ML/DL models, AWS Stack</p><p>Specific courses required for project execution: ML/DL, Linear Algebra, Programming,</p><p>DataStructures and Algorithms.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Deepak Warrier",
+  "mentorEmailId": "deepak.warrier@aiteur.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2449,
+      "projectDisciplineId": 4865,
+      "projectDisciplineCodes": "AnyA7,AnyB4,A7,B4",
+      "discCodesPerProject": "AnyA7,AnyB4,A7,B4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4865,
+      "projectId": 2449,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyB4,A7,B4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13050,
+          "projectDisciplineId": 4865,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13051,
+          "projectDisciplineId": 4865,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 13052,
+          "projectDisciplineId": 4865,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13053,
+          "projectDisciplineId": 4865,
+          "graduationTypeId": 1,
+          "disciplineId": 19,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2363,
+      "projectId": 2449,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "13193 Prestige Lakeside Habitat Varthur Main Road Bangalore 560087",
+      "boysAccomodationAddress2": "13193 Prestige Lakeside Habitat Varthur Main Road Bangalore 560087",
+      "boysAccomodationCity": 11,
+      "boysAccomodationState": 11,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "560087",
+      "girlsAccomodationAddress1": "13193 Prestige Lakeside Habitat Varthur Main Road Bangalore 560087",
+      "girlsAccomodationAddress2": "13193 Prestige Lakeside Habitat Varthur Main Road Bangalore 560087",
+      "girlsAccomodationCity": 11,
+      "girlsAccomodationState": 11,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "560087",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-08T07:07:23",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-08T07:07:53",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": "Bangalore",
+      "boysAccomodationCityName": "Bangalore"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51277,
+      "projectId": 2449,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51278,
+      "projectId": 2449,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2449,
+      "projectDomainId": 3454,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2449,
+      "projectDomainId": 3455,
+      "academicDomainId": 68
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3184,
+      "projectId": 2449,
+      "academicSubDomainId": 138
+    },
+    {
+      "projectSubDomainId": 3185,
+      "projectId": 2449,
+      "academicSubDomainId": 140
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

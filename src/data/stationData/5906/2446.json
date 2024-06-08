@@ -1,38 +1,40 @@
 {
-  "projectId": 2287,
-  "stationId": 5827,
-  "problemBankId": 1311,
+  "projectId": 2446,
+  "stationId": 5906,
+  "problemBankId": 1419,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Founder’s Office",
-  "description": "<p>Description: Work with the CEO and CTO on operational and strategic problem statements</p><p>Skill sets: Analytical skills, good communication skills in spoken &amp; written English</p><p>Traits expectation: High discipline and diligence</p><p>Expected learning: Strategy, Business Development, Investor relations, Demand Generation</p>",
+  "title": "Chemical BIO process",
+  "description": "<p>-</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
-  "mentorName": "",
-  "mentorEmailId": "",
-  "mentorContactNumber": "",
+  "mentorName": "Smitha Menon",
+  "mentorEmailId": "smitha@bigtec.co.in",
+  "mentorContactNumber": "9538466622",
   "discViewModels": [
     {
-      "projectId": 2287,
-      "projectDisciplineId": 4541,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectId": 2446,
+      "projectDisciplineId": 4852,
+      "projectDisciplineCodes": "AnyA1,A1",
+      "discCodesPerProject": "AnyA1,A1",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4541,
-      "projectId": 2287,
+      "projectDisciplineId": 4852,
+      "projectId": 2446,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
@@ -43,8 +45,11 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA1,A1",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -53,8 +58,23 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13048,
+          "projectDisciplineId": 4852,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 13049,
+          "projectDisciplineId": 4852,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -62,14 +82,14 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2200,
-      "projectId": 2287,
-      "officeStartTime": "10:00:00",
-      "officeEndTime": "19:00:00",
-      "weekHolidays": "Sunday",
-      "ugstipend": 45000,
+      "projectFacilityId": 2360,
+      "projectId": 2446,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday,Saturday",
+      "ugstipend": 30000,
       "pgstipend": 0,
-      "scholarship": null,
+      "scholarship": 0,
       "currency": "INR",
       "subsidizedLunch": 2,
       "boysAccommodation": 0,
@@ -94,9 +114,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-01T10:46:36",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-08T10:01:46",
+      "createdDate": "2024-06-07T15:01:16",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +125,34 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50902,
-      "projectId": 2287,
+      "projectSkillId": 51271,
+      "projectId": 2446,
       "skillId": 431
     },
     {
-      "projectSkillId": 50903,
-      "projectId": 2287,
-      "skillId": 42
+      "projectSkillId": 51272,
+      "projectId": 2446,
+      "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2287,
-      "projectDomainId": 3230,
-      "academicDomainId": 44
+      "projectId": 2446,
+      "projectDomainId": 3450,
+      "academicDomainId": 32
+    },
+    {
+      "projectId": 2446,
+      "projectDomainId": 3451,
+      "academicDomainId": 14
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2964,
-      "projectId": 2287,
-      "academicSubDomainId": 155
+      "projectSubDomainId": 3181,
+      "projectId": 2446,
+      "academicSubDomainId": 135
     }
   ],
   "projectSubjectArea": [],

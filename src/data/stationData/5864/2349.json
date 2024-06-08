@@ -1,13 +1,13 @@
 {
-  "projectId": 2287,
-  "stationId": 5827,
-  "problemBankId": 1311,
+  "projectId": 2349,
+  "stationId": 5864,
+  "problemBankId": 1361,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Founder’s Office",
-  "description": "<p>Description: Work with the CEO and CTO on operational and strategic problem statements</p><p>Skill sets: Analytical skills, good communication skills in spoken &amp; written English</p><p>Traits expectation: High discipline and diligence</p><p>Expected learning: Strategy, Business Development, Investor relations, Demand Generation</p>",
+  "title": "Details awaited",
+  "description": "<p>Details awaited</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,8 +17,8 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2287,
-      "projectDisciplineId": 4541,
+      "projectId": 2349,
+      "projectDisciplineId": 4719,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,15 +31,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4541,
-      "projectId": 2287,
+      "projectDisciplineId": 4719,
+      "projectId": 2349,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 2,
-      "totalRequirement": 2,
+      "freshRequirement": 6,
+      "totalRequirement": 6,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -62,14 +62,14 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2200,
-      "projectId": 2287,
-      "officeStartTime": "10:00:00",
-      "officeEndTime": "19:00:00",
+      "projectFacilityId": 2263,
+      "projectId": 2349,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 45000,
+      "ugstipend": 50000,
       "pgstipend": 0,
-      "scholarship": null,
+      "scholarship": 0,
       "currency": "INR",
       "subsidizedLunch": 2,
       "boysAccommodation": 0,
@@ -94,9 +94,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-01T10:46:36",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-08T10:01:46",
+      "createdDate": "2024-06-04T07:32:57",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +105,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50902,
-      "projectId": 2287,
+      "projectSkillId": 51048,
+      "projectId": 2349,
       "skillId": 431
     },
     {
-      "projectSkillId": 50903,
-      "projectId": 2287,
-      "skillId": 42
+      "projectSkillId": 51049,
+      "projectId": 2349,
+      "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2287,
-      "projectDomainId": 3230,
-      "academicDomainId": 44
+      "projectId": 2349,
+      "projectDomainId": 3332,
+      "academicDomainId": 5
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2964,
-      "projectId": 2287,
-      "academicSubDomainId": 155
+      "projectSubDomainId": 3062,
+      "projectId": 2349,
+      "academicSubDomainId": 138
     }
   ],
   "projectSubjectArea": [],

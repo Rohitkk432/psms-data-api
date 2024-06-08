@@ -1,50 +1,55 @@
 {
-  "projectId": 2287,
-  "stationId": 5827,
-  "problemBankId": 1311,
+  "projectId": 2340,
+  "stationId": 5856,
+  "problemBankId": 1352,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Founder’s Office",
-  "description": "<p>Description: Work with the CEO and CTO on operational and strategic problem statements</p><p>Skill sets: Analytical skills, good communication skills in spoken &amp; written English</p><p>Traits expectation: High discipline and diligence</p><p>Expected learning: Strategy, Business Development, Investor relations, Demand Generation</p>",
+  "title": "Cost Modelling",
+  "description": "<p>Description: ML/AI models to estimate real time costs to optimize the workload</p><p>schedule.</p><p>Skill sets: Pytorch, ML, Sound knowledge on Algorithms &amp; Data Structures</p><p>Expected learning: Familiarity with ML frameworks &amp; HW Architecture</p><p>Specific courses required for project execution: Compilers, Operating Systems are</p><p>good to have, but not a must</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
   "salutation": "Mr.",
-  "mentorName": "",
-  "mentorEmailId": "",
+  "mentorName": "Rajashekar Reddy",
+  "mentorEmailId": "ereddy@kinara.ai",
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2287,
-      "projectDisciplineId": 4541,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectId": 2340,
+      "projectDisciplineId": 4697,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4541,
-      "projectId": 2287,
+      "projectDisciplineId": 4697,
+      "projectId": 2340,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
+      "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 2,
       "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -53,8 +58,23 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12331,
+          "projectDisciplineId": 4697,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 12332,
+          "projectDisciplineId": 4697,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -62,12 +82,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2200,
-      "projectId": 2287,
-      "officeStartTime": "10:00:00",
-      "officeEndTime": "19:00:00",
+      "projectFacilityId": 2254,
+      "projectId": 2340,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 45000,
+      "ugstipend": 40000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -94,9 +114,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-01T10:46:36",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-08T10:01:46",
+      "createdDate": "2024-06-04T05:40:02",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +125,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50902,
-      "projectId": 2287,
-      "skillId": 431
+      "projectSkillId": 51029,
+      "projectId": 2340,
+      "skillId": 140
     },
     {
-      "projectSkillId": 50903,
-      "projectId": 2287,
-      "skillId": 42
+      "projectSkillId": 51030,
+      "projectId": 2340,
+      "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2287,
-      "projectDomainId": 3230,
-      "academicDomainId": 44
+      "projectId": 2340,
+      "projectDomainId": 3320,
+      "academicDomainId": 29
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2964,
-      "projectId": 2287,
-      "academicSubDomainId": 155
+      "projectSubDomainId": 3050,
+      "projectId": 2340,
+      "academicSubDomainId": 367
     }
   ],
   "projectSubjectArea": [],
