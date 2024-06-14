@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2096,
-      "projectDisciplineId": 4652,
+      "projectDisciplineId": 4942,
       "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA4,AnyB2,A4,A8,A3,AA,B2",
       "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA4,AnyB2,A4,A8,A3,AA,B2",
       "graduationTypeIds": [
@@ -33,13 +33,13 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4652,
+      "projectDisciplineId": 4942,
       "projectId": 2096,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
-      "cgpamax": 5,
+      "cgpamin": 5,
+      "cgpamax": 10,
       "freshRequirement": 2,
       "totalRequirement": 2,
       "maleRequirement": 0,
@@ -61,71 +61,71 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 12189,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13292,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 12190,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13293,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 12191,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13294,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 12192,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13295,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 4
         },
         {
-          "projectDisciplineDetailId": 12193,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13296,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 17
         },
         {
-          "projectDisciplineDetailId": 12194,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13297,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12195,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13298,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12196,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13299,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12197,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13300,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12198,
-          "projectDisciplineId": 4652,
+          "projectDisciplineDetailId": 13301,
+          "projectDisciplineId": 4942,
           "graduationTypeId": 1,
           "disciplineId": 17,
           "discipline2Id": null
@@ -172,7 +172,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-29T10:44:58",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-02T10:59:03",
+      "modifiedDate": "2024-06-12T11:33:53",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

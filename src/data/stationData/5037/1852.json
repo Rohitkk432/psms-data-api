@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 1852,
-      "projectDisciplineId": 4454,
-      "projectDisciplineCodes": "A7",
-      "discCodesPerProject": "A7,AnyA7",
+      "projectDisciplineId": 4974,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7,AnyA7,A7,A7",
       "graduationTypeIds": [
         1
       ],
@@ -32,14 +32,14 @@
     },
     {
       "projectId": 1852,
-      "projectDisciplineId": 4455,
-      "projectDisciplineCodes": "AnyA7",
-      "discCodesPerProject": "A7,AnyA7",
+      "projectDisciplineId": 4975,
+      "projectDisciplineCodes": "AnyA7,A7,A7",
+      "discCodesPerProject": "AnyA7,A7,AnyA7,A7,A7",
       "graduationTypeIds": [
         1
       ],
       "anySingle": false,
-      "anyDual": true,
+      "anyDual": false,
       "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
@@ -47,9 +47,9 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4454,
+      "projectDisciplineId": 4974,
       "projectId": 1852,
-      "degreeTypeId": 1,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
@@ -59,11 +59,12 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A7",
+      "disciplineCodes": "AnyA7,A7",
       "graduationTypeIds": [
+        0,
         1
       ],
-      "degree": "Single",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -74,8 +75,15 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 11386,
-          "projectDisciplineId": 4454,
+          "projectDisciplineDetailId": 13438,
+          "projectDisciplineId": 4974,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13439,
+          "projectDisciplineId": 4974,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
@@ -85,9 +93,9 @@
       "conditionalOfferStudents": null
     },
     {
-      "projectDisciplineId": 4455,
+      "projectDisciplineId": 4975,
       "projectId": 1852,
-      "degreeTypeId": 2,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
@@ -97,11 +105,12 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA7",
+      "disciplineCodes": "AnyA7,A7,A7",
       "graduationTypeIds": [
-        0
+        0,
+        1
       ],
-      "degree": "Dual",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -112,11 +121,25 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 11387,
-          "projectDisciplineId": 4455,
+          "projectDisciplineDetailId": 13440,
+          "projectDisciplineId": 4975,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13441,
+          "projectDisciplineId": 4975,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13442,
+          "projectDisciplineId": 4975,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
         }
       ],
       "selectedContinuingStudentList": null,
@@ -160,7 +183,7 @@
       "createdBy": "anita.ramachandran@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-20T09:41:42",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-01T06:29:19",
+      "modifiedDate": "2024-06-13T04:16:06",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

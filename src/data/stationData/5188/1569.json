@@ -18,12 +18,11 @@
   "discViewModels": [
     {
       "projectId": 1569,
-      "projectDisciplineId": 3533,
-      "projectDisciplineCodes": "AA,A7,H103,H112",
-      "discCodesPerProject": "AA,A7,H103,H112",
+      "projectDisciplineId": 4985,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,AA,A7,A3,A8",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,AA,A7,A3,A8",
       "graduationTypeIds": [
-        1,
-        2
+        1
       ],
       "anySingle": false,
       "anyDual": false,
@@ -34,11 +33,11 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 3533,
+      "projectDisciplineId": 4985,
       "projectId": 1569,
       "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 1,
+      "higherDegree": 0,
       "cgpamin": 6,
       "cgpamax": 10,
       "freshRequirement": 2,
@@ -46,10 +45,10 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AA,A7,H103,H112",
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,AA,A7,A3,A8",
       "graduationTypeIds": [
-        1,
-        2
+        0,
+        1
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -59,34 +58,62 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
+      "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 8819,
-          "projectDisciplineId": 3533,
+          "projectDisciplineDetailId": 13493,
+          "projectDisciplineId": 4985,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 13494,
+          "projectDisciplineId": 4985,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13495,
+          "projectDisciplineId": 4985,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 13496,
+          "projectDisciplineId": 4985,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 13497,
+          "projectDisciplineId": 4985,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 8820,
-          "projectDisciplineId": 3533,
+          "projectDisciplineDetailId": 13498,
+          "projectDisciplineId": 4985,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 8821,
-          "projectDisciplineId": 3533,
-          "graduationTypeId": 2,
-          "disciplineId": 23,
+          "projectDisciplineDetailId": 13499,
+          "projectDisciplineId": 4985,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 8822,
-          "projectDisciplineId": 3533,
-          "graduationTypeId": 2,
-          "disciplineId": 31,
+          "projectDisciplineDetailId": 13500,
+          "projectDisciplineId": 4985,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
           "discipline2Id": null
         }
       ],
@@ -122,7 +149,7 @@
       "officeEndTime": "19:00:00",
       "weekHolidays": "Saturday,Sunday",
       "ugstipend": 65000,
-      "pgstipend": 65000,
+      "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
       "subsidizedLunch": 2,
@@ -149,8 +176,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "raja.vadhana@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-07T12:27:49",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:27:45",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

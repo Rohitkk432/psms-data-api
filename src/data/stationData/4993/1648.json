@@ -18,22 +18,22 @@
   "discViewModels": [
     {
       "projectId": 1648,
-      "projectDisciplineId": 3645,
+      "projectDisciplineId": 4965,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": false,
+      "anyEither": true,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 3645,
+      "projectDisciplineId": 4965,
       "projectId": 1648,
-      "degreeTypeId": null,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 7,
@@ -45,7 +45,7 @@
       "continuingStudent": 0,
       "disciplineCodes": "Any",
       "graduationTypeIds": [],
-      "degree": "",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -53,7 +53,7 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 0,
+      "anyDualDegree": 1,
       "disciplineDetails": [],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
@@ -95,8 +95,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "prakruthi.hareesh@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-12T16:52:46",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:07:39",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

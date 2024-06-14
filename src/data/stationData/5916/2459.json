@@ -1,0 +1,185 @@
+{
+  "projectId": 2459,
+  "stationId": 5916,
+  "problemBankId": 1426,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Process Statistical Study   ",
+  "description": "<p>Title: Process Statistical Study   </p><p>Description: Internal rejection of&nbsp;CCR1 or CCR3 ( reduction by 25%)   Skill sets: Chemical /Metallurgy/ Data Analytics/ Chemical Process Control   Expected learning: Process Mapping, Data Analytics, Usage of QC tools   Specific courses required for project execution: Nil </p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2459,
+      "projectDisciplineId": 4901,
+      "projectDisciplineCodes": "AnyA1,A1",
+      "discCodesPerProject": "AnyA1,A1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4901,
+      "projectId": 2459,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA1,A1",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13194,
+          "projectDisciplineId": 4901,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 13195,
+          "projectDisciplineId": 4901,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2373,
+      "projectId": 2459,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "they provide accommodation ,breakfast and dinner.\n\n•\tCompany will provide breakfast & Dinner\n•\tLunch and any other additional food will be charged to the interns.\n•\tInterns will carry their laptops\n•\tCompany will pay the stipend as per policy (present days)\n•\tInterns need to carry below documents for joining in the unit\no\tCollage internship letter\no\tAccidental insurance policy - min. 2lac\n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-11T04:05:29",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51297,
+      "projectId": 2459,
+      "skillId": 423
+    },
+    {
+      "projectSkillId": 51298,
+      "projectId": 2459,
+      "skillId": 278
+    },
+    {
+      "projectSkillId": 51299,
+      "projectId": 2459,
+      "skillId": 348
+    },
+    {
+      "projectSkillId": 51300,
+      "projectId": 2459,
+      "skillId": 158
+    },
+    {
+      "projectSkillId": 51301,
+      "projectId": 2459,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2459,
+      "projectDomainId": 3472,
+      "academicDomainId": 14
+    },
+    {
+      "projectId": 2459,
+      "projectDomainId": 3473,
+      "academicDomainId": 23
+    },
+    {
+      "projectId": 2459,
+      "projectDomainId": 3474,
+      "academicDomainId": 11
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3199,
+      "projectId": 2459,
+      "academicSubDomainId": 135
+    },
+    {
+      "projectSubDomainId": 3200,
+      "projectId": 2459,
+      "academicSubDomainId": 334
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

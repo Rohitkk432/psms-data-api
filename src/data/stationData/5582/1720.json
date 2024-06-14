@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details awaited",
-  "description": "<p>-</p>",
+  "title": "\"Financial Markets Research\"",
+  "description": "<p> \"Financial&nbsp;Markets Research\"</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1720,
-      "projectDisciplineId": 3744,
+      "projectDisciplineId": 5157,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,15 +31,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 3744,
+      "projectDisciplineId": 5157,
       "projectId": 1720,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 4,
-      "totalRequirement": 4,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -64,8 +64,8 @@
     {
       "projectFacilityId": 1640,
       "projectId": 1720,
-      "officeStartTime": "07:00:00",
-      "officeEndTime": "16:00:00",
+      "officeStartTime": "19:00:00",
+      "officeEndTime": "23:59:58",
       "weekHolidays": "Saturday,Sunday",
       "ugstipend": 25000,
       "pgstipend": 0,
@@ -80,7 +80,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "",
+      "others": "Note : Office work timing from 7pm to 4am morning -  Unity Growth Investments has US shift (night shift) for both tech and non tech roles. ",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -96,7 +96,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-18T12:17:52",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-01T07:20:59",
+      "modifiedDate": "2024-06-13T12:49:35",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +105,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 37136,
+      "projectSkillId": 51330,
       "projectId": 1720,
-      "skillId": 132
+      "skillId": 41
     },
     {
-      "projectSkillId": 37137,
+      "projectSkillId": 51402,
       "projectId": 1720,
-      "skillId": 141
+      "skillId": 212
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 1720,
-      "projectDomainId": 2444,
-      "academicDomainId": 81
+      "projectDomainId": 3541,
+      "academicDomainId": 44
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2248,
+      "projectSubDomainId": 3265,
       "projectId": 1720,
-      "academicSubDomainId": 162
+      "academicSubDomainId": 155
     }
   ],
   "projectSubjectArea": [],

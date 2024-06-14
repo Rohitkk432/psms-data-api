@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2410,
-      "projectDisciplineId": 4814,
+      "projectDisciplineId": 5076,
       "projectDisciplineCodes": "B1,AnyB1",
       "discCodesPerProject": "B1,AnyB1",
       "graduationTypeIds": [
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4814,
+      "projectDisciplineId": 5076,
       "projectId": 2410,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -61,15 +61,15 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 12945,
-          "projectDisciplineId": 4814,
+          "projectDisciplineDetailId": 14027,
+          "projectDisciplineId": 5076,
           "graduationTypeId": 1,
           "disciplineId": 16,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12946,
-          "projectDisciplineId": 4814,
+          "projectDisciplineDetailId": 14028,
+          "projectDisciplineId": 5076,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 16
@@ -116,7 +116,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-06T08:56:24",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-06T09:00:22",
+      "modifiedDate": "2024-06-13T06:06:12",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

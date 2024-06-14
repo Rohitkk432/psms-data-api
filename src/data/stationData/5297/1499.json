@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 1499,
-      "projectDisciplineId": 4426,
-      "projectDisciplineCodes": "A7",
-      "discCodesPerProject": "A7",
+      "projectDisciplineId": 5156,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
       "graduationTypeIds": [
         1
       ],
@@ -33,23 +33,24 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4426,
+      "projectDisciplineId": 5156,
       "projectId": 1499,
-      "degreeTypeId": 1,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 8,
+      "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 2,
       "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A7",
+      "disciplineCodes": "A7,AnyA7",
       "graduationTypeIds": [
-        1
+        1,
+        0
       ],
-      "degree": "Single",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -60,11 +61,18 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 11275,
-          "projectDisciplineId": 4426,
+          "projectDisciplineDetailId": 14511,
+          "projectDisciplineId": 5156,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 14512,
+          "projectDisciplineId": 5156,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
         }
       ],
       "selectedContinuingStudentList": null,
@@ -108,7 +116,7 @@
       "createdBy": "ashish.narang@pilani.bits-pilani.ac.in",
       "createdDate": "2024-04-26T13:12:11",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-01T04:54:27",
+      "modifiedDate": "2024-06-13T12:23:40",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

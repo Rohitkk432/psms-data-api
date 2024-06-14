@@ -1,0 +1,197 @@
+{
+  "projectId": 2486,
+  "stationId": 5931,
+  "problemBankId": 1444,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "GIS",
+  "description": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Add features to the existing product NetGraph.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill Sets:</strong></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Artificial Intelligence (AI)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Machine Learning (ML)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Software Development</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Geographic Information Systems (GIS)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Data Visualization</span></li></ul><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected Learning:</strong></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Acquire a comprehensive understanding of GIS and its real-world applications.Learn to integrate AI and ML techniques with GIS data.</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Develop skills in enhancing existing software products.</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Improve abilities in data visualization specific to geographical data.</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Understand the implications of spatial data in various industries.</span></li></ul><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific Courses Required for Project Execution:</strong></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">DotNet for backend development.</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Angular for front-end development.</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">CSS for styling and layout.</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Svelte for building fast and reactive user interfaces.</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Courses in GIS and Spatial Data Analysis.</span></li><li><br></li></ul><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2486,
+      "projectDisciplineId": 5069,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5069,
+      "projectId": 2486,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 4.5,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13989,
+          "projectDisciplineId": 5069,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 13990,
+          "projectDisciplineId": 5069,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 13991,
+          "projectDisciplineId": 5069,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 13992,
+          "projectDisciplineId": 5069,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13993,
+          "projectDisciplineId": 5069,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13994,
+          "projectDisciplineId": 5069,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13995,
+          "projectDisciplineId": 5069,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13996,
+          "projectDisciplineId": 5069,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2399,
+      "projectId": 2486,
+      "officeStartTime": "10:30:00",
+      "officeEndTime": "18:30:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-13T05:55:28",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51372,
+      "projectId": 2486,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51373,
+      "projectId": 2486,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2486,
+      "projectDomainId": 3524,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3247,
+      "projectId": 2486,
+      "academicSubDomainId": 151
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

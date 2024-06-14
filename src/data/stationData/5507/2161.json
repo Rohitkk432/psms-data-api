@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2161,
-      "projectDisciplineId": 4266,
-      "projectDisciplineCodes": "AnyA4,AnyB4,A4,B4",
-      "discCodesPerProject": "AnyA4,AnyB4,A4,B4",
+      "projectDisciplineId": 4961,
+      "projectDisciplineCodes": "AnyA4,AnyB4,AnyAB,A4,B4,AB",
+      "discCodesPerProject": "AnyA4,AnyB4,AnyAB,A4,B4,AB",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4266,
+      "projectDisciplineId": 4961,
       "projectId": 2161,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -45,7 +45,7 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA4,AnyB4,A4,B4",
+      "disciplineCodes": "AnyA4,AnyB4,AnyAB,A4,B4,AB",
       "graduationTypeIds": [
         0,
         1
@@ -61,31 +61,45 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 10819,
-          "projectDisciplineId": 4266,
+          "projectDisciplineDetailId": 13388,
+          "projectDisciplineId": 4961,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 4
         },
         {
-          "projectDisciplineDetailId": 10820,
-          "projectDisciplineId": 4266,
+          "projectDisciplineDetailId": 13389,
+          "projectDisciplineId": 4961,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 19
         },
         {
-          "projectDisciplineDetailId": 10821,
-          "projectDisciplineId": 4266,
+          "projectDisciplineDetailId": 13390,
+          "projectDisciplineId": 4961,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 13391,
+          "projectDisciplineId": 4961,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 10822,
-          "projectDisciplineId": 4266,
+          "projectDisciplineDetailId": 13392,
+          "projectDisciplineId": 4961,
           "graduationTypeId": 1,
           "disciplineId": 19,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13393,
+          "projectDisciplineId": 4961,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
           "discipline2Id": null
         }
       ],
@@ -129,8 +143,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-30T07:26:53",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:05:14",
       "girlsAccomodationOtherCityName": "Biratnagar",
       "boysAccomodationOtherCityName": "Biratnagar",
       "girlsAccomodationCityName": "Biratnagar",

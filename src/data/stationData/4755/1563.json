@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 1563,
-      "projectDisciplineId": 3526,
-      "projectDisciplineCodes": "A7,A3",
-      "discCodesPerProject": "A7,A3",
+      "projectDisciplineId": 5004,
+      "projectDisciplineCodes": "AnyA3,AnyA7,A7,A3",
+      "discCodesPerProject": "AnyA3,AnyA7,A7,A3",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 3526,
+      "projectDisciplineId": 5004,
       "projectId": 1563,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -45,8 +45,9 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A7,A3",
+      "disciplineCodes": "AnyA3,AnyA7,A7,A3",
       "graduationTypeIds": [
+        0,
         1
       ],
       "degree": "Both",
@@ -57,18 +58,32 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
+      "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 8798,
-          "projectDisciplineId": 3526,
+          "projectDisciplineDetailId": 13618,
+          "projectDisciplineId": 5004,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 13619,
+          "projectDisciplineId": 5004,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13620,
+          "projectDisciplineId": 5004,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 8799,
-          "projectDisciplineId": 3526,
+          "projectDisciplineDetailId": 13621,
+          "projectDisciplineId": 5004,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
@@ -121,8 +136,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "swarna.chaudhary@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-07T09:42:23",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:43:00",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

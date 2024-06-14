@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2265,
-      "projectDisciplineId": 4460,
-      "projectDisciplineCodes": "AnyA3,AnyA7,AnyAA,AnyA8,A3,A7,AA,A8",
-      "discCodesPerProject": "AnyA3,AnyA7,AnyAA,AnyA8,A3,A7,AA,A8",
+      "projectDisciplineId": 4996,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyAA,AnyA8,AnyAB,A3,A7,AA,A8,AB",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyAA,AnyA8,AnyAB,A3,A7,AA,A8,AB",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4460,
+      "projectDisciplineId": 4996,
       "projectId": 2265,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -45,7 +45,7 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA3,AnyA7,AnyAA,AnyA8,A3,A7,AA,A8",
+      "disciplineCodes": "AnyA3,AnyA7,AnyAA,AnyA8,AnyAB,A3,A7,AA,A8,AB",
       "graduationTypeIds": [
         0,
         1
@@ -61,59 +61,73 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 11408,
-          "projectDisciplineId": 4460,
+          "projectDisciplineDetailId": 13576,
+          "projectDisciplineId": 4996,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 11409,
-          "projectDisciplineId": 4460,
+          "projectDisciplineDetailId": 13577,
+          "projectDisciplineId": 4996,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 11410,
-          "projectDisciplineId": 4460,
+          "projectDisciplineDetailId": 13578,
+          "projectDisciplineId": 4996,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 11411,
-          "projectDisciplineId": 4460,
+          "projectDisciplineDetailId": 13579,
+          "projectDisciplineId": 4996,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 11412,
-          "projectDisciplineId": 4460,
+          "projectDisciplineDetailId": 13580,
+          "projectDisciplineId": 4996,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 13581,
+          "projectDisciplineId": 4996,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 11413,
-          "projectDisciplineId": 4460,
+          "projectDisciplineDetailId": 13582,
+          "projectDisciplineId": 4996,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 11414,
-          "projectDisciplineId": 4460,
+          "projectDisciplineDetailId": 13583,
+          "projectDisciplineId": 4996,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 11415,
-          "projectDisciplineId": 4460,
+          "projectDisciplineDetailId": 13584,
+          "projectDisciplineId": 4996,
           "graduationTypeId": 1,
           "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13585,
+          "projectDisciplineId": 4996,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
           "discipline2Id": null
         }
       ],
@@ -157,8 +171,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-01T06:53:04",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:39:56",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2118,
-      "projectDisciplineId": 4210,
-      "projectDisciplineCodes": "AnyA4,A4",
-      "discCodesPerProject": "AnyA4,A4",
+      "projectDisciplineId": 4983,
+      "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "discCodesPerProject": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4210,
+      "projectDisciplineId": 4983,
       "projectId": 2118,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -45,7 +45,7 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA4,A4",
+      "disciplineCodes": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
         0,
         1
@@ -61,17 +61,31 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 10674,
-          "projectDisciplineId": 4210,
+          "projectDisciplineDetailId": 13487,
+          "projectDisciplineId": 4983,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 4
         },
         {
-          "projectDisciplineDetailId": 10675,
-          "projectDisciplineId": 4210,
+          "projectDisciplineDetailId": 13488,
+          "projectDisciplineId": 4983,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 13489,
+          "projectDisciplineId": 4983,
           "graduationTypeId": 1,
           "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13490,
+          "projectDisciplineId": 4983,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
           "discipline2Id": null
         }
       ],
@@ -115,8 +129,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-29T11:48:52",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:26:44",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

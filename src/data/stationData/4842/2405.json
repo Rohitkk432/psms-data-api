@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2405,
-      "projectDisciplineId": 4798,
-      "projectDisciplineCodes": "AnyA1,AnyA3,AnyA8,AnyAA,AnyA4,AnyA7,AnyB4,A7,AA,A8,A3,A4,A1,B4",
-      "discCodesPerProject": "AnyA1,AnyA3,AnyA8,AnyAA,AnyA4,AnyA7,AnyB4,A7,AA,A8,A3,A4,A1,B4",
+      "projectDisciplineId": 5068,
+      "projectDisciplineCodes": "B4,A1,A4,A3,A8,AA,AB,A7,AnyB4,AnyA7,AnyA4,AnyAA,AnyA8,AnyA3,AnyAB,AnyA1",
+      "discCodesPerProject": "B4,A1,A4,A3,A8,AA,AB,A7,AnyB4,AnyA7,AnyA4,AnyAA,AnyA8,AnyA3,AnyAB,AnyA1",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4798,
+      "projectDisciplineId": 5068,
       "projectId": 2405,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -45,10 +45,10 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA1,AnyA3,AnyA8,AnyAA,AnyA4,AnyA7,AnyB4,A7,AA,A8,A3,A4,A1,B4",
+      "disciplineCodes": "B4,A1,A4,A3,A8,AA,AB,A7,AnyB4,AnyA7,AnyA4,AnyAA,AnyA8,AnyA3,AnyAB,AnyA1",
       "graduationTypeIds": [
-        0,
-        1
+        1,
+        0
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -61,102 +61,116 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 12889,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 1
-        },
-        {
-          "projectDisciplineDetailId": 12890,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 3
-        },
-        {
-          "projectDisciplineDetailId": 12891,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 13
-        },
-        {
-          "projectDisciplineDetailId": 12892,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 14
-        },
-        {
-          "projectDisciplineDetailId": 12893,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 4
-        },
-        {
-          "projectDisciplineDetailId": 12894,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
-        },
-        {
-          "projectDisciplineDetailId": 12895,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 19
-        },
-        {
-          "projectDisciplineDetailId": 12896,
-          "projectDisciplineId": 4798,
+          "projectDisciplineDetailId": 13973,
+          "projectDisciplineId": 5068,
           "graduationTypeId": 1,
-          "disciplineId": 12,
+          "disciplineId": 19,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12897,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 1,
-          "disciplineId": 14,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12898,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 1,
-          "disciplineId": 13,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12899,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 1,
-          "disciplineId": 3,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12900,
-          "projectDisciplineId": 4798,
-          "graduationTypeId": 1,
-          "disciplineId": 4,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 12901,
-          "projectDisciplineId": 4798,
+          "projectDisciplineDetailId": 13974,
+          "projectDisciplineId": 5068,
           "graduationTypeId": 1,
           "disciplineId": 1,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 12902,
-          "projectDisciplineId": 4798,
+          "projectDisciplineDetailId": 13975,
+          "projectDisciplineId": 5068,
           "graduationTypeId": 1,
-          "disciplineId": 19,
+          "disciplineId": 4,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13976,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13977,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13978,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13979,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13980,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13981,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 13982,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13983,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 13984,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 13985,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 13986,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 13987,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 13988,
+          "projectDisciplineId": 5068,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
         }
       ],
       "selectedContinuingStudentList": null,
@@ -200,7 +214,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-06T06:36:58",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-07T15:50:41",
+      "modifiedDate": "2024-06-13T05:54:01",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

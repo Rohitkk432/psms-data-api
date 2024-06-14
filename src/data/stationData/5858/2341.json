@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2341,
-      "projectDisciplineId": 4738,
-      "projectDisciplineCodes": "A5",
-      "discCodesPerProject": "A5",
+      "projectDisciplineId": 5111,
+      "projectDisciplineCodes": "A5,AnyA5",
+      "discCodesPerProject": "A5,AnyA5",
       "graduationTypeIds": [
         1
       ],
@@ -33,9 +33,9 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4738,
+      "projectDisciplineId": 5111,
       "projectId": 2341,
-      "degreeTypeId": 1,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 7,
@@ -45,11 +45,12 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A5",
+      "disciplineCodes": "A5,AnyA5",
       "graduationTypeIds": [
-        1
+        1,
+        0
       ],
-      "degree": "Single",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -60,11 +61,18 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 12427,
-          "projectDisciplineId": 4738,
+          "projectDisciplineDetailId": 14126,
+          "projectDisciplineId": 5111,
           "graduationTypeId": 1,
           "disciplineId": 11,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 14127,
+          "projectDisciplineId": 5111,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 11
         }
       ],
       "selectedContinuingStudentList": null,
@@ -108,7 +116,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-04T06:01:21",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-04T11:14:40",
+      "modifiedDate": "2024-06-13T06:43:20",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

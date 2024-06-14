@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 1609,
-      "projectDisciplineId": 3572,
-      "projectDisciplineCodes": "A4",
-      "discCodesPerProject": "A4",
+      "projectDisciplineId": 5014,
+      "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "discCodesPerProject": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
         1
       ],
@@ -33,9 +33,9 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 3572,
+      "projectDisciplineId": 5014,
       "projectId": 1609,
-      "degreeTypeId": 1,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
@@ -45,11 +45,12 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A4",
+      "disciplineCodes": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
+        0,
         1
       ],
-      "degree": "Single",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -60,10 +61,31 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 8890,
-          "projectDisciplineId": 3572,
+          "projectDisciplineDetailId": 13682,
+          "projectDisciplineId": 5014,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 13683,
+          "projectDisciplineId": 5014,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 13684,
+          "projectDisciplineId": 5014,
           "graduationTypeId": 1,
           "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13685,
+          "projectDisciplineId": 5014,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
           "discipline2Id": null
         }
       ],
@@ -108,7 +130,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-08T09:29:30",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-05-29T12:18:45",
+      "modifiedDate": "2024-06-13T04:50:36",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

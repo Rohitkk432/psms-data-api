@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1478,
-      "projectDisciplineId": 1821,
+      "projectDisciplineId": 4885,
       "projectDisciplineCodes": "A7",
       "discCodesPerProject": "A7",
       "graduationTypeIds": [
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 1821,
+      "projectDisciplineId": 4885,
       "projectId": 1478,
       "degreeTypeId": 1,
       "firstDegree": 1,
@@ -41,7 +41,7 @@
       "cgpamin": 9,
       "cgpamax": 10,
       "freshRequirement": 2,
-      "totalRequirement": 2,
+      "totalRequirement": 4,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -54,14 +54,14 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 2,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 2592,
-          "projectDisciplineId": 1821,
+          "projectDisciplineDetailId": 13125,
+          "projectDisciplineId": 4885,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null

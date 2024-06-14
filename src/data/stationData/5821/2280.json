@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2280,
-      "projectDisciplineId": 4515,
+      "projectDisciplineId": 4891,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,14 +31,14 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4515,
+      "projectDisciplineId": 4891,
       "projectId": 2280,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 1,
+      "freshRequirement": 0,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
@@ -50,8 +50,8 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
       "otherSuggestedStation": 0,
       "anyDualDegree": 1,
       "disciplineDetails": [],

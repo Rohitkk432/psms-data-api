@@ -1,0 +1,155 @@
+{
+  "projectId": 2472,
+  "stationId": 5921,
+  "problemBankId": 1433,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Full Stack Developer",
+  "description": "<p>Description:</p><p>Responsible for technical design and development of solutions according to the defined requirements</p><p>Making sure your work is readable and maintainable. Ability to refactor is a must.</p><p>Estimate technical effort, work breakdown structure, risks, and solutions at a solution level.</p><p>Develop new functionality on our existing software products.</p><p>Ability to maintain effective and consistent communication within the team, with peers and stakeholders across own and other teams.</p><p>Provide input to application development/engineering methodologies, standards and leading practices.</p><p>Anticipate problems before they occur, define the problem, identify possible causes, work with a team to find solutions, select and implement the most appropriate solution. Ability to clearly articulate both problems and proposed solutions.</p><p>Proactive approach to identifying issues and presenting solutions and options, and where appropriate, leading to resolution.</p><p>Participate in Requirement gathering sessions with clients, interact with the client's technical teams</p><p>Skill sets:</p><p>Full Stack Web Developer (.Net Core + Angular).</p><p>At least a year of relevant experience</p><p>C#, .Net Core, MVC, Web API, EF Core, Typescript, Angular, Angular Material</p><p>SQL Commands, Stored Procedures, DB performance tuning</p><p>Good to have skill: Powerbase, API/Flatfile integration, Middleware.</p><p>Working knowledge of Version Control Using GIT</p><p>Working KrPage dg 2 of Deve6 pment Metodologes like Agile</p><p>Traits expectation:</p><p>Must have passion for coding and ability to learn new technologies quickly</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2472,
+      "projectDisciplineId": 4925,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4925,
+      "projectId": 2472,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13246,
+          "projectDisciplineId": 4925,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13247,
+          "projectDisciplineId": 4925,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2385,
+      "projectId": 2472,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-12T10:01:21",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51340,
+      "projectId": 2472,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51341,
+      "projectId": 2472,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2472,
+      "projectDomainId": 3503,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3225,
+      "projectId": 2472,
+      "academicSubDomainId": 195
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
