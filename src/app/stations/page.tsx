@@ -27,6 +27,12 @@ export default function StationsPage() {
     const [gt85, setGT85] = useState(true);
     const [gt9, setGT9] = useState(true);
 
+    const [req0, setReq0] = useState(true);
+    const [req0to10, setReq0to10] = useState(true);
+    const [req10to20, setReq10to20] = useState(true);
+    const [req20to30, setReq20to30] = useState(true);
+    const [req30plus, setReq30plus] = useState(true);
+
     useEffect(() => {
         setBangalore(localStorage.getItem("bangalore") === "false" ? false : true);
         setMumbai(localStorage.getItem("mumbai") === "false" ? false : true);
@@ -47,6 +53,11 @@ export default function StationsPage() {
         setGT8(localStorage.getItem("gt8") === "false" ? false : true);
         setGT85(localStorage.getItem("gt85") === "false" ? false : true);
         setGT9(localStorage.getItem("gt9") === "false" ? false : true);
+        setReq0(localStorage.getItem("req0") === "false" ? false : true);
+        setReq0to10(localStorage.getItem("req0to10") === "false" ? false : true);
+        setReq10to20(localStorage.getItem("req10to20") === "false" ? false : true);
+        setReq20to30(localStorage.getItem("req20to30") === "false" ? false : true);
+        setReq30plus(localStorage.getItem("req30plus") === "false" ? false : true);
     }, []);
 
     return (
@@ -167,6 +178,54 @@ export default function StationsPage() {
                     Add Other Domains
                 </button>
             </div>
+            <div className="w-full flex items-center justify-center my-3 gap-4">
+                <div className="text-lg">Requirements Filters - </div>
+                <button
+                    onClick={() => {
+                        localStorage.setItem("req0", !req0 ? "true" : "false");
+                        setReq0(!req0);
+                    }}
+                    type="button"
+                    className={!req0 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    Req == 0
+                </button>
+                <button
+                    onClick={() => {
+                        localStorage.setItem("req0to10", !req0to10 ? "true" : "false");
+                        setReq0to10(!req0to10);
+                    }}
+                    type="button"
+                    className={!req0to10 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`0 < req <= 10`}
+                </button>
+                <button
+                    onClick={() => {
+                        localStorage.setItem("req10to20", !req10to20 ? "true" : "false");
+                        setReq10to20(!req10to20);
+                    }}
+                    type="button"
+                    className={!req10to20 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`10 < req <= 20`}
+                </button>
+                <button
+                    onClick={() => {
+                        localStorage.setItem("req20to30", !req20to30 ? "true" : "false");
+                        setReq20to30(!req20to30);
+                    }}
+                    type="button"
+                    className={!req20to30 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`20 < req <= 30`}
+                </button>
+                <button
+                    onClick={() => {
+                        localStorage.setItem("req30plus", !req30plus ? "true" : "false");
+                        setReq30plus(!req30plus);
+                    }}
+                    type="button"
+                    className={!req30plus ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`30 < req`}
+                </button>
+            </div>
 
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <div className="text-lg">CGPA Filters - </div>
@@ -274,34 +333,41 @@ export default function StationsPage() {
                             : true
                     )
                         if (
-                            (pune && item.city.includes("Pune")) ||
-                            (hyd && item.city.includes("Hyderabad")) ||
-                            (mumbai && item.city.includes("Mumbai")) ||
-                            (gurgaon && item.city.includes("Gurgaon")) ||
-                            (bangalore && (item.city.includes("Bangalore") || item.city.includes("Bengaluru"))) ||
-                            (delhi && item.city.includes("Delhi")) ||
-                            (other &&
-                                !item.city.includes("Pune") &&
-                                !item.city.includes("Hyderabad") &&
-                                !item.city.includes("Mumbai") &&
-                                !item.city.includes("Gurgaon") &&
-                                !item.city.includes("Bangalore") &&
-                                !item.city.includes("Delhi") &&
-                                !item.city.includes("Bengaluru"))
+                            (req0 && item.requirements === 0) ||
+                            (req0to10 && item.requirements > 0 && item.requirements <= 10) ||
+                            (req10to20 && item.requirements > 10 && item.requirements <= 20) ||
+                            (req20to30 && item.requirements > 20 && item.requirements <= 30) ||
+                            (req30plus && item.requirements > 30)
                         )
-                            return (
-                                <div key={item.stationId} className="w-full grid grid-cols-9 py-2 items-center justify-center border-b text-white text-lg">
-                                    <div className="flex items-center justify-center">{item.stationId}</div>
-                                    <div className="col-span-3 text-center flex items-center justify-center">{item.stationName}</div>
-                                    <div className="flex items-center justify-center">{item.city}</div>
-                                    <div className="flex items-center text-center justify-center">{item.stationDomain}</div>
-                                    <div className="flex items-center justify-center">{item.requirements}</div>
-                                    <div className="flex items-center justify-center">{item.minCgpa}</div>
-                                    <a href={`/station-details/${item.stationId}`} className="flex items-center rounded-xl bg-blue-500 justify-center">
-                                        Details
-                                    </a>
-                                </div>
-                            );
+                            if (
+                                (pune && item.city.includes("Pune")) ||
+                                (hyd && item.city.includes("Hyderabad")) ||
+                                (mumbai && item.city.includes("Mumbai")) ||
+                                (gurgaon && item.city.includes("Gurgaon")) ||
+                                (bangalore && (item.city.includes("Bangalore") || item.city.includes("Bengaluru"))) ||
+                                (delhi && item.city.includes("Delhi")) ||
+                                (other &&
+                                    !item.city.includes("Pune") &&
+                                    !item.city.includes("Hyderabad") &&
+                                    !item.city.includes("Mumbai") &&
+                                    !item.city.includes("Gurgaon") &&
+                                    !item.city.includes("Bangalore") &&
+                                    !item.city.includes("Delhi") &&
+                                    !item.city.includes("Bengaluru"))
+                            )
+                                return (
+                                    <div key={item.stationId} className="w-full grid grid-cols-9 py-2 items-center justify-center border-b text-white text-lg">
+                                        <div className="flex items-center justify-center">{item.stationId}</div>
+                                        <div className="col-span-3 text-center flex items-center justify-center">{item.stationName}</div>
+                                        <div className="flex items-center justify-center">{item.city}</div>
+                                        <div className="flex items-center text-center justify-center">{item.stationDomain}</div>
+                                        <div className="flex items-center justify-center">{item.requirements}</div>
+                                        <div className="flex items-center justify-center">{item.minCgpa}</div>
+                                        <a href={`/station-details/${item.stationId}`} className="flex items-center rounded-xl bg-blue-500 justify-center">
+                                            Details
+                                        </a>
+                                    </div>
+                                );
             })}
         </main>
     );
