@@ -1,13 +1,13 @@
 {
-  "projectId": 2496,
-  "stationId": 5938,
-  "problemBankId": 1451,
+  "projectId": 2503,
+  "stationId": 5942,
+  "problemBankId": 1455,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details awaited",
-  "description": "<p>--</p>",
+  "title": "Content Creation and Growth",
+  "description": "<p>Description:</p><p>1. Content Creation: Assist in creating engaging and visually appealing content for social</p><p>media channels, including graphics, videos, and written posts.</p><p>2. Strategy Development: Contribute creative ideas and insights to help shape social</p><p>media strategies that align with our goals and objectives.</p><p>Skill sets:</p><p>Communication, Content Creation, Leadership, Event Production, Organization,</p><p>Hospitality, Negotiation</p><p>Traits expectation:</p><p>Driven and adaptable individual seeking to broaden expertise across interdisciplinary</p><p>fields, including Chemical Engineering and Technology</p><p>Expected learning:</p><p>1 Hands-on experience in a fast-growing industry.</p><p>2. Mentorship and guidance from experienced professionals.</p><p>Specific courses required for project execution:</p><p>1.Print And Audio Visual Advertising</p><p>2.Organizational Psychology</p><p>3.Fundamentals Of Finance And Accounting</p><p>4.Business Analysis And Valuation</p><p>5.Process Plant Safety</p><p>6.Environmental Pollution Control</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,10 +17,10 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2496,
-      "projectDisciplineId": 5149,
-      "projectDisciplineCodes": "AnyA4,A4",
-      "discCodesPerProject": "AnyA4,A4",
+      "projectId": 2503,
+      "projectDisciplineId": 5161,
+      "projectDisciplineCodes": "AnyA1,A1",
+      "discCodesPerProject": "AnyA1,A1",
       "graduationTypeIds": [
         1
       ],
@@ -33,19 +33,19 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5149,
-      "projectId": 2496,
+      "projectDisciplineId": 5161,
+      "projectId": 2503,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
+      "cgpamin": 6.15,
       "cgpamax": 10,
-      "freshRequirement": 0,
+      "freshRequirement": 1,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA4,A4",
+      "disciplineCodes": "AnyA1,A1",
       "graduationTypeIds": [
         0,
         1
@@ -55,23 +55,23 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 1,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 14503,
-          "projectDisciplineId": 5149,
+          "projectDisciplineDetailId": 14523,
+          "projectDisciplineId": 5161,
           "graduationTypeId": 0,
           "disciplineId": null,
-          "discipline2Id": 4
+          "discipline2Id": 1
         },
         {
-          "projectDisciplineDetailId": 14504,
-          "projectDisciplineId": 5149,
+          "projectDisciplineDetailId": 14524,
+          "projectDisciplineId": 5161,
           "graduationTypeId": 1,
-          "disciplineId": 4,
+          "disciplineId": 1,
           "discipline2Id": null
         }
       ],
@@ -82,12 +82,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2409,
-      "projectId": 2496,
+      "projectFacilityId": 2416,
+      "projectId": 2503,
       "officeStartTime": "09:00:00",
-      "officeEndTime": "18:00:00",
-      "weekHolidays": "Sunday",
-      "ugstipend": 30000,
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 15000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -100,7 +100,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "preferential allotment.- Aditya Menon (BITS ID: 2020B4A41551G )",
+      "others": "",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -114,9 +114,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-13T10:35:45",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-14T09:21:27",
+      "createdDate": "2024-06-14T06:40:02",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -125,29 +125,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51392,
-      "projectId": 2496,
+      "projectSkillId": 51411,
+      "projectId": 2503,
       "skillId": 431
     },
     {
-      "projectSkillId": 51393,
-      "projectId": 2496,
+      "projectSkillId": 51412,
+      "projectId": 2503,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2496,
-      "projectDomainId": 3535,
-      "academicDomainId": 81
+      "projectId": 2503,
+      "projectDomainId": 3547,
+      "academicDomainId": 14
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3258,
-      "projectId": 2496,
-      "academicSubDomainId": 162
+      "projectSubDomainId": 3269,
+      "projectId": 2503,
+      "academicSubDomainId": 135
     }
   ],
   "projectSubjectArea": [],

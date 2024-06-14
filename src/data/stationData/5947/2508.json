@@ -1,13 +1,13 @@
 {
-  "projectId": 2496,
-  "stationId": 5938,
-  "problemBankId": 1451,
+  "projectId": 2508,
+  "stationId": 5947,
+  "problemBankId": 1460,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details awaited",
-  "description": "<p>--</p>",
+  "title": "Interactivity & Engagements ",
+  "description": "<p class=\"ql-align-justify\">Own end to end data management for all the interactivities &amp; engagements running on the platform</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Understand the product flow and dashboard management&nbsp;</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Own the reporting of data to business team &amp; find actionable insights</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Work with Interactivity Publishing team on innovative ways to boost Interactivity adoption</p><p class=\"ql-align-justify\">&nbsp;</p><p>Work on CMS to operationalize interactivities and related processes.&nbsp;</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,64 +17,44 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2496,
-      "projectDisciplineId": 5149,
-      "projectDisciplineCodes": "AnyA4,A4",
-      "discCodesPerProject": "AnyA4,A4",
-      "graduationTypeIds": [
-        1
-      ],
+      "projectId": 2508,
+      "projectDisciplineId": 5171,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": false,
+      "anyEither": true,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5149,
-      "projectId": 2496,
+      "projectDisciplineId": 5171,
+      "projectId": 2508,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
+      "cgpamin": 7.5,
       "cgpamax": 10,
-      "freshRequirement": 0,
+      "freshRequirement": 1,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA4,A4",
-      "graduationTypeIds": [
-        0,
-        1
-      ],
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 1,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 0,
-      "disciplineDetails": [
-        {
-          "projectDisciplineDetailId": 14503,
-          "projectDisciplineId": 5149,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 4
-        },
-        {
-          "projectDisciplineDetailId": 14504,
-          "projectDisciplineId": 5149,
-          "graduationTypeId": 1,
-          "disciplineId": 4,
-          "discipline2Id": null
-        }
-      ],
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -82,12 +62,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2409,
-      "projectId": 2496,
-      "officeStartTime": "09:00:00",
-      "officeEndTime": "18:00:00",
+      "projectFacilityId": 2421,
+      "projectId": 2508,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 30000,
+      "ugstipend": 60000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -100,7 +80,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "preferential allotment.- Aditya Menon (BITS ID: 2020B4A41551G )",
+      "others": "",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -114,9 +94,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-13T10:35:45",
+      "createdDate": "2024-06-14T11:01:30",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-14T09:21:27",
+      "modifiedDate": "2024-06-14T11:11:35",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -125,29 +105,34 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51392,
-      "projectId": 2496,
+      "projectSkillId": 51423,
+      "projectId": 2508,
       "skillId": 431
     },
     {
-      "projectSkillId": 51393,
-      "projectId": 2496,
-      "skillId": 436
+      "projectSkillId": 51424,
+      "projectId": 2508,
+      "skillId": 44
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2496,
-      "projectDomainId": 3535,
-      "academicDomainId": 81
+      "projectId": 2508,
+      "projectDomainId": 3561,
+      "academicDomainId": 11
+    },
+    {
+      "projectId": 2508,
+      "projectDomainId": 3562,
+      "academicDomainId": 27
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3258,
-      "projectId": 2496,
-      "academicSubDomainId": 162
+      "projectSubDomainId": 3283,
+      "projectId": 2508,
+      "academicSubDomainId": 334
     }
   ],
   "projectSubjectArea": [],

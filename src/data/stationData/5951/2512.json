@@ -1,13 +1,13 @@
 {
-  "projectId": 2496,
-  "stationId": 5938,
-  "problemBankId": 1451,
+  "projectId": 2512,
+  "stationId": 5951,
+  "problemBankId": 1464,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details awaited",
-  "description": "<p>--</p>",
+  "title": "1.Data Marts via DBT 2.DQ Platform",
+  "description": "<ol><li class=\"ql-align-justify\"><span style=\"color: rgb(13, 13, 13); background-color: white;\">This project involves creating Data Build Tool (DBT) models for enhanced data visualization. Participants will transform raw data into structured, analyzable formats using DBT, facilitating the generation of insightful visual dashboards. The goal is to develop robust data pipelines that support dynamic and interactive visualizations for business intelligence.</span></li><li><span style=\"background-color: white; color: rgb(13, 13, 13);\">This project involves developing a platform for comprehensive Data Quality (DQ) checks. Interns will design and implement automated processes to validate and ensure the integrity, consistency, and accuracy of data across various sources. The aim is to create a scalable solution that continuously monitors data quality and generates actionable insights to maintain high data standards.</span></li></ol>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,10 +17,10 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2496,
-      "projectDisciplineId": 5149,
-      "projectDisciplineCodes": "AnyA4,A4",
-      "discCodesPerProject": "AnyA4,A4",
+      "projectId": 2512,
+      "projectDisciplineId": 5170,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
       "graduationTypeIds": [
         1
       ],
@@ -33,19 +33,19 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5149,
-      "projectId": 2496,
+      "projectDisciplineId": 5170,
+      "projectId": 2512,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
+      "cgpamin": 7.5,
       "cgpamax": 10,
-      "freshRequirement": 0,
-      "totalRequirement": 1,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA4,A4",
+      "disciplineCodes": "AnyA7,A7",
       "graduationTypeIds": [
         0,
         1
@@ -55,23 +55,23 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 1,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 14503,
-          "projectDisciplineId": 5149,
+          "projectDisciplineDetailId": 14555,
+          "projectDisciplineId": 5170,
           "graduationTypeId": 0,
           "disciplineId": null,
-          "discipline2Id": 4
+          "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 14504,
-          "projectDisciplineId": 5149,
+          "projectDisciplineDetailId": 14556,
+          "projectDisciplineId": 5170,
           "graduationTypeId": 1,
-          "disciplineId": 4,
+          "disciplineId": 12,
           "discipline2Id": null
         }
       ],
@@ -82,12 +82,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2409,
-      "projectId": 2496,
-      "officeStartTime": "09:00:00",
-      "officeEndTime": "18:00:00",
-      "weekHolidays": "Sunday",
-      "ugstipend": 30000,
+      "projectFacilityId": 2425,
+      "projectId": 2512,
+      "officeStartTime": "10:30:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 60000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -100,7 +100,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "preferential allotment.- Aditya Menon (BITS ID: 2020B4A41551G )",
+      "others": "",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -114,9 +114,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-13T10:35:45",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-14T09:21:27",
+      "createdDate": "2024-06-14T11:09:45",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -125,29 +125,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51392,
-      "projectId": 2496,
+      "projectSkillId": 51431,
+      "projectId": 2512,
       "skillId": 431
     },
     {
-      "projectSkillId": 51393,
-      "projectId": 2496,
+      "projectSkillId": 51432,
+      "projectId": 2512,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2496,
-      "projectDomainId": 3535,
-      "academicDomainId": 81
+      "projectId": 2512,
+      "projectDomainId": 3560,
+      "academicDomainId": 44
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3258,
-      "projectId": 2496,
-      "academicSubDomainId": 162
+      "projectSubDomainId": 3282,
+      "projectId": 2512,
+      "academicSubDomainId": 155
     }
   ],
   "projectSubjectArea": [],
