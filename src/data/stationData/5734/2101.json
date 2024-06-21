@@ -40,8 +40,8 @@
       "higherDegree": 0,
       "cgpamin": 7,
       "cgpamax": 10,
-      "freshRequirement": 3,
-      "totalRequirement": 3,
+      "freshRequirement": 6,
+      "totalRequirement": 6,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -121,7 +121,20 @@
       "conditionalOfferStudents": null
     }
   ],
-  "projectElective": [],
+  "projectElective": [
+    {
+      "projectElectiveId": 437,
+      "projectId": 2101,
+      "electiveId": 1136,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 438,
+      "projectId": 2101,
+      "electiveId": 1159,
+      "grade": null
+    }
+  ],
   "projectFacility": [
     {
       "projectFacilityId": 2016,

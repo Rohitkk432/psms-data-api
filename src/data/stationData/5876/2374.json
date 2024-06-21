@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2374,
-      "projectDisciplineId": 4757,
-      "projectDisciplineCodes": "AnyA7,A7",
-      "discCodesPerProject": "AnyA7,A7",
+      "projectDisciplineId": 5379,
+      "projectDisciplineCodes": "AnyA7,AnyAA,A7,AA",
+      "discCodesPerProject": "AnyA7,AnyAA,A7,AA",
       "graduationTypeIds": [
         1
       ],
@@ -33,19 +33,19 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4757,
+      "projectDisciplineId": 5379,
       "projectId": 2374,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 8,
+      "cgpamin": 6.5,
       "cgpamax": 10,
       "freshRequirement": 4,
       "totalRequirement": 4,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA7,A7",
+      "disciplineCodes": "AnyA7,AnyAA,A7,AA",
       "graduationTypeIds": [
         0,
         1
@@ -61,17 +61,31 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 12489,
-          "projectDisciplineId": 4757,
+          "projectDisciplineDetailId": 15517,
+          "projectDisciplineId": 5379,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 12490,
-          "projectDisciplineId": 4757,
+          "projectDisciplineDetailId": 15518,
+          "projectDisciplineId": 5379,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 15519,
+          "projectDisciplineId": 5379,
           "graduationTypeId": 1,
           "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 15520,
+          "projectDisciplineId": 5379,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
           "discipline2Id": null
         }
       ],

@@ -18,14 +18,14 @@
   "discViewModels": [
     {
       "projectId": 1871,
-      "projectDisciplineId": 5101,
-      "projectDisciplineCodes": "AnyB3,A1,A2,A3,A4,A5,A7,A8,AA,AB,B3",
-      "discCodesPerProject": "AnyB3,A1,A2,A3,A4,A5,A7,A8,AA,AB,B3",
+      "projectDisciplineId": 5274,
+      "projectDisciplineCodes": "AnyB3",
+      "discCodesPerProject": "AnyB3",
       "graduationTypeIds": [
         1
       ],
       "anySingle": false,
-      "anyDual": false,
+      "anyDual": true,
       "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
@@ -33,24 +33,23 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5101,
+      "projectDisciplineId": 5274,
       "projectId": 1871,
-      "degreeTypeId": 3,
+      "degreeTypeId": 2,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 7.5,
+      "cgpamin": 6.5,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyB3,A1,A2,A3,A4,A5,A7,A8,AA,AB,B3",
+      "disciplineCodes": "AnyB3",
       "graduationTypeIds": [
-        0,
-        1
+        0
       ],
-      "degree": "Both",
+      "degree": "Dual",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -61,81 +60,11 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 14093,
-          "projectDisciplineId": 5101,
+          "projectDisciplineDetailId": 15024,
+          "projectDisciplineId": 5274,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 18
-        },
-        {
-          "projectDisciplineDetailId": 14094,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 1,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14095,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 2,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14096,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 3,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14097,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 4,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14098,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 11,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14099,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 12,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14100,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 13,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14101,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 14,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14102,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 15,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 14103,
-          "projectDisciplineId": 5101,
-          "graduationTypeId": 1,
-          "disciplineId": 18,
-          "discipline2Id": null
         }
       ],
       "selectedContinuingStudentList": null,
@@ -178,8 +107,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-20T10:22:54",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-14T16:28:57",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

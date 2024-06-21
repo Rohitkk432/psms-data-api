@@ -107,7 +107,26 @@
       "conditionalOfferStudents": null
     }
   ],
-  "projectElective": [],
+  "projectElective": [
+    {
+      "projectElectiveId": 442,
+      "projectId": 1700,
+      "electiveId": 1062,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 443,
+      "projectId": 1700,
+      "electiveId": 630,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 444,
+      "projectId": 1700,
+      "electiveId": 600,
+      "grade": null
+    }
+  ],
   "projectFacility": [
     {
       "projectFacilityId": 1620,

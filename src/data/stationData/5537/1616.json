@@ -1,0 +1,168 @@
+{
+  "projectId": 1616,
+  "stationId": 5537,
+  "problemBankId": 871,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Intern - Engineering",
+  "description": "<p>Description:</p><p>Rumble B2B2C Gaming Portal</p><p>\tSkill sets: Java, Reactjs, Nextjs, Nodejs Traits expectation:</p><p>Self-starter, attitude to work in a face paced environment.</p><p>Expected learning:</p><p>Will learn end to end development of scalable B2B2C platform, OOPS, SOLID principles, design patterns, architecture, and system design.</p><p>Specific courses required for project execution:</p><p><span style=\"color: black;\">Computer Programming I &amp; Il, Data Structures and Algorithms(if applicable)</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Divyanshu Das",
+  "mentorEmailId": "divvanshu@ruskmedia.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1616,
+      "projectDisciplineId": 4513,
+      "projectDisciplineCodes": "AnyA7,AnyA3,AnyA8,AnyAA",
+      "discCodesPerProject": "AnyA7,AnyA3,AnyA8,AnyAA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4513,
+      "projectId": 1616,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyA3,AnyA8,AnyAA",
+      "graduationTypeIds": [
+        0
+      ],
+      "degree": "Dual",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 11604,
+          "projectDisciplineId": 4513,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 11605,
+          "projectDisciplineId": 4513,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 11606,
+          "projectDisciplineId": 4513,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 11607,
+          "projectDisciplineId": 4513,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1539,
+      "projectId": 1616,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 85000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Accommodation — 14days\nTravel from hometown to organization\n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-08T10:10:42",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-01T09:03:44",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36130,
+      "projectId": 1616,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 36131,
+      "projectId": 1616,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1616,
+      "projectDomainId": 2303,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2110,
+      "projectId": 1616,
+      "academicSubDomainId": 2
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

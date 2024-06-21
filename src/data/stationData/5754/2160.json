@@ -40,8 +40,8 @@
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 1,
-      "totalRequirement": 1,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -79,7 +79,140 @@
       "conditionalOfferStudents": null
     }
   ],
-  "projectElective": [],
+  "projectElective": [
+    {
+      "projectElectiveId": 1415,
+      "projectId": 2160,
+      "electiveId": 500,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1416,
+      "projectId": 2160,
+      "electiveId": 714,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1417,
+      "projectId": 2160,
+      "electiveId": 1303,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1418,
+      "projectId": 2160,
+      "electiveId": 228,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1419,
+      "projectId": 2160,
+      "electiveId": 409,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1420,
+      "projectId": 2160,
+      "electiveId": 1273,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1421,
+      "projectId": 2160,
+      "electiveId": 1243,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1422,
+      "projectId": 2160,
+      "electiveId": 283,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1423,
+      "projectId": 2160,
+      "electiveId": 284,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1424,
+      "projectId": 2160,
+      "electiveId": 1282,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1425,
+      "projectId": 2160,
+      "electiveId": 1283,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1426,
+      "projectId": 2160,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1427,
+      "projectId": 2160,
+      "electiveId": 1377,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1428,
+      "projectId": 2160,
+      "electiveId": 1358,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1429,
+      "projectId": 2160,
+      "electiveId": 515,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1430,
+      "projectId": 2160,
+      "electiveId": 1276,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1431,
+      "projectId": 2160,
+      "electiveId": 1316,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1432,
+      "projectId": 2160,
+      "electiveId": 259,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1433,
+      "projectId": 2160,
+      "electiveId": 41,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1434,
+      "projectId": 2160,
+      "electiveId": 411,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1435,
+      "projectId": 2160,
+      "electiveId": 1338,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1436,
+      "projectId": 2160,
+      "electiveId": 1304,
+      "grade": null
+    }
+  ],
   "projectFacility": [
     {
       "projectFacilityId": 2075,
@@ -116,7 +249,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-30T07:23:45",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T04:57:28",
+      "modifiedDate": "2024-06-20T15:14:29",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

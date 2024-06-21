@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "details awaited",
-  "description": "<p>--</p>",
+  "title": "3 Projects",
+  "description": "<p>Project Overview: Cost calculator.</p><p>The goal of this project is to develop a cost calculator that accurately determines the daily expenditures associated with pickup and delivery operations. This tool will be instrumental in analysing and driving monthly profit and loss (P&amp;L) statements by providing detailed insights into cost measurement.</p><p>This tool will aid in better decision-making and cost management, ultimately enhancing our monthly P&amp;L.</p><p>2</p><p>Project overview:&nbsp;Redesign the existing network to achieve a balance between cost reduction and maintaining or improving Network TAT. This project is designed for intern to gain experience in network analysis, cost optimization, and service improvement.</p><p>3</p><p>Project Overview: Shop Floor Management System (SFM) and E-Way Bill Management</p><p>SFM: Objective is to create and implement an effective site layout for the Shop Floor Management (SFM) system, conduct training sessions for its use, and ensure adherence to SFM protocols at various sites</p><p>E-Way bill: Objective is to identify and rectify the reasons for the expiration of e-way bills, ensuring compliance and operational efficiency with the help of site and Tech teams</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -18,33 +18,38 @@
   "discViewModels": [
     {
       "projectId": 2336,
-      "projectDisciplineId": 4689,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectDisciplineId": 5390,
+      "projectDisciplineCodes": "A4,AnyA4",
+      "discCodesPerProject": "A4,AnyA4",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4689,
+      "projectDisciplineId": 5390,
       "projectId": 2336,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
+      "cgpamin": 7,
       "cgpamax": 10,
-      "freshRequirement": 0,
-      "totalRequirement": 0,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "A4,AnyA4",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -53,8 +58,23 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 15547,
+          "projectDisciplineId": 5390,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 15548,
+          "projectDisciplineId": 5390,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -67,7 +87,7 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 0,
+      "ugstipend": 25000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -95,8 +115,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-03T15:42:58",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-20T07:49:13",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +125,34 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51017,
+      "projectSkillId": 55032,
       "projectId": 2336,
-      "skillId": 431
+      "skillId": 11
     },
     {
-      "projectSkillId": 51018,
+      "projectSkillId": 55033,
       "projectId": 2336,
-      "skillId": 436
+      "skillId": 277
+    },
+    {
+      "projectSkillId": 55034,
+      "projectId": 2336,
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 2336,
-      "projectDomainId": 3313,
-      "academicDomainId": 81
+      "projectDomainId": 3687,
+      "academicDomainId": 21
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3043,
+      "projectSubDomainId": 3399,
       "projectId": 2336,
-      "academicSubDomainId": 162
+      "academicSubDomainId": 70
     }
   ],
   "projectSubjectArea": [],

@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "details awaited",
-  "description": "<p>--</p>",
+  "title": "AI-ML Project",
+  "description": "<p>AI-ML Project</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2303,
-      "projectDisciplineId": 4573,
+      "projectDisciplineId": 5423,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,15 +31,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4573,
+      "projectDisciplineId": 5423,
       "projectId": 2303,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 0,
-      "totalRequirement": 0,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -67,7 +67,7 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 40000,
+      "ugstipend": 30000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -95,8 +95,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-01T15:55:35",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-20T13:33:22",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +105,34 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50936,
+      "projectSkillId": 55044,
       "projectId": 2303,
-      "skillId": 431
+      "skillId": 90
     },
     {
-      "projectSkillId": 50937,
+      "projectSkillId": 55045,
       "projectId": 2303,
-      "skillId": 436
+      "skillId": 295
+    },
+    {
+      "projectSkillId": 55046,
+      "projectId": 2303,
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 2303,
-      "projectDomainId": 3253,
-      "academicDomainId": 81
+      "projectDomainId": 3693,
+      "academicDomainId": 86
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2986,
+      "projectSubDomainId": 3404,
       "projectId": 2303,
-      "academicSubDomainId": 162
+      "academicSubDomainId": 192
     }
   ],
   "projectSubjectArea": [],

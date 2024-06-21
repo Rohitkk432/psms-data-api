@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 1744,
-      "projectDisciplineId": 5018,
-      "projectDisciplineCodes": "A4,AnyA4",
-      "discCodesPerProject": "A4,AnyA4",
+      "projectDisciplineId": 5238,
+      "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "discCodesPerProject": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5018,
+      "projectDisciplineId": 5238,
       "projectId": 1744,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -45,10 +45,10 @@
       "maleRequirement": 2,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A4,AnyA4",
+      "disciplineCodes": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
-        1,
-        0
+        0,
+        1
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -61,18 +61,32 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 13711,
-          "projectDisciplineId": 5018,
+          "projectDisciplineDetailId": 14835,
+          "projectDisciplineId": 5238,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 14836,
+          "projectDisciplineId": 5238,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 14837,
+          "projectDisciplineId": 5238,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 13712,
-          "projectDisciplineId": 5018,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 4
+          "projectDisciplineDetailId": 14838,
+          "projectDisciplineId": 5238,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
         }
       ],
       "selectedContinuingStudentList": null,

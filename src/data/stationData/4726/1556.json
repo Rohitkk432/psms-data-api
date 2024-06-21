@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1556,
-      "projectDisciplineId": 5039,
+      "projectDisciplineId": 5372,
       "projectDisciplineCodes": "A7,AnyA7",
       "discCodesPerProject": "A7,AnyA7",
       "graduationTypeIds": [
@@ -33,12 +33,12 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5039,
+      "projectDisciplineId": 5372,
       "projectId": 1556,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 7.5,
+      "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
@@ -61,15 +61,15 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 13821,
-          "projectDisciplineId": 5039,
+          "projectDisciplineDetailId": 15508,
+          "projectDisciplineId": 5372,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 13822,
-          "projectDisciplineId": 5039,
+          "projectDisciplineDetailId": 15509,
+          "projectDisciplineId": 5372,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
@@ -100,7 +100,7 @@
       "officeStartTime": "09:47:25",
       "officeEndTime": "17:47:36",
       "weekHolidays": "Saturday,Sunday",
-      "ugstipend": 36000,
+      "ugstipend": 42000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -129,7 +129,7 @@
       "createdBy": "monali.mavani@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-06T15:21:41",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T05:11:11",
+      "modifiedDate": "2024-06-21T05:18:33",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1896,
-      "projectDisciplineId": 4984,
+      "projectDisciplineId": 5376,
       "projectDisciplineCodes": "A7,AnyA7",
       "discCodesPerProject": "A7,AnyA7",
       "graduationTypeIds": [
@@ -33,15 +33,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4984,
+      "projectDisciplineId": 5376,
       "projectId": 1896,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 7.5,
       "cgpamax": 10,
-      "freshRequirement": 2,
-      "totalRequirement": 2,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -61,15 +61,15 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 13491,
-          "projectDisciplineId": 4984,
+          "projectDisciplineDetailId": 15512,
+          "projectDisciplineId": 5376,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 13492,
-          "projectDisciplineId": 4984,
+          "projectDisciplineDetailId": 15513,
+          "projectDisciplineId": 5376,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
@@ -116,7 +116,7 @@
       "createdBy": "monali.mavani@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-20T12:15:13",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T04:27:40",
+      "modifiedDate": "2024-06-20T05:41:30",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
