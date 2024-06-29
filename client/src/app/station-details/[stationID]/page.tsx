@@ -1,19 +1,18 @@
 import fs from "fs";
 import path from "path";
 
-import skills from '@/data/catergories/skill.json'
-import acadDomains from '@/data/catergories/academicdomain.json'
-import acadSubDomains from "@/data/catergories/academicsubdomainbyid.json";
+import skills from "../../../../../data/catergories/skill.json";
+import acadDomains from "../../../../../data/catergories/academicdomain.json";
+import acadSubDomains from "../../../../../data/catergories/academicsubdomainbyid.json";
 
-import elective1 from '@/data/catergories/elective1.json'
-
+import elective1 from "../../../../../data/catergories/elective1.json";
 
 import MarkdownRenderer from "@/components/markdown";
 
 // Define the server component
 const StationDetails = async ({ params }: any) => {
     const { stationID } = params;
-    const filePath = path.join(process.cwd(), "src", "data", "stationData", stationID);
+    const filePath = path.join(process.cwd(), "..", "data", "stationData", stationID);
     const files = await fs.promises.readdir(filePath);
 
     let station: any = {};

@@ -3,8 +3,10 @@ const fs = require("fs");
 const path = require("path");
 const data1 = require("../data/stations.json");
 
-const AUTH_TOKEN =
-    "Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImYyMDIwMTE0MUBnb2EuYml0cy1waWxhbmkuYWMuaW4iLCJyb2xlIjoiU3R1ZGVudCIsImFjY2VzcyI6WyJWSUVXX1NUQVRJT04iLCJBRERfU1RBVElPTiIsIkRFTEVURV9TVEFUSU9OIiwiVklFV19TVFVERU5UIiwiVklFV19TVFVERU5UX1JQVCIsIlZJRVdfUEIiXSwibmJmIjoxNzE5NjI5NjU1LCJleHAiOjE3MTk3MTYwNTUsImlhdCI6MTcxOTYyOTY1NX0.An3j4m410saPEqa-esfMblFqn-cWIdcw6OrWVw6JzZMDDWbEhdLQsV_R7t1c489n2ZHoFBmdK87ovw8Y47yIiQ";
+require("dotenv").config();
+
+const AUTH_TOKEN = process.env.PSMS_TOKEN;
+// console.log(AUTH_TOKEN);
 
 const USER_NAME = "f20201141@goa.bits-pilani.ac.in";
 
@@ -206,9 +208,10 @@ data1.forEach(async (stationItem: any) => {
     //     console.log(stationItem.stationId);
     //     return;
     // });
+
     
     // //backfill some data to data/stations.json
-    
+
     // await backfillListWithData(stationItem.stationId).catch((err) => {
     //     console.log(stationItem.stationId);
     //     return;

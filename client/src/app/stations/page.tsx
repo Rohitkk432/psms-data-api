@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import StationData from "@/data/stations.json";
+import StationData from "../../../../data/stations.json";
 import cn from "classnames";
 
 export default function StationsPage() {
