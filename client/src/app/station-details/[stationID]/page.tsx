@@ -76,7 +76,10 @@ const StationDetails = async ({ params }: any) => {
             {Object.values(projects).map((item: any, key) => {
                 return (
                     <div key={item.projectId} className="flex w-[48%] my-4 flex-col p-4 border rounded-xl gap-2">
-                        <div className="w-full flex text-2xl font-bold items-center justify-center">Project - {item.title}</div>
+                        <div className="w-full flex text-2xl font-bold items-center justify-center">
+                            Project {key + 1} - {item.title}
+                        </div>
+
                         <div className="w-full flex items-start justify-between flex-wrap text-lg px-10 gap-2 my-4">
                             <strong>description-</strong>
                             <div>
@@ -88,11 +91,31 @@ const StationDetails = async ({ params }: any) => {
                                 </MarkdownRenderer>
                             </div>
                         </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                        <div className="w-full flex items-center justify-between text-lg px-10">
+                            <div>projectId </div>
+                            <div>{item.projectId}</div>
+                        </div>
+                        <div className="w-full flex items-center justify-between text-lg px-10">
                             <strong>CGPA </strong>
                             <div>
                                 {item.projectDiscipline[0].cgpamin} - {item.projectDiscipline[0].cgpamax}
                             </div>
+                        </div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>maleRequirement </strong>
+                            <div>{item.projectDiscipline[0].maleRequirement}</div>
+                        </div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>femaleRequirement </strong>
+                            <div>{item.projectDiscipline[0].femaleRequirement}</div>
+                        </div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>totalRequirement </strong>
+                            <div>{item.projectDiscipline[0].totalRequirement}</div>
+                        </div>
+                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
+                            <strong>freshRequirement </strong>
+                            <div>{item.projectDiscipline[0].freshRequirement}</div>
                         </div>
                         <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
                             <strong>disciplineCodes</strong>
