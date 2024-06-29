@@ -1,0 +1,183 @@
+{
+  "projectId": 2612,
+  "stationId": 5959,
+  "problemBankId": 1558,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Details awaited",
+  "description": "<p>Details awaited</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2612,
+      "projectDisciplineId": 5538,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5538,
+      "projectId": 2612,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16290,
+          "projectDisciplineId": 5538,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16291,
+          "projectDisciplineId": 5538,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16292,
+          "projectDisciplineId": 5538,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16293,
+          "projectDisciplineId": 5538,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16294,
+          "projectDisciplineId": 5538,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16295,
+          "projectDisciplineId": 5538,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2525,
+      "projectId": 2612,
+      "officeStartTime": "08:00:00",
+      "officeEndTime": "18:15:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 1,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Company Provided shared accommodation\nnearby locality",
+      "boysAccomodationAddress1": "Brakes India Private Limited, Padi, Chennai - 50",
+      "boysAccomodationAddress2": "Brakes India Private Limited, Padi, Chennai - 50",
+      "boysAccomodationCity": 23,
+      "boysAccomodationState": 23,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "00000",
+      "girlsAccomodationAddress1": "Brakes India Private Limited, Padi, Chennai - 50",
+      "girlsAccomodationAddress2": "Brakes India Private Limited, Padi, Chennai - 50",
+      "girlsAccomodationCity": 23,
+      "girlsAccomodationState": 23,
+      "girlsAccomodationCountry": 1,
+      "girlsAccomodationPincode": "00000",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-25T09:34:35",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": "Chennai",
+      "boysAccomodationCityName": "Chennai"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55060,
+      "projectId": 2612,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55061,
+      "projectId": 2612,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2612,
+      "projectDomainId": 3700,
+      "academicDomainId": 134
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3411,
+      "projectId": 2612,
+      "academicSubDomainId": 243
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

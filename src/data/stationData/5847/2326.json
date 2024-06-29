@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2326,
-      "projectDisciplineId": 5225,
-      "projectDisciplineCodes": "B1AB,B1A4",
-      "discCodesPerProject": "B1AB,B1A4",
+      "projectDisciplineId": 5527,
+      "projectDisciplineCodes": "B1A4,B1AB",
+      "discCodesPerProject": "B1A4,B1AB",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5225,
+      "projectDisciplineId": 5527,
       "projectId": 2326,
       "degreeTypeId": 2,
       "firstDegree": 1,
@@ -41,11 +41,11 @@
       "cgpamin": 6,
       "cgpamax": 10,
       "freshRequirement": 1,
-      "totalRequirement": 1,
+      "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "B1AB,B1A4",
+      "disciplineCodes": "B1A4,B1AB",
       "graduationTypeIds": [
         0
       ],
@@ -54,24 +54,24 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 14755,
-          "projectDisciplineId": 5225,
-          "graduationTypeId": 0,
-          "disciplineId": 16,
-          "discipline2Id": 15
-        },
-        {
-          "projectDisciplineDetailId": 14756,
-          "projectDisciplineId": 5225,
+          "projectDisciplineDetailId": 16256,
+          "projectDisciplineId": 5527,
           "graduationTypeId": 0,
           "disciplineId": 16,
           "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 16257,
+          "projectDisciplineId": 5527,
+          "graduationTypeId": 0,
+          "disciplineId": 16,
+          "discipline2Id": 15
         }
       ],
       "selectedContinuingStudentList": null,

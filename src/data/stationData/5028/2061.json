@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2061,
-      "projectDisciplineId": 4139,
-      "projectDisciplineCodes": "AA,A8,A3",
-      "discCodesPerProject": "AA,A8,A3",
+      "projectDisciplineId": 5554,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AA,A8,A3",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AA,A8,A3",
       "graduationTypeIds": [
         1
       ],
@@ -33,9 +33,9 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4139,
+      "projectDisciplineId": 5554,
       "projectId": 2061,
-      "degreeTypeId": 1,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 7,
@@ -45,11 +45,12 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AA,A8,A3",
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AA,A8,A3",
       "graduationTypeIds": [
+        0,
         1
       ],
-      "degree": "Single",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -60,22 +61,43 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 10452,
-          "projectDisciplineId": 4139,
+          "projectDisciplineDetailId": 16329,
+          "projectDisciplineId": 5554,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16330,
+          "projectDisciplineId": 5554,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16331,
+          "projectDisciplineId": 5554,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16332,
+          "projectDisciplineId": 5554,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 10453,
-          "projectDisciplineId": 4139,
+          "projectDisciplineDetailId": 16333,
+          "projectDisciplineId": 5554,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 10454,
-          "projectDisciplineId": 4139,
+          "projectDisciplineDetailId": 16334,
+          "projectDisciplineId": 5554,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
@@ -121,8 +143,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "seetha.p@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-27T10:26:51",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-25T10:41:18",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

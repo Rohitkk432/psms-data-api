@@ -1,0 +1,197 @@
+{
+  "projectId": 2653,
+  "stationId": 4823,
+  "problemBankId": 1587,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Text readability problem",
+  "description": "<p> The qualifications for a 'Graphics &amp; Game Engineer' typically include the following: </p><p> 1. A bachelor's or masters degree in Computer Science Engineering</p><p> 2. Strong proficiency in C/C++, opengl, vulkan</p><p> 3. Familiar with the Android ecosystem and available libraries</p><p> 4. Exceptional verbal and written communication skills</p><p> 5. Aptitude for giving and receiving constructive feedback</p><p> 6. Strong problem-solving abilities and critical thinking</p><p> 7. Collaborative teamwork capabilities Objective:</p><p> Rendering of text in AR/VR applications still follows models from the ’90s.</p><p> Some of the technical considerations for a good typography include- Field of view (FoV),&nbsp;Brightness and contrast,&nbsp;Resolution, Refresh rate, Halation, Chromatic aberration &amp; Screen door effect.</p><p> Goal of this project is to analyse text rendering in current VR/AR/MR devices and propose methods to improve Text rendering quality in VR</p><p> Success Criteria: Demonstrate improved Text rendering using new algorithm or proposed enhancement as part of this project</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2653,
+      "projectDisciplineId": 5590,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5590,
+      "projectId": 2653,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16483,
+          "projectDisciplineId": 5590,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16484,
+          "projectDisciplineId": 5590,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16485,
+          "projectDisciplineId": 5590,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16486,
+          "projectDisciplineId": 5590,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16487,
+          "projectDisciplineId": 5590,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16488,
+          "projectDisciplineId": 5590,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16489,
+          "projectDisciplineId": 5590,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16490,
+          "projectDisciplineId": 5590,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2566,
+      "projectId": 2653,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-26T05:26:46",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55159,
+      "projectId": 2653,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55160,
+      "projectId": 2653,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2653,
+      "projectDomainId": 3755,
+      "academicDomainId": 287
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3461,
+      "projectId": 2653,
+      "academicSubDomainId": 505
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

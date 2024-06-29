@@ -1,0 +1,155 @@
+{
+  "projectId": 2633,
+  "stationId": 5975,
+  "problemBankId": 1576,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: medical device rapid prototyping ",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: medical device rapid prototyping&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: reverse engineering and Prototyping of medical devices</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: electronics, product designing&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: quick learning and adaptation, implementation of mechanisms</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: integrated working of import dependent medical devices&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp;&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">1.PHY F212 Electromagnetic Theory I</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">2.EEE F411 Internet of Things</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">3.ECE F311 Communication Systems</strong></p><p><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2633,
+      "projectDisciplineId": 5569,
+      "projectDisciplineCodes": "AnyAA,AA",
+      "discCodesPerProject": "AnyAA,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5569,
+      "projectId": 2633,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyAA,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16391,
+          "projectDisciplineId": 5569,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16392,
+          "projectDisciplineId": 5569,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2546,
+      "projectId": 2633,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:30:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 0,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Hostel facility, buses from city to campus available",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-25T12:16:33",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55105,
+      "projectId": 2633,
+      "skillId": 117
+    },
+    {
+      "projectSkillId": 55106,
+      "projectId": 2633,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2633,
+      "projectDomainId": 3727,
+      "academicDomainId": 28
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3434,
+      "projectId": 2633,
+      "academicSubDomainId": 113
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

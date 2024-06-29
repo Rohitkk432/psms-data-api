@@ -1,0 +1,197 @@
+{
+  "projectId": 2644,
+  "stationId": 4823,
+  "problemBankId": 1587,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "CUJ trace Analysis and identification of problem",
+  "description": "<p> The qualifications for a 'Android System Performance Engineer' typically include the following: </p><p> 1. A bachelor's or masters degree in Computer Science Engineering</p><p> 2. Strong proficiency in Java, C, C++ &amp; Python</p><p> 3. Good understanding of 'Operating Systems' concepts</p><p> 4. Familiar with the Android ecosystem and available libraries</p><p> 5. Exceptional verbal and written communication skills</p><p> 6. Aptitude for giving and receiving constructive feedback</p><p> 7. Strong problem-solving abilities and critical thinking</p><p> 8. Collaborative teamwork capabilities Objective: </p><p> A user's experience with Samsung Galaxy phones, either positive or negative, is largely defined by Critical User Journey. These are series of interactions (~70) that users have with Samsung Galaxy Phones and are most common journeys to c.&nbsp;If these interactions have janks with several preconditions, user experience if not good with a given mobile phone.</p><p> </p><p> This project goal is to develop an offline tools to learn, analyze and understand CUJ traces automatically.</p><p> The tool is also expected to identify the reason for janks from large number of trace files.</p><p> Success Criteria: Output of the tool clearly showing the problematic sections in a trace file.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2644,
+      "projectDisciplineId": 5581,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5581,
+      "projectId": 2644,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16423,
+          "projectDisciplineId": 5581,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16424,
+          "projectDisciplineId": 5581,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16425,
+          "projectDisciplineId": 5581,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16426,
+          "projectDisciplineId": 5581,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16427,
+          "projectDisciplineId": 5581,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16428,
+          "projectDisciplineId": 5581,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16429,
+          "projectDisciplineId": 5581,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16430,
+          "projectDisciplineId": 5581,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2557,
+      "projectId": 2644,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-26T05:06:42",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55140,
+      "projectId": 2644,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55141,
+      "projectId": 2644,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2644,
+      "projectDomainId": 3744,
+      "academicDomainId": 284
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3452,
+      "projectId": 2644,
+      "academicSubDomainId": 502
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

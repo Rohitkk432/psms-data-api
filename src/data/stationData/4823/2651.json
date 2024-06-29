@@ -1,0 +1,197 @@
+{
+  "projectId": 2651,
+  "stationId": 4823,
+  "problemBankId": 1587,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Vulkan renderer for AURA",
+  "description": "<p> The qualifications for a 'Graphics &amp; Game Engineer' typically include the following: </p><p> 1. A bachelor's or masters degree in Computer Science Engineering</p><p> 2. Strong proficiency in Java, C, C++</p><p> 3. Good understanding of Pytorch,Tensorflow, Tflite, openGL</p><p> 4. Familiar with the Android ecosystem and available libraries</p><p> 5. Exceptional verbal and written communication skills</p><p> 6. Aptitude for giving and receiving constructive feedback</p><p> 7. Strong problem-solving abilities and critical thinking</p><p> 8. Collaborative teamwork capabilities Objective: </p><p> Vulkan is a new-generation graphics and compute API for high-efficiency, cross-platform access to GPUs. As the industry’s only open standard modern GPU API, Vulkan is unique in enabling developers to write applications that are portable to multiple diverse platforms. </p><p> Goal of this project is to build a vulkan based render backend which can be used for Animations, 3D etc</p><p> Success Criteria: Demonstrate 3D Model loading and texture based mesh rendering using PBR with Vulkan 3D renderer</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2651,
+      "projectDisciplineId": 5588,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,A8,A3,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A7,A8,A3,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5588,
+      "projectId": 2651,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,A8,A3,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16473,
+          "projectDisciplineId": 5588,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16474,
+          "projectDisciplineId": 5588,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16475,
+          "projectDisciplineId": 5588,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16476,
+          "projectDisciplineId": 5588,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16477,
+          "projectDisciplineId": 5588,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16478,
+          "projectDisciplineId": 5588,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16479,
+          "projectDisciplineId": 5588,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16480,
+          "projectDisciplineId": 5588,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2564,
+      "projectId": 2651,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-26T05:24:11",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55155,
+      "projectId": 2651,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55156,
+      "projectId": 2651,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2651,
+      "projectDomainId": 3753,
+      "academicDomainId": 287
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3459,
+      "projectId": 2651,
+      "academicSubDomainId": 505
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

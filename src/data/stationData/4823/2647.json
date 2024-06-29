@@ -1,0 +1,202 @@
+{
+  "projectId": 2647,
+  "stationId": 4823,
+  "problemBankId": 1587,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "DAMON monitoring with record option",
+  "description": "<p> The qualifications for a 'Android System Memory Engineer' typically include the following: </p><p> 1. A bachelor's or masters degree in Computer Science Engineering</p><p> 2. Strong proficiency in Java, C, C++ &amp; Python</p><p> 3. Good understanding of 'Operating Systems' concepts</p><p> 4. Familiar with the Android ecosystem and available libraries</p><p> 5. Exceptional verbal and written communication skills</p><p> 6. Aptitude for giving and receiving constructive feedback</p><p> 7. Strong problem-solving abilities and critical thinking</p><p> 8. Collaborative teamwork capabilities Objective: </p><p> DAMON (Data Access MONitor) is a data access monitoring framework subsystem for Linuk kernel while making accuracy and overhead controllable. The fundamental access monitorings require primitives that dependent on and optimized for the target address space. On the other hand, the accuracy and overhead tradeoff mechanism, which is the core of DAMON, is in the pure logic space. DAMON separates the two parts in different layers and defines its interface to allow various low level primitives implementations configurable with the core logic.Due to this separated design and the configurable interface, users can extend DAMON for any address space by configuring the core logics with appropriate low level primitive implementations.</p><p> </p><p> Goal of this project is to monitor the virtual address space of every process to identify idle pages, critial pages using record option in DAMON. This data can be used to prefetch the reclaimed pages of a particular process in advance to improve warm launch time of a given application</p><p> Success Criteria: Output the offset of the VMA from base address as idle pages, critical pages etc</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2647,
+      "projectDisciplineId": 5584,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A8,A3",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A8,A3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5584,
+      "projectId": 2647,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A8,A3",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16441,
+          "projectDisciplineId": 5584,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16442,
+          "projectDisciplineId": 5584,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16443,
+          "projectDisciplineId": 5584,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16444,
+          "projectDisciplineId": 5584,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16445,
+          "projectDisciplineId": 5584,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16446,
+          "projectDisciplineId": 5584,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16447,
+          "projectDisciplineId": 5584,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16448,
+          "projectDisciplineId": 5584,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2560,
+      "projectId": 2647,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-26T05:11:28",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55147,
+      "projectId": 2647,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55148,
+      "projectId": 2647,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2647,
+      "projectDomainId": 3748,
+      "academicDomainId": 86
+    },
+    {
+      "projectId": 2647,
+      "projectDomainId": 3749,
+      "academicDomainId": 285
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3455,
+      "projectId": 2647,
+      "academicSubDomainId": 503
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

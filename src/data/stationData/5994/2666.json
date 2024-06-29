@@ -1,0 +1,155 @@
+{
+  "projectId": 2666,
+  "stationId": 5994,
+  "problemBankId": 1597,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "  Title: Dry-Run and Pinnacle 21 Dashboard/Reports",
+  "description": "<p class=\"ql-align-justify\">  <strong style=\"color: black;\">Title: </strong><span style=\"color: black;\">Dry-Run and Pinnacle 21 Dashboard/Reports</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong><span style=\"color: black;\">The project focuses on developing R-Shiny/Power BI/Spotfire Dashboard/Python reports for frontloading dry-run and Pinnacle 21 checks which are crucial submission validation criteria for reporting Data Analysis to FDA and other HAs. The project team will develop solutions to address these needs.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong><span style=\"color: black;\">R/R-Shiny/Power BI/Python/Spotfire programming skills, Agile Project Management </span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: </strong><span style=\"color: black;\">Aptitude to learn &amp; implement as a team player, good communication skills.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: </strong><span style=\"color: black;\">Clinical Data Reporting and programming requirements, Data Science Insights generations.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Specific courses required for project execution:&nbsp;</strong><span style=\"color: black;\">Any Bachelor of Engineering with exposure to Data Science &amp; Analytics Skills</span></p><p>  </p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2666,
+      "projectDisciplineId": 5610,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5610,
+      "projectId": 2666,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16568,
+          "projectDisciplineId": 5610,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16569,
+          "projectDisciplineId": 5610,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2579,
+      "projectId": 2666,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "16:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 39000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "\nOne Way flight reimbursement \n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-26T10:22:29",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55188,
+      "projectId": 2666,
+      "skillId": 235
+    },
+    {
+      "projectSkillId": 55189,
+      "projectId": 2666,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2666,
+      "projectDomainId": 3774,
+      "academicDomainId": 105
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3480,
+      "projectId": 2666,
+      "academicSubDomainId": 193
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

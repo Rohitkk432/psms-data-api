@@ -1,0 +1,197 @@
+{
+  "projectId": 2656,
+  "stationId": 4823,
+  "problemBankId": 1587,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Graphite backend study and improvement plan",
+  "description": "<p> The qualifications for an Android System Performance engineer typically include the following: </p><p> 1. A bachelor's or masters degree in Computer Science Engineering</p><p> 2. Strong proficiency in Java, C, C++ &amp; Python</p><p> 3. Good understanding of Android framework, ADB, Android studio, Operating Systems ,Graphics pipeline knowledge will be helpful.</p><p> 4. Familiar with the Android ecosystem and available libraries</p><p> 5. Exceptional verbal and written communication skills</p><p> 6. Aptitude for giving and receiving constructive feedback</p><p> 7. Strong problem-solving abilities and critical thinking</p><p> 8. Collaborative teamwork capabilities</p><p>  Objective: </p><p> Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms. It serves as the graphics engine for Google Chrome and ChromeOS, Android, Flutter, and many other products. Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. Most of the 2D rendering on Android happens with Skia. </p><p> There are multiple backend renderers that support vulkan in skia (Ganesh, Graphite)</p><p> This project is to build a detailed flow of Graphite calls from Skia backend and prepare detailed report on the Graphite architecture and call flow using Vulkan</p><p> Success Criteria:&nbsp;Instrumentation logs for Graphite and detail report for profiling in terms of memory, rendering performance using Graphite renderer</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2656,
+      "projectDisciplineId": 5593,
+      "projectDisciplineCodes": "AnyA8,AnyA3,AnyA7,AnyAA,A7,AA,A3,A8",
+      "discCodesPerProject": "AnyA8,AnyA3,AnyA7,AnyAA,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5593,
+      "projectId": 2656,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA8,AnyA3,AnyA7,AnyAA,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16507,
+          "projectDisciplineId": 5593,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16508,
+          "projectDisciplineId": 5593,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16509,
+          "projectDisciplineId": 5593,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16510,
+          "projectDisciplineId": 5593,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16511,
+          "projectDisciplineId": 5593,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16512,
+          "projectDisciplineId": 5593,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16513,
+          "projectDisciplineId": 5593,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16514,
+          "projectDisciplineId": 5593,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2569,
+      "projectId": 2656,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-26T05:35:04",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55165,
+      "projectId": 2656,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55166,
+      "projectId": 2656,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2656,
+      "projectDomainId": 3758,
+      "academicDomainId": 287
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3464,
+      "projectId": 2656,
+      "academicSubDomainId": 505
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
