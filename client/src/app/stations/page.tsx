@@ -1,64 +1,93 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import StationData from "../../../../data/stations.json";
 import cn from "classnames";
 
 export default function StationsPage() {
-    const [bangalore, setBangalore] = useState(true);
-    const [mumbai, setMumbai] = useState(true);
-    const [pune, setPune] = useState(true);
-    const [hyd, setHyd] = useState(true);
-    const [gurgaon, setGurgaon] = useState(true);
-    const [delhi, setDelhi] = useState(true);
-    const [other, setOther] = useState(true);
+    //location filters
+    const initLocationFilter = {
+        bangalore: 1,
+        mumbai: 1,
+        pune: 1,
+        hyd: 1,
+        gurgaon: 1,
+        delhi: 1,
+        other: 1,
+    };
+    const [locationFil, setLocationFil] = useState(initLocationFilter);
 
-    const [csis, setCsis] = useState(true);
-    const [addOther, setAddOther] = useState(false);
-    const [Others, setOthers] = useState(false);
-    const [finance, setfinance] = useState(false);
+    const handleLocFilter = (e: any) => {
+        const _newData = { ...locationFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
+        setLocationFil(_newData);
+        localStorage.setItem("locationFil", JSON.stringify(_newData));
+    };
 
-    const [gt0, setGT0] = useState(true);
-    const [gt6, setGT6] = useState(true);
-    const [gt65, setGT65] = useState(true);
-    const [gt7, setGT7] = useState(true);
-    const [gt75, setGT75] = useState(true);
-    const [gt8, setGT8] = useState(true);
-    const [gt85, setGT85] = useState(true);
-    const [gt9, setGT9] = useState(true);
+    //branch filters
+    const initBranchFilter = {
+        csis: 1,
+        addOther: 0,
+        Others: 0,
+        finance: 0,
+    };
+    const [branchFil, setBranchFil] = useState(initBranchFilter);
+    const handleBranchFilter = (e: any) => {
+        const _newData = { ...branchFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
+        setBranchFil(_newData);
+        localStorage.setItem("branchFil", JSON.stringify(_newData));
+    };
 
-    const [req0, setReq0] = useState(true);
-    const [req0to10, setReq0to10] = useState(true);
-    const [req10to20, setReq10to20] = useState(true);
-    const [req20to30, setReq20to30] = useState(true);
-    const [req30plus, setReq30plus] = useState(true);
+    //cgpa filters
+    const initCgpaFilter = {
+        gt0: 1,
+        gt6: 1,
+        gt65: 1,
+        gt7: 1,
+        gt75: 1,
+        gt8: 1,
+        gt85: 1,
+        gt9: 1,
+    };
+    const [cgpaFil, setCgpaFil] = useState(initCgpaFilter);
+    const handleCgpaFilter = (e: any) => {
+        const _newData = { ...cgpaFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
+        setCgpaFil(_newData);
+        localStorage.setItem("cgpaFil", JSON.stringify(_newData));
+    };
 
+    //requirement filters
+    const initReqFilter = {
+        req0: 1,
+        req0to10: 1,
+        req10to20: 1,
+        req20to30: 1,
+        req30plus: 1,
+    };
+    const [reqFil, setReqFil] = useState(initReqFilter);
+    const handleReqFilter = (e: any) => {
+        const _newData = { ...reqFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
+        setReqFil(_newData);
+        localStorage.setItem("reqFil", JSON.stringify(_newData));
+    };
+
+    const [search,setSearch] = useState("");
+
+    //back fill filters from localStorage
     useEffect(() => {
-        setBangalore(localStorage.getItem("bangalore") === "false" ? false : true);
-        setMumbai(localStorage.getItem("mumbai") === "false" ? false : true);
-        setPune(localStorage.getItem("pune") === "false" ? false : true);
-        setHyd(localStorage.getItem("hyd") === "false" ? false : true);
-        setGurgaon(localStorage.getItem("gurgaon") === "false" ? false : true);
-        setDelhi(localStorage.getItem("delhi") === "false" ? false : true);
-        setOther(localStorage.getItem("other") === "false" ? false : true);
-        setCsis(localStorage.getItem("csis") === "false" ? false : true);
-        setAddOther(localStorage.getItem("addOther") === "true" ? true : false);
-        setOthers(localStorage.getItem("Others") === "true" ? true : false);
-        setfinance(localStorage.getItem("finance") === "true" ? true : false);
-        setGT0(localStorage.getItem("gt0") === "false" ? false : true);
-        setGT6(localStorage.getItem("gt6") === "false" ? false : true);
-        setGT65(localStorage.getItem("gt65") === "false" ? false : true);
-        setGT7(localStorage.getItem("gt7") === "false" ? false : true);
-        setGT75(localStorage.getItem("gt75") === "false" ? false : true);
-        setGT8(localStorage.getItem("gt8") === "false" ? false : true);
-        setGT85(localStorage.getItem("gt85") === "false" ? false : true);
-        setGT9(localStorage.getItem("gt9") === "false" ? false : true);
-        setReq0(localStorage.getItem("req0") === "false" ? false : true);
-        setReq0to10(localStorage.getItem("req0to10") === "false" ? false : true);
-        setReq10to20(localStorage.getItem("req10to20") === "false" ? false : true);
-        setReq20to30(localStorage.getItem("req20to30") === "false" ? false : true);
-        setReq30plus(localStorage.getItem("req30plus") === "false" ? false : true);
+        setLocationFil(JSON.parse(localStorage.getItem("locationFil") || JSON.stringify(initLocationFilter)));
+        setBranchFil(JSON.parse(localStorage.getItem("branchFil") || JSON.stringify(initBranchFilter)));
+        setCgpaFil(JSON.parse(localStorage.getItem("cgpaFil") || JSON.stringify(initCgpaFilter)));
+        setReqFil(JSON.parse(localStorage.getItem("reqFil") || JSON.stringify(initReqFilter)));
     }, []);
+
+    const searchResult = useMemo(() => {
+        if (!search) return StationData;
+
+        return StationData.filter((_station) => {
+            return _station.stationName.toLowerCase().includes(search.toLowerCase());
+        });
+    }, [search]);
+
 
     return (
         <main className="flex min-h-screen flex-col items-center gap-4 px-8 py-12">
@@ -69,238 +98,126 @@ export default function StationsPage() {
                     <div className="text-violet-500">M</div>
                     <div className="text-green-500">S</div>
                 </div>
-                BRRR
+                Thank GOD Kodam
             </div>
             <div className="w-full flex items-center justify-center text-2xl font-bold">PS Stations List</div>
+            {/* location filter btns */}
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <div className="text-lg">Location Filters - </div>
                 <button
-                    onClick={() => {
-                        localStorage.setItem("bangalore", !bangalore ? "true" : "false");
-                        setBangalore(!bangalore);
-                    }}
+                    onClick={handleLocFilter}
+                    name="bangalore"
+                    value={locationFil.bangalore}
                     type="button"
-                    className={!bangalore ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    className={!locationFil.bangalore ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Bengluru
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("hyd", !hyd ? "true" : "false");
-                        setHyd(!hyd);
-                    }}
-                    type="button"
-                    className={!hyd ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleLocFilter} name="hyd" value={locationFil.hyd} type="button" className={!locationFil.hyd ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Hyderabad
                 </button>
                 <button
-                    onClick={() => {
-                        localStorage.setItem("mumbai", !mumbai ? "true" : "false");
-                        setMumbai(!mumbai);
-                    }}
+                    onClick={handleLocFilter}
+                    name="mumbai"
+                    value={locationFil.mumbai}
                     type="button"
-                    className={!mumbai ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    className={!locationFil.mumbai ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Mumbai
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("pune", !pune ? "true" : "false");
-                        setPune(!pune);
-                    }}
-                    type="button"
-                    className={!pune ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleLocFilter} name="pune" value={locationFil.pune} type="button" className={!locationFil.pune ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Pune
                 </button>
                 <button
-                    onClick={() => {
-                        localStorage.setItem("gurgaon", !gurgaon ? "true" : "false");
-                        setGurgaon(!gurgaon);
-                    }}
+                    onClick={handleLocFilter}
+                    name="gurgaon"
+                    value={locationFil.gurgaon}
                     type="button"
-                    className={!gurgaon ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    className={!locationFil.gurgaon ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Gurgaon
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("delhi", !delhi ? "true" : "false");
-                        setDelhi(!delhi);
-                    }}
-                    type="button"
-                    className={!delhi ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleLocFilter} name="delhi" value={locationFil.delhi} type="button" className={!locationFil.delhi ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Delhi
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("other", !other ? "true" : "false");
-                        setOther(!other);
-                    }}
-                    type="button"
-                    className={!other ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleLocFilter} name="other" value={locationFil.other} type="button" className={!locationFil.other ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     others
                 </button>
             </div>
 
+            {/* branch filter btns */}
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <div className="text-lg">Branch Filters - </div>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("csis", !csis ? "true" : "false");
-                        setCsis(!csis);
-                    }}
-                    type="button"
-                    className={!csis ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleBranchFilter} name="csis" value={branchFil.csis} type="button" className={!branchFil.csis ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     CSIS/IT, HealthCare
                 </button>
                 <button
-                    onClick={() => {
-                        localStorage.setItem("finance", !finance ? "true" : "false");
-                        setfinance(!finance);
-                    }}
+                    onClick={handleBranchFilter}
+                    name="finance"
+                    value={branchFil.finance}
                     type="button"
-                    className={!finance ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    className={!branchFil.finance ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Finance and Mgmt
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("Others", !Others ? "true" : "false");
-                        setOthers(!Others);
-                    }}
-                    type="button"
-                    className={!Others ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleBranchFilter} name="Others" value={branchFil.Others} type="button" className={!branchFil.Others ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Others
                 </button>
                 <button
-                    onClick={() => {
-                        localStorage.setItem("addOther", !addOther ? "true" : "false");
-                        setAddOther(!addOther);
-                    }}
+                    onClick={handleBranchFilter}
+                    name="addOther"
+                    value={branchFil.addOther}
                     type="button"
-                    className={!addOther ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    className={!branchFil.addOther ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Add Other Domains
                 </button>
             </div>
+            {/* req filter btns */}
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <div className="text-lg">Requirements Filters - </div>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("req0", !req0 ? "true" : "false");
-                        setReq0(!req0);
-                    }}
-                    type="button"
-                    className={!req0 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleReqFilter} name="req0" value={reqFil.req0} type="button" className={!reqFil.req0 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     Req == 0
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("req0to10", !req0to10 ? "true" : "false");
-                        setReq0to10(!req0to10);
-                    }}
-                    type="button"
-                    className={!req0to10 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleReqFilter} name="req0to10" value={reqFil.req0to10} type="button" className={!reqFil.req0to10 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     {`0 < req <= 10`}
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("req10to20", !req10to20 ? "true" : "false");
-                        setReq10to20(!req10to20);
-                    }}
-                    type="button"
-                    className={!req10to20 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleReqFilter} name="req10to20" value={reqFil.req10to20} type="button" className={!reqFil.req10to20 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     {`10 < req <= 20`}
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("req20to30", !req20to30 ? "true" : "false");
-                        setReq20to30(!req20to30);
-                    }}
-                    type="button"
-                    className={!req20to30 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleReqFilter} name="req20to30" value={reqFil.req20to30} type="button" className={!reqFil.req20to30 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     {`20 < req <= 30`}
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("req30plus", !req30plus ? "true" : "false");
-                        setReq30plus(!req30plus);
-                    }}
-                    type="button"
-                    className={!req30plus ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                <button onClick={handleReqFilter} name="req30plus" value={reqFil.req30plus} type="button" className={!reqFil.req30plus ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
                     {`30 < req`}
                 </button>
             </div>
-
+            {/* cgpa filter btns */}
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <div className="text-lg">CGPA Filters - </div>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("gt0", !gt0 ? "true" : "false");
-                        setGT0(!gt0);
-                    }}
-                    type="button"
-                    className={!gt0 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                <button onClick={handleCgpaFilter} name="gt0" value={cgpaFil.gt0} type="button" className={!cgpaFil.gt0 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     0-6 CGPA
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("gt6", !gt6 ? "true" : "false");
-                        setGT6(!gt6);
-                    }}
-                    type="button"
-                    className={!gt6 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                <button onClick={handleCgpaFilter} name="gt6" value={cgpaFil.gt6} type="button" className={!cgpaFil.gt6 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     6-6.5 CGPA
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("gt65", !gt65 ? "true" : "false");
-                        setGT65(!gt65);
-                    }}
-                    type="button"
-                    className={!gt65 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                <button onClick={handleCgpaFilter} name="gt65" value={cgpaFil.gt65} type="button" className={!cgpaFil.gt65 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     6.5-7 CGPA
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("gt7", !gt7 ? "true" : "false");
-                        setGT7(!gt7);
-                    }}
-                    type="button"
-                    className={!gt7 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                <button onClick={handleCgpaFilter} name="gt7" value={cgpaFil.gt7} type="button" className={!cgpaFil.gt7 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     7-7.5 CGPA
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("gt75", !gt75 ? "true" : "false");
-                        setGT75(!gt75);
-                    }}
-                    type="button"
-                    className={!gt75 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                <button onClick={handleCgpaFilter} name="gt75" value={cgpaFil.gt75} type="button" className={!cgpaFil.gt75 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     7.5-8 CGPA
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("gt8", !gt8 ? "true" : "false");
-                        setGT8(!gt8);
-                    }}
-                    type="button"
-                    className={!gt8 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                <button onClick={handleCgpaFilter} name="gt8" value={cgpaFil.gt8} type="button" className={!cgpaFil.gt8 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     8-8.5 CGPA
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("gt85", !gt85 ? "true" : "false");
-                        setGT85(!gt85);
-                    }}
-                    type="button"
-                    className={!gt85 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                <button onClick={handleCgpaFilter} name="gt85" value={cgpaFil.gt85} type="button" className={!cgpaFil.gt85 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     8.5-9 CGPA
                 </button>
-                <button
-                    onClick={() => {
-                        localStorage.setItem("gt9", !gt9 ? "true" : "false");
-                        setGT9(!gt9);
-                    }}
-                    type="button"
-                    className={!gt9 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                <button onClick={handleCgpaFilter} name="gt9" value={cgpaFil.gt9} type="button" className={!cgpaFil.gt9 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
                     9+ CGPA
                 </button>
+            </div>
+            {/* searchBar */}
+            <div className="w-full flex items-center justify-center my-3 gap-4">
+                <input type="text" placeholder="Search" className="w-[30rem] py-2 rounded-full px-8 bg-gray-900 border-blue-600 border-2" value={search} onChange={(e) => setSearch(e.target.value)} />
             </div>
 
             <div className="w-full grid grid-cols-9 py-2 rounded-xl items-center justify-center bg-gray-700 text-white text-lg">
@@ -313,40 +230,41 @@ export default function StationsPage() {
                 <div className="flex items-center justify-center">Details</div>
             </div>
 
-            {StationData.map((item: any) => {
+            {searchResult.map((item: any) => {
+                // put cgpa filters
                 if (
-                    (gt6 && item.minCgpa >= 6 && item.minCgpa < 6.5) ||
-                    (gt65 && item.minCgpa >= 6.5 && item.minCgpa < 7) ||
-                    (gt7 && item.minCgpa >= 7 && item.minCgpa < 7.5) ||
-                    (gt75 && item.minCgpa >= 7.5 && item.minCgpa < 8) ||
-                    (gt8 && item.minCgpa >= 8 && item.minCgpa < 8.5) ||
-                    (gt85 && item.minCgpa >= 8.5 && item.minCgpa < 9) ||
-                    (gt9 && item.minCgpa >= 9) ||
-                    (gt0 && item.minCgpa >= 0 && item.minCgpa < 6)
+                    (cgpaFil.gt6 && item.minCgpa >= 6 && item.minCgpa < 6.5) ||
+                    (cgpaFil.gt65 && item.minCgpa >= 6.5 && item.minCgpa < 7) ||
+                    (cgpaFil.gt7 && item.minCgpa >= 7 && item.minCgpa < 7.5) ||
+                    (cgpaFil.gt75 && item.minCgpa >= 7.5 && item.minCgpa < 8) ||
+                    (cgpaFil.gt8 && item.minCgpa >= 8 && item.minCgpa < 8.5) ||
+                    (cgpaFil.gt85 && item.minCgpa >= 8.5 && item.minCgpa < 9) ||
+                    (cgpaFil.gt9 && item.minCgpa >= 9) ||
+                    (cgpaFil.gt0 && item.minCgpa >= 0 && item.minCgpa < 6)
                 )
                     if (
-                        !addOther
-                            ? (csis && item.stationDomain === "CSIS/IT") ||
-                              (csis && item.stationDomain === "Health Care") ||
-                              (finance && item.stationDomain === "Finance and Mgmt") ||
-                              (Others && item.stationDomain === "Others")
-                            : true
+                        (branchFil.csis && item.stationDomain === "CSIS/IT") ||
+                        (branchFil.csis && item.stationDomain === "Health Care") ||
+                        (branchFil.finance && item.stationDomain === "Finance and Mgmt") ||
+                        (branchFil.Others && item.stationDomain === "Others") ||
+                        (branchFil.addOther && item.stationDomain !== "CSIS/IT" && item.stationDomain !== "Health Care" && item.stationDomain !== "Finance and Mgmt" && item.stationDomain !== "Others")
                     )
                         if (
-                            (req0 && item.requirements === 0) ||
-                            (req0to10 && item.requirements > 0 && item.requirements <= 10) ||
-                            (req10to20 && item.requirements > 10 && item.requirements <= 20) ||
-                            (req20to30 && item.requirements > 20 && item.requirements <= 30) ||
-                            (req30plus && item.requirements > 30)
+                            (reqFil.req0 && item.requirements === 0) ||
+                            (reqFil.req0to10 && item.requirements > 0 && item.requirements <= 10) ||
+                            (reqFil.req10to20 && item.requirements > 10 && item.requirements <= 20) ||
+                            (reqFil.req20to30 && item.requirements > 20 && item.requirements <= 30) ||
+                            (reqFil.req30plus && item.requirements > 30)
                         )
+                            // put branch filters
                             if (
-                                (pune && item.city.includes("Pune")) ||
-                                (hyd && item.city.includes("Hyderabad")) ||
-                                (mumbai && item.city.includes("Mumbai")) ||
-                                (gurgaon && item.city.includes("Gurgaon")) ||
-                                (bangalore && (item.city.includes("Bangalore") || item.city.includes("Bengaluru"))) ||
-                                (delhi && item.city.includes("Delhi")) ||
-                                (other &&
+                                (locationFil.pune && item.city.includes("Pune")) ||
+                                (locationFil.hyd && item.city.includes("Hyderabad")) ||
+                                (locationFil.mumbai && item.city.includes("Mumbai")) ||
+                                (locationFil.gurgaon && item.city.includes("Gurgaon")) ||
+                                (locationFil.bangalore && (item.city.includes("Bangalore") || item.city.includes("Bengaluru"))) ||
+                                (locationFil.delhi && item.city.includes("Delhi")) ||
+                                (locationFil.other &&
                                     !item.city.includes("Pune") &&
                                     !item.city.includes("Hyderabad") &&
                                     !item.city.includes("Mumbai") &&
@@ -355,6 +273,8 @@ export default function StationsPage() {
                                     !item.city.includes("Delhi") &&
                                     !item.city.includes("Bengaluru"))
                             )
+                                // put requirement filters
+                                // put location filters
                                 return (
                                     <div key={item.stationId} className="w-full grid grid-cols-9 py-2 items-center justify-center border-b text-white text-lg">
                                         <div className="flex items-center justify-center">{item.stationId}</div>
