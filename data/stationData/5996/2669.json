@@ -1,0 +1,135 @@
+{
+  "projectId": 2669,
+  "stationId": 5996,
+  "problemBankId": 1600,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Customer Service Executive",
+  "description": "<p>Facilitates the onboarding of new customers. </p><p>? Prepare SBO’s/PI’s/ on the request of the sales team, while assisting when</p><p>it comes to inquires such as incoming stock and inventory in addition to</p><p>assisting with Tendering.</p><p>? Validates and executes orders in accordance SOP’s and timelines while</p><p>working closely with logistics. </p><p>? Coordinate with finance regarding customers credit limits, payment terms</p><p>and receivables from customers. </p><p>? Examining the incoming stock to plan the outgoing orders respectively</p><p>along with procurement. </p><p>? Escalate issues or stoppages that occur during the order or shipment</p><p>process.</p><p>? Identify and highlight complications and obstacles in the ERP system or</p><p>Processes for review and streamlining. </p><p>? Ensures the ERP system is updated of all necessary documents and</p><p>customer records accurately.</p><p>? Prepare ad hoc reports when necessary.</p><p>? Plan and oversee orders, while keeping up-to-date regarding customs and</p><p>customer requirements. </p><p>? Supervise region specific orders as designated by team lead. </p><p>? India Imports and exports along with Tenders</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2669,
+      "projectDisciplineId": 5618,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5618,
+      "projectId": 2669,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2582,
+      "projectId": 2669,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:03:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-27T05:35:37",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55194,
+      "projectId": 2669,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55195,
+      "projectId": 2669,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2669,
+      "projectDomainId": 3777,
+      "academicDomainId": 4
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3483,
+      "projectId": 2669,
+      "academicSubDomainId": 13
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

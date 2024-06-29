@@ -1,0 +1,135 @@
+{
+  "projectId": 2670,
+  "stationId": 5996,
+  "problemBankId": 1600,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Procurement Support Executive",
+  "description": "<p>1. Create/edit: Items, vendors, Purchase orders, and Blanket Purchase Orders,</p><p>in the ERP system.</p><p>2. Follow up with vendors to avail packing details, technical documents,</p><p>sample requirements and communicate regularly with respective teams.</p><p>3. Coordinate internally to expedite approvals at every stage.</p><p>4. Follow up with the supplier to get material in time and escalate to</p><p>procurement managers timely to address any bottleneck.</p><p>5. Follow up regularly with finance to ensure on-time payment to suppliers.</p><p>6. Prepare daily MIS reports for relevant work and review them with the</p><p>procurement manager.</p><p>7. Short close orders and maintain clean dashboards in ERP.</p><p>8. Review item/vendor master and block inactive items/vendors in ERP.</p><p>9. Preparing the production request form getting the approvals from manager</p><p>and coordinating with production team for processing the finished products.</p><p>10. Coordinating with the customer support team to get the Blanket sales order,</p><p>Sales order, Purchase requisition form.</p><p>11. Coordinating with the supplier and logistics to get the shipping schedule</p><p>and update the customer support team for the material readiness.</p><p>12. To coordinate and provide documents, and information from suppliers to</p><p>logistics and finance team if required for GRN and invoice posting.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2670,
+      "projectDisciplineId": 5619,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5619,
+      "projectId": 2670,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2583,
+      "projectId": 2670,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:03:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-27T05:36:44",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55196,
+      "projectId": 2670,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55197,
+      "projectId": 2670,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2670,
+      "projectDomainId": 3778,
+      "academicDomainId": 4
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3484,
+      "projectId": 2670,
+      "academicSubDomainId": 13
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

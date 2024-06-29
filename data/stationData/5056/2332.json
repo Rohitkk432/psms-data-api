@@ -1,0 +1,168 @@
+{
+  "projectId": 2332,
+  "stationId": 5056,
+  "problemBankId": 1346,
+  "problemBankCreatedBy": "ankur.pachauri@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Piramal Retail Finance",
+  "description": "<p>• Participate in requirements review and understand new feature development.</p><p>• Assist in designing, implementation and execution of test cases for new and existing features.</p><p>• Collaborate with software engineering team on QA/Testing topics</p><p>• Update the testing procedure to provide better testing coverage and user experience.</p><p>• Actively participate in agile meetings with product management and development team.</p><p>• Gather requirements, build testing solutions and troubleshoot issues in order to deliver a high quality product.</p><p>• Communicate technical concepts/issues clearly to internalstakeholders.Comfortable working in a dynamic, fast paced, changing environment</p><p>• Familiarity with coding, SQL</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": ".",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2332,
+      "projectDisciplineId": 5640,
+      "projectDisciplineCodes": "A3,A8,AA,A7",
+      "discCodesPerProject": "A3,A8,AA,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5640,
+      "projectId": 2332,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A3,A8,AA,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16636,
+          "projectDisciplineId": 5640,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16637,
+          "projectDisciplineId": 5640,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16638,
+          "projectDisciplineId": 5640,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16639,
+          "projectDisciplineId": 5640,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2246,
+      "projectId": 2332,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 75000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "ankur.pachauri@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-06-03T08:28:50",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-28T11:42:38",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51008,
+      "projectId": 2332,
+      "skillId": 169
+    },
+    {
+      "projectSkillId": 51009,
+      "projectId": 2332,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2332,
+      "projectDomainId": 3309,
+      "academicDomainId": 179
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3039,
+      "projectId": 2332,
+      "academicSubDomainId": 302
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
