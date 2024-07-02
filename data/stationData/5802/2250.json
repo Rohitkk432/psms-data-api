@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2250,
-      "projectDisciplineId": 4396,
-      "projectDisciplineCodes": "AnyA2,A2",
-      "discCodesPerProject": "AnyA2,A2",
+      "projectDisciplineId": 5677,
+      "projectDisciplineCodes": "A2,AnyA2",
+      "discCodesPerProject": "A2,AnyA2",
       "graduationTypeIds": [
         1
       ],
@@ -33,22 +33,22 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4396,
+      "projectDisciplineId": 5677,
       "projectId": 2250,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 6.5,
+      "cgpamin": 5.5,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA2,A2",
+      "disciplineCodes": "A2,AnyA2",
       "graduationTypeIds": [
-        0,
-        1
+        1,
+        0
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -61,18 +61,18 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 11174,
-          "projectDisciplineId": 4396,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 2
-        },
-        {
-          "projectDisciplineDetailId": 11175,
-          "projectDisciplineId": 4396,
+          "projectDisciplineDetailId": 16793,
+          "projectDisciplineId": 5677,
           "graduationTypeId": 1,
           "disciplineId": 2,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16794,
+          "projectDisciplineId": 5677,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
         }
       ],
       "selectedContinuingStudentList": null,
@@ -116,7 +116,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-31T14:06:01",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-01T16:08:27",
+      "modifiedDate": "2024-07-02T06:15:14",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": "Kakinada",

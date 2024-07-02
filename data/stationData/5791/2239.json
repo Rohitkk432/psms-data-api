@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2239,
-      "projectDisciplineId": 4383,
-      "projectDisciplineCodes": "AnyA2,A2",
-      "discCodesPerProject": "AnyA2,A2",
+      "projectDisciplineId": 5678,
+      "projectDisciplineCodes": "A2,AnyA2",
+      "discCodesPerProject": "A2,AnyA2",
       "graduationTypeIds": [
         1
       ],
@@ -33,22 +33,22 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4383,
+      "projectDisciplineId": 5678,
       "projectId": 2239,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 6.5,
+      "cgpamin": 5.5,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA2,A2",
+      "disciplineCodes": "A2,AnyA2",
       "graduationTypeIds": [
-        0,
-        1
+        1,
+        0
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -61,18 +61,18 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 11148,
-          "projectDisciplineId": 4383,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 2
-        },
-        {
-          "projectDisciplineDetailId": 11149,
-          "projectDisciplineId": 4383,
+          "projectDisciplineDetailId": 16795,
+          "projectDisciplineId": 5678,
           "graduationTypeId": 1,
           "disciplineId": 2,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16796,
+          "projectDisciplineId": 5678,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
         }
       ],
       "selectedContinuingStudentList": null,
@@ -116,7 +116,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-31T12:58:30",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-01T10:49:07",
+      "modifiedDate": "2024-07-02T06:15:52",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": "Kanker",

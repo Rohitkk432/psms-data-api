@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2246,
-      "projectDisciplineId": 4392,
-      "projectDisciplineCodes": "AnyA2,A2",
-      "discCodesPerProject": "AnyA2,A2",
+      "projectDisciplineId": 5681,
+      "projectDisciplineCodes": "A2,AnyA2",
+      "discCodesPerProject": "A2,AnyA2",
       "graduationTypeIds": [
         1
       ],
@@ -33,22 +33,22 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4392,
+      "projectDisciplineId": 5681,
       "projectId": 2246,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 6.5,
+      "cgpamin": 5.5,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA2,A2",
+      "disciplineCodes": "A2,AnyA2",
       "graduationTypeIds": [
-        0,
-        1
+        1,
+        0
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -61,18 +61,18 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 11166,
-          "projectDisciplineId": 4392,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 2
-        },
-        {
-          "projectDisciplineDetailId": 11167,
-          "projectDisciplineId": 4392,
+          "projectDisciplineDetailId": 16803,
+          "projectDisciplineId": 5681,
           "graduationTypeId": 1,
           "disciplineId": 2,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16804,
+          "projectDisciplineId": 5681,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
         }
       ],
       "selectedContinuingStudentList": null,
@@ -116,7 +116,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-31T13:43:32",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T04:11:45",
+      "modifiedDate": "2024-07-02T06:17:21",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": "Ranchi",

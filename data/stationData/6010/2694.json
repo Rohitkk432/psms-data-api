@@ -1,13 +1,13 @@
 {
-  "projectId": 2352,
-  "stationId": 4747,
-  "problemBankId": 1364,
+  "projectId": 2694,
+  "stationId": 6010,
+  "problemBankId": 1618,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Loan Against Mutual Funds",
-  "description": "<p class=\"ql-align-justify\">Description: Developing new Initiatives and Managing the Loan Against Mutual Funds for Entire Industry.</p><p>Skill sets: API Frameworks</p><p class=\"ql-align-justify\">Traits expectation: Problem Solving, Data Analysis, Product Building and Management, Marketing &amp; Pre-sales, Market Research</p><p class=\"ql-align-justify\">\tExpected learning: Product Building from O to I and scaling, Management, Gauging and Working towards Product Market Fit.</p><p><br></p>",
+  "title": "IT Project",
+  "description": "<p>IT Project</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,8 +17,8 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2352,
-      "projectDisciplineId": 5693,
+      "projectId": 2694,
+      "projectDisciplineId": 5690,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,15 +31,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5693,
-      "projectId": 2352,
+      "projectDisciplineId": 5690,
+      "projectId": 2694,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 6,
+      "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 17,
-      "totalRequirement": 17,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -62,14 +62,14 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2266,
-      "projectId": 2352,
+      "projectFacilityId": 2606,
+      "projectId": 2694,
       "officeStartTime": "09:00:00",
-      "officeEndTime": "17:30:00",
-      "weekHolidays": "Saturday,Sunday",
-      "ugstipend": 25000,
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 60000,
       "pgstipend": 0,
-      "scholarship": 0,
+      "scholarship": null,
       "currency": "INR",
       "subsidizedLunch": 2,
       "boysAccommodation": 0,
@@ -94,9 +94,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-04T10:35:21",
+      "createdDate": "2024-07-02T09:22:35",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T05:26:28",
+      "modifiedDate": "2024-07-02T09:26:50",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +105,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51060,
-      "projectId": 2352,
-      "skillId": 132
+      "projectSkillId": 55244,
+      "projectId": 2694,
+      "skillId": 431
     },
     {
-      "projectSkillId": 51061,
-      "projectId": 2352,
+      "projectSkillId": 55245,
+      "projectId": 2694,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2352,
-      "projectDomainId": 3338,
-      "academicDomainId": 235
+      "projectId": 2694,
+      "projectDomainId": 3803,
+      "academicDomainId": 81
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3068,
-      "projectId": 2352,
-      "academicSubDomainId": 485
+      "projectSubDomainId": 3508,
+      "projectId": 2694,
+      "academicSubDomainId": 162
     }
   ],
   "projectSubjectArea": [],

@@ -1,13 +1,13 @@
 {
-  "projectId": 2352,
-  "stationId": 4747,
-  "problemBankId": 1364,
+  "projectId": 2671,
+  "stationId": 5997,
+  "problemBankId": 1601,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Loan Against Mutual Funds",
-  "description": "<p class=\"ql-align-justify\">Description: Developing new Initiatives and Managing the Loan Against Mutual Funds for Entire Industry.</p><p>Skill sets: API Frameworks</p><p class=\"ql-align-justify\">Traits expectation: Problem Solving, Data Analysis, Product Building and Management, Marketing &amp; Pre-sales, Market Research</p><p class=\"ql-align-justify\">\tExpected learning: Product Building from O to I and scaling, Management, Gauging and Working towards Product Market Fit.</p><p><br></p>",
+  "title": "Details awaited",
+  "description": "<p>-</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,34 +17,39 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2352,
-      "projectDisciplineId": 5693,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectId": 2671,
+      "projectDisciplineId": 5623,
+      "projectDisciplineCodes": "AnyA4,A4",
+      "discCodesPerProject": "AnyA4,A4",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5693,
-      "projectId": 2352,
+      "projectDisciplineId": 5623,
+      "projectId": 2671,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 6,
+      "cgpamin": 7,
       "cgpamax": 10,
-      "freshRequirement": 17,
-      "totalRequirement": 17,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA4,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -53,8 +58,23 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16588,
+          "projectDisciplineId": 5623,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 16589,
+          "projectDisciplineId": 5623,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -62,14 +82,14 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2266,
-      "projectId": 2352,
+      "projectFacilityId": 2585,
+      "projectId": 2671,
       "officeStartTime": "09:00:00",
-      "officeEndTime": "17:30:00",
-      "weekHolidays": "Saturday,Sunday",
-      "ugstipend": 25000,
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 40000,
       "pgstipend": 0,
-      "scholarship": 0,
+      "scholarship": null,
       "currency": "INR",
       "subsidizedLunch": 2,
       "boysAccommodation": 0,
@@ -80,7 +100,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "",
+      "others": "3000/ per day for initial 7 days &amp; 2 AC Tier tickets will\nbe provided",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -94,9 +114,9 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-06-04T10:35:21",
-      "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T05:26:28",
+      "createdDate": "2024-06-27T10:44:51",
+      "modifiedBy": null,
+      "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -105,29 +125,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51060,
-      "projectId": 2352,
-      "skillId": 132
+      "projectSkillId": 55200,
+      "projectId": 2671,
+      "skillId": 431
     },
     {
-      "projectSkillId": 51061,
-      "projectId": 2352,
+      "projectSkillId": 55201,
+      "projectId": 2671,
       "skillId": 436
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2352,
-      "projectDomainId": 3338,
-      "academicDomainId": 235
+      "projectId": 2671,
+      "projectDomainId": 3780,
+      "academicDomainId": 21
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3068,
-      "projectId": 2352,
-      "academicSubDomainId": 485
+      "projectSubDomainId": 3486,
+      "projectId": 2671,
+      "academicSubDomainId": 70
     }
   ],
   "projectSubjectArea": [],

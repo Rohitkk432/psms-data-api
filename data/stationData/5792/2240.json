@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2240,
-      "projectDisciplineId": 5232,
+      "projectDisciplineId": 5679,
       "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB",
       "discCodesPerProject": "AnyA4,AnyAB,A4,AB",
       "graduationTypeIds": [
@@ -33,12 +33,12 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5232,
+      "projectDisciplineId": 5679,
       "projectId": 2240,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 6.5,
+      "cgpamin": 5.5,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
@@ -61,29 +61,29 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 14779,
-          "projectDisciplineId": 5232,
+          "projectDisciplineDetailId": 16797,
+          "projectDisciplineId": 5679,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 4
         },
         {
-          "projectDisciplineDetailId": 14780,
-          "projectDisciplineId": 5232,
+          "projectDisciplineDetailId": 16798,
+          "projectDisciplineId": 5679,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 15
         },
         {
-          "projectDisciplineDetailId": 14781,
-          "projectDisciplineId": 5232,
+          "projectDisciplineDetailId": 16799,
+          "projectDisciplineId": 5679,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 14782,
-          "projectDisciplineId": 5232,
+          "projectDisciplineDetailId": 16800,
+          "projectDisciplineId": 5679,
           "graduationTypeId": 1,
           "disciplineId": 15,
           "discipline2Id": null
@@ -130,7 +130,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-31T13:04:29",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-05-31T13:05:38",
+      "modifiedDate": "2024-07-02T06:16:26",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": "Kanker",
