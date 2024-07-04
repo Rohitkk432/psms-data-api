@@ -157,7 +157,7 @@ const backfillListWithData = async (stationID: number) => {
     const files = fs.readdirSync(stationDir);
     let minCgpa = 10;
     let requirements = 0;
-
+    let minStipend = 1000000;
     files.forEach((file: any) => {
         if (file.endsWith(".json") && file !== "station.json" && file !== "problem-bank.json") {
             const projectData = JSON.parse(fs.readFileSync(path.join(stationDir, file), "utf8"));
@@ -167,6 +167,11 @@ const backfillListWithData = async (stationID: number) => {
                 }
                 if (discipline.cgpamax < minCgpa) {
                     minCgpa = discipline.cgpamax;
+                }
+            });
+            projectData.projectFacility.forEach((dataItem: any) => {
+                if (dataItem.ugstipend < minStipend) {
+                    minStipend = dataItem.ugstipend;
                 }
             });
         }
@@ -180,6 +185,7 @@ const backfillListWithData = async (stationID: number) => {
     if (stationIndex !== -1) {
         data1[stationIndex].minCgpa = minCgpa;
         data1[stationIndex].requirements = requirements;
+        data1[stationIndex].ugstipend = minStipend;
     }
 
     // Update the stations.json file
@@ -203,15 +209,11 @@ const sortStationsList = () => {
 
 data1.forEach(async (stationItem: any) => {
     // //fetch individual stationsData (station->problembank->projects)
-
     // await getStationData(stationItem.stationId, stationItem.stationName).catch((err) => {
     //     console.log(stationItem.stationId);
     //     return;
     // });
-
-    
     // //backfill some data to data/stations.json
-
     // await backfillListWithData(stationItem.stationId).catch((err) => {
     //     console.log(stationItem.stationId);
     //     return;
