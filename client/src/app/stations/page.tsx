@@ -24,6 +24,22 @@ export default function StationsPage() {
     };
 
     //branch filters
+    const initStipendFilter = {
+        lt10K: 1,
+        gt10K: 1,
+        gt30K: 1,
+        gt60K: 1,
+        gt80K: 1,
+        gt100K: 1,
+    };
+    const [stipendFil, setStipendFil] = useState(initStipendFilter);
+    const handleStipendFilter = (e: any) => {
+        const _newData = { ...stipendFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
+        setStipendFil(_newData);
+        localStorage.setItem("stipendFil", JSON.stringify(_newData));
+    };
+
+    //branch filters
     const initBranchFilter = {
         csis: 1,
         addOther: 0,
@@ -70,24 +86,35 @@ export default function StationsPage() {
         localStorage.setItem("reqFil", JSON.stringify(_newData));
     };
 
-    const [search,setSearch] = useState("");
+    const [search, setSearch] = useState("");
+    const [sortFunc, setSortFunc] = useState(true);
 
     //back fill filters from localStorage
     useEffect(() => {
         setLocationFil(JSON.parse(localStorage.getItem("locationFil") || JSON.stringify(initLocationFilter)));
         setBranchFil(JSON.parse(localStorage.getItem("branchFil") || JSON.stringify(initBranchFilter)));
+        setStipendFil(JSON.parse(localStorage.getItem("stipendFil") || JSON.stringify(initStipendFilter)));
         setCgpaFil(JSON.parse(localStorage.getItem("cgpaFil") || JSON.stringify(initCgpaFilter)));
         setReqFil(JSON.parse(localStorage.getItem("reqFil") || JSON.stringify(initReqFilter)));
     }, []);
 
     const searchResult = useMemo(() => {
-        if (!search) return StationData;
+        if (!search)
+            return sortFunc
+                ? StationData
+                : StationData.toSorted((a: any, b: any) => {
+                      return b.ugstipend - a.ugstipend;
+                  });
 
-        return StationData.filter((_station) => {
+        const newData = StationData.filter((_station) => {
             return _station.stationName.toLowerCase().includes(search.toLowerCase());
         });
-    }, [search]);
-
+        return sortFunc
+            ? newData
+            : newData.toSorted((a: any, b: any) => {
+                  return b.ugstipend - a.ugstipend;
+              });
+    }, [search, sortFunc]);
 
     return (
         <main className="flex min-h-screen flex-col items-center gap-4 px-8 py-12">
@@ -168,6 +195,33 @@ export default function StationsPage() {
                     Add Other Domains
                 </button>
             </div>
+            {/* Stipend filter btns */}
+            <div className="w-full flex items-center justify-center my-3 gap-4">
+                <div className="text-lg">Stipend Filters - </div>
+                <button onClick={handleStipendFilter} name="lt10K" value={stipendFil.lt10K} type="button" className={!stipendFil.lt10K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`<10K`}
+                </button>
+                <button onClick={handleStipendFilter} name="gt10K" value={stipendFil.gt10K} type="button" className={!stipendFil.gt10K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`10K<=$$<30K`}
+                </button>
+                <button onClick={handleStipendFilter} name="gt30K" value={stipendFil.gt30K} type="button" className={!stipendFil.gt30K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`30K<=$$<60K`}
+                </button>
+                <button onClick={handleStipendFilter} name="gt60K" value={stipendFil.gt60K} type="button" className={!stipendFil.gt60K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`60K<=$$<80K`}
+                </button>
+                <button onClick={handleStipendFilter} name="gt80K" value={stipendFil.gt80K} type="button" className={!stipendFil.gt80K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`80K<=$$<100K`}
+                </button>
+                <button
+                    onClick={handleStipendFilter}
+                    name="gt100K"
+                    value={stipendFil.gt100K}
+                    type="button"
+                    className={!stipendFil.gt100K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
+                    {`100K<=$$`}
+                </button>
+            </div>
             {/* req filter btns */}
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <div className="text-lg">Requirements Filters - </div>
@@ -218,13 +272,23 @@ export default function StationsPage() {
             {/* searchBar */}
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <input type="text" placeholder="Search" className="w-[30rem] py-2 rounded-full px-8 bg-gray-900 border-blue-600 border-2" value={search} onChange={(e) => setSearch(e.target.value)} />
+                <div className="flex items-center gap-3">
+                    <div>Sort: </div>
+                    <button onClick={() => setSortFunc(true)} type="button" className={!sortFunc ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                        Alphabetically
+                    </button>
+                    <button onClick={() => setSortFunc(false)} type="button" className={sortFunc ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
+                        Stipend
+                    </button>
+                </div>
             </div>
 
-            <div className="w-full grid grid-cols-9 py-2 rounded-xl items-center justify-center bg-gray-700 text-white text-lg">
+            <div className="w-full grid grid-cols-10 py-2 rounded-xl items-center justify-center bg-gray-700 text-white text-lg">
                 <div className="flex items-center justify-center">StationID</div>
                 <div className="flex col-span-3 items-center justify-center">Station Name</div>
                 <div className="flex items-center justify-center">Location</div>
                 <div className="flex items-center justify-center">Domain</div>
+                <div className="flex items-center justify-center">Stipend</div>
                 <div className="flex items-center justify-center">Requirmnt</div>
                 <div className="flex items-center justify-center">MinCGPA</div>
                 <div className="flex items-center justify-center">Details</div>
@@ -243,51 +307,64 @@ export default function StationsPage() {
                     (cgpaFil.gt0 && item.minCgpa >= 0 && item.minCgpa < 6)
                 )
                     if (
-                        (branchFil.csis && item.stationDomain === "CSIS/IT") ||
-                        (branchFil.csis && item.stationDomain === "Health Care") ||
-                        (branchFil.finance && item.stationDomain === "Finance and Mgmt") ||
-                        (branchFil.Others && item.stationDomain === "Others") ||
-                        (branchFil.addOther && item.stationDomain !== "CSIS/IT" && item.stationDomain !== "Health Care" && item.stationDomain !== "Finance and Mgmt" && item.stationDomain !== "Others")
+                        (stipendFil.lt10K && item.ugstipend < 10000) ||
+                        (stipendFil.gt10K && item.ugstipend >= 10000 && item.ugstipend < 30000) ||
+                        (stipendFil.gt30K && item.ugstipend >= 30000 && item.ugstipend < 60000) ||
+                        (stipendFil.gt60K && item.ugstipend >= 60000 && item.ugstipend < 80000) ||
+                        (stipendFil.gt80K && item.ugstipend >= 80000 && item.ugstipend < 10000) ||
+                        (stipendFil.gt100K && item.ugstipend >= 100000)
                     )
                         if (
-                            (reqFil.req0 && item.requirements === 0) ||
-                            (reqFil.req0to10 && item.requirements > 0 && item.requirements <= 10) ||
-                            (reqFil.req10to20 && item.requirements > 10 && item.requirements <= 20) ||
-                            (reqFil.req20to30 && item.requirements > 20 && item.requirements <= 30) ||
-                            (reqFil.req30plus && item.requirements > 30)
+                            (branchFil.csis && item.stationDomain === "CSIS/IT") ||
+                            (branchFil.csis && item.stationDomain === "Health Care") ||
+                            (branchFil.finance && item.stationDomain === "Finance and Mgmt") ||
+                            (branchFil.Others && item.stationDomain === "Others") ||
+                            (branchFil.addOther &&
+                                item.stationDomain !== "CSIS/IT" &&
+                                item.stationDomain !== "Health Care" &&
+                                item.stationDomain !== "Finance and Mgmt" &&
+                                item.stationDomain !== "Others")
                         )
-                            // put branch filters
                             if (
-                                (locationFil.pune && item.city.includes("Pune")) ||
-                                (locationFil.hyd && item.city.includes("Hyderabad")) ||
-                                (locationFil.mumbai && item.city.includes("Mumbai")) ||
-                                (locationFil.gurgaon && item.city.includes("Gurgaon")) ||
-                                (locationFil.bangalore && (item.city.includes("Bangalore") || item.city.includes("Bengaluru"))) ||
-                                (locationFil.delhi && item.city.includes("Delhi")) ||
-                                (locationFil.other &&
-                                    !item.city.includes("Pune") &&
-                                    !item.city.includes("Hyderabad") &&
-                                    !item.city.includes("Mumbai") &&
-                                    !item.city.includes("Gurgaon") &&
-                                    !item.city.includes("Bangalore") &&
-                                    !item.city.includes("Delhi") &&
-                                    !item.city.includes("Bengaluru"))
+                                (reqFil.req0 && item.requirements === 0) ||
+                                (reqFil.req0to10 && item.requirements > 0 && item.requirements <= 10) ||
+                                (reqFil.req10to20 && item.requirements > 10 && item.requirements <= 20) ||
+                                (reqFil.req20to30 && item.requirements > 20 && item.requirements <= 30) ||
+                                (reqFil.req30plus && item.requirements > 30)
                             )
-                                // put requirement filters
-                                // put location filters
-                                return (
-                                    <div key={item.stationId} className="w-full grid grid-cols-9 py-2 items-center justify-center border-b text-white text-lg">
-                                        <div className="flex items-center justify-center">{item.stationId}</div>
-                                        <div className="col-span-3 text-center flex items-center justify-center">{item.stationName}</div>
-                                        <div className="flex items-center justify-center">{item.city}</div>
-                                        <div className="flex items-center text-center justify-center">{item.stationDomain}</div>
-                                        <div className="flex items-center justify-center">{item.requirements}</div>
-                                        <div className="flex items-center justify-center">{item.minCgpa}</div>
-                                        <a href={`/station-details/${item.stationId}`} className="flex items-center rounded-xl bg-blue-500 justify-center">
-                                            Details
-                                        </a>
-                                    </div>
-                                );
+                                if (
+                                    (locationFil.pune && item.city.includes("Pune")) ||
+                                    (locationFil.hyd && item.city.includes("Hyderabad")) ||
+                                    (locationFil.mumbai && item.city.includes("Mumbai")) ||
+                                    (locationFil.gurgaon && item.city.includes("Gurgaon")) ||
+                                    (locationFil.bangalore && (item.city.includes("Bangalore") || item.city.includes("Bengaluru"))) ||
+                                    (locationFil.delhi && item.city.includes("Delhi")) ||
+                                    (locationFil.other &&
+                                        !item.city.includes("Pune") &&
+                                        !item.city.includes("Hyderabad") &&
+                                        !item.city.includes("Mumbai") &&
+                                        !item.city.includes("Gurgaon") &&
+                                        !item.city.includes("Bangalore") &&
+                                        !item.city.includes("Delhi") &&
+                                        !item.city.includes("Bengaluru"))
+                                )
+                                    // put branch filters
+                                    // put requirement filters
+                                    // put location filters
+                                    return (
+                                        <div key={item.stationId} className="w-full grid grid-cols-10 py-2 items-center justify-center border-b text-white text-lg">
+                                            <div className="flex items-center justify-center">{item.stationId}</div>
+                                            <div className="col-span-3 text-center flex items-center justify-center">{item.stationName}</div>
+                                            <div className="flex items-center justify-center">{item.city}</div>
+                                            <div className="flex items-center text-center justify-center">{item.stationDomain}</div>
+                                            <div className="flex items-center justify-center">{item.ugstipend}</div>
+                                            <div className="flex items-center justify-center">{item.requirements}</div>
+                                            <div className="flex items-center justify-center">{item.minCgpa}</div>
+                                            <a href={`/station-details/${item.stationId}`} className="flex items-center rounded-xl bg-blue-500 justify-center">
+                                                Details
+                                            </a>
+                                        </div>
+                                    );
             })}
         </main>
     );

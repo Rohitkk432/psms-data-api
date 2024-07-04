@@ -1,0 +1,203 @@
+{
+  "projectId": 2705,
+  "stationId": 6019,
+  "problemBankId": 1627,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "In discription",
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">Build web apps and chrome extensions that help automate / speed up SaaS tool implementation and onboarding using generative AI. </span></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">React, Next, Nuxt, Figma, Tailwind, Python, FastAPI, Docker, Kubernetes, Git, Github Actions, Linux, Cloud, Chrome extensions, LLMs, Vector Databases, Machine Learning, Computer Vision, NLP etc. </span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2705,
+      "projectDisciplineId": 5711,
+      "projectDisciplineCodes": "AnyA7,AnyB4,AnyB5,A7,B4,B5",
+      "discCodesPerProject": "AnyA7,AnyB4,AnyB5,A7,B4,B5",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5711,
+      "projectId": 2705,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyB4,AnyB5,A7,B4,B5",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16904,
+          "projectDisciplineId": 5711,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16905,
+          "projectDisciplineId": 5711,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 16906,
+          "projectDisciplineId": 5711,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 20
+        },
+        {
+          "projectDisciplineDetailId": 16907,
+          "projectDisciplineId": 5711,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16908,
+          "projectDisciplineId": 5711,
+          "graduationTypeId": 1,
+          "disciplineId": 19,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16909,
+          "projectDisciplineId": 5711,
+          "graduationTypeId": 1,
+          "disciplineId": 20,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2619,
+      "projectId": 2705,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-07-04T04:23:42",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55267,
+      "projectId": 2705,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55268,
+      "projectId": 2705,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2705,
+      "projectDomainId": 3815,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2705,
+      "projectDomainId": 3816,
+      "academicDomainId": 68
+    },
+    {
+      "projectId": 2705,
+      "projectDomainId": 3817,
+      "academicDomainId": 66
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3519,
+      "projectId": 2705,
+      "academicSubDomainId": 138
+    },
+    {
+      "projectSubDomainId": 3520,
+      "projectId": 2705,
+      "academicSubDomainId": 204
+    },
+    {
+      "projectSubDomainId": 3521,
+      "projectId": 2705,
+      "academicSubDomainId": 140
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

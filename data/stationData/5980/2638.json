@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2638,
-      "projectDisciplineId": 5575,
-      "projectDisciplineCodes": "AnyA7,A7",
-      "discCodesPerProject": "AnyA7,A7",
+      "projectDisciplineId": 5698,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5575,
+      "projectDisciplineId": 5698,
       "projectId": 2638,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -41,38 +41,38 @@
       "cgpamin": 0,
       "cgpamax": 10,
       "freshRequirement": 2,
-      "totalRequirement": 2,
+      "totalRequirement": 3,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA7,A7",
+      "disciplineCodes": "A7,AnyA7",
       "graduationTypeIds": [
-        0,
-        1
+        1,
+        0
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 16415,
-          "projectDisciplineId": 5575,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
-        },
-        {
-          "projectDisciplineDetailId": 16416,
-          "projectDisciplineId": 5575,
+          "projectDisciplineDetailId": 16872,
+          "projectDisciplineId": 5698,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16873,
+          "projectDisciplineId": 5698,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
         }
       ],
       "selectedContinuingStudentList": null,
