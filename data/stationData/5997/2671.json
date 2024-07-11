@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2671,
-      "projectDisciplineId": 5623,
-      "projectDisciplineCodes": "AnyA4,A4",
-      "discCodesPerProject": "AnyA4,A4",
+      "projectDisciplineId": 5759,
+      "projectDisciplineCodes": "A4,AnyA4",
+      "discCodesPerProject": "A4,AnyA4",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5623,
+      "projectDisciplineId": 5759,
       "projectId": 2671,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -41,38 +41,38 @@
       "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 1,
-      "totalRequirement": 1,
+      "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA4,A4",
+      "disciplineCodes": "A4,AnyA4",
       "graduationTypeIds": [
-        0,
-        1
+        1,
+        0
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 16588,
-          "projectDisciplineId": 5623,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 4
-        },
-        {
-          "projectDisciplineDetailId": 16589,
-          "projectDisciplineId": 5623,
+          "projectDisciplineDetailId": 17045,
+          "projectDisciplineId": 5759,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17046,
+          "projectDisciplineId": 5759,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
         }
       ],
       "selectedContinuingStudentList": null,
@@ -115,8 +115,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-27T10:44:51",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "allotment@bits.com",
+      "modifiedDate": "2024-07-09T08:43:39",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -1,13 +1,13 @@
 {
-  "projectId": 2702,
-  "stationId": 6017,
-  "problemBankId": 1625,
+  "projectId": 2730,
+  "stationId": 6034,
+  "problemBankId": 1645,
   "problemBankCreatedBy": "planning@bits.com",
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "On AI & Marketing Research.",
-  "description": "<p>-</p>",
+  "title": "Data Science project",
+  "description": "<p>Data Science project</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 1,
@@ -17,44 +17,56 @@
   "mentorContactNumber": "",
   "discViewModels": [
     {
-      "projectId": 2702,
-      "projectDisciplineId": 5707,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectId": 2730,
+      "projectDisciplineId": 5745,
+      "projectDisciplineCodes": "A7",
+      "discCodesPerProject": "A7",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5707,
-      "projectId": 2702,
+      "projectDisciplineId": 5745,
+      "projectId": 2730,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 4,
-      "totalRequirement": 4,
+      "freshRequirement": 0,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "A7",
+      "graduationTypeIds": [
+        1
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
       "otherSuggestedStation": 0,
       "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16999,
+          "projectDisciplineId": 5745,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -62,12 +74,12 @@
   "projectElective": [],
   "projectFacility": [
     {
-      "projectFacilityId": 2616,
-      "projectId": 2702,
+      "projectFacilityId": 2644,
+      "projectId": 2730,
       "officeStartTime": "09:00:00",
-      "officeEndTime": "17:00:00",
-      "weekHolidays": "Sunday",
-      "ugstipend": 25000,
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday,Saturday",
+      "ugstipend": 20000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -94,7 +106,7 @@
       "girlsAccomodationCountry": null,
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
-      "createdDate": "2024-07-03T17:08:11",
+      "createdDate": "2024-07-06T04:06:42",
       "modifiedBy": null,
       "modifiedDate": null,
       "girlsAccomodationOtherCityName": null,
@@ -105,29 +117,29 @@
   ],
   "projectSkill": [
     {
-      "projectSkillId": 55261,
-      "projectId": 2702,
-      "skillId": 431
+      "projectSkillId": 55323,
+      "projectId": 2730,
+      "skillId": 235
     },
     {
-      "projectSkillId": 55262,
-      "projectId": 2702,
-      "skillId": 436
+      "projectSkillId": 55324,
+      "projectId": 2730,
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
     {
-      "projectId": 2702,
-      "projectDomainId": 3811,
-      "academicDomainId": 5
+      "projectId": 2730,
+      "projectDomainId": 3857,
+      "academicDomainId": 105
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3516,
-      "projectId": 2702,
-      "academicSubDomainId": 138
+      "projectSubDomainId": 3557,
+      "projectId": 2730,
+      "academicSubDomainId": 193
     }
   ],
   "projectSubjectArea": [],

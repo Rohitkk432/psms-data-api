@@ -1,0 +1,164 @@
+{
+  "projectId": 2732,
+  "stationId": 6035,
+  "problemBankId": 1646,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "    Project 1   Title: simulation model preparation for electronics and automotive,   Project 2   Title: AI/ML in simulations",
+  "description": "<p class=\"ql-align-justify\">  <strong style=\"color: black;\">Project 1</strong></p><p class=\"ql-align-justify\"> <strong style=\"color: black;\">Title: simulation model preparation for electronics and automotive</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: Learn how to create and conduct simulations for automotive or electronics industry</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: Fundamentals of solid mechanics</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: &nbsp;Visualization, aptitude, Fundamentals</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: Learn industry practices and work on real problems.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Specific courses required for project execution: CAD design, Strength of materials </strong></p><p class=\"ql-align-justify\">   <strong style=\"color: black;\">Project 2</strong></p><p class=\"ql-align-justify\"> <strong style=\"color: black;\">Title: AI/ML in simulations</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: Explore AI/ML on simulations</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: Aptitude, Coding</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: Teamwork and aptitude</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: Industry best practices</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Specific courses required for project execution: Python, C, AI/ML</strong></p><p>  </p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2732,
+      "projectDisciplineId": 5747,
+      "projectDisciplineCodes": "AB,A7",
+      "discCodesPerProject": "AB,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5747,
+      "projectId": 2732,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AB,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17000,
+          "projectDisciplineId": 5747,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17001,
+          "projectDisciplineId": 5747,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2646,
+      "projectId": 2732,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:30:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-07-06T11:33:44",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55327,
+      "projectId": 2732,
+      "skillId": 107
+    },
+    {
+      "projectSkillId": 55328,
+      "projectId": 2732,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 55329,
+      "projectId": 2732,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2732,
+      "projectDomainId": 3859,
+      "academicDomainId": 1
+    },
+    {
+      "projectId": 2732,
+      "projectDomainId": 3860,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3559,
+      "projectId": 2732,
+      "academicSubDomainId": 277
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
