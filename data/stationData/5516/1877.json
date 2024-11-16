@@ -10,7 +10,7 @@
   "description": "<p> Along the lines of AskEd/AskDebbie, we are proposing to build a base framework that can be used for building component-specific bots for various areas like networking, infrapatching, provisioning etc. The proposal is to use and improvise the current bots and to build a framework into which additional bots can be plugged in.</p><p> These bots can come in internal/external variations – we have lots of information spread across various places like public product documentation, confluence pages, runbooks, support notes, JIRAs, slack channels, etc for product components. These bots can scrap that information and make it available for internal or external usage and make it easier for field facing teams to resolve issues or complete deployments faster. AI/ML, chatbots, python, node.js, slack integrations. Self-learner who is interested in exploring and implementing improvements. AI/ML area, cloud databases, Automation Any course available on building chatbots.</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,63 +18,43 @@
   "discViewModels": [
     {
       "projectId": 1877,
-      "projectDisciplineId": 3919,
-      "projectDisciplineCodes": "AnyA7,A7",
-      "discCodesPerProject": "AnyA7,A7",
-      "graduationTypeIds": [
-        1
-      ],
+      "projectDisciplineId": 6791,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": false,
+      "anyEither": true,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 3919,
+      "projectDisciplineId": 6791,
       "projectId": 1877,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 8,
       "cgpamax": 10,
-      "freshRequirement": 1,
-      "totalRequirement": 1,
+      "freshRequirement": 0,
+      "totalRequirement": 21,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
-      "disciplineCodes": "AnyA7,A7",
-      "graduationTypeIds": [
-        0,
-        1
-      ],
+      "continuingStudent": 1,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
       "degree": "Both",
-      "continuingStudentCount": 0,
+      "continuingStudentCount": 12,
       "continuingStudentIds": null,
-      "conditionalOffer": 0,
+      "conditionalOffer": 1,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 9,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 0,
-      "disciplineDetails": [
-        {
-          "projectDisciplineDetailId": 9962,
-          "projectDisciplineId": 3919,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
-        },
-        {
-          "projectDisciplineDetailId": 9963,
-          "projectDisciplineId": 3919,
-          "graduationTypeId": 1,
-          "disciplineId": 12,
-          "discipline2Id": null
-        }
-      ],
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -115,12 +95,14 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-20T10:54:25",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-16T15:40:06",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details awaited",
-  "description": "<p>--</p>",
+  "title": "Title: Business Analyst Intern for Travel Growth & Customer Experience",
+  "description": "<p>Title: Business Analyst Intern for Travel Growth &amp; Customer Experience</p><p>Description: You will work on varied problem statements that help us understand our customer's better</p><p>and drive significant growth for Scapia travel through actionable insights.</p><p>On customer experience, you will get to derive insights looking at all the data around customer chats</p><p>and support queries. Your insights will help us improve our customer support as well as work with</p><p>Product teams to build AI solutions for our customers.</p><p>Skill sets: Deep knowledge of SQL and data fundamentals. Working knowledge of Python.</p><p>Traits expectation: Analytical ability. Structured problem solving and excellent communication skills.</p><p>Expected learning: opportunity to analyze large volumes of data, do data modeling, and translate</p><p>analysis into insights</p><p>Specific courses required for project execution: SQL, Python and data analytics, English</p><p>Communication Skills</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,63 +18,43 @@
   "discViewModels": [
     {
       "projectId": 2450,
-      "projectDisciplineId": 4866,
-      "projectDisciplineCodes": "AnyA7,A7",
-      "discCodesPerProject": "AnyA7,A7",
-      "graduationTypeIds": [
-        1
-      ],
+      "projectDisciplineId": 6742,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": false,
+      "anyEither": true,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4866,
+      "projectDisciplineId": 6742,
       "projectId": 2450,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 0,
+      "freshRequirement": 1,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA7,A7",
-      "graduationTypeIds": [
-        0,
-        1
-      ],
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 1,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 0,
-      "disciplineDetails": [
-        {
-          "projectDisciplineDetailId": 13054,
-          "projectDisciplineId": 4866,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
-        },
-        {
-          "projectDisciplineDetailId": 13055,
-          "projectDisciplineId": 4866,
-          "graduationTypeId": 1,
-          "disciplineId": 12,
-          "discipline2Id": null
-        }
-      ],
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -87,7 +67,7 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 75000,
+      "ugstipend": 100000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -115,39 +95,71 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-10T04:05:36",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-16T10:46:51",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51279,
-      "projectId": 2450,
-      "skillId": 385
-    },
-    {
       "projectSkillId": 51280,
       "projectId": 2450,
       "skillId": 41
+    },
+    {
+      "projectSkillId": 60189,
+      "projectId": 2450,
+      "skillId": 451
+    },
+    {
+      "projectSkillId": 60190,
+      "projectId": 2450,
+      "skillId": 400
+    },
+    {
+      "projectSkillId": 60191,
+      "projectId": 2450,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 60192,
+      "projectId": 2450,
+      "skillId": 225
+    },
+    {
+      "projectSkillId": 60193,
+      "projectId": 2450,
+      "skillId": 78
+    },
+    {
+      "projectSkillId": 60194,
+      "projectId": 2450,
+      "skillId": 202
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 2450,
-      "projectDomainId": 3456,
-      "academicDomainId": 81
+      "projectDomainId": 5193,
+      "academicDomainId": 92
+    },
+    {
+      "projectId": 2450,
+      "projectDomainId": 5194,
+      "academicDomainId": 127
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3186,
+      "projectSubDomainId": 4796,
       "projectId": 2450,
-      "academicSubDomainId": 162
+      "academicSubDomainId": 179
     }
   ],
   "projectSubjectArea": [],

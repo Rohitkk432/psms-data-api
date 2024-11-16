@@ -1,0 +1,219 @@
+{
+  "projectId": 3149,
+  "stationId": 6247,
+  "problemBankId": 1987,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project - 5 & 9 chemistry/physics/chemi cal engineering/materials science",
+  "description": "<p>Project 5 Title: Understanding the mechanism of Li-ion intercalation in multilayer graphene sheets</p><p>Description: Lithiated graphitic materials are employed as anodes in several Li-ion based batteries. In</p><p>this project we will study how Li-ions intercalate inside multilayer graphene. For this study we will employ</p><p>molecular dynamics simulations based on density functional theory (ab initio molecular dynamics) and</p><p>machine learned force field parameters.</p><p>Skill sets: Basic knowledge of linux commands, quantum mechanics, and statistical mechanics. Basic</p><p>knowledge of molecular dynamics will be a plus.</p><p>Traits expectation: Interest in computational materials science</p><p>Expected learning: machine learned force fields, electronic structure based simulations</p><p>Specific courses required for project execution: computational chemistry / physics or equivalent</p><p>engineering course</p><p>Project 9 Title: Tailoring Spin Physics for Designing Novel Nuclear Magnetic Resonance Pulse sequences</p><p>The ability of NMR as an analytical technique to obtain atomic level details of molecules is limited by</p><p>our ability to tailor the synchrony of radiofrequency pulses and evolution of spin-spin interactions. The</p><p>design of new pulse sequences is embedded in the nuclei spin physics and their interactions with the</p><p>surroundings. In this project we aim to design pulse sequences for extracting relaxation parameters of</p><p>spin-1 quadrupolar nuclei that reveal details of site-specific molecular motions.</p><p>Skill sets: Basic understanding of Physics/Chemistry concepts, basic programming skills in any</p><p>language .</p><p>Traits expectation: ability to work, analyze data and solve problems with focus on understanding and</p><p>desire for details.</p><p>Expected learning: NMR spectroscopy, structural and dynamics characterization of molecules</p><p>Specific courses required for project execution: Mathematics, Mathematical Physics, quantum</p><p>mechanics, Basic programming in any language</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3149,
+      "projectDisciplineId": 6238,
+      "projectDisciplineCodes": "AnyA1,AnyB2,AnyB4,AnyB5,B2,B4,B5,A1",
+      "discCodesPerProject": "AnyA1,AnyB2,AnyB4,AnyB5,B2,B4,B5,A1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6238,
+      "projectId": 3149,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA1,AnyB2,AnyB4,AnyB5,B2,B4,B5,A1",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18741,
+          "projectDisciplineId": 6238,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 18742,
+          "projectDisciplineId": 6238,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 17
+        },
+        {
+          "projectDisciplineDetailId": 18743,
+          "projectDisciplineId": 6238,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 18744,
+          "projectDisciplineId": 6238,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 20
+        },
+        {
+          "projectDisciplineDetailId": 18745,
+          "projectDisciplineId": 6238,
+          "graduationTypeId": 1,
+          "disciplineId": 17,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18746,
+          "projectDisciplineId": 6238,
+          "graduationTypeId": 1,
+          "disciplineId": 19,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18747,
+          "projectDisciplineId": 6238,
+          "graduationTypeId": 1,
+          "disciplineId": 20,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18748,
+          "projectDisciplineId": 6238,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3019,
+      "projectId": 3149,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "For TIFR we will pay a scholarship of 20k for our students (CGPA 6 and above). ",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T02:11:42",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-15T04:31:26",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57711,
+      "projectId": 3149,
+      "skillId": 278
+    },
+    {
+      "projectSkillId": 57712,
+      "projectId": 3149,
+      "skillId": 423
+    },
+    {
+      "projectSkillId": 57713,
+      "projectId": 3149,
+      "skillId": 96
+    },
+    {
+      "projectSkillId": 57714,
+      "projectId": 3149,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3149,
+      "projectDomainId": 4559,
+      "academicDomainId": 14
+    },
+    {
+      "projectId": 3149,
+      "projectDomainId": 4560,
+      "academicDomainId": 67
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4175,
+      "projectId": 3149,
+      "academicSubDomainId": 135
+    },
+    {
+      "projectSubDomainId": 4176,
+      "projectId": 3149,
+      "academicSubDomainId": 339
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

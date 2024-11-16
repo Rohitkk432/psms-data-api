@@ -1,0 +1,217 @@
+{
+  "projectId": 3009,
+  "stationId": 6221,
+  "problemBankId": 1894,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: DB Engineering",
+  "description": "<p class=\"ql-align-justify\"><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Description:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">IITM Pravartak Technologies Foundation is a Technology Innovation Hub (TIH) funded by the Department of Science and Technology, Government of India under the National Mission on Interdisciplinary Cyber-Physical Systems. The TIH is hosted by IIT Madras and specializes in Sensors, Networking, Actuators, and Control Systems (SNACS).&nbsp;</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">The key objectives of Technology, Entrepreneurship, and Human Resources Development, IITM Pravartak is preparing young India for the next generation of world-class technologies. IITM Pravartak provides an eco-system that enables fundamental research to translate to products, integrating academics, industry, government and international organizations.</span></p><p><span style=\"color: rgb(0, 0, 0);\">&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0);\">One such initiative is to develop a secure database with High availability support covering the various features across operating systems which is deployable on-premises and cloud platforms. The aim of this database will be to make it available with Enterprise support and eligible/suitable for use across commercial and government enterprises.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0);\">The DB is planned to be built from the forked version of PostgreSQL as the secured base version and fulcrum to retain compatibility with some of the existing tools and ease migration in a DBMS ecosystem.&nbsp;&nbsp;</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">The database will be extended/enhanced by utilizing selective open-Source packages / products / tools. This will be in addition to come out with innovative features to improve the performance of the core database engine wherever possible. The vision is to enable creation of multiple streams of applications for the database (enterprise, mobile, in memory etc.).&nbsp;</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"color: rgb(0, 0, 0);\">C, C++, Linux, OS internals, Networking, PostgreSQL/MySQL/Oracle/MSSQL, Python/Perl, Open-source development methodology, Data Structures, Algorithms</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: </strong><span style=\"color: rgb(0, 0, 0);\">Teamwork, Go-getter, analytical thinking, problem-solving, critical thinking, time management, willingness to learn, Previous successful completion of open-source projects (preferable)</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"color: rgb(0, 0, 0);\">DB design principles, query optimization, performance tuning, debugging, system-level understanding, collaboration on large-scale projects, database security concepts, testing methodologies, software development lifecycle</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"color: rgb(0, 0, 0);\">C programming, Operating Systems, Data Structures / Advanced Data Structures, Linux programming, Database concepts (RDBMS), Python Programming</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3009,
+      "projectDisciplineId": 6090,
+      "projectDisciplineCodes": "AnyA3,AnyA7,A7,A3,H103,H112",
+      "discCodesPerProject": "AnyA3,AnyA7,A7,A3,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6090,
+      "projectId": 3009,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,A7,A3,H103,H112",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17979,
+          "projectDisciplineId": 6090,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 17980,
+          "projectDisciplineId": 6090,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17981,
+          "projectDisciplineId": 6090,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17982,
+          "projectDisciplineId": 6090,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17983,
+          "projectDisciplineId": 6090,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17984,
+          "projectDisciplineId": 6090,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2897,
+      "projectId": 3009,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 45000,
+      "pgstipend": 45000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-10-24T11:04:37",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 56632,
+      "projectId": 3009,
+      "skillId": 225
+    },
+    {
+      "projectSkillId": 56633,
+      "projectId": 3009,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 56634,
+      "projectId": 3009,
+      "skillId": 338
+    },
+    {
+      "projectSkillId": 56635,
+      "projectId": 3009,
+      "skillId": 235
+    },
+    {
+      "projectSkillId": 56636,
+      "projectId": 3009,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3009,
+      "projectDomainId": 4373,
+      "academicDomainId": 92
+    },
+    {
+      "projectId": 3009,
+      "projectDomainId": 4374,
+      "academicDomainId": 127
+    },
+    {
+      "projectId": 3009,
+      "projectDomainId": 4375,
+      "academicDomainId": 105
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4016,
+      "projectId": 3009,
+      "academicSubDomainId": 193
+    },
+    {
+      "projectSubDomainId": 4017,
+      "projectId": 3009,
+      "academicSubDomainId": 179
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

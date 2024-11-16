@@ -1,0 +1,206 @@
+{
+  "projectId": 2901,
+  "stationId": 6172,
+  "problemBankId": 1795,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "AI-powered solutions",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Project 1</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title:</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: </strong><span style=\"color: rgb(0, 0, 0);\">Industries Einstein is a cutting-edge AI initiative aimed at creating a versatile AI solution tailored specifically for different industry verticals. This project will focus on developing innovative, AI-powered solutions that address various use cases across industries such as healthcare, finance, manufacturing, and retail. By seamlessly integrating AI/ML models with industry-specific applications, Industries Einstein empowers businesses to enhance productivity, optimize operations, and improve decision-making through data-driven insights.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"color: rgb(0, 0, 0);\">Programming (Java, Python) , Data Science, AI/ML Knowledge</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: </strong><span style=\"color: rgb(0, 0, 0);\">Problem-solving skills, Collaboration, Curiosity and Drive, Critical Thinking</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"color: rgb(0, 0, 0);\">Hands-on Experience with AI/ML, Industry-Specific Knowledge, End-End project development, Salesforce</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; </strong><span style=\"color: rgb(0, 0, 0);\">Data Structures &amp; Algorithm, Intro to AI/ML, Salesforce.</span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2901,
+      "projectDisciplineId": 5988,
+      "projectDisciplineCodes": "AnyA7,A7,H103",
+      "discCodesPerProject": "AnyA7,A7,H103",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5988,
+      "projectId": 2901,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7,H103",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17624,
+          "projectDisciplineId": 5988,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17625,
+          "projectDisciplineId": 5988,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17626,
+          "projectDisciplineId": 5988,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2811,
+      "projectId": 2901,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 150000,
+      "pgstipend": 150000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-09-27T07:35:45",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55821,
+      "projectId": 2901,
+      "skillId": 235
+    },
+    {
+      "projectSkillId": 55822,
+      "projectId": 2901,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 55823,
+      "projectId": 2901,
+      "skillId": 89
+    },
+    {
+      "projectSkillId": 55824,
+      "projectId": 2901,
+      "skillId": 295
+    },
+    {
+      "projectSkillId": 55825,
+      "projectId": 2901,
+      "skillId": 90
+    },
+    {
+      "projectSkillId": 55826,
+      "projectId": 2901,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2901,
+      "projectDomainId": 4202,
+      "academicDomainId": 105
+    },
+    {
+      "projectId": 2901,
+      "projectDomainId": 4203,
+      "academicDomainId": 128
+    },
+    {
+      "projectId": 2901,
+      "projectDomainId": 4204,
+      "academicDomainId": 127
+    },
+    {
+      "projectId": 2901,
+      "projectDomainId": 4205,
+      "academicDomainId": 86
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3860,
+      "projectId": 2901,
+      "academicSubDomainId": 192
+    },
+    {
+      "projectSubDomainId": 3861,
+      "projectId": 2901,
+      "academicSubDomainId": 193
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

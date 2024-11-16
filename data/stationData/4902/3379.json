@@ -1,0 +1,199 @@
+{
+  "projectId": 3379,
+  "stationId": 4902,
+  "problemBankId": 2180,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project1",
+  "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">Strong in Linear Algebra and other foundational mathematics required for Deep Learning.</span></p><p><span style=\"color: rgb(255, 0, 0); background-color: transparent;\">• Exposure to common deep neural network architectures and training deep neural networks</span></p><p><span style=\"color: rgb(255, 0, 0); background-color: transparent;\">• Working knowledge of PyTorch, and other relevant libraries.</span></p><p><span style=\"color: rgb(255, 0, 0); background-color: transparent;\">&nbsp;• In-depth understanding of Transformer architecture, Attention techniques for language and vision.</span></p><p><span style=\"color: rgb(255, 0, 0); background-color: transparent;\">&nbsp;• Ability to independently read, understand and explain deep learning research literature.</span></p><p><span style=\"color: rgb(255, 0, 0); background-color: transparent;\">&nbsp;• Knowledge of GNNs preferred.</span></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Traits expectation: </strong><strong style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Interview mandatory. It is preferable that the candidate works out of Bangalore</strong></p><p><br></p><p><span class=\"ql-cursor\">?</span>• Strong in Linear Algebra and other foundational mathematics required for Deep Learning.• Exposure to common deep neural network architectures and training deep neural networks• Working knowledge of PyTorch, and other relevant libraries.• In-depth understanding of Transformer architecture, Attention techniques for language and vision.• Ability to independently read, understand and explain deep learning research literature.• Knowledge of GNNs preferred.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3379,
+      "projectDisciplineId": 6602,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,AA,A7",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,AA,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6602,
+      "projectId": 3379,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,AA,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19910,
+          "projectDisciplineId": 6602,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 19911,
+          "projectDisciplineId": 6602,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 19912,
+          "projectDisciplineId": 6602,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 19913,
+          "projectDisciplineId": 6602,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19914,
+          "projectDisciplineId": 6602,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19915,
+          "projectDisciplineId": 6602,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19916,
+          "projectDisciplineId": 6602,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19917,
+          "projectDisciplineId": 6602,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3244,
+      "projectId": 3379,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-15T04:39:24",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Hybrid",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59889,
+      "projectId": 3379,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 59890,
+      "projectId": 3379,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3379,
+      "projectDomainId": 5020,
+      "academicDomainId": 236
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4633,
+      "projectId": 3379,
+      "academicSubDomainId": 417
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

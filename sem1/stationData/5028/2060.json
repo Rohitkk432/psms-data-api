@@ -1,0 +1,170 @@
+{
+  "projectId": 2060,
+  "stationId": 5028,
+  "problemBankId": 1159,
+  "problemBankCreatedBy": "seetha.p@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Conversational AI assistant for blue collar workers",
+  "description": "<p>Create a conversational AI experience with Text to Speech and Speech to text capabilities</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2060,
+      "projectDisciplineId": 5553,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5553,
+      "projectId": 2060,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16327,
+          "projectDisciplineId": 5553,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16328,
+          "projectDisciplineId": 5553,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1976,
+      "projectId": 2060,
+      "officeStartTime": "10:30",
+      "officeEndTime": "19:30:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "seetha.p@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-27T10:22:31",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-25T10:40:01",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50367,
+      "projectId": 2060,
+      "skillId": 108
+    },
+    {
+      "projectSkillId": 50368,
+      "projectId": 2060,
+      "skillId": 177
+    },
+    {
+      "projectSkillId": 50369,
+      "projectId": 2060,
+      "skillId": 181
+    },
+    {
+      "projectSkillId": 50370,
+      "projectId": 2060,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 50371,
+      "projectId": 2060,
+      "skillId": 415
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2060,
+      "projectDomainId": 2912,
+      "academicDomainId": 109
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2664,
+      "projectId": 2060,
+      "academicSubDomainId": 205
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

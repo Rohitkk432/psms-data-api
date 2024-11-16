@@ -1,0 +1,186 @@
+{
+  "projectId": 1563,
+  "stationId": 4755,
+  "problemBankId": 844,
+  "problemBankCreatedBy": "swarna.chaudhary@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Differential Privacy",
+  "description": "<p>Description:</p><p>Differential Privacy is a formal mathematical framework for providing user privacy when sharing aggregate statistics about a group of individuals. This is achieved by making small changes to the released aggregate statistics, which cannot be used to infer much about any individual. Differential privacy has been widely adopted by various organizations such as Google, Microsoft, Apple, and US Census Bureau for sharing information.</p><p><br></p><p>Skill sets:</p><p>An ideal student for this project should be highly skilled in probability/statistics and Python, while being passionate about research.</p><p><br></p><p>Expected learning:</p><p>This project provides an opportunity for publication of technical papers (in collaboration with IISc professors) that may help students get admission to top international institutes for higher studies.</p><p><br></p><p>Specific courses required for project execution:</p><p>Programming, Data Science, Data Analytics</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Anshoo Tandon",
+  "mentorEmailId": "anshoo.tandon@datakaveri.org",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1563,
+      "projectDisciplineId": 5004,
+      "projectDisciplineCodes": "AnyA3,AnyA7,A7,A3",
+      "discCodesPerProject": "AnyA3,AnyA7,A7,A3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5004,
+      "projectId": 1563,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,A7,A3",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13618,
+          "projectDisciplineId": 5004,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 13619,
+          "projectDisciplineId": 5004,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13620,
+          "projectDisciplineId": 5004,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13621,
+          "projectDisciplineId": 5004,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 309,
+      "projectId": 1563,
+      "electiveId": 1178,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1490,
+      "projectId": 1563,
+      "officeStartTime": "08:30:39",
+      "officeEndTime": "17:30:01",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "swarna.chaudhary@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-07T09:42:23",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:43:00",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36005,
+      "projectId": 1563,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 36006,
+      "projectId": 1563,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 36007,
+      "projectId": 1563,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 36008,
+      "projectId": 1563,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1563,
+      "projectDomainId": 2242,
+      "academicDomainId": 105
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2050,
+      "projectId": 1563,
+      "academicSubDomainId": 193
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

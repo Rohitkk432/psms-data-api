@@ -1,0 +1,178 @@
+{
+  "projectId": 3146,
+  "stationId": 6247,
+  "problemBankId": 1987,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project No-14 for Computer science",
+  "description": "<p>Project</p><p>14</p><p>Title: Control systems development for lab devices</p><p>Key Responsibilities:</p><p>• To develop control systems for lab devices which include microscopes, motor control, vacuum and</p><p>gas systems.</p><p>• This diverse array of devices will suit a person with a wide range of programming experience in</p><p>hardware and instrumentation control</p><p>Preferred skills:</p><p>• Pursuing BTech or MTech in the field of Computer Science/IT.</p><p>• Demonstrable experience in Python programming language</p><p>• Linux operating system experience</p><p>Value addition for the intern:</p><p>• A good understanding of scientific instruments (e.g. Oscilloscopes, Power supplies, delay generators</p><p>etc.,)</p><p>• Experience with the scientific Python ecosystem</p><p>• Exposure to Git-based workflow (branches, issues, code review, pull requests)</p><p>• Understanding of modern Software Development life cycles.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3146,
+      "projectDisciplineId": 6234,
+      "projectDisciplineCodes": "AnyA7,A7,H103,H112",
+      "discCodesPerProject": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6234,
+      "projectId": 3146,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18728,
+          "projectDisciplineId": 6234,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 18729,
+          "projectDisciplineId": 6234,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18730,
+          "projectDisciplineId": 6234,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18731,
+          "projectDisciplineId": 6234,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3016,
+      "projectId": 3146,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "For TIFR we will pay a scholarship of 20k for our students (CGPA 6 and above). ",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T01:57:02",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-15T04:30:53",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57704,
+      "projectId": 3146,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 57705,
+      "projectId": 3146,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3146,
+      "projectDomainId": 4554,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4171,
+      "projectId": 3146,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 4172,
+      "projectId": 3146,
+      "academicSubDomainId": 95
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

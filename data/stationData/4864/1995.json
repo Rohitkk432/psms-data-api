@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "NA",
-  "description": "<p>NA</p>",
+  "title": "WILP-ADAS Lab",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">WILP-ADAS Lab</span></p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1995,
-      "projectDisciplineId": 5032,
+      "projectDisciplineId": 6681,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,12 +31,12 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5032,
+      "projectDisciplineId": 6681,
       "projectId": 1995,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
+      "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 2,
       "totalRequirement": 2,
@@ -67,7 +67,7 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 20000,
+      "ugstipend": 25000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -96,11 +96,13 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-22T05:35:30",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T05:05:09",
+      "modifiedDate": "2024-11-16T15:21:36",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

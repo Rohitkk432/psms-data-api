@@ -10,7 +10,7 @@
   "description": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Skill sets: manage website operations, SEO</span>, SEM, Google ads</p><p><br></p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,33 +18,40 @@
   "discViewModels": [
     {
       "projectId": 2076,
-      "projectDisciplineId": 5374,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectDisciplineId": 6469,
+      "projectDisciplineCodes": "AnyA7,A7,H103,H112",
+      "discCodesPerProject": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5374,
+      "projectDisciplineId": 6469,
       "projectId": 2076,
       "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 0,
-      "cgpamin": 8,
+      "higherDegree": 1,
+      "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 0,
-      "totalRequirement": 0,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -53,8 +60,37 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19410,
+          "projectDisciplineId": 6469,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19411,
+          "projectDisciplineId": 6469,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19412,
+          "projectDisciplineId": 6469,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19413,
+          "projectDisciplineId": 6469,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -64,10 +100,10 @@
     {
       "projectFacilityId": 1991,
       "projectId": 2076,
-      "officeStartTime": "10:00:00",
+      "officeStartTime": "09:00:00",
       "officeEndTime": "18:00:00",
       "weekHolidays": "Saturday,Sunday",
-      "ugstipend": 25000,
+      "ugstipend": 45000,
       "pgstipend": 0,
       "scholarship": 0,
       "currency": "INR",
@@ -96,23 +132,25 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-29T09:30:03",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-20T05:34:43",
+      "modifiedDate": "2024-11-12T08:06:14",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50412,
+      "projectSkillId": 59670,
       "projectId": 2076,
-      "skillId": 132
+      "skillId": 385
     },
     {
-      "projectSkillId": 50413,
+      "projectSkillId": 59671,
       "projectId": 2076,
-      "skillId": 141
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
@@ -125,6 +163,11 @@
       "projectId": 2076,
       "projectDomainId": 2933,
       "academicDomainId": 22
+    },
+    {
+      "projectId": 2076,
+      "projectDomainId": 4933,
+      "academicDomainId": 5
     }
   ],
   "projectSubjectAreaSpecifics": [],

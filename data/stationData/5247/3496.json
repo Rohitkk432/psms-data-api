@@ -1,0 +1,110 @@
+{
+  "projectId": 3496,
+  "stationId": 5247,
+  "problemBankId": 2261,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": " Athena App Certificates Signing & Auto-Rotation, Performance debugging, Cluster anomaly detection, Ephemeral Rigel Support for EC2 backups, Simplify control plane deployment and cluster claim on a K8S cluster NAS",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">Currently Athena Apps are signed using helios private key.This certificate is issued by a 3rd party (Godaddy). </span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">For signing in-house developed marketplace apps, current signing process, is unsafe because the same private key and certificate are used for Helios HTTPS server.</span></p><p><span style=\"color: rgb(0, 0, 0);\">For signing 3rd party developed apps we are embedding the same helios private key in “Devportal” service binary, and this should be avoided.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Perf debugging tool - given multiple perf traces captured for a workload, identify differences (eg. different number of ops/OIO, latencies etc) which can aid debugging.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Cluster anomaly detection - given some metrics, identify when some major change occurred in them and try to map to events like addition of protection jobs or change in DCR/node removal/gflags being set</span></p><p><span style=\"color: rgb(0, 0, 0);\">Manage rigel deployment from magneto on-demand basis</span></p><p><span style=\"color: rgb(0, 0, 0);\">Simplify cluster claim. Make it seamless to work 100% of the time.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Simplify credential management for cluster deployment and claim. Currently, the AWS credentials need to be manually updated in yaml files and they expire every 8-12 hours with the process needing a repeat again. We need to automate credential management so that the developer is only concerned with working with code and not the infra. Another benefit of this project would be collaborative dev and test where multiple developers can share a setup and push their images.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Many FIs are generated during NAS restore because of lack of privilege of the configured recovery user. This feature allows the customer admin to run a test backup and recovery workflow. Test run can generate a small data set, back it up, run recovery, do a cleanup and provide a report. Based on the time available, we could improve the test to use each of the Ip address of the source provided which further catches user and configuration errors.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Currently windows agents has no traceability and instrumentation support. Helps in improving debuggability and instrumentation of windows agent, plus we can integrate to provide more accurate stats for the agents</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3496,
+      "projectDisciplineId": 6783,
+      "projectDisciplineCodes": "A7",
+      "discCodesPerProject": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6783,
+      "projectId": 3496,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 7,
+      "totalRequirement": 7,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20590,
+          "projectDisciplineId": 6783,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [],
+  "projectSkill": [
+    {
+      "projectSkillId": 60268,
+      "projectId": 3496,
+      "skillId": 101
+    },
+    {
+      "projectSkillId": 60269,
+      "projectId": 3496,
+      "skillId": 462
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3496,
+      "projectDomainId": 5235,
+      "academicDomainId": 105
+    },
+    {
+      "projectId": 3496,
+      "projectDomainId": 5236,
+      "academicDomainId": 304
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4829,
+      "projectId": 3496,
+      "academicSubDomainId": 528
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

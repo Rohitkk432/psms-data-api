@@ -1,0 +1,199 @@
+{
+  "projectId": 3404,
+  "stationId": 5017,
+  "problemBankId": 2189,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title:Software Intern (Search and Recommendations Platform and Services) 2) Title: Software Intern (Search and Recommendations Data Engineering)",
+  "description": "<p>Title:Software Intern (Search and Recommendations Platform and Services)</p><p>Description: Intern will focus on building/enhancing features to tools and frameworks</p><p>which improve the velocity of enabling better Search and Recommendations</p><p>experiences on Wayfair website, mobile app and email channels</p><p>Skill sets: Computer Science, Programming in any popular language (Java/python</p><p>preferred), Git, Linux/Unix based operating system, SQL</p><p>Expected learning: Interns will get hands-on experience in working on real world</p><p>projects which incorporate Machine Learning models and solve problems for</p><p>engineers, data scientists and analytics that apply these models in S&amp;R space. They</p><p>Title: Software Intern (Search and Recommendations Data Engineering)</p><p>Description: Build and maintain robust data pipelines that are used by data</p><p>science and analytics teams in the search and recommendations organization,</p><p>enabling the teams to build, experiment and iterate business and</p><p>recommendation logic at speed, scale and quality</p><p>Skill sets: Computer science, Big Data systems- Spark/Scala, MPP- BigQuery,</p><p>SQL, programming in popular language (python preferred),Git, Linux/Unix based</p><p>operating system.</p><p>Expected learning: Interns will have hands-on experience by working on real</p><p>world problems to build production systems at PB scale using GCP services and</p><p>other software tools (for CI/CD and Infra) that cater to millions of wayfairs</p><p>customers. They will learn on how the S&amp;R space works within an</p><p>e-commerce industry at depth and all about software development lifecycle</p><p>using agile methodology.</p><p>Specific courses required for project execution: Computer Science</p><p>Fundamentals, Big Data, Object Oriented Design, Databases.</p><p>will also understand the concepts behind building/maintaining systems which scale to</p><p>millions of requests per minute</p><p>Specific courses required for project execution: Computer Science Fundamentals,</p><p>Object Oriented Design, Operating Systems, Databases</p><p>Some Machine Learning course (not required)</p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3404,
+      "projectDisciplineId": 6642,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A3,A8",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6642,
+      "projectId": 3404,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20077,
+          "projectDisciplineId": 6642,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 20078,
+          "projectDisciplineId": 6642,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20079,
+          "projectDisciplineId": 6642,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 20080,
+          "projectDisciplineId": 6642,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 20081,
+          "projectDisciplineId": 6642,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20082,
+          "projectDisciplineId": 6642,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20083,
+          "projectDisciplineId": 6642,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20084,
+          "projectDisciplineId": 6642,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3269,
+      "projectId": 3404,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-15T14:56:47",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59957,
+      "projectId": 3404,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 59958,
+      "projectId": 3404,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3404,
+      "projectDomainId": 5047,
+      "academicDomainId": 300
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4659,
+      "projectId": 3404,
+      "academicSubDomainId": 523
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

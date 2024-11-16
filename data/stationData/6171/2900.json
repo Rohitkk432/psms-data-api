@@ -1,0 +1,197 @@
+{
+  "projectId": 2900,
+  "stationId": 6171,
+  "problemBankId": 1794,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Cloud/Backend",
+  "description": "<p>About this opportunity</p><p>We are seeking a motivated individual to join our team as an junior level Backend and Cloud SW engineer to join our</p><p>development team in India and take part in creating new cutting-edge technologies, cloud-based services for iTero systems.</p><p>In this role, you will...</p><p>• Be part of a team of SW engineers working on a large scale, distributed, cloud-based services.</p><p>• Work closely and willingly with your team members, and with members in other teams.</p><p>• Ability to combine between technological and personal skills.</p><p>In this role, you’ll need ...</p><p>• Bachelor’s degree in computer science, Information Technology, or a related field, or equivalent educational</p><p>experience.</p><p>• Strong programming knowledge in C# or any other OOP language</p><p>• Good understanding of Data structures and Algorithms.</p><p>• Knowledge of databases and cloud platforms is desired.</p><p>• Strong problem-solving skills, detail-oriented and ability to work in an agile environment are essential</p><p>• Has passion to learn new technologies and new business.</p><p>• Effective communication skills, adaptability and positive attitude</p><p>• A foundational understanding of Azure DevOps, security, compliance, and networking principles.</p><p>• Knowledge of CI/CD methodologies.</p><p>• Strong analytical and problem-solving skills.</p><p>• Excellent communication and teamwork capabilities.</p><p>• A proactive learning mindset and adaptability in a dynamic environment.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2900,
+      "projectDisciplineId": 5987,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5987,
+      "projectId": 2900,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17622,
+          "projectDisciplineId": 5987,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17623,
+          "projectDisciplineId": 5987,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2810,
+      "projectId": 2900,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-09-27T06:44:23",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55815,
+      "projectId": 2900,
+      "skillId": 77
+    },
+    {
+      "projectSkillId": 55816,
+      "projectId": 2900,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 55817,
+      "projectId": 2900,
+      "skillId": 104
+    },
+    {
+      "projectSkillId": 55818,
+      "projectId": 2900,
+      "skillId": 208
+    },
+    {
+      "projectSkillId": 55819,
+      "projectId": 2900,
+      "skillId": 86
+    },
+    {
+      "projectSkillId": 55820,
+      "projectId": 2900,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2900,
+      "projectDomainId": 4199,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2900,
+      "projectDomainId": 4200,
+      "academicDomainId": 124
+    },
+    {
+      "projectId": 2900,
+      "projectDomainId": 4201,
+      "academicDomainId": 160
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3857,
+      "projectId": 2900,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 3858,
+      "projectId": 2900,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 3859,
+      "projectId": 2900,
+      "academicSubDomainId": 138
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

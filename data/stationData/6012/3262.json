@@ -1,0 +1,156 @@
+{
+  "projectId": 3262,
+  "stationId": 6012,
+  "problemBankId": 2078,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "PSDM Export Application",
+  "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Siemens has been actively developing a GEIA-STD-0007C solution by extending the Teamcenter data model and producing an efficient user interface to enter Logistics Product Data (LPD). All Aerospace and Defense customers use existing disconnected LPD tools.&nbsp; Siemens is completing work on the import application, but to complete the solution, customers require the ability to export LPD data to their suppliers and customers in support of program/project requirements and Contract Deliverables.&nbsp; For customers to migrate from their existing disconnected tools to go with the Siemens LPD solution an export application is required. The Export Application will take the GEIA-STD-0007C data model elements from Teamcenter and generate GEIA-STD-0007C XML export files.&nbsp; The Export Application will enable Siemens’s customers to&nbsp; transfer GEIA-0007C data to their customers and suppliers</span></p><p><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3262,
+      "projectDisciplineId": 6431,
+      "projectDisciplineCodes": "A7,AA",
+      "discCodesPerProject": "A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6431,
+      "projectId": 3262,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 1,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19369,
+          "projectDisciplineId": 6431,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19370,
+          "projectDisciplineId": 6431,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3184,
+      "projectId": 3262,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-11T08:09:01",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-12T09:05:05",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59543,
+      "projectId": 3262,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 59544,
+      "projectId": 3262,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3262,
+      "projectDomainId": 4887,
+      "academicDomainId": 86
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4519,
+      "projectId": 3262,
+      "academicSubDomainId": 192
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

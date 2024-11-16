@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "New product for CRED",
-  "description": "<p>Backend engineering</p>",
+  "title": "Title:Lending intern  Description: Risk & Credit",
+  "description": "<p>Title:Lending intern</p><p>Description: Risk &amp; Credit</p><p>CRED is an exclusive community for India’s most trustworthy and creditworthy</p><p>individuals, where the members are rewarded for good financial behavior. CRED</p><p>was born out of a need to bring back the focus on a long lost virtue, one of trust, the</p><p>idea being to create a community centered around this virtue. a community that</p><p>constantly strives to become more virtuous in this regard till they finally scale their</p><p>behavior to create a utopia where being trustworthy is the norm and not the</p><p>exception.We invite you to join lending team as an intern and implement and monitor</p><p>monitor risk strategies, cutting across credit underwriting, limit assessment, pricing,</p><p>line management, fraud and collections</p><p>Skill sets: mysql,r ,python,tablaeu</p><p>Traits expectation: Curiosity, ability to learn fast, ability to think from first principles</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,38 +18,33 @@
   "discViewModels": [
     {
       "projectId": 2518,
-      "projectDisciplineId": 5419,
-      "projectDisciplineCodes": "A7,AnyA7",
-      "discCodesPerProject": "A7,AnyA7",
-      "graduationTypeIds": [
-        1
-      ],
+      "projectDisciplineId": 6513,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": false,
+      "anyEither": true,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5419,
+      "projectDisciplineId": 6513,
       "projectId": 2518,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 7,
       "cgpamax": 10,
-      "freshRequirement": 4,
-      "totalRequirement": 4,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A7,AnyA7",
-      "graduationTypeIds": [
-        1,
-        0
-      ],
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -58,49 +53,21 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 0,
-      "disciplineDetails": [
-        {
-          "projectDisciplineDetailId": 15646,
-          "projectDisciplineId": 5419,
-          "graduationTypeId": 1,
-          "disciplineId": 12,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 15647,
-          "projectDisciplineId": 5419,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
-        }
-      ],
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
   ],
-  "projectElective": [
-    {
-      "projectElectiveId": 1318,
-      "projectId": 2518,
-      "electiveId": 1090,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1319,
-      "projectId": 2518,
-      "electiveId": 39,
-      "grade": null
-    }
-  ],
+  "projectElective": [],
   "projectFacility": [
     {
       "projectFacilityId": 2430,
       "projectId": 2518,
-      "officeStartTime": "00:00:00",
-      "officeEndTime": "00:00:00",
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 100000,
+      "ugstipend": 60000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -113,7 +80,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 0,
-      "others": "Free 15 days accommodation and one-time travel to and fro reimbursement",
+      "others": "-Travel reimbursements (One time to and fro)\n-Accomodation for 15 days",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -129,11 +96,13 @@
       "createdBy": "monali.mavani@pilani.bits-pilani.ac.in",
       "createdDate": "2024-06-14T12:29:25",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-20T12:01:13",
+      "modifiedDate": "2024-11-13T09:35:55",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
@@ -156,6 +125,16 @@
       "projectSkillId": 51449,
       "projectId": 2518,
       "skillId": 44
+    },
+    {
+      "projectSkillId": 59706,
+      "projectId": 2518,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 59707,
+      "projectId": 2518,
+      "skillId": 225
     }
   ],
   "projectAcademicDomain": [
@@ -178,6 +157,16 @@
       "projectId": 2518,
       "projectDomainId": 3689,
       "academicDomainId": 86
+    },
+    {
+      "projectId": 2518,
+      "projectDomainId": 4946,
+      "academicDomainId": 127
+    },
+    {
+      "projectId": 2518,
+      "projectDomainId": 4947,
+      "academicDomainId": 92
     }
   ],
   "projectSubjectAreaSpecifics": [],

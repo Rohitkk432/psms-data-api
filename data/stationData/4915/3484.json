@@ -1,0 +1,204 @@
+{
+  "projectId": 3484,
+  "stationId": 4915,
+  "problemBankId": 2251,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Full Stack Engineer (AI Domain)",
+  "description": "<p>We are looking for skilled Full-Stack Software Developers to</p><p>build dynamic applications that enable seamless interaction</p><p>with AI outputs in a robust, scalable environment. In this role,</p><p>you will:</p><p>• Design and implement backend services with Python, Django,</p><p>and PostgreSQL, following industry-standard system design</p><p>practices.</p><p><br></p><p>• Deploy and scale AI models on AWS using Docker, with auto-</p><p>scaling setups for optimised efficiency and reliability.</p><p><br></p><p>• Develop interactive frontends for AI data consumption using</p><p>React, TypeScript, and Next.js.</p><p>• Deploy and optimize deep learning models across platforms,</p><p>including cloud, edge, and IoT, ensuring high performance on</p><p>the latest edge devices.</p><p>Key Technologies: React, JavaScript, TypeScript, Python,</p><p>Django, PyTorch, Next.js, Linux, AWS, Docker, PostgreSQL</p><p>Note: Refer hyperlinks for product description. (Or visit our</p><p>website www.qure.ai to explore more) </p><p>Good experience in any programming language and strong</p><p>analytical skills. Having a good foundation in mathematics is a</p><p>plus.Communication, presentation and team working skills At least two courses in core computer sciences (DSA, OOPs,</p><p>DBMS, Operating Systems, Computer Architecture) and at least</p><p>one course with grade higher than B.Should have strong interest in developing software.1. Full-Stack Development: Hands-on experience with modern</p><p>front-end and backend development using React, TypeScript,</p><p>Python, and Django.</p><p>2. Cloud and DevOps: Cloud deployment with AWS and Docker,</p><p>including CI/CD, scaling, and monitoring.</p><p>3. AI Model Deployment: Techniques for deploying and</p><p>optimizing AI models across cloud, edge, and IoT platforms.</p><p>4. Hybrid Compute: Experience balancing resources across</p><p>cloud and edge environments.</p><p>5. Healthcare AI: Exposure to large-scale healthcare data,</p><p>emphasizing reliability, security, data privacy and compliance.</p><p>6. Collaboration in AI Engineering: Working alongside data</p><p>scientists to bring AI models to production.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3484,
+      "projectDisciplineId": 6769,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A8,A3,A7,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA7,A8,A3,A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6769,
+      "projectId": 3484,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 10,
+      "totalRequirement": 10,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A8,A3,A7,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20524,
+          "projectDisciplineId": 6769,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 20525,
+          "projectDisciplineId": 6769,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 20526,
+          "projectDisciplineId": 6769,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 20527,
+          "projectDisciplineId": 6769,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20528,
+          "projectDisciplineId": 6769,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20529,
+          "projectDisciplineId": 6769,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20530,
+          "projectDisciplineId": 6769,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20531,
+          "projectDisciplineId": 6769,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3347,
+      "projectId": 3484,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 125000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-16T11:54:42",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60242,
+      "projectId": 3484,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 60243,
+      "projectId": 3484,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3484,
+      "projectDomainId": 5215,
+      "academicDomainId": 78
+    },
+    {
+      "projectId": 3484,
+      "projectDomainId": 5216,
+      "academicDomainId": 65
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4815,
+      "projectId": 3484,
+      "academicSubDomainId": 156
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,161 @@
+{
+  "projectId": 3277,
+  "stationId": 5167,
+  "problemBankId": 2089,
+  "problemBankCreatedBy": "ravi.reosekar@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Lean Mfg., Project Timeline management on MS Projects, Production and Quality Systems Practices and Cost reduction-VAVE, to assit and track the NPD matrix, Production Planning, and scheduling projects",
+  "description": "<p>Projects related to </p><p><span style=\"color: rgb(34, 34, 34);\">-Lean Manufacturing</span></p><p><span style=\"color: rgb(34, 34, 34);\">-Project Timeline management on MS Projects, </span></p><p><span style=\"color: rgb(34, 34, 34);\">-Production and Quality Systems Practices and Cost reduction-VAVE, </span></p><p><span style=\"color: rgb(34, 34, 34);\">-To assist and track the NPD matrix, </span></p><p><span style=\"color: rgb(34, 34, 34);\">-Production Planning, and scheduling projects</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Gopal Dalvi",
+  "mentorEmailId": "gkdalvi@divgi-tts.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3277,
+      "projectDisciplineId": 6387,
+      "projectDisciplineCodes": "A4,AB",
+      "discCodesPerProject": "A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6387,
+      "projectId": 3277,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 2,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19258,
+          "projectDisciplineId": 6387,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19259,
+          "projectDisciplineId": 6387,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3143,
+      "projectId": 3277,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15500,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 1,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 1,
+      "medical": 2,
+      "travels": 2,
+      "others": "Conveyance to office- Yes, on single path from Pune city, Singhgad road",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "ravi.reosekar@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-11-10T12:02:42",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-13T10:11:28",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59380,
+      "projectId": 3277,
+      "skillId": 425
+    },
+    {
+      "projectSkillId": 59381,
+      "projectId": 3277,
+      "skillId": 126
+    },
+    {
+      "projectSkillId": 59382,
+      "projectId": 3277,
+      "skillId": 319
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3277,
+      "projectDomainId": 4835,
+      "academicDomainId": 187
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4463,
+      "projectId": 3277,
+      "academicSubDomainId": 312
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

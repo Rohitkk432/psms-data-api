@@ -1,0 +1,177 @@
+{
+  "projectId": 2899,
+  "stationId": 6170,
+  "problemBankId": 1793,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Web Developer",
+  "description": "<p>About this opportunity</p><p>We are seeking a motivated individual to join our team as an Entry-Level developer who is willing to learn Angular and Dot</p><p>net core. Prior experience is not required, making this an excellent opportunity for those looking to start their career in</p><p>supportive and growth-oriented environment.</p><p>In this role, you will...</p><p>• Develop and maintain web applications using Angular and Dot net</p><p>• Design of new services and integrate with different other modules.</p><p>• Be responsible for E2E implementation of new features.</p><p>• Collaborate with teams from across locations</p><p>• Work in a fast-paced agile environment where the product development and business requirements may change</p><p>constantly.</p><p>• Create innovative solutions to web design issues to help make the website more visually appealing and enhance</p><p>usability.</p><p>In this role, you’ll need ...</p><p>• Bachelor’s degree in computer science, Information Technology, or a related field, or equivalent educational</p><p>experience.</p><p>• Foundational understanding of OOPS, Data Structures, and other programming concepts.</p><p>• Knowledge/Experience of any programming languages like Dot Net, Java, Python, JavaScript and etc.</p><p>• Strong analytical and problem-solving skills.</p><p>• Excellent communication and teamwork capabilities.</p><p>• A proactive learning mindset and adaptability in a dynamic environment.</p><p>• Preferred (but not required):</p><p>• Knowledge/Experience on AWS</p><p>• Knowledge/Experience on CI/CD</p><p>• Knowledge/Experience on Dockers/Kubernetes</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2899,
+      "projectDisciplineId": 6474,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6474,
+      "projectId": 2899,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19435,
+          "projectDisciplineId": 6474,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19436,
+          "projectDisciplineId": 6474,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2809,
+      "projectId": 2899,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-09-27T06:38:51",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-12T08:31:58",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55811,
+      "projectId": 2899,
+      "skillId": 211
+    },
+    {
+      "projectSkillId": 55812,
+      "projectId": 2899,
+      "skillId": 210
+    },
+    {
+      "projectSkillId": 55813,
+      "projectId": 2899,
+      "skillId": 414
+    },
+    {
+      "projectSkillId": 55814,
+      "projectId": 2899,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2899,
+      "projectDomainId": 4197,
+      "academicDomainId": 78
+    },
+    {
+      "projectId": 2899,
+      "projectDomainId": 4198,
+      "academicDomainId": 273
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3855,
+      "projectId": 2899,
+      "academicSubDomainId": 156
+    },
+    {
+      "projectSubDomainId": 3856,
+      "projectId": 2899,
+      "academicSubDomainId": 474
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

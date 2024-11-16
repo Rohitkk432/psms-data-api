@@ -1,0 +1,157 @@
+{
+  "projectId": 3257,
+  "stationId": 6012,
+  "problemBankId": 2078,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "1.PSDM Import Application ;",
+  "description": "<p class=\"ql-align-justify\">1.<span style=\"color: rgb(0, 0, 0);\">Siemens has created a Product Support Data Management solution compliant with the GEIA-0007C Standard for managing Logistics Product Data (LPD). Currently, all Aerospace and Defence customers utilize separate LPD tools. To encourage these customers to transition to the Siemens LPD solution, an import application is necessary. This application will take the XML GEIA-0007C export file and import that data into Teamcenter</span></p><p><br></p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3257,
+      "projectDisciplineId": 6488,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6488,
+      "projectId": 3257,
+      "degreeTypeId": null,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 1,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3176,
+      "projectId": 3257,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-11T05:20:09",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59122,
+      "projectId": 3257,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 59123,
+      "projectId": 3257,
+      "skillId": 105
+    },
+    {
+      "projectSkillId": 59124,
+      "projectId": 3257,
+      "skillId": 223
+    },
+    {
+      "projectSkillId": 59125,
+      "projectId": 3257,
+      "skillId": 213
+    },
+    {
+      "projectSkillId": 59126,
+      "projectId": 3257,
+      "skillId": 456
+    },
+    {
+      "projectSkillId": 59127,
+      "projectId": 3257,
+      "skillId": 462
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3257,
+      "projectDomainId": 4797,
+      "academicDomainId": 185
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4426,
+      "projectId": 3257,
+      "academicSubDomainId": 410
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

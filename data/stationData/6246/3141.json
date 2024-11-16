@@ -1,0 +1,200 @@
+{
+  "projectId": 3141,
+  "stationId": 6246,
+  "problemBankId": 1986,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Development of a STM32 based acoustic monitoring system ",
+  "description": "<p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: </strong><span style=\"color: rgb(0, 0, 0);\">Purely inertial solutions like the current Ayushman Cowfit IoT device which uses a combination of three sensors - accelerometer, gyroscope, and magnetometer have proved to be quite effective but they fall short in a few areas - mainly accurate distinction between rumination and idle in cattle and behaviour detection in buffaloes who do not exhibit the usual high energy movements associated with heat events. The proposed solution aims to solve this using acoustic monitoring instead - buffaloes are known to “bellow” strongly which can be easily picked up by a microphone and the high frequency nature of acoustic sensors versus an inertial sensor helps better detect the rhythmic low energy nature of rumination. The project will involve developing hardware and firmware for a STM32 based IoT device which can record and edge compute relevant features from acoustic data.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"color: rgb(0, 0, 0);\">Familiarity with Embedded Systems and Microcontrollers</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: </strong><span style=\"color: rgb(0, 0, 0);\">Fast Learner, Team Player</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"color: rgb(0, 0, 0);\">A deeper understanding of embedded systems and the product development cycle </span><strong style=\"color: rgb(0, 0, 0);\">&nbsp;</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"color: rgb(0, 0, 0);\">Digital Design, Microprocessors Programming and Interfacing</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Himadri Bhakta",
+  "mentorEmailId": "himadribhakta@gmail.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3141,
+      "projectDisciplineId": 6229,
+      "projectDisciplineCodes": "A7,A3,A8,AA",
+      "discCodesPerProject": "A7,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6229,
+      "projectId": 3141,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18712,
+          "projectDisciplineId": 6229,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18713,
+          "projectDisciplineId": 6229,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18714,
+          "projectDisciplineId": 6229,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18715,
+          "projectDisciplineId": 6229,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3011,
+      "projectId": 3141,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-07T17:34:17",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57688,
+      "projectId": 3141,
+      "skillId": 152
+    },
+    {
+      "projectSkillId": 57689,
+      "projectId": 3141,
+      "skillId": 437
+    },
+    {
+      "projectSkillId": 57690,
+      "projectId": 3141,
+      "skillId": 439
+    },
+    {
+      "projectSkillId": 57691,
+      "projectId": 3141,
+      "skillId": 430
+    },
+    {
+      "projectSkillId": 57692,
+      "projectId": 3141,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 57693,
+      "projectId": 3141,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3141,
+      "projectDomainId": 4547,
+      "academicDomainId": 188
+    },
+    {
+      "projectId": 3141,
+      "projectDomainId": 4548,
+      "academicDomainId": 59
+    },
+    {
+      "projectId": 3141,
+      "projectDomainId": 4549,
+      "academicDomainId": 259
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4166,
+      "projectId": 3141,
+      "academicSubDomainId": 458
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

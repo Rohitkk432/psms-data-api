@@ -1,0 +1,342 @@
+{
+  "projectId": 3163,
+  "stationId": 5087,
+  "problemBankId": 1996,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Physical Design Intern",
+  "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Work on block level design from RTL-to-GDSII and drive synthesis, floor-planning, place&amp;route, timing closure and signoff. Interns are expected to work extensively with micro-architects to perform feasibility studies and explore performance, power &amp; area tradeoffs for design closure. Work also involves developing physical design methodologies and customise recipes across various implementation steps to optimise PPA. Interns will need to work with multi-functional engineering team to implement and validate physical design by running signoff flows such as Timing, Power, EM/IR, PDV</span></p><p><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Thambi Prashank",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3163,
+      "projectDisciplineId": 6494,
+      "projectDisciplineCodes": "AA,AnyAA",
+      "discCodesPerProject": "AA,AnyAA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6494,
+      "projectId": 3163,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AA,AnyAA",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 2,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19537,
+          "projectDisciplineId": 6494,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19538,
+          "projectDisciplineId": 6494,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3032,
+      "projectId": 3163,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 70000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T05:57:39",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-12T09:28:12",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57793,
+      "projectId": 3163,
+      "skillId": 456
+    },
+    {
+      "projectSkillId": 57794,
+      "projectId": 3163,
+      "skillId": 129
+    },
+    {
+      "projectSkillId": 57795,
+      "projectId": 3163,
+      "skillId": 134
+    },
+    {
+      "projectSkillId": 57796,
+      "projectId": 3163,
+      "skillId": 407
+    },
+    {
+      "projectSkillId": 57797,
+      "projectId": 3163,
+      "skillId": 354
+    },
+    {
+      "projectSkillId": 57798,
+      "projectId": 3163,
+      "skillId": 97
+    },
+    {
+      "projectSkillId": 57799,
+      "projectId": 3163,
+      "skillId": 44
+    },
+    {
+      "projectSkillId": 57800,
+      "projectId": 3163,
+      "skillId": 245
+    },
+    {
+      "projectSkillId": 57801,
+      "projectId": 3163,
+      "skillId": 290
+    },
+    {
+      "projectSkillId": 57802,
+      "projectId": 3163,
+      "skillId": 131
+    },
+    {
+      "projectSkillId": 57803,
+      "projectId": 3163,
+      "skillId": 83
+    },
+    {
+      "projectSkillId": 57804,
+      "projectId": 3163,
+      "skillId": 120
+    },
+    {
+      "projectSkillId": 57805,
+      "projectId": 3163,
+      "skillId": 406
+    },
+    {
+      "projectSkillId": 57806,
+      "projectId": 3163,
+      "skillId": 331
+    },
+    {
+      "projectSkillId": 57807,
+      "projectId": 3163,
+      "skillId": 45
+    },
+    {
+      "projectSkillId": 57808,
+      "projectId": 3163,
+      "skillId": 88
+    },
+    {
+      "projectSkillId": 57809,
+      "projectId": 3163,
+      "skillId": 65
+    },
+    {
+      "projectSkillId": 57810,
+      "projectId": 3163,
+      "skillId": 114
+    },
+    {
+      "projectSkillId": 57811,
+      "projectId": 3163,
+      "skillId": 141
+    },
+    {
+      "projectSkillId": 57812,
+      "projectId": 3163,
+      "skillId": 122
+    },
+    {
+      "projectSkillId": 57813,
+      "projectId": 3163,
+      "skillId": 436
+    },
+    {
+      "projectSkillId": 57814,
+      "projectId": 3163,
+      "skillId": 457
+    },
+    {
+      "projectSkillId": 57815,
+      "projectId": 3163,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 57816,
+      "projectId": 3163,
+      "skillId": 69
+    },
+    {
+      "projectSkillId": 57817,
+      "projectId": 3163,
+      "skillId": 332
+    },
+    {
+      "projectSkillId": 57818,
+      "projectId": 3163,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 57819,
+      "projectId": 3163,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 57820,
+      "projectId": 3163,
+      "skillId": 438
+    },
+    {
+      "projectSkillId": 57821,
+      "projectId": 3163,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 57822,
+      "projectId": 3163,
+      "skillId": 43
+    },
+    {
+      "projectSkillId": 57823,
+      "projectId": 3163,
+      "skillId": 238
+    },
+    {
+      "projectSkillId": 57824,
+      "projectId": 3163,
+      "skillId": 334
+    },
+    {
+      "projectSkillId": 57825,
+      "projectId": 3163,
+      "skillId": 323
+    },
+    {
+      "projectSkillId": 57826,
+      "projectId": 3163,
+      "skillId": 445
+    },
+    {
+      "projectSkillId": 57827,
+      "projectId": 3163,
+      "skillId": 319
+    },
+    {
+      "projectSkillId": 57828,
+      "projectId": 3163,
+      "skillId": 106
+    },
+    {
+      "projectSkillId": 57829,
+      "projectId": 3163,
+      "skillId": 401
+    },
+    {
+      "projectSkillId": 57830,
+      "projectId": 3163,
+      "skillId": 167
+    },
+    {
+      "projectSkillId": 57831,
+      "projectId": 3163,
+      "skillId": 117
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3163,
+      "projectDomainId": 4580,
+      "academicDomainId": 28
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4198,
+      "projectId": 3163,
+      "academicSubDomainId": 113
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

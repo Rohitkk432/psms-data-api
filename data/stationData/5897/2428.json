@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "details awaited",
-  "description": "<p>--</p>",
+  "title": "UBS GCRG, Mumbai/Pune",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">UBS GCRG, Mumbai/Pune</span></p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2428,
-      "projectDisciplineId": 4895,
+      "projectDisciplineId": 6582,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,27 +31,27 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4895,
+      "projectDisciplineId": 6582,
       "projectId": 2428,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 7,
+      "cgpamin": 0,
       "cgpamax": 10,
       "freshRequirement": 0,
-      "totalRequirement": 2,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
+      "continuingStudent": 1,
       "disciplineCodes": "Any",
       "graduationTypeIds": [],
       "degree": "Both",
-      "continuingStudentCount": 0,
+      "continuingStudentCount": 1,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 2,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 1,
       "disciplineDetails": [],
@@ -96,38 +96,65 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-07T09:26:30",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-10T13:43:30",
+      "modifiedDate": "2024-11-14T11:57:21",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
     {
-      "projectSkillId": 51233,
+      "projectSkillId": 59833,
       "projectId": 2428,
-      "skillId": 431
+      "skillId": 135
     },
     {
-      "projectSkillId": 51234,
+      "projectSkillId": 59834,
       "projectId": 2428,
-      "skillId": 436
+      "skillId": 399
+    },
+    {
+      "projectSkillId": 59835,
+      "projectId": 2428,
+      "skillId": 100
+    },
+    {
+      "projectSkillId": 59836,
+      "projectId": 2428,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 59837,
+      "projectId": 2428,
+      "skillId": 42
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 2428,
-      "projectDomainId": 3429,
-      "academicDomainId": 81
+      "projectDomainId": 4989,
+      "academicDomainId": 183
+    },
+    {
+      "projectId": 2428,
+      "projectDomainId": 4990,
+      "academicDomainId": 23
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 3160,
+      "projectSubDomainId": 4598,
       "projectId": 2428,
-      "academicSubDomainId": 162
+      "academicSubDomainId": 159
+    },
+    {
+      "projectSubDomainId": 4599,
+      "projectId": 2428,
+      "academicSubDomainId": 310
     }
   ],
   "projectSubjectArea": [],

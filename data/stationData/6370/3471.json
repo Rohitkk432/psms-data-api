@@ -1,0 +1,142 @@
+{
+  "projectId": 3471,
+  "stationId": 6370,
+  "problemBankId": 2242,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "AI Evaluator – Automated Handwriting Recognition and Evaluation System",
+  "description": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong></p><p><br></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">he AI Evaluator project focuses on developing an AI-powered system that can automatically evaluate handwritten student assignments. By using cutting-edge technologies like Computer Vision, Optical Character Recognition (OCR), and Large Language Models (LLMs), the system will recognize handwriting, analyze the content, and provide instant evaluations. The system will assess grammar, spelling, structure, and content accuracy while generating detailed feedback for students. Teachers will also benefit from a streamlined grading process, allowing them to focus more on teaching. The AI Evaluator will learn from evaluation patterns, improving accuracy with each assessment.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets:</strong></p><p class=\"ql-align-justify\"><br></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Computer Vision (OpenCV, YOLO, Faster R-CNN)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Optical Character Recognition (OCR)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Large Language Models (LLMs) for Content Evaluation</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Python, TensorFlow, PyTorch</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Natural Language Understanding (NLU)</span></li><li><br></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Cloud AI Deployment (AWS, Azure, GCP)</span></li></ul><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Traits expectation:&nbsp;</strong></p><p class=\"ql-align-justify\"><br></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Strong attention to detail</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Ability to develop and fine-tune AI models for handwriting recognition</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Knowledge of educational evaluation processes</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Passion for solving real-world problems using AI</span></li><li><br></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Collaborative mindset and teamwork skills</span></li></ul><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning:</strong></p><p class=\"ql-align-justify\"><br></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hands-on experience with AI-driven handwriting recognition</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Practical knowledge of applying LLMs for text evaluation and grading</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Advanced understanding of computer vision and OCR techniques</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Insights into deploying large-scale AI models on cloud platforms</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Real-world experience in automating student assessment processe</span></li></ul><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp;</strong></p><p class=\"ql-align-justify\"><br></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Deep Learning for Computer Vision (Coursera)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Optical Character Recognition Using AI (Udacity)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Large Language Models for Natural Language Understanding (Coursera)</span></li><li><br></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">AI for Real-World Grading Systems (EdX)</span></li></ul><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3471,
+      "projectDisciplineId": 6752,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6752,
+      "projectId": 3471,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3335,
+      "projectId": 3471,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-16T11:18:19",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60211,
+      "projectId": 3471,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 60212,
+      "projectId": 3471,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3471,
+      "projectDomainId": 5200,
+      "academicDomainId": 65
+    },
+    {
+      "projectId": 3471,
+      "projectDomainId": 5201,
+      "academicDomainId": 86
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4802,
+      "projectId": 3471,
+      "academicSubDomainId": 143
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

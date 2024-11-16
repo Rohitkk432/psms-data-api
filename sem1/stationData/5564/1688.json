@@ -1,0 +1,197 @@
+{
+  "projectId": 1688,
+  "stationId": 5564,
+  "problemBankId": 907,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "WiFi mesh based Smart Home Nodes fr Smart Air Conditioner & Lighting on Connexus Cloud platform",
+  "description": "<p>Bisquare is coming up with a Connexus Cloud (Bisquare’s Smart Home cloud) platform based low-</p><p>cost IoT Nodes for enabling Home appliances/ devices and Industrial Devices to be remotely</p><p><br></p><p>managed and controlled over Wireless Links.</p><p>The project involves the development of software components for Sensor data access, onboard</p><p>(Edge) Analytics and implementation of a wireless-mesh connection between nodes Controlling</p><p>Appliances such as Smart AC, RGB Lights etc. and the Home Router.</p><p>- A Mobile App needs to be developed that implements a Smart User Interface and the User</p><p>Application, Analytics code for the “Smart Home”.</p><p>- Integration of Google Smart Home and Alexa for the Control of the Node devices</p><p>- Connexus Cloud based Server IoT data logging, management and analytics components need to</p><p>be developed</p><p>- Analytics of data logged from the Air Conditioners to optimize Cooling/ Heating, Energy</p><p>consumption and detect faults that can be communicated to Service centre for preemptive</p><p>Skill sets:</p><p>- Embedded C/ C++ programming, ARM Controller,</p><p>- Hardware Design, Sensor Interfacing,</p><p>- Mobile/ Web App Development (Flutter/ Ready Native),</p><p>- Wireless Communications (Bluetooth, WiFi), Protocols such as MQTT,</p><p>- Network &amp; Data Security, Digital Signatures</p><p>- Cloud components : Jason, Python, JavaScript, CSS, MongoDB, AWS</p><p>Traits expectation:</p><p>- Interest in developing and debugging customer hardware with embedded software</p><p>- ability to write optimal code using minimum resources</p><p>- ability to understand hardware and software co-design, to be able to decide the logic partitioning</p><p>between hardware and software</p><p>- ability to partition functionality between edge-compute and cloud compute</p><p>- excellent analytical ability</p><p>Expected learning:</p><p>- Electronics Hardware design</p><p>- IoT systems: writing optimal code in small foot-print controllers with low memory resources, real</p><p>time systems</p><p>- Sensor integration,</p><p>- Wireless Systems: optimization, mesh networking, security, protocol design</p><p>- Cloud Computing: Server end components, NoSQL Databases, Analytics, AI/ ML, Network Security</p><p>- Mobile App Development</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1688,
+      "projectDisciplineId": 5673,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5673,
+      "projectId": 1688,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16777,
+          "projectDisciplineId": 5673,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16778,
+          "projectDisciplineId": 5673,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16779,
+          "projectDisciplineId": 5673,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16780,
+          "projectDisciplineId": 5673,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16781,
+          "projectDisciplineId": 5673,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16782,
+          "projectDisciplineId": 5673,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16783,
+          "projectDisciplineId": 5673,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16784,
+          "projectDisciplineId": 5673,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1609,
+      "projectId": 1688,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:30:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "AC Train fare (in some cases Air fare through cost effective mode\nmay be reimbursed, but requires prior approval)",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-17T06:45:18",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-07-02T06:10:47",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37074,
+      "projectId": 1688,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37075,
+      "projectId": 1688,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1688,
+      "projectDomainId": 2407,
+      "academicDomainId": 28
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2214,
+      "projectId": 1688,
+      "academicSubDomainId": 133
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

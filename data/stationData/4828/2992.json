@@ -1,0 +1,164 @@
+{
+  "projectId": 2992,
+  "stationId": 4828,
+  "problemBankId": 1880,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Software Engineer Co-op Intern",
+  "description": "<p>At Intuit, we want to invest in the next generation of tech entrepreneurs by bringing them</p><p>into our organization early and encouraging them to bring their talents back to Intuit</p><p>after they graduate. Our internship program is focused on identifying these</p><p>high-potential university students and equipping them with the tools they need to</p><p>succeed in the tech industry.</p><p>During Intuit’s Co-op internship program, our interns will have the opportunity to get</p><p>first- hand experience in software engineering practices - learning about agile</p><p>development, industry best practices, taking part in design discussions and code</p><p>reviews. Our interns will be exposed to shift-left paradigms in devops, quality</p><p>engineering and performance engineering. They will be an integral part of our</p><p>development teams and get to interact with our senior leaders and learn directly from</p><p>the top talent at Intuit. During Intuit's Co-op internship program, interns will interact with</p><p>our senior leaders, learn directly from our business partners, and leverage our unique</p><p>business practices all while taking on rigorous assignments.</p><p>Through our internship program, university students gain the confidence to make</p><p>meaningful work contributions that enable business growth with our products,</p><p>customers, and internal processes. Our interns have opportunities to work in one of the</p><p>following areas:</p><p>Software Engineer Co-op Intern:</p><p>Full Stack/Front-End/Back-End/Security/DevOps/Mobile/Data Engineering</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2992,
+      "projectDisciplineId": 6076,
+      "projectDisciplineCodes": "B4A7,A7,B4",
+      "discCodesPerProject": "B4A7,A7,B4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6076,
+      "projectId": 2992,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "B4A7,A7,B4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 3,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17919,
+          "projectDisciplineId": 6076,
+          "graduationTypeId": 0,
+          "disciplineId": 19,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17920,
+          "projectDisciplineId": 6076,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17921,
+          "projectDisciplineId": 6076,
+          "graduationTypeId": 1,
+          "disciplineId": 19,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2883,
+      "projectId": 2992,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 120000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-10-24T06:13:00",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 56511,
+      "projectId": 2992,
+      "skillId": 211
+    },
+    {
+      "projectSkillId": 56512,
+      "projectId": 2992,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2992,
+      "projectDomainId": 4346,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3993,
+      "projectId": 2992,
+      "academicSubDomainId": 2
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

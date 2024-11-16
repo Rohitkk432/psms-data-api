@@ -1,0 +1,270 @@
+{
+  "projectId": 3278,
+  "stationId": 5116,
+  "problemBankId": 2090,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1  Title: AI, ML  ,    Project 2  Title: Data Science",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Project 1</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: AI, ML</strong></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: </strong><span style=\"color: rgb(0, 0, 0);\">Analysis on dataset formats, architecture backbones, saved model formats, performance, etc. of available object detection models. Identifying and automating stages like annotation, training, comparison, testing and prediction API deployment.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">&nbsp;&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Research and documentation of current state of the art models and methodologies in NLP, Speech and Computer Vision. Hands on task at the end for their experience.</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"color: rgb(0, 0, 0);\">Programming skills, Python, basic understanding of ML.</span></p><p><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Project 2</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: Data Science</strong></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: </strong><span style=\"color: rgb(0, 0, 0);\">Application of Data Science and Machine Learning techniques to improve production, supply chain, sales, marketing and retail strategies of Fast-Moving Consumer Goods (FMCG).</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:</strong><span style=\"color: rgb(0, 0, 0);\"> Python-pandas, NumPy, scikit-learn, matplotlib; Basic understanding of transforming and claiming data, manipulation of data, data visualization, Understanding of ML regression and classification algorithm, SQL</span></p><p><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3278,
+      "projectDisciplineId": 6388,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,AA,A8,AB,H103,H112",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,AA,A8,AB,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6388,
+      "projectId": 3278,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,AA,A8,AB,H103,H112",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19260,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 19261,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19262,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 19263,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 19264,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19265,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19266,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19267,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19268,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19269,
+          "projectDisciplineId": 6388,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3142,
+      "projectId": 3278,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 50000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-10T12:01:06",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59373,
+      "projectId": 3278,
+      "skillId": 235
+    },
+    {
+      "projectSkillId": 59374,
+      "projectId": 3278,
+      "skillId": 90
+    },
+    {
+      "projectSkillId": 59375,
+      "projectId": 3278,
+      "skillId": 295
+    },
+    {
+      "projectSkillId": 59376,
+      "projectId": 3278,
+      "skillId": 292
+    },
+    {
+      "projectSkillId": 59377,
+      "projectId": 3278,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 59378,
+      "projectId": 3278,
+      "skillId": 128
+    },
+    {
+      "projectSkillId": 59379,
+      "projectId": 3278,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3278,
+      "projectDomainId": 4832,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 3278,
+      "projectDomainId": 4833,
+      "academicDomainId": 86
+    },
+    {
+      "projectId": 3278,
+      "projectDomainId": 4834,
+      "academicDomainId": 105
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4458,
+      "projectId": 3278,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 4459,
+      "projectId": 3278,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 4460,
+      "projectId": 3278,
+      "academicSubDomainId": 115
+    },
+    {
+      "projectSubDomainId": 4461,
+      "projectId": 3278,
+      "academicSubDomainId": 116
+    },
+    {
+      "projectSubDomainId": 4462,
+      "projectId": 3278,
+      "academicSubDomainId": 138
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

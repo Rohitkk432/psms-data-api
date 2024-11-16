@@ -10,7 +10,7 @@
   "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description:</strong></p><p class=\"ql-align-justify\">We seek a motivated, talented, and intelligent individual who shares our vision of being a changemaker. We value individuals dissatisfied with the status quo, strive to make improvements, and envision making significant contributions. We look for those who embrace challenges and dedicate themselves to solutions. We seek individuals who push for data-driven decisions, are unconstrained by titles, and value collaboration. We are building a fast-paced team to shape various business and technology aspects.</p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets:</strong></p><p class=\"ql-align-justify\">- Currently pursuing the third/final year of studies in Computer Science, Software Engineering, or a related field.</p><p class=\"ql-align-justify\">- Proficiency in at least one backend programming language (e.g.,Python, Golang, Node.js, Java).</p><p class=\"ql-align-justify\">- Good understanding of object oriented programming(OOPs)</p><p class=\"ql-align-justify\">- Good understanding of databases concepts (SQL &amp; NoSQL)</p><p class=\"ql-align-justify\">- Solid understanding of data structures and algorithms.</p><p class=\"ql-align-justify\">- Excellent problem-solving skills and attention to detail</p><p class=\"ql-align-justify\"><strong>&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: </strong></p><p class=\"ql-align-justify\">- Support in implementation of new features.</p><p class=\"ql-align-justify\">- Collaborate on projects spanning front-end and back-end technologies.</p><p class=\"ql-align-justify\">- Support in preparation of feature specification documents, design documents, test plans.</p><p class=\"ql-align-justify\">- Support test strategy and automation in both end-to-end solution and functional testing.</p><p class=\"ql-align-justify\"><strong>&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning:</strong></p><p class=\"ql-align-justify\">Will get to work with and learn from Shyam, an experienced leader in generative AI technology. With a Ph.D. and managerial experience at Swiggy and Mettl, Shyam specializes in deep neural networks, image processing, computer vision, and machine learning. Join us to work on cutting-edge projects and drive innovation in AI technology.</p><p><br></p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,11 +18,12 @@
   "discViewModels": [
     {
       "projectId": 2079,
-      "projectDisciplineId": 5375,
-      "projectDisciplineCodes": "A7,AnyA7",
-      "discCodesPerProject": "A7,AnyA7",
+      "projectDisciplineId": 6470,
+      "projectDisciplineCodes": "AnyA7,A7,H103,H112",
+      "discCodesPerProject": "AnyA7,A7,H103,H112",
       "graduationTypeIds": [
-        1
+        1,
+        2
       ],
       "anySingle": false,
       "anyDual": false,
@@ -33,22 +34,23 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5375,
+      "projectDisciplineId": 6470,
       "projectId": 2079,
       "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 0,
-      "cgpamin": 8,
+      "higherDegree": 1,
+      "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 0,
-      "totalRequirement": 0,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A7,AnyA7",
+      "disciplineCodes": "AnyA7,A7,H103,H112",
       "graduationTypeIds": [
+        0,
         1,
-        0
+        2
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -61,18 +63,32 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 15510,
-          "projectDisciplineId": 5375,
+          "projectDisciplineDetailId": 19414,
+          "projectDisciplineId": 6470,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19415,
+          "projectDisciplineId": 6470,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 15511,
-          "projectDisciplineId": 5375,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
+          "projectDisciplineDetailId": 19416,
+          "projectDisciplineId": 6470,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19417,
+          "projectDisciplineId": 6470,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
         }
       ],
       "selectedContinuingStudentList": null,
@@ -86,9 +102,9 @@
       "projectId": 2079,
       "officeStartTime": "10:00:00",
       "officeEndTime": "18:00:00",
-      "weekHolidays": "Saturday,Sunday",
-      "ugstipend": 80000,
-      "pgstipend": 0,
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 50000,
       "scholarship": 0,
       "currency": "INR",
       "subsidizedLunch": 2,
@@ -116,23 +132,30 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-29T09:39:23",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-20T05:35:13",
+      "modifiedDate": "2024-11-12T08:08:40",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50419,
+      "projectSkillId": 59667,
       "projectId": 2079,
-      "skillId": 132
+      "skillId": 385
     },
     {
-      "projectSkillId": 50420,
+      "projectSkillId": 59668,
       "projectId": 2079,
-      "skillId": 141
+      "skillId": 128
+    },
+    {
+      "projectSkillId": 59669,
+      "projectId": 2079,
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
@@ -140,14 +163,34 @@
       "projectId": 2079,
       "projectDomainId": 2937,
       "academicDomainId": 143
+    },
+    {
+      "projectId": 2079,
+      "projectDomainId": 4932,
+      "academicDomainId": 5
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2690,
+      "projectSubDomainId": 4547,
       "projectId": 2079,
-      "academicSubDomainId": 256
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 4548,
+      "projectId": 2079,
+      "academicSubDomainId": 115
+    },
+    {
+      "projectSubDomainId": 4549,
+      "projectId": 2079,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 4550,
+      "projectId": 2079,
+      "academicSubDomainId": 116
     }
   ],
   "projectSubjectArea": [],

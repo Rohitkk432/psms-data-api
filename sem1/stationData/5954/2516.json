@@ -1,0 +1,170 @@
+{
+  "projectId": 2516,
+  "stationId": 5954,
+  "problemBankId": 1468,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1  Title: Beneficiation of Illemanite to produce synthetic rutile (TiO2)  & Project 2  Title: Process development for carbon recovery from spent Li-ion batteries: A closed-loop recycling approach",
+  "description": "<p>Project 1</p><p>Title: Beneficiation of Illemanite to produce synthetic rutile (TiO2)</p><p>Description: Mineralogy, Carbothermic reduction, Kinetics study of reduction, Leaching</p><p>Skill sets: Analytical skills, Wet chemical analysis, Data Interpretation</p><p>Traits expectation: R&amp;D approach, Literature survey, Research gap identification, Manuscript &amp; report preparation, Experiment designing</p><p>Expected learning: Theoretical and practical skill set about reduction, leaching and process development, Kinetics model discrimination study</p><p>Specific courses required for project execution:</p><p>Project 2</p><p>Title: Process development for carbon recovery from spent Li-ion batteries: A closed-loop recycling approach</p><p>Description: Characterization of black mass, Froth flotation technique, Kinetics studies, Experiment designing, Process optimization, ANOVA &amp; regression studies</p><p>Skill sets: Analytical skills, Data Interpretation, Characterization techniques, Physical &amp; Chemical separation techniques</p><p>Traits expectation: R&amp;D approach, Literature survey, Research gap identification, Manuscript &amp; report preparation, Experiment designing</p><p>Expected learning: Proximate analysis, Statistical &amp; experimental Designing, MINITAB software, Kinetics model discrimination study,</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2516,
+      "projectDisciplineId": 5175,
+      "projectDisciplineCodes": "AnyB2,B2",
+      "discCodesPerProject": "AnyB2,B2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5175,
+      "projectId": 2516,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 5,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB2,B2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 14565,
+          "projectDisciplineId": 5175,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 17
+        },
+        {
+          "projectDisciplineDetailId": 14566,
+          "projectDisciplineId": 5175,
+          "graduationTypeId": 1,
+          "disciplineId": 17,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2428,
+      "projectId": 2516,
+      "officeStartTime": "09:00",
+      "officeEndTime": "17:30:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 0,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-14T11:52:29",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51438,
+      "projectId": 2516,
+      "skillId": 423
+    },
+    {
+      "projectSkillId": 51439,
+      "projectId": 2516,
+      "skillId": 278
+    },
+    {
+      "projectSkillId": 51440,
+      "projectId": 2516,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2516,
+      "projectDomainId": 3566,
+      "academicDomainId": 14
+    },
+    {
+      "projectId": 2516,
+      "projectDomainId": 3567,
+      "academicDomainId": 67
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3286,
+      "projectId": 2516,
+      "academicSubDomainId": 135
+    },
+    {
+      "projectSubDomainId": 3287,
+      "projectId": 2516,
+      "academicSubDomainId": 339
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

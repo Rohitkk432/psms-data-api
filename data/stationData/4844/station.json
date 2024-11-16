@@ -9,23 +9,33 @@
       "businessDomain": "CSIS/IT",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 7,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
       "psTypeName": "PS II",
-      "semesterId": 1,
+      "semesterId": 2,
       "status": null,
       "createdBy": "planning@bits.com"
+    },
+    {
+      "stationId": 4844,
+      "stationName": "UBER - Data Analytics,Hyderabad.",
+      "parentStationName": "UBER",
+      "stationCity": "Hyderabad",
+      "problemBankId": 1994,
+      "businessDomain": "CSIS/IT",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "akshaya.ganesan@pilani.bits-pilani.ac.in"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

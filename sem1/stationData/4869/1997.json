@@ -1,0 +1,2071 @@
+{
+  "projectId": 1997,
+  "stationId": 4869,
+  "problemBankId": 1125,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "NA",
+  "description": "<p>NA</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1997,
+      "projectDisciplineId": 5636,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,A8,AA,A3,A4,AB",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,A8,AA,A3,A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5636,
+      "projectId": 1997,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,A8,AA,A3,A4,AB",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16616,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16617,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16618,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16619,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 16620,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 16621,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16622,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16623,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16624,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16625,
+          "projectDisciplineId": 5636,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1913,
+      "projectId": 1997,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-22T05:42:54",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:32:45",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 45036,
+      "projectId": 1997,
+      "skillId": 88
+    },
+    {
+      "projectSkillId": 45037,
+      "projectId": 1997,
+      "skillId": 188
+    },
+    {
+      "projectSkillId": 45038,
+      "projectId": 1997,
+      "skillId": 308
+    },
+    {
+      "projectSkillId": 45039,
+      "projectId": 1997,
+      "skillId": 197
+    },
+    {
+      "projectSkillId": 45040,
+      "projectId": 1997,
+      "skillId": 257
+    },
+    {
+      "projectSkillId": 45041,
+      "projectId": 1997,
+      "skillId": 186
+    },
+    {
+      "projectSkillId": 45042,
+      "projectId": 1997,
+      "skillId": 195
+    },
+    {
+      "projectSkillId": 45043,
+      "projectId": 1997,
+      "skillId": 287
+    },
+    {
+      "projectSkillId": 45044,
+      "projectId": 1997,
+      "skillId": 353
+    },
+    {
+      "projectSkillId": 45045,
+      "projectId": 1997,
+      "skillId": 428
+    },
+    {
+      "projectSkillId": 45046,
+      "projectId": 1997,
+      "skillId": 429
+    },
+    {
+      "projectSkillId": 45047,
+      "projectId": 1997,
+      "skillId": 189
+    },
+    {
+      "projectSkillId": 45048,
+      "projectId": 1997,
+      "skillId": 135
+    },
+    {
+      "projectSkillId": 45049,
+      "projectId": 1997,
+      "skillId": 227
+    },
+    {
+      "projectSkillId": 45050,
+      "projectId": 1997,
+      "skillId": 66
+    },
+    {
+      "projectSkillId": 45051,
+      "projectId": 1997,
+      "skillId": 110
+    },
+    {
+      "projectSkillId": 45052,
+      "projectId": 1997,
+      "skillId": 403
+    },
+    {
+      "projectSkillId": 45053,
+      "projectId": 1997,
+      "skillId": 182
+    },
+    {
+      "projectSkillId": 45054,
+      "projectId": 1997,
+      "skillId": 359
+    },
+    {
+      "projectSkillId": 45055,
+      "projectId": 1997,
+      "skillId": 382
+    },
+    {
+      "projectSkillId": 45056,
+      "projectId": 1997,
+      "skillId": 239
+    },
+    {
+      "projectSkillId": 45057,
+      "projectId": 1997,
+      "skillId": 352
+    },
+    {
+      "projectSkillId": 45058,
+      "projectId": 1997,
+      "skillId": 91
+    },
+    {
+      "projectSkillId": 45059,
+      "projectId": 1997,
+      "skillId": 1
+    },
+    {
+      "projectSkillId": 45060,
+      "projectId": 1997,
+      "skillId": 160
+    },
+    {
+      "projectSkillId": 45061,
+      "projectId": 1997,
+      "skillId": 163
+    },
+    {
+      "projectSkillId": 45062,
+      "projectId": 1997,
+      "skillId": 388
+    },
+    {
+      "projectSkillId": 45063,
+      "projectId": 1997,
+      "skillId": 232
+    },
+    {
+      "projectSkillId": 45064,
+      "projectId": 1997,
+      "skillId": 191
+    },
+    {
+      "projectSkillId": 45065,
+      "projectId": 1997,
+      "skillId": 187
+    },
+    {
+      "projectSkillId": 45066,
+      "projectId": 1997,
+      "skillId": 154
+    },
+    {
+      "projectSkillId": 45067,
+      "projectId": 1997,
+      "skillId": 223
+    },
+    {
+      "projectSkillId": 45068,
+      "projectId": 1997,
+      "skillId": 275
+    },
+    {
+      "projectSkillId": 45069,
+      "projectId": 1997,
+      "skillId": 380
+    },
+    {
+      "projectSkillId": 45070,
+      "projectId": 1997,
+      "skillId": 138
+    },
+    {
+      "projectSkillId": 45071,
+      "projectId": 1997,
+      "skillId": 140
+    },
+    {
+      "projectSkillId": 45072,
+      "projectId": 1997,
+      "skillId": 89
+    },
+    {
+      "projectSkillId": 45073,
+      "projectId": 1997,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 45074,
+      "projectId": 1997,
+      "skillId": 80
+    },
+    {
+      "projectSkillId": 45075,
+      "projectId": 1997,
+      "skillId": 356
+    },
+    {
+      "projectSkillId": 45076,
+      "projectId": 1997,
+      "skillId": 255
+    },
+    {
+      "projectSkillId": 45077,
+      "projectId": 1997,
+      "skillId": 264
+    },
+    {
+      "projectSkillId": 45078,
+      "projectId": 1997,
+      "skillId": 251
+    },
+    {
+      "projectSkillId": 45079,
+      "projectId": 1997,
+      "skillId": 276
+    },
+    {
+      "projectSkillId": 45080,
+      "projectId": 1997,
+      "skillId": 206
+    },
+    {
+      "projectSkillId": 45081,
+      "projectId": 1997,
+      "skillId": 133
+    },
+    {
+      "projectSkillId": 45082,
+      "projectId": 1997,
+      "skillId": 161
+    },
+    {
+      "projectSkillId": 45083,
+      "projectId": 1997,
+      "skillId": 373
+    },
+    {
+      "projectSkillId": 45084,
+      "projectId": 1997,
+      "skillId": 96
+    },
+    {
+      "projectSkillId": 45085,
+      "projectId": 1997,
+      "skillId": 405
+    },
+    {
+      "projectSkillId": 45086,
+      "projectId": 1997,
+      "skillId": 299
+    },
+    {
+      "projectSkillId": 45087,
+      "projectId": 1997,
+      "skillId": 173
+    },
+    {
+      "projectSkillId": 45088,
+      "projectId": 1997,
+      "skillId": 300
+    },
+    {
+      "projectSkillId": 45089,
+      "projectId": 1997,
+      "skillId": 107
+    },
+    {
+      "projectSkillId": 45090,
+      "projectId": 1997,
+      "skillId": 212
+    },
+    {
+      "projectSkillId": 45091,
+      "projectId": 1997,
+      "skillId": 288
+    },
+    {
+      "projectSkillId": 45092,
+      "projectId": 1997,
+      "skillId": 156
+    },
+    {
+      "projectSkillId": 45093,
+      "projectId": 1997,
+      "skillId": 108
+    },
+    {
+      "projectSkillId": 45094,
+      "projectId": 1997,
+      "skillId": 144
+    },
+    {
+      "projectSkillId": 45095,
+      "projectId": 1997,
+      "skillId": 390
+    },
+    {
+      "projectSkillId": 45096,
+      "projectId": 1997,
+      "skillId": 177
+    },
+    {
+      "projectSkillId": 45097,
+      "projectId": 1997,
+      "skillId": 338
+    },
+    {
+      "projectSkillId": 45098,
+      "projectId": 1997,
+      "skillId": 321
+    },
+    {
+      "projectSkillId": 45099,
+      "projectId": 1997,
+      "skillId": 337
+    },
+    {
+      "projectSkillId": 45100,
+      "projectId": 1997,
+      "skillId": 198
+    },
+    {
+      "projectSkillId": 45101,
+      "projectId": 1997,
+      "skillId": 179
+    },
+    {
+      "projectSkillId": 45102,
+      "projectId": 1997,
+      "skillId": 11
+    },
+    {
+      "projectSkillId": 45103,
+      "projectId": 1997,
+      "skillId": 362
+    },
+    {
+      "projectSkillId": 45104,
+      "projectId": 1997,
+      "skillId": 277
+    },
+    {
+      "projectSkillId": 45105,
+      "projectId": 1997,
+      "skillId": 214
+    },
+    {
+      "projectSkillId": 45106,
+      "projectId": 1997,
+      "skillId": 224
+    },
+    {
+      "projectSkillId": 45107,
+      "projectId": 1997,
+      "skillId": 181
+    },
+    {
+      "projectSkillId": 45108,
+      "projectId": 1997,
+      "skillId": 291
+    },
+    {
+      "projectSkillId": 45109,
+      "projectId": 1997,
+      "skillId": 130
+    },
+    {
+      "projectSkillId": 45110,
+      "projectId": 1997,
+      "skillId": 262
+    },
+    {
+      "projectSkillId": 45111,
+      "projectId": 1997,
+      "skillId": 234
+    },
+    {
+      "projectSkillId": 45112,
+      "projectId": 1997,
+      "skillId": 204
+    },
+    {
+      "projectSkillId": 45113,
+      "projectId": 1997,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 45114,
+      "projectId": 1997,
+      "skillId": 202
+    },
+    {
+      "projectSkillId": 45115,
+      "projectId": 1997,
+      "skillId": 339
+    },
+    {
+      "projectSkillId": 45116,
+      "projectId": 1997,
+      "skillId": 225
+    },
+    {
+      "projectSkillId": 45117,
+      "projectId": 1997,
+      "skillId": 343
+    },
+    {
+      "projectSkillId": 45118,
+      "projectId": 1997,
+      "skillId": 381
+    },
+    {
+      "projectSkillId": 45119,
+      "projectId": 1997,
+      "skillId": 286
+    },
+    {
+      "projectSkillId": 45120,
+      "projectId": 1997,
+      "skillId": 192
+    },
+    {
+      "projectSkillId": 45121,
+      "projectId": 1997,
+      "skillId": 424
+    },
+    {
+      "projectSkillId": 45122,
+      "projectId": 1997,
+      "skillId": 292
+    },
+    {
+      "projectSkillId": 45123,
+      "projectId": 1997,
+      "skillId": 237
+    },
+    {
+      "projectSkillId": 45124,
+      "projectId": 1997,
+      "skillId": 430
+    },
+    {
+      "projectSkillId": 45125,
+      "projectId": 1997,
+      "skillId": 391
+    },
+    {
+      "projectSkillId": 45126,
+      "projectId": 1997,
+      "skillId": 344
+    },
+    {
+      "projectSkillId": 45127,
+      "projectId": 1997,
+      "skillId": 65
+    },
+    {
+      "projectSkillId": 45128,
+      "projectId": 1997,
+      "skillId": 358
+    },
+    {
+      "projectSkillId": 45129,
+      "projectId": 1997,
+      "skillId": 99
+    },
+    {
+      "projectSkillId": 45130,
+      "projectId": 1997,
+      "skillId": 238
+    },
+    {
+      "projectSkillId": 45131,
+      "projectId": 1997,
+      "skillId": 43
+    },
+    {
+      "projectSkillId": 45132,
+      "projectId": 1997,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 45133,
+      "projectId": 1997,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 45134,
+      "projectId": 1997,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 45135,
+      "projectId": 1997,
+      "skillId": 332
+    },
+    {
+      "projectSkillId": 45136,
+      "projectId": 1997,
+      "skillId": 69
+    },
+    {
+      "projectSkillId": 45137,
+      "projectId": 1997,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 45138,
+      "projectId": 1997,
+      "skillId": 398
+    },
+    {
+      "projectSkillId": 45139,
+      "projectId": 1997,
+      "skillId": 281
+    },
+    {
+      "projectSkillId": 45140,
+      "projectId": 1997,
+      "skillId": 176
+    },
+    {
+      "projectSkillId": 45141,
+      "projectId": 1997,
+      "skillId": 213
+    },
+    {
+      "projectSkillId": 45142,
+      "projectId": 1997,
+      "skillId": 410
+    },
+    {
+      "projectSkillId": 45143,
+      "projectId": 1997,
+      "skillId": 411
+    },
+    {
+      "projectSkillId": 45144,
+      "projectId": 1997,
+      "skillId": 219
+    },
+    {
+      "projectSkillId": 45145,
+      "projectId": 1997,
+      "skillId": 372
+    },
+    {
+      "projectSkillId": 45146,
+      "projectId": 1997,
+      "skillId": 376
+    },
+    {
+      "projectSkillId": 45147,
+      "projectId": 1997,
+      "skillId": 248
+    },
+    {
+      "projectSkillId": 45148,
+      "projectId": 1997,
+      "skillId": 252
+    },
+    {
+      "projectSkillId": 45149,
+      "projectId": 1997,
+      "skillId": 334
+    },
+    {
+      "projectSkillId": 45150,
+      "projectId": 1997,
+      "skillId": 112
+    },
+    {
+      "projectSkillId": 45151,
+      "projectId": 1997,
+      "skillId": 323
+    },
+    {
+      "projectSkillId": 45152,
+      "projectId": 1997,
+      "skillId": 106
+    },
+    {
+      "projectSkillId": 45153,
+      "projectId": 1997,
+      "skillId": 45
+    },
+    {
+      "projectSkillId": 45154,
+      "projectId": 1997,
+      "skillId": 331
+    },
+    {
+      "projectSkillId": 45155,
+      "projectId": 1997,
+      "skillId": 406
+    },
+    {
+      "projectSkillId": 45156,
+      "projectId": 1997,
+      "skillId": 120
+    },
+    {
+      "projectSkillId": 45157,
+      "projectId": 1997,
+      "skillId": 83
+    },
+    {
+      "projectSkillId": 45158,
+      "projectId": 1997,
+      "skillId": 114
+    },
+    {
+      "projectSkillId": 45159,
+      "projectId": 1997,
+      "skillId": 290
+    },
+    {
+      "projectSkillId": 45160,
+      "projectId": 1997,
+      "skillId": 245
+    },
+    {
+      "projectSkillId": 45161,
+      "projectId": 1997,
+      "skillId": 44
+    },
+    {
+      "projectSkillId": 45162,
+      "projectId": 1997,
+      "skillId": 97
+    },
+    {
+      "projectSkillId": 45163,
+      "projectId": 1997,
+      "skillId": 354
+    },
+    {
+      "projectSkillId": 45164,
+      "projectId": 1997,
+      "skillId": 407
+    },
+    {
+      "projectSkillId": 45165,
+      "projectId": 1997,
+      "skillId": 134
+    },
+    {
+      "projectSkillId": 45166,
+      "projectId": 1997,
+      "skillId": 129
+    },
+    {
+      "projectSkillId": 45167,
+      "projectId": 1997,
+      "skillId": 131
+    },
+    {
+      "projectSkillId": 45168,
+      "projectId": 1997,
+      "skillId": 141
+    },
+    {
+      "projectSkillId": 45169,
+      "projectId": 1997,
+      "skillId": 167
+    },
+    {
+      "projectSkillId": 45170,
+      "projectId": 1997,
+      "skillId": 122
+    },
+    {
+      "projectSkillId": 45171,
+      "projectId": 1997,
+      "skillId": 401
+    },
+    {
+      "projectSkillId": 45172,
+      "projectId": 1997,
+      "skillId": 319
+    },
+    {
+      "projectSkillId": 45173,
+      "projectId": 1997,
+      "skillId": 397
+    },
+    {
+      "projectSkillId": 45174,
+      "projectId": 1997,
+      "skillId": 180
+    },
+    {
+      "projectSkillId": 45175,
+      "projectId": 1997,
+      "skillId": 283
+    },
+    {
+      "projectSkillId": 45176,
+      "projectId": 1997,
+      "skillId": 306
+    },
+    {
+      "projectSkillId": 45177,
+      "projectId": 1997,
+      "skillId": 162
+    },
+    {
+      "projectSkillId": 45178,
+      "projectId": 1997,
+      "skillId": 171
+    },
+    {
+      "projectSkillId": 45179,
+      "projectId": 1997,
+      "skillId": 70
+    },
+    {
+      "projectSkillId": 45180,
+      "projectId": 1997,
+      "skillId": 266
+    },
+    {
+      "projectSkillId": 45181,
+      "projectId": 1997,
+      "skillId": 103
+    },
+    {
+      "projectSkillId": 45182,
+      "projectId": 1997,
+      "skillId": 78
+    },
+    {
+      "projectSkillId": 45183,
+      "projectId": 1997,
+      "skillId": 404
+    },
+    {
+      "projectSkillId": 45184,
+      "projectId": 1997,
+      "skillId": 282
+    },
+    {
+      "projectSkillId": 45185,
+      "projectId": 1997,
+      "skillId": 318
+    },
+    {
+      "projectSkillId": 45186,
+      "projectId": 1997,
+      "skillId": 335
+    },
+    {
+      "projectSkillId": 45187,
+      "projectId": 1997,
+      "skillId": 236
+    },
+    {
+      "projectSkillId": 45188,
+      "projectId": 1997,
+      "skillId": 261
+    },
+    {
+      "projectSkillId": 45189,
+      "projectId": 1997,
+      "skillId": 417
+    },
+    {
+      "projectSkillId": 45190,
+      "projectId": 1997,
+      "skillId": 416
+    },
+    {
+      "projectSkillId": 45191,
+      "projectId": 1997,
+      "skillId": 418
+    },
+    {
+      "projectSkillId": 45192,
+      "projectId": 1997,
+      "skillId": 249
+    },
+    {
+      "projectSkillId": 45193,
+      "projectId": 1997,
+      "skillId": 392
+    },
+    {
+      "projectSkillId": 45194,
+      "projectId": 1997,
+      "skillId": 273
+    },
+    {
+      "projectSkillId": 45195,
+      "projectId": 1997,
+      "skillId": 402
+    },
+    {
+      "projectSkillId": 45196,
+      "projectId": 1997,
+      "skillId": 314
+    },
+    {
+      "projectSkillId": 45197,
+      "projectId": 1997,
+      "skillId": 168
+    },
+    {
+      "projectSkillId": 45198,
+      "projectId": 1997,
+      "skillId": 367
+    },
+    {
+      "projectSkillId": 45199,
+      "projectId": 1997,
+      "skillId": 190
+    },
+    {
+      "projectSkillId": 45200,
+      "projectId": 1997,
+      "skillId": 93
+    },
+    {
+      "projectSkillId": 45201,
+      "projectId": 1997,
+      "skillId": 369
+    },
+    {
+      "projectSkillId": 45202,
+      "projectId": 1997,
+      "skillId": 226
+    },
+    {
+      "projectSkillId": 45203,
+      "projectId": 1997,
+      "skillId": 364
+    },
+    {
+      "projectSkillId": 45204,
+      "projectId": 1997,
+      "skillId": 379
+    },
+    {
+      "projectSkillId": 45205,
+      "projectId": 1997,
+      "skillId": 121
+    },
+    {
+      "projectSkillId": 45206,
+      "projectId": 1997,
+      "skillId": 242
+    },
+    {
+      "projectSkillId": 45207,
+      "projectId": 1997,
+      "skillId": 92
+    },
+    {
+      "projectSkillId": 45208,
+      "projectId": 1997,
+      "skillId": 346
+    },
+    {
+      "projectSkillId": 45209,
+      "projectId": 1997,
+      "skillId": 233
+    },
+    {
+      "projectSkillId": 45210,
+      "projectId": 1997,
+      "skillId": 426
+    },
+    {
+      "projectSkillId": 45211,
+      "projectId": 1997,
+      "skillId": 139
+    },
+    {
+      "projectSkillId": 45212,
+      "projectId": 1997,
+      "skillId": 383
+    },
+    {
+      "projectSkillId": 45213,
+      "projectId": 1997,
+      "skillId": 322
+    },
+    {
+      "projectSkillId": 45214,
+      "projectId": 1997,
+      "skillId": 125
+    },
+    {
+      "projectSkillId": 45215,
+      "projectId": 1997,
+      "skillId": 413
+    },
+    {
+      "projectSkillId": 45216,
+      "projectId": 1997,
+      "skillId": 368
+    },
+    {
+      "projectSkillId": 45217,
+      "projectId": 1997,
+      "skillId": 425
+    },
+    {
+      "projectSkillId": 45218,
+      "projectId": 1997,
+      "skillId": 317
+    },
+    {
+      "projectSkillId": 45219,
+      "projectId": 1997,
+      "skillId": 228
+    },
+    {
+      "projectSkillId": 45220,
+      "projectId": 1997,
+      "skillId": 347
+    },
+    {
+      "projectSkillId": 45221,
+      "projectId": 1997,
+      "skillId": 325
+    },
+    {
+      "projectSkillId": 45222,
+      "projectId": 1997,
+      "skillId": 293
+    },
+    {
+      "projectSkillId": 45223,
+      "projectId": 1997,
+      "skillId": 128
+    },
+    {
+      "projectSkillId": 45224,
+      "projectId": 1997,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 45225,
+      "projectId": 1997,
+      "skillId": 137
+    },
+    {
+      "projectSkillId": 45226,
+      "projectId": 1997,
+      "skillId": 345
+    },
+    {
+      "projectSkillId": 45227,
+      "projectId": 1997,
+      "skillId": 324
+    },
+    {
+      "projectSkillId": 45228,
+      "projectId": 1997,
+      "skillId": 258
+    },
+    {
+      "projectSkillId": 45229,
+      "projectId": 1997,
+      "skillId": 150
+    },
+    {
+      "projectSkillId": 45230,
+      "projectId": 1997,
+      "skillId": 408
+    },
+    {
+      "projectSkillId": 45231,
+      "projectId": 1997,
+      "skillId": 272
+    },
+    {
+      "projectSkillId": 45232,
+      "projectId": 1997,
+      "skillId": 109
+    },
+    {
+      "projectSkillId": 45233,
+      "projectId": 1997,
+      "skillId": 387
+    },
+    {
+      "projectSkillId": 45234,
+      "projectId": 1997,
+      "skillId": 355
+    },
+    {
+      "projectSkillId": 45235,
+      "projectId": 1997,
+      "skillId": 423
+    },
+    {
+      "projectSkillId": 45236,
+      "projectId": 1997,
+      "skillId": 205
+    },
+    {
+      "projectSkillId": 45237,
+      "projectId": 1997,
+      "skillId": 366
+    },
+    {
+      "projectSkillId": 45238,
+      "projectId": 1997,
+      "skillId": 123
+    },
+    {
+      "projectSkillId": 45239,
+      "projectId": 1997,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 45240,
+      "projectId": 1997,
+      "skillId": 77
+    },
+    {
+      "projectSkillId": 45241,
+      "projectId": 1997,
+      "skillId": 155
+    },
+    {
+      "projectSkillId": 45242,
+      "projectId": 1997,
+      "skillId": 216
+    },
+    {
+      "projectSkillId": 45243,
+      "projectId": 1997,
+      "skillId": 302
+    },
+    {
+      "projectSkillId": 45244,
+      "projectId": 1997,
+      "skillId": 124
+    },
+    {
+      "projectSkillId": 45245,
+      "projectId": 1997,
+      "skillId": 147
+    },
+    {
+      "projectSkillId": 45246,
+      "projectId": 1997,
+      "skillId": 235
+    },
+    {
+      "projectSkillId": 45247,
+      "projectId": 1997,
+      "skillId": 260
+    },
+    {
+      "projectSkillId": 45248,
+      "projectId": 1997,
+      "skillId": 101
+    },
+    {
+      "projectSkillId": 45249,
+      "projectId": 1997,
+      "skillId": 296
+    },
+    {
+      "projectSkillId": 45250,
+      "projectId": 1997,
+      "skillId": 389
+    },
+    {
+      "projectSkillId": 45251,
+      "projectId": 1997,
+      "skillId": 196
+    },
+    {
+      "projectSkillId": 45252,
+      "projectId": 1997,
+      "skillId": 267
+    },
+    {
+      "projectSkillId": 45253,
+      "projectId": 1997,
+      "skillId": 158
+    },
+    {
+      "projectSkillId": 45254,
+      "projectId": 1997,
+      "skillId": 348
+    },
+    {
+      "projectSkillId": 45255,
+      "projectId": 1997,
+      "skillId": 75
+    },
+    {
+      "projectSkillId": 45256,
+      "projectId": 1997,
+      "skillId": 221
+    },
+    {
+      "projectSkillId": 45257,
+      "projectId": 1997,
+      "skillId": 311
+    },
+    {
+      "projectSkillId": 45258,
+      "projectId": 1997,
+      "skillId": 279
+    },
+    {
+      "projectSkillId": 45259,
+      "projectId": 1997,
+      "skillId": 310
+    },
+    {
+      "projectSkillId": 45260,
+      "projectId": 1997,
+      "skillId": 215
+    },
+    {
+      "projectSkillId": 45261,
+      "projectId": 1997,
+      "skillId": 280
+    },
+    {
+      "projectSkillId": 45262,
+      "projectId": 1997,
+      "skillId": 254
+    },
+    {
+      "projectSkillId": 45263,
+      "projectId": 1997,
+      "skillId": 327
+    },
+    {
+      "projectSkillId": 45264,
+      "projectId": 1997,
+      "skillId": 349
+    },
+    {
+      "projectSkillId": 45265,
+      "projectId": 1997,
+      "skillId": 146
+    },
+    {
+      "projectSkillId": 45266,
+      "projectId": 1997,
+      "skillId": 313
+    },
+    {
+      "projectSkillId": 45267,
+      "projectId": 1997,
+      "skillId": 265
+    },
+    {
+      "projectSkillId": 45268,
+      "projectId": 1997,
+      "skillId": 400
+    },
+    {
+      "projectSkillId": 45269,
+      "projectId": 1997,
+      "skillId": 203
+    },
+    {
+      "projectSkillId": 45270,
+      "projectId": 1997,
+      "skillId": 115
+    },
+    {
+      "projectSkillId": 45271,
+      "projectId": 1997,
+      "skillId": 309
+    },
+    {
+      "projectSkillId": 45272,
+      "projectId": 1997,
+      "skillId": 278
+    },
+    {
+      "projectSkillId": 45273,
+      "projectId": 1997,
+      "skillId": 259
+    },
+    {
+      "projectSkillId": 45274,
+      "projectId": 1997,
+      "skillId": 199
+    },
+    {
+      "projectSkillId": 45275,
+      "projectId": 1997,
+      "skillId": 297
+    },
+    {
+      "projectSkillId": 45276,
+      "projectId": 1997,
+      "skillId": 90
+    },
+    {
+      "projectSkillId": 45277,
+      "projectId": 1997,
+      "skillId": 295
+    },
+    {
+      "projectSkillId": 45278,
+      "projectId": 1997,
+      "skillId": 303
+    },
+    {
+      "projectSkillId": 45279,
+      "projectId": 1997,
+      "skillId": 365
+    },
+    {
+      "projectSkillId": 45280,
+      "projectId": 1997,
+      "skillId": 100
+    },
+    {
+      "projectSkillId": 45281,
+      "projectId": 1997,
+      "skillId": 329
+    },
+    {
+      "projectSkillId": 45282,
+      "projectId": 1997,
+      "skillId": 247
+    },
+    {
+      "projectSkillId": 45283,
+      "projectId": 1997,
+      "skillId": 145
+    },
+    {
+      "projectSkillId": 45284,
+      "projectId": 1997,
+      "skillId": 284
+    },
+    {
+      "projectSkillId": 45285,
+      "projectId": 1997,
+      "skillId": 164
+    },
+    {
+      "projectSkillId": 45286,
+      "projectId": 1997,
+      "skillId": 170
+    },
+    {
+      "projectSkillId": 45287,
+      "projectId": 1997,
+      "skillId": 169
+    },
+    {
+      "projectSkillId": 45288,
+      "projectId": 1997,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 45289,
+      "projectId": 1997,
+      "skillId": 142
+    },
+    {
+      "projectSkillId": 45290,
+      "projectId": 1997,
+      "skillId": 71
+    },
+    {
+      "projectSkillId": 45291,
+      "projectId": 1997,
+      "skillId": 253
+    },
+    {
+      "projectSkillId": 45292,
+      "projectId": 1997,
+      "skillId": 294
+    },
+    {
+      "projectSkillId": 45293,
+      "projectId": 1997,
+      "skillId": 269
+    },
+    {
+      "projectSkillId": 45294,
+      "projectId": 1997,
+      "skillId": 312
+    },
+    {
+      "projectSkillId": 45295,
+      "projectId": 1997,
+      "skillId": 320
+    },
+    {
+      "projectSkillId": 45296,
+      "projectId": 1997,
+      "skillId": 136
+    },
+    {
+      "projectSkillId": 45297,
+      "projectId": 1997,
+      "skillId": 363
+    },
+    {
+      "projectSkillId": 45298,
+      "projectId": 1997,
+      "skillId": 361
+    },
+    {
+      "projectSkillId": 45299,
+      "projectId": 1997,
+      "skillId": 241
+    },
+    {
+      "projectSkillId": 45300,
+      "projectId": 1997,
+      "skillId": 231
+    },
+    {
+      "projectSkillId": 45301,
+      "projectId": 1997,
+      "skillId": 208
+    },
+    {
+      "projectSkillId": 45302,
+      "projectId": 1997,
+      "skillId": 94
+    },
+    {
+      "projectSkillId": 45303,
+      "projectId": 1997,
+      "skillId": 207
+    },
+    {
+      "projectSkillId": 45304,
+      "projectId": 1997,
+      "skillId": 148
+    },
+    {
+      "projectSkillId": 45305,
+      "projectId": 1997,
+      "skillId": 12
+    },
+    {
+      "projectSkillId": 45306,
+      "projectId": 1997,
+      "skillId": 250
+    },
+    {
+      "projectSkillId": 45307,
+      "projectId": 1997,
+      "skillId": 316
+    },
+    {
+      "projectSkillId": 45308,
+      "projectId": 1997,
+      "skillId": 351
+    },
+    {
+      "projectSkillId": 45309,
+      "projectId": 1997,
+      "skillId": 384
+    },
+    {
+      "projectSkillId": 45310,
+      "projectId": 1997,
+      "skillId": 274
+    },
+    {
+      "projectSkillId": 45311,
+      "projectId": 1997,
+      "skillId": 95
+    },
+    {
+      "projectSkillId": 45312,
+      "projectId": 1997,
+      "skillId": 79
+    },
+    {
+      "projectSkillId": 45313,
+      "projectId": 1997,
+      "skillId": 126
+    },
+    {
+      "projectSkillId": 45314,
+      "projectId": 1997,
+      "skillId": 153
+    },
+    {
+      "projectSkillId": 45315,
+      "projectId": 1997,
+      "skillId": 270
+    },
+    {
+      "projectSkillId": 45316,
+      "projectId": 1997,
+      "skillId": 268
+    },
+    {
+      "projectSkillId": 45317,
+      "projectId": 1997,
+      "skillId": 374
+    },
+    {
+      "projectSkillId": 45318,
+      "projectId": 1997,
+      "skillId": 178
+    },
+    {
+      "projectSkillId": 45319,
+      "projectId": 1997,
+      "skillId": 246
+    },
+    {
+      "projectSkillId": 45320,
+      "projectId": 1997,
+      "skillId": 82
+    },
+    {
+      "projectSkillId": 45321,
+      "projectId": 1997,
+      "skillId": 229
+    },
+    {
+      "projectSkillId": 45322,
+      "projectId": 1997,
+      "skillId": 386
+    },
+    {
+      "projectSkillId": 45323,
+      "projectId": 1997,
+      "skillId": 159
+    },
+    {
+      "projectSkillId": 45324,
+      "projectId": 1997,
+      "skillId": 304
+    },
+    {
+      "projectSkillId": 45325,
+      "projectId": 1997,
+      "skillId": 209
+    },
+    {
+      "projectSkillId": 45326,
+      "projectId": 1997,
+      "skillId": 340
+    },
+    {
+      "projectSkillId": 45327,
+      "projectId": 1997,
+      "skillId": 395
+    },
+    {
+      "projectSkillId": 45328,
+      "projectId": 1997,
+      "skillId": 377
+    },
+    {
+      "projectSkillId": 45329,
+      "projectId": 1997,
+      "skillId": 336
+    },
+    {
+      "projectSkillId": 45330,
+      "projectId": 1997,
+      "skillId": 370
+    },
+    {
+      "projectSkillId": 45331,
+      "projectId": 1997,
+      "skillId": 211
+    },
+    {
+      "projectSkillId": 45332,
+      "projectId": 1997,
+      "skillId": 315
+    },
+    {
+      "projectSkillId": 45333,
+      "projectId": 1997,
+      "skillId": 230
+    },
+    {
+      "projectSkillId": 45334,
+      "projectId": 1997,
+      "skillId": 151
+    },
+    {
+      "projectSkillId": 45335,
+      "projectId": 1997,
+      "skillId": 111
+    },
+    {
+      "projectSkillId": 45336,
+      "projectId": 1997,
+      "skillId": 243
+    },
+    {
+      "projectSkillId": 45337,
+      "projectId": 1997,
+      "skillId": 375
+    },
+    {
+      "projectSkillId": 45338,
+      "projectId": 1997,
+      "skillId": 271
+    },
+    {
+      "projectSkillId": 45339,
+      "projectId": 1997,
+      "skillId": 393
+    },
+    {
+      "projectSkillId": 45340,
+      "projectId": 1997,
+      "skillId": 149
+    },
+    {
+      "projectSkillId": 45341,
+      "projectId": 1997,
+      "skillId": 378
+    },
+    {
+      "projectSkillId": 45342,
+      "projectId": 1997,
+      "skillId": 201
+    },
+    {
+      "projectSkillId": 45343,
+      "projectId": 1997,
+      "skillId": 200
+    },
+    {
+      "projectSkillId": 45344,
+      "projectId": 1997,
+      "skillId": 105
+    },
+    {
+      "projectSkillId": 45345,
+      "projectId": 1997,
+      "skillId": 244
+    },
+    {
+      "projectSkillId": 45346,
+      "projectId": 1997,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 45347,
+      "projectId": 1997,
+      "skillId": 289
+    },
+    {
+      "projectSkillId": 45348,
+      "projectId": 1997,
+      "skillId": 165
+    },
+    {
+      "projectSkillId": 45349,
+      "projectId": 1997,
+      "skillId": 222
+    },
+    {
+      "projectSkillId": 45350,
+      "projectId": 1997,
+      "skillId": 307
+    },
+    {
+      "projectSkillId": 45351,
+      "projectId": 1997,
+      "skillId": 360
+    },
+    {
+      "projectSkillId": 45352,
+      "projectId": 1997,
+      "skillId": 350
+    },
+    {
+      "projectSkillId": 45353,
+      "projectId": 1997,
+      "skillId": 127
+    },
+    {
+      "projectSkillId": 45354,
+      "projectId": 1997,
+      "skillId": 342
+    },
+    {
+      "projectSkillId": 45355,
+      "projectId": 1997,
+      "skillId": 143
+    },
+    {
+      "projectSkillId": 45356,
+      "projectId": 1997,
+      "skillId": 217
+    },
+    {
+      "projectSkillId": 45357,
+      "projectId": 1997,
+      "skillId": 175
+    },
+    {
+      "projectSkillId": 45358,
+      "projectId": 1997,
+      "skillId": 76
+    },
+    {
+      "projectSkillId": 45359,
+      "projectId": 1997,
+      "skillId": 119
+    },
+    {
+      "projectSkillId": 45360,
+      "projectId": 1997,
+      "skillId": 116
+    },
+    {
+      "projectSkillId": 45361,
+      "projectId": 1997,
+      "skillId": 394
+    },
+    {
+      "projectSkillId": 45362,
+      "projectId": 1997,
+      "skillId": 174
+    },
+    {
+      "projectSkillId": 45363,
+      "projectId": 1997,
+      "skillId": 330
+    },
+    {
+      "projectSkillId": 45364,
+      "projectId": 1997,
+      "skillId": 419
+    },
+    {
+      "projectSkillId": 45365,
+      "projectId": 1997,
+      "skillId": 68
+    },
+    {
+      "projectSkillId": 45366,
+      "projectId": 1997,
+      "skillId": 210
+    },
+    {
+      "projectSkillId": 45367,
+      "projectId": 1997,
+      "skillId": 240
+    },
+    {
+      "projectSkillId": 45368,
+      "projectId": 1997,
+      "skillId": 263
+    },
+    {
+      "projectSkillId": 45369,
+      "projectId": 1997,
+      "skillId": 87
+    },
+    {
+      "projectSkillId": 45370,
+      "projectId": 1997,
+      "skillId": 157
+    },
+    {
+      "projectSkillId": 45371,
+      "projectId": 1997,
+      "skillId": 328
+    },
+    {
+      "projectSkillId": 45372,
+      "projectId": 1997,
+      "skillId": 113
+    },
+    {
+      "projectSkillId": 45373,
+      "projectId": 1997,
+      "skillId": 396
+    },
+    {
+      "projectSkillId": 45374,
+      "projectId": 1997,
+      "skillId": 427
+    },
+    {
+      "projectSkillId": 45375,
+      "projectId": 1997,
+      "skillId": 86
+    },
+    {
+      "projectSkillId": 45376,
+      "projectId": 1997,
+      "skillId": 326
+    },
+    {
+      "projectSkillId": 45377,
+      "projectId": 1997,
+      "skillId": 118
+    },
+    {
+      "projectSkillId": 45378,
+      "projectId": 1997,
+      "skillId": 102
+    },
+    {
+      "projectSkillId": 45379,
+      "projectId": 1997,
+      "skillId": 357
+    },
+    {
+      "projectSkillId": 45380,
+      "projectId": 1997,
+      "skillId": 409
+    },
+    {
+      "projectSkillId": 45381,
+      "projectId": 1997,
+      "skillId": 341
+    },
+    {
+      "projectSkillId": 45382,
+      "projectId": 1997,
+      "skillId": 298
+    },
+    {
+      "projectSkillId": 45383,
+      "projectId": 1997,
+      "skillId": 420
+    },
+    {
+      "projectSkillId": 45384,
+      "projectId": 1997,
+      "skillId": 421
+    },
+    {
+      "projectSkillId": 45385,
+      "projectId": 1997,
+      "skillId": 422
+    },
+    {
+      "projectSkillId": 45386,
+      "projectId": 1997,
+      "skillId": 104
+    },
+    {
+      "projectSkillId": 45387,
+      "projectId": 1997,
+      "skillId": 220
+    },
+    {
+      "projectSkillId": 45388,
+      "projectId": 1997,
+      "skillId": 194
+    },
+    {
+      "projectSkillId": 45389,
+      "projectId": 1997,
+      "skillId": 193
+    },
+    {
+      "projectSkillId": 45390,
+      "projectId": 1997,
+      "skillId": 172
+    },
+    {
+      "projectSkillId": 45391,
+      "projectId": 1997,
+      "skillId": 285
+    },
+    {
+      "projectSkillId": 45392,
+      "projectId": 1997,
+      "skillId": 183
+    },
+    {
+      "projectSkillId": 45393,
+      "projectId": 1997,
+      "skillId": 399
+    },
+    {
+      "projectSkillId": 45394,
+      "projectId": 1997,
+      "skillId": 305
+    },
+    {
+      "projectSkillId": 45395,
+      "projectId": 1997,
+      "skillId": 185
+    },
+    {
+      "projectSkillId": 45396,
+      "projectId": 1997,
+      "skillId": 301
+    },
+    {
+      "projectSkillId": 45397,
+      "projectId": 1997,
+      "skillId": 4
+    },
+    {
+      "projectSkillId": 45398,
+      "projectId": 1997,
+      "skillId": 256
+    },
+    {
+      "projectSkillId": 45399,
+      "projectId": 1997,
+      "skillId": 371
+    },
+    {
+      "projectSkillId": 45400,
+      "projectId": 1997,
+      "skillId": 117
+    },
+    {
+      "projectSkillId": 45401,
+      "projectId": 1997,
+      "skillId": 85
+    },
+    {
+      "projectSkillId": 45402,
+      "projectId": 1997,
+      "skillId": 67
+    },
+    {
+      "projectSkillId": 45403,
+      "projectId": 1997,
+      "skillId": 412
+    },
+    {
+      "projectSkillId": 45404,
+      "projectId": 1997,
+      "skillId": 184
+    },
+    {
+      "projectSkillId": 45405,
+      "projectId": 1997,
+      "skillId": 333
+    },
+    {
+      "projectSkillId": 45406,
+      "projectId": 1997,
+      "skillId": 218
+    },
+    {
+      "projectSkillId": 45407,
+      "projectId": 1997,
+      "skillId": 152
+    },
+    {
+      "projectSkillId": 45408,
+      "projectId": 1997,
+      "skillId": 414
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1997,
+      "projectDomainId": 2824,
+      "academicDomainId": 185
+    },
+    {
+      "projectId": 1997,
+      "projectDomainId": 2825,
+      "academicDomainId": 193
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2583,
+      "projectId": 1997,
+      "academicSubDomainId": 410
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

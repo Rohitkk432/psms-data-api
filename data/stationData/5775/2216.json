@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details Awaited",
-  "description": "<p>--</p>",
+  "title": "UBS - Reporting and Analytics, Prject",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">UBS - Reporting and Analytics, Project</span></p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2216,
-      "projectDisciplineId": 4894,
+      "projectDisciplineId": 6581,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,27 +31,27 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4894,
+      "projectDisciplineId": 6581,
       "projectId": 2216,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 7,
+      "cgpamin": 0,
       "cgpamax": 10,
       "freshRequirement": 0,
-      "totalRequirement": 8,
+      "totalRequirement": 4,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
+      "continuingStudent": 1,
       "disciplineCodes": "Any",
       "graduationTypeIds": [],
       "degree": "Both",
-      "continuingStudentCount": 0,
+      "continuingStudentCount": 4,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 8,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 1,
       "disciplineDetails": [],
@@ -96,38 +96,65 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-31T07:55:11",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-10T13:42:25",
+      "modifiedDate": "2024-11-14T11:55:51",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50723,
+      "projectSkillId": 59827,
       "projectId": 2216,
-      "skillId": 431
+      "skillId": 142
     },
     {
-      "projectSkillId": 50724,
+      "projectSkillId": 59828,
       "projectId": 2216,
-      "skillId": 141
+      "skillId": 348
+    },
+    {
+      "projectSkillId": 59829,
+      "projectId": 2216,
+      "skillId": 101
+    },
+    {
+      "projectSkillId": 59830,
+      "projectId": 2216,
+      "skillId": 260
+    },
+    {
+      "projectSkillId": 59831,
+      "projectId": 2216,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 59832,
+      "projectId": 2216,
+      "skillId": 42
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 2216,
-      "projectDomainId": 3127,
-      "academicDomainId": 81
+      "projectDomainId": 4987,
+      "academicDomainId": 23
+    },
+    {
+      "projectId": 2216,
+      "projectDomainId": 4988,
+      "academicDomainId": 191
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2869,
+      "projectSubDomainId": 4597,
       "projectId": 2216,
-      "academicSubDomainId": 162
+      "academicSubDomainId": 159
     }
   ],
   "projectSubjectArea": [],

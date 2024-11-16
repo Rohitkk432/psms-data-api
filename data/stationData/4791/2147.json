@@ -6,19 +6,19 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Title: Web Handling",
-  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title:</strong><span style=\"color: rgb(0, 0, 0);\"> Web Handling</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description:</strong><span style=\"color: rgb(0, 0, 0);\"> A portal to manage the complete process of skill development training institutions. It has three major modules: student management, training management and placement management. Students can create an account and access to build his personal profile, able to enroll for available courses, recorded sessions, access to training content, assessments, apply for available jobs posted by the placement officer. Trainers should be able to post training content to students, mark student’s attendance, Assessment &amp; evaluation process. Placement officers will be posting available job vacancies for students and get the list of applied candidates for each post and post placement follow ups</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">And other portals.</span></p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+  "title": "Job Title - Operations Intern",
+  "description": "<p>Job Title - Operations Intern</p><p>As an Operations intern at Stratos Infra Technologies pvt ltd, you will have the opportunity to gain</p><p>hands-on experience in optimizing and managing the company's supply chain processes. This</p><p>internship will provide exposure to various facets of construction project operations coordinate with the</p><p>project managers and contribute to the overall efficiency and success of the organization.</p><p>Key Responsibilities -</p><p>? Work closely with projects teams, supply-chain teams, and the sales teams to develop the</p><p>scope, deliverables, required resources, work plan, budget, and timing for new projects.</p><p>? Support in establishing and maintaining relationships with suppliers and vendors.</p><p>? Participate in ongoing process improvement initiatives within the supply chain and</p><p>operations department.</p><p>? Oversee the day-to-day activities of the assigned projects and ensure smooth functioning of</p><p>? various projects.</p><p>? Formulate project reports and manage all client communications.</p><p>? Work closely with cross-functional teams, including project management, procurement,</p><p>and construction teams.</p><p>? Communicate effectively to ensure seamless coordination between different departments.</p><p>? Assist in negotiating contracts and agreements to ensure cost-effectiveness.</p><p>Qualifications -</p><p>? Currently enrolled in a relevant degree (Operations Management, Construction</p><p>Management or related field).</p><p>? Excellent communication and interpersonal skills.</p><p>? Eagerness to learn and contribute to the success of the team.</p><p>? Knowledge or interest in the construction industry is a plus</p><p>Benefits-</p><p>? Hands-on experience in a dynamic construction environment.</p><p>? Exposure to various aspects of supply chain and operations management.</p><p class=\"ql-align-justify\">? Opportunity to work with a collaborative and experienced team.</p><p><br></p><p class=\"ql-align-justify\"><br></p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
-  "mentorName": "Himaasree R",
-  "mentorEmailId": "himasree.r@nirmaan.org",
+  "mentorName": "",
+  "mentorEmailId": "",
   "mentorContactNumber": "",
   "discViewModels": [
     {
       "projectId": 2147,
-      "projectDisciplineId": 5528,
+      "projectDisciplineId": 6359,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,14 +31,14 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5528,
+      "projectDisciplineId": 6359,
       "projectId": 2147,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 1,
+      "freshRequirement": 2,
       "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
@@ -50,8 +50,8 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 1,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 1,
       "disciplineDetails": [],
@@ -64,10 +64,10 @@
     {
       "projectFacilityId": 2061,
       "projectId": 2147,
-      "officeStartTime": "09:00:00",
-      "officeEndTime": "18:00:00",
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 50000,
+      "ugstipend": 15000,
       "pgstipend": 0,
       "scholarship": 0,
       "currency": "INR",
@@ -96,23 +96,30 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-30T06:21:36",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T05:35:49",
+      "modifiedDate": "2024-11-10T05:23:56",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50581,
+      "projectSkillId": 59128,
       "projectId": 2147,
-      "skillId": 431
+      "skillId": 425
     },
     {
-      "projectSkillId": 50582,
+      "projectSkillId": 59129,
       "projectId": 2147,
-      "skillId": 141
+      "skillId": 313
+    },
+    {
+      "projectSkillId": 59130,
+      "projectId": 2147,
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
@@ -120,6 +127,21 @@
       "projectId": 2147,
       "projectDomainId": 3044,
       "academicDomainId": 44
+    },
+    {
+      "projectId": 2147,
+      "projectDomainId": 4798,
+      "academicDomainId": 45
+    },
+    {
+      "projectId": 2147,
+      "projectDomainId": 4799,
+      "academicDomainId": 198
+    },
+    {
+      "projectId": 2147,
+      "projectDomainId": 4800,
+      "academicDomainId": 244
     }
   ],
   "projectSubjectAreaSpecifics": [],
@@ -128,6 +150,21 @@
       "projectSubDomainId": 2786,
       "projectId": 2147,
       "academicSubDomainId": 155
+    },
+    {
+      "projectSubDomainId": 4427,
+      "projectId": 2147,
+      "academicSubDomainId": 105
+    },
+    {
+      "projectSubDomainId": 4428,
+      "projectId": 2147,
+      "academicSubDomainId": 106
+    },
+    {
+      "projectSubDomainId": 4429,
+      "projectId": 2147,
+      "academicSubDomainId": 152
     }
   ],
   "projectSubjectArea": [],

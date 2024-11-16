@@ -1,0 +1,162 @@
+{
+  "projectId": 1740,
+  "stationId": 5243,
+  "problemBankId": 941,
+  "problemBankCreatedBy": "maitya@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Optimization of VSF processes to conserve energy and improving quality",
+  "description": "<p>To study the VSF manufacturing processes, identifying bottlenecks, replacing with new energy efficient equipment and study analytics related to quality and process parameters.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Ravindra D R",
+  "mentorEmailId": "ravindra.dombekai@adityabirla.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1740,
+      "projectDisciplineId": 5006,
+      "projectDisciplineCodes": "A1,AnyA1",
+      "discCodesPerProject": "A1,AnyA1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5006,
+      "projectId": 1740,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 2,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A1,AnyA1",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13630,
+          "projectDisciplineId": 5006,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13631,
+          "projectDisciplineId": 5006,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 319,
+      "projectId": 1740,
+      "electiveId": 22,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1660,
+      "projectId": 1740,
+      "officeStartTime": "08:15",
+      "officeEndTime": "17:30:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 1,
+      "boysAccommodation": 1,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "BACHELOR'S HOSTEL",
+      "boysAccomodationAddress2": "STAFF COLONY",
+      "boysAccomodationCity": 122622,
+      "boysAccomodationState": 11,
+      "boysAccomodationCountry": 1,
+      "boysAccomodationPincode": "581123",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "maitya@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-19T03:09:26",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:45:29",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": "Harihar"
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37225,
+      "projectId": 1740,
+      "skillId": 423
+    },
+    {
+      "projectSkillId": 37226,
+      "projectId": 1740,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1740,
+      "projectDomainId": 2481,
+      "academicDomainId": 14
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2283,
+      "projectId": 1740,
+      "academicSubDomainId": 135
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

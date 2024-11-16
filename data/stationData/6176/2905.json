@@ -1,0 +1,229 @@
+{
+  "projectId": 2905,
+  "stationId": 6176,
+  "problemBankId": 1799,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1  Title: SaaS Platform feature building.",
+  "description": "<p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: Design and develop reliable, scalable, and high-performance software solutions that meet customer needs and business objectives.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets: Java, GoLang, Ruby,&nbsp; Python, Javascript, MongoDB, API, MySQL,&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: Ruby, NextJs, Debugging, System and Code design Patterns.</strong></p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2905,
+      "projectDisciplineId": 5992,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,AA,A7,A3,A8",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,AA,A7,A3,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5992,
+      "projectId": 2905,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,AA,A7,A3,A8",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17642,
+          "projectDisciplineId": 5992,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 17643,
+          "projectDisciplineId": 5992,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17644,
+          "projectDisciplineId": 5992,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 17645,
+          "projectDisciplineId": 5992,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 17646,
+          "projectDisciplineId": 5992,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17647,
+          "projectDisciplineId": 5992,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17648,
+          "projectDisciplineId": 5992,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17649,
+          "projectDisciplineId": 5992,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2815,
+      "projectId": 2905,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-09-27T09:31:00",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55845,
+      "projectId": 2905,
+      "skillId": 236
+    },
+    {
+      "projectSkillId": 55846,
+      "projectId": 2905,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 55847,
+      "projectId": 2905,
+      "skillId": 89
+    },
+    {
+      "projectSkillId": 55848,
+      "projectId": 2905,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2905,
+      "projectDomainId": 4214,
+      "academicDomainId": 2
+    },
+    {
+      "projectId": 2905,
+      "projectDomainId": 4215,
+      "academicDomainId": 128
+    },
+    {
+      "projectId": 2905,
+      "projectDomainId": 4216,
+      "academicDomainId": 127
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3870,
+      "projectId": 2905,
+      "academicSubDomainId": 1
+    },
+    {
+      "projectSubDomainId": 3871,
+      "projectId": 2905,
+      "academicSubDomainId": 2
+    },
+    {
+      "projectSubDomainId": 3872,
+      "projectId": 2905,
+      "academicSubDomainId": 128
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,157 @@
+{
+  "projectId": 3470,
+  "stationId": 6370,
+  "problemBankId": 2242,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "AI Mentor – Intelligent Quiz System for Student Performance Assessment",
+  "description": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description:&nbsp;</strong></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The AI Mentor project aims to create an intelligent quiz system that adapts and provides personalized quizzes to students based on their learning pace and performance. Using advanced AI techniques, including Large Language Models (LLMs) and reinforcement learning, the system will generate quizzes, evaluate student responses in real time, and provide insightful feedback. The AI will assess student weaknesses and recommend specific areas for improvement, ensuring continuous personalized learning. Over time, the system will also track progress and adjust quiz difficulty to match the student's learning curve.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill Sets</strong></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Large Language Models (LLMs) like GPT, PaLM</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Reinforcement Learning</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Python, TensorFlow, PyTorch</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Data Analytics and Adaptive Learning Algorithms</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Front-end Development (React, Angular)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Cloud Platforms (AWS, Azure, Google Cloud)</span></li></ul><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Traits expectation:</strong></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Analytical and innovative thinking</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Problem-solving with a focus on educational solutions</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Ability to design interactive systems with real-time feedback</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Strong collaboration and communication skills</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Passion for the EdTech industry</span></li></ul><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning:&nbsp;</strong></p><p class=\"ql-align-justify\"><br></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Experience with LLMs for educational content generation and adaptationHands-on skills in building adaptive AI-driven quizzes</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Understanding how reinforcement learning improves student performance over time</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Practical exposure to deploying AI solutions on cloud platforms</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Insights into data-driven approaches to personalized education</span></li></ul><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp;&nbsp;</strong></p><p><br></p><ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">AI in Education: Personalized Learning and Adaptive Systems (Coursera)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Applied Machine Learning and AI Specialization (Coursera)</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Deep Learning and Reinforcement Learning (Udacity)</span></li><li><br></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Cloud AI Solutions Architect (Google Cloud)</span></li></ul><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3470,
+      "projectDisciplineId": 6751,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6751,
+      "projectId": 3470,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20467,
+          "projectDisciplineId": 6751,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20468,
+          "projectDisciplineId": 6751,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3334,
+      "projectId": 3470,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-16T11:17:15",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60209,
+      "projectId": 3470,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 60210,
+      "projectId": 3470,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3470,
+      "projectDomainId": 5199,
+      "academicDomainId": 65
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4801,
+      "projectId": 3470,
+      "academicSubDomainId": 143
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,185 @@
+{
+  "projectId": 3145,
+  "stationId": 6247,
+  "problemBankId": 1987,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project no -11 & 12 for Electronics",
+  "description": "<p>Project</p><p>11</p><p>Title: Electronics and Automation for Data acquisition systems</p><p>Key Responsibilities:</p><p>• Design and develop high throughput Data acquisition systems for capturing, real-time analysis and</p><p>storing multivariate data stream from experiments.</p><p>• Development of timing and trigger circuits for lasers and data acquisition systems.</p><p>• Automation of control systems and hardware used for Laser-matter interaction experiments.</p><p>• High speed Image capture and analysis.</p><p>• Development of control electronics and automation of kinematic linear and rotation travel stages.</p><p>Preferred skills:</p><p>• Pursuing BTech or MTech in the field of Electronics, Photonics or Optical Engineering.</p><p>• Programming and electronics hardware interface experience using C, C++, Python, MATLAB,</p><p>LabVIEW or similar programming languages.</p><p>• Experience with EDA tools like Eagle/ Altium designer.</p><p>• Experience with PCB Design.</p><p>• Knowledge of microcontrollers and its protocols like SPI,I2C,etc</p><p>• Knowledge of power supplies, measurement and analytical instruments like oscilloscope, function</p><p>generator etc.</p><p>• Good interpersonal skills, with the ability to understand and communicate project overviews as well</p><p>as in-depth details.</p><p>Value addition for the intern:</p><p>• An opportunity to work with a multidisciplinary research team working on various problems in the field</p><p>of intense laser matter interaction, particle acceleration, nonlinear optics and coherent light sources.</p><p>• Training in design and development of complex electronics and control systems for experimental rigs</p><p>comprising of lasers, timing circuits, detectors and data acquisition systems.</p><p>• Training in capture, analysis and handling of complex data streams from experimental rigs.</p><p>Project</p><p>12</p><p>Title: Instrumentation control &amp; Automation</p><p>Key Responsibilities:</p><p>• Digital and Analog electronics</p><p>• Microcontrollers</p><p>• IOTs</p><p>• Advanced VLSI Design</p><p>Preferred skills:</p><p>• Pursuing BTech or MTech in the field of Electronics</p><p>• Programming and electronics hardware interface experience with exposure in Field instrumentation,</p><p>Control systems, LabVIEW, PLC, DCS &amp; SCADA systems, with preferable programming experience</p><p>in multiple languages: C, C++, Python.</p><p>Value addition for the intern:</p><p>• Development of end-to-end engineering solutions for Instrument Control and Automation from</p><p>planning to design to implementation and documentation, collaborating with a team of scientists and</p><p>engineers.</p><p>• Undertaking relevant research, producing and implementing designs.</p><p>• Calibrating products and instruments, creating test procedures, modifying and re-evaluating.</p><p>• Data Analysis and Interpretation.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3145,
+      "projectDisciplineId": 6233,
+      "projectDisciplineCodes": "AnyA3,AnyAA,AnyA8,AA,A8,A3",
+      "discCodesPerProject": "AnyA3,AnyAA,AnyA8,AA,A8,A3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6233,
+      "projectId": 3145,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyAA,AnyA8,AA,A8,A3",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18722,
+          "projectDisciplineId": 6233,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 18723,
+          "projectDisciplineId": 6233,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 18724,
+          "projectDisciplineId": 6233,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 18725,
+          "projectDisciplineId": 6233,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18726,
+          "projectDisciplineId": 6233,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18727,
+          "projectDisciplineId": 6233,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3015,
+      "projectId": 3145,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "For TIFR we will pay a scholarship of 20k for our students (CGPA 6 and above). ",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T01:53:40",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-15T04:31:33",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57702,
+      "projectId": 3145,
+      "skillId": 117
+    },
+    {
+      "projectSkillId": 57703,
+      "projectId": 3145,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3145,
+      "projectDomainId": 4553,
+      "academicDomainId": 28
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4170,
+      "projectId": 3145,
+      "academicSubDomainId": 113
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

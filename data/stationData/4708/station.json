@@ -2,30 +2,22 @@
   "problemBankGridLines": [
     {
       "stationId": 4708,
-      "stationName": "Dreamplug Technologies,Bengaluru",
-      "parentStationName": "Dreamplug Technologies,Bengaluru",
+      "stationName": "Dreamplug Technologies -Lending",
+      "parentStationName": "Dreamplug Technologies -Lending",
       "stationCity": "Bengaluru",
       "problemBankId": 1470,
       "businessDomain": "CSIS/IT",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 6,
-      "noOfProject": 2,
+      "totalRequirement": 0,
+      "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
       "psTypeName": "PS II",
-      "semesterId": 1,
+      "semesterId": 2,
       "status": null,
       "createdBy": "monali.mavani@pilani.bits-pilani.ac.in"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

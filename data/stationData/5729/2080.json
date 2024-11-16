@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2080,
-      "projectDisciplineId": 4169,
-      "projectDisciplineCodes": "AnyA4,A4",
-      "discCodesPerProject": "AnyA4,A4",
+      "projectDisciplineId": 5815,
+      "projectDisciplineCodes": "A4,AnyA4",
+      "discCodesPerProject": "A4,AnyA4",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4169,
+      "projectDisciplineId": 5815,
       "projectId": 2080,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -41,38 +41,38 @@
       "cgpamin": 0,
       "cgpamax": 10,
       "freshRequirement": 1,
-      "totalRequirement": 1,
+      "totalRequirement": 16,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA4,A4",
+      "disciplineCodes": "A4,AnyA4",
       "graduationTypeIds": [
-        0,
-        1
+        1,
+        0
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 15,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 10499,
-          "projectDisciplineId": 4169,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 4
-        },
-        {
-          "projectDisciplineDetailId": 10500,
-          "projectDisciplineId": 4169,
+          "projectDisciplineDetailId": 17181,
+          "projectDisciplineId": 5815,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17182,
+          "projectDisciplineId": 5815,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
         }
       ],
       "selectedContinuingStudentList": null,
@@ -116,11 +116,13 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-29T09:50:15",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-01T11:53:25",
+      "modifiedDate": "2024-07-23T05:46:29",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
     }
   ],
   "projectSkill": [

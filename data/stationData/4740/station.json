@@ -9,7 +9,7 @@
       "businessDomain": "CSIS/IT",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 11,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
@@ -17,15 +17,25 @@
       "semesterId": 1,
       "status": null,
       "createdBy": "monali.mavani@pilani.bits-pilani.ac.in"
+    },
+    {
+      "stationId": 4740,
+      "stationName": "Eltropy - Development (Engineering Team)",
+      "parentStationName": "Eltropy ",
+      "stationCity": "Bengaluru",
+      "problemBankId": 2136,
+      "businessDomain": "CSIS/IT",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "monali.mavani@pilani.bits-pilani.ac.in"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

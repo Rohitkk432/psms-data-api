@@ -2,14 +2,14 @@
   "problemBankGridLines": [
     {
       "stationId": 5269,
-      "stationName": "Eureka Forbes Limited",
-      "parentStationName": "Eureka Forbes Limited",
-      "stationCity": "Gurgaon",
+      "stationName": "Eureka Forbes Limited, Bengaluru",
+      "parentStationName": "Eureka Forbes Limited, Bengaluru",
+      "stationCity": "Bengaluru",
       "problemBankId": 1556,
       "businessDomain": "CSIS/IT",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 4,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
@@ -17,15 +17,25 @@
       "semesterId": 1,
       "status": null,
       "createdBy": "jyotsana.grover@pilani.bits-pilani.ac.in"
+    },
+    {
+      "stationId": 5269,
+      "stationName": "Eureka Forbes Limited, Bengaluru",
+      "parentStationName": "Eureka Forbes Limited, Bengaluru",
+      "stationCity": "Bengaluru",
+      "problemBankId": 2181,
+      "businessDomain": "CSIS/IT",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 4,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "planning@bits.com"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

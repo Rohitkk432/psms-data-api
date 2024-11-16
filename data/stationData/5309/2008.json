@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "NA",
-  "description": "<p>NA</p>",
+  "title": "Title: Applied Data Science Intern",
+  "description": "<p><strong style=\"color: rgb(0, 0, 0);\">Title: </strong><span style=\"color: rgb(0, 0, 0);\">Applied Data Science Intern</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: </strong><span style=\"color: rgb(0, 0, 0);\">Join us in building data-driven solutions that empower farmers and support financial and digital inclusion in agriculture and dairy. As an intern, you will work with diverse data sources to assist in creating robust, scalable systems. Projects will include data preparation, applying AI models, and designing end-to-end pipelines to solve real-world problems.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Programming: Python, SQL</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Machine Learning: Fundamentals in supervised and unsupervised learning</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Data Engineering: Data cleaning, feature engineering, and ETL processes</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Visualization: Ability to present insights using tools like Matplotlib, Seaborn, or Power BI</span></li></ul><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation:&nbsp;</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Strong analytical skills and problem-solving mindset</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Curiosity and eagerness to learn and apply new techniques</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Ability to communicate technical findings effectively</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Attention to detail, especially with data accuracy and integrity</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Proven work/internship experience of at least 3 months in Data Science will be preferred</span></li><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Previous experience with AI/ML will be preferred</strong></li></ul><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Hands-on experience with building and deploying data science pipelines</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Practical experience with model training, evaluation, and optimization</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Understanding of the data lifecycle within applied Agritech and digital inclusion projects</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Will work with cross functional teams to understand different ways to use data&nbsp;</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Chance to work full time at BharatMandi</span></li></ul><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp;</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Machine Learning and AI fundamentals</span></li><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Data Engineering and ETL Processes</strong></li></ul><p><br></p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,10 +18,13 @@
   "discViewModels": [
     {
       "projectId": 2008,
-      "projectDisciplineId": 4064,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectDisciplineId": 6352,
+      "projectDisciplineCodes": "AnyA7,A7,H103,H112",
+      "discCodesPerProject": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
       "anySingle": false,
       "anyDual": false,
       "anyEither": false,
@@ -31,21 +34,25 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4064,
+      "projectDisciplineId": 6352,
       "projectId": 2008,
-      "degreeTypeId": null,
+      "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 0,
-      "cgpamin": 0,
+      "higherDegree": 1,
+      "cgpamin": 8,
       "cgpamax": 10,
-      "freshRequirement": 2,
-      "totalRequirement": 2,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
-      "degree": "",
+      "disciplineCodes": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -54,7 +61,36 @@
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
-      "disciplineDetails": [],
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19122,
+          "projectDisciplineId": 6352,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19123,
+          "projectDisciplineId": 6352,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19124,
+          "projectDisciplineId": 6352,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19125,
+          "projectDisciplineId": 6352,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -67,8 +103,8 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 0,
-      "pgstipend": 0,
+      "ugstipend": 25000,
+      "pgstipend": 25000,
       "scholarship": null,
       "currency": "INR",
       "subsidizedLunch": 2,
@@ -95,12 +131,14 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-22T06:19:02",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-13T08:49:27",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

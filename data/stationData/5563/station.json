@@ -9,7 +9,7 @@
       "businessDomain": "CSIS/IT",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 3,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
@@ -17,15 +17,25 @@
       "semesterId": 1,
       "status": null,
       "createdBy": "prakruthi.hareesh@pilani.bits-pilani.ac.in"
+    },
+    {
+      "stationId": 5563,
+      "stationName": "Altair, Pune",
+      "parentStationName": "Altair, Pune",
+      "stationCity": "Pune",
+      "problemBankId": 1945,
+      "businessDomain": "CSIS/IT",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "planning@bits.com"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

@@ -1,0 +1,249 @@
+{
+  "projectId": 2911,
+  "stationId": 6180,
+  "problemBankId": 1804,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project details from 10 to 18 Project details given in Project Description",
+  "description": "<p>Project 10 Title: Profile Page and Category page parity on mweb</p><p><br></p><p>Description: Building a category page out of scratch on Mweb which would help</p><p>users choose the preferred categories from the collections at Myntra. The page</p><p>should be able to house L0,L1 and L2 tiles with complete configurability of items</p><p>on the fly.</p><p>Along with this, migration and revamp of the profile page to bring to parity with</p><p>the profile page on App.</p><p>Skill sets: Javascript, Typescript, React,React-Native, HTML, CSS,</p><p>Traits expectation: Problem solving, Passion for Learning</p><p>Specific courses required for project execution: Javascript, Typescript, React,</p><p>HTML, CSS</p><p><br></p><p>Project 11 Modernization of pigeon service</p><p><br></p><p>Description: Pigeon is built out of NodeJs. We have been observing scalability and</p><p>observability issues. The idea is to move this to a microservice architecture on Java.</p><p>Skill sets: Java, Sprinboot, Cassandra</p><p>Traits expectation: Problem solving, scalability, performance optimization, higher</p><p>learning cure</p><p>Specific courses required for project execution:</p><p>- Java, Sprinboot, Cassandra</p><p><br></p><p>Project 12 Title: USPS Revamp</p><p><br></p><p>Description: There is a lot of tech debt on USPS and it also has concurrency issues that</p><p>have been identified which needs a fix. There is also a scope to improve the performance</p><p>of the service, which would reduce the hardware footprint.</p><p>Skill sets: Java, Springboot, MongoDB</p><p>Traits expectation: Good with OOPS concepts, concurrency, problem solving</p><p>Specific courses required for project execution:</p><p>OOPS concepts in Java, SpringBoot basics, MongoDB basics</p><p>Project No. Project Title &amp; Project Description including skill sets &amp; Expected learning:</p><p>Project 13 Title: Enhancing Release Engineering Capabilities to Achieve Faster Time to Market</p><p><br></p><p>Description:</p><p>In this project, engineers are supposed to enhance existing platforms with multiple</p><p>capabilities that comprise the following but are not limited to:</p><p>? Improved regression identification</p><p>? Supply Chain Vulnerability Reduction</p><p>? Benchmarking Application Performance</p><p>? Standardisation of Governance &amp; Control Framework</p><p>? Better self-serve capabilities</p><p>Skill sets: Golang, NodeJS, ReactJS, Python, Docker, Kubernetes, CI/CD, Cloud</p><p>Traits expectation: Problem-Solving, Passion for Learning multiple tech stacks,</p><p>Motivated</p><p>Expected learning:</p><p>? Understanding of Myntra’s Developer productivity platform</p><p>? Working with systems like Docker, Kubernetes</p><p>? Working knowledge of how an application moves from development to</p><p>production and the challenges in this flow.</p><p>Specific courses required for project execution: Golang, Kubernetes, GitHub</p><p>Actions, Azure</p><p><br></p><p>Project 14 Title: Enhancing the security posture of Myntra services</p><p><br></p><p>Description:</p><p>An ongoing project where engineers are working to improve security posture for Myntra</p><p>platforms. In this project, engineers are developing new capabilities for east-west traffic</p><p>encryption with a zero trust model, building capabilities to support DPDP Act 2023.</p><p>Skill sets: Golang, Python, Cryptography, Kerberos, Vault, PKI, Distributed Systems</p><p>Traits expectation: Problem Solving, Passion for Learning, Motivated</p><p>Expected learning:</p><p>? Understanding of Myntra’s Vault ecosystem</p><p>? Working with systems like Vault, Docker, Kubernetes</p><p>? Working knowledge of key aspects of zero trust-based systems and their use as</p><p>an identity provider</p><p><br></p><p>Specific courses required for project execution: Golang, Vault, Kubernetes, Azure,</p><p>server-side security, PKI infrastructure, Cryptographic algorithms</p><p><br></p><p>Project 15</p><p>Title:</p><p>Build &amp; Enable Anomaly Detection Platform in Supply Chain Outbound to Address</p><p>Inventory Out-of-Stock, Non-Serviceability Patterns</p><p>Description:</p><p>The objective of this anomaly detection platform is to enhance situational awareness</p><p>within the supply chain, streamline operational efficiency, and mitigate the negative</p><p>impact of abnormal patterns or events. By automating the identification of anomalies, this</p><p>system allows organisations to focus on critical business concerns, make informed</p><p>decisions using real-time data, and respond swiftly to any detected issues. </p><p>Skill Sets:</p><p>? Good in Java or GoLang for backend development</p><p>? Familiarity with MongoDB or other NoSQL databases</p><p>? Knowledge of Stream Processing technologies for handling real-time data</p><p>? Familiarity with Docker and Kubernetes for containerization and orchestration</p><p>Traits Expectation:</p><p>Specific Courses Required for Project Execution:</p><p>? Mastery of Java or GoLang</p><p>? Expertise in MongoDB or other NoSQL databases</p><p>? Stream processing techniques for real-time applications</p><p>? Proficiency in Docker for container management</p><p>? Kubernetes for managing distributed systems at scale</p><p><br></p><p>Project 16</p><p>Title:</p><p>Supply Chain Operational Simulator to Test Post-Order Processing Flows</p><p>Description:</p><p>In the post-order journey, an order moves through multiple critical stages across the</p><p>warehouse and logistics facilities. These stages include order picking, item consolidation,</p><p>packing, sorting, and ultimately the delivery process, where delivery agents execute a</p><p><br></p><p>milk-run to hand off shipments to customers. Additionally, reverse logistics for returned</p><p>items ensures they are processed back to the warehouse for restocking. </p><p>Skill Sets:</p><p>? Proficient in Java or GoLang for robust backend development</p><p>? Experience with React and Node.js for creating dynamic, responsive UIs</p><p>? Familiarity with MongoDB or other NoSQL databases for data storage and</p><p>management</p><p>? Competence in Docker and Kubernetes for containerization and efficient</p><p>orchestration</p><p>Traits Expectation:</p><p>? Curiosity: A deep-seated interest in understanding complex systems and finding</p><p>solutions</p><p>? High Motivation &amp; Dedication: Strong commitment to delivering high-quality</p><p>results and overcoming challenges</p><p>? Analytical Skills: Ability to analyse and interpret patterns, data, and operational</p><p>workflows to derive insights</p><p>Expected Learning:</p><p>? Comprehensive knowledge of Myntra’s supply chain processes</p><p>? In-depth understanding of order management, warehouse operations, logistics,</p><p>and CRM systems</p><p>? Hands-on experience with UI development and backend technologies</p><p>? Exposure to distributed systems architecture and strategies to tackle scaling</p><p>challenges</p><p>Specific Courses Required for Project Execution:</p><p>? Proficiency in Java or GoLang for backend development</p><p>? Expertise in React and Node.js for UI development</p><p>? Familiarity with MongoDB or other NoSQL databases</p><p>? Knowledge of Docker and Kubernetes for managing containers and</p><p>orchestration</p><p><br></p><p>Project 17</p><p>Title:</p><p>Attribute as a service to allow clients to add the attributes to core catalog styles.</p><p>Description:</p><p>In the Product ingestion flow, the current catalog management system allows the core</p><p>attributes to be added. These core attributes are common to all clients. However certain</p><p>clients require some specific attributes to be present for these products to handle their</p><p>specific feature asks. The aim of this project is to develop a microservice that allows</p><p>clients to add specific attributes and when the catalog management system is queried,</p><p>based on the clients, these additional attributes need to be present in the response.</p><p>Skill Sets:</p><p>? Proficient in Java for robust backend development</p><p>? Experience with React and Node.js for creating dynamic, responsive UIs</p><p>? Familiarity with Mysql databases for data storage and management</p><p><br></p><p>? Competence in Docker and Kubernetes for containerization and efficient</p><p>orchestration</p><p>Traits Expectation:</p><p>? Curiosity: A deep-seated interest in understanding complex systems and finding</p><p>solutions</p><p>? High Motivation &amp; Dedication: Strong commitment to delivering high-quality</p><p>results and overcoming challenges</p><p>? Analytical Skills: Ability to analyse and interpret patterns, data, and operational</p><p>workflows to derive insights</p><p>Expected Learning:</p><p>? Comprehensive knowledge of Myntra’s Supply chain processes</p><p>? In-depth understanding of Catalog management and attribute management</p><p>systems</p><p>? Hands-on experience with UI development and backend technologies</p><p>? Exposure to distributed systems architecture and strategies to tackle scaling</p><p>challenges</p><p>Specific Courses Required for Project Execution:</p><p>? Proficiency in Java for backend development</p><p>? Expertise in React and Node.js for UI development</p><p>? Familiarity with MySql</p><p>? Knowledge of Docker and Kubernetes for managing containers and</p><p>orchestration</p><p><br></p><p>Project 18 Title: GenAI to improve catalog ingestion process.</p><p><br></p><p>Description:</p><p>Enhance the Catalog style ingestion process by introducing an AI-powered \"Description”,</p><p>“Image” addition feature.. This tool will allow users to add the genai recommended</p><p>description and the attributes based on the image to the system.. The goal is to increase</p><p>the speed and accuracy.</p><p>Skill sets: Java,React,Machine Learning</p><p>Traits expectation: Problem Solving, Dealing with Challenges, Passion for Learning</p><p>Specific courses required for project execution: Java, React</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2911,
+      "projectDisciplineId": 5998,
+      "projectDisciplineCodes": "AnyA7,AnyA3,AnyA8,AnyAA,A7,A3,A8,AA",
+      "discCodesPerProject": "AnyA7,AnyA3,AnyA8,AnyAA,A7,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5998,
+      "projectId": 2911,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 9,
+      "totalRequirement": 9,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyA3,AnyA8,AnyAA,A7,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17689,
+          "projectDisciplineId": 5998,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17690,
+          "projectDisciplineId": 5998,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 17691,
+          "projectDisciplineId": 5998,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 17692,
+          "projectDisciplineId": 5998,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 17693,
+          "projectDisciplineId": 5998,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17694,
+          "projectDisciplineId": 5998,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17695,
+          "projectDisciplineId": 5998,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17696,
+          "projectDisciplineId": 5998,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2821,
+      "projectId": 2911,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 60000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-09-28T07:02:38",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-09-28T07:04:26",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55875,
+      "projectId": 2911,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 55876,
+      "projectId": 2911,
+      "skillId": 244
+    },
+    {
+      "projectSkillId": 55877,
+      "projectId": 2911,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 55878,
+      "projectId": 2911,
+      "skillId": 187
+    },
+    {
+      "projectSkillId": 55879,
+      "projectId": 2911,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2911,
+      "projectDomainId": 4235,
+      "academicDomainId": 128
+    },
+    {
+      "projectId": 2911,
+      "projectDomainId": 4236,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2911,
+      "projectDomainId": 4237,
+      "academicDomainId": 248
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3891,
+      "projectId": 2911,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 3892,
+      "projectId": 2911,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 3893,
+      "projectId": 2911,
+      "academicSubDomainId": 115
+    },
+    {
+      "projectSubDomainId": 3894,
+      "projectId": 2911,
+      "academicSubDomainId": 116
+    },
+    {
+      "projectSubDomainId": 3895,
+      "projectId": 2911,
+      "academicSubDomainId": 124
+    },
+    {
+      "projectSubDomainId": 3896,
+      "projectId": 2911,
+      "academicSubDomainId": 445
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

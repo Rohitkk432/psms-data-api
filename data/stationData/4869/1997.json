@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "NA",
-  "description": "<p>NA</p>",
+  "title": "WILP - Control systems, IC Engines, RSM , Hyderabad",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">WILP - Control systems, IC Engines, RSM , Hyderabad</span></p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 1997,
-      "projectDisciplineId": 5636,
-      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,A8,AA,A3,A4,AB",
-      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,A8,AA,A3,A4,AB",
+      "projectDisciplineId": 6682,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,AnyA7,A8,AA,A3,A4,AB,A7",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,AnyA7,A8,AA,A3,A4,AB,A7",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5636,
+      "projectDisciplineId": 6682,
       "projectId": 1997,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -41,11 +41,11 @@
       "cgpamin": 0,
       "cgpamax": 10,
       "freshRequirement": 2,
-      "totalRequirement": 3,
+      "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,A8,AA,A3,A4,AB",
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA4,AnyAB,AnyA7,A8,AA,A3,A4,AB,A7",
       "graduationTypeIds": [
         0,
         1
@@ -55,79 +55,93 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 1,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 16616,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20195,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 16617,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20196,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 16618,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20197,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 16619,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20198,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 4
         },
         {
-          "projectDisciplineDetailId": 16620,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20199,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 15
         },
         {
-          "projectDisciplineDetailId": 16621,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20200,
+          "projectDisciplineId": 6682,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20201,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 16622,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20202,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 16623,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20203,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 16624,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20204,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 16625,
-          "projectDisciplineId": 5636,
+          "projectDisciplineDetailId": 20205,
+          "projectDisciplineId": 6682,
           "graduationTypeId": 1,
           "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20206,
+          "projectDisciplineId": 6682,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
           "discipline2Id": null
         }
       ],
@@ -143,7 +157,7 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 20000,
+      "ugstipend": 25000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -172,11 +186,13 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-22T05:42:54",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T04:32:45",
+      "modifiedDate": "2024-11-16T15:20:26",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

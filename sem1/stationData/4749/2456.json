@@ -1,0 +1,175 @@
+{
+  "projectId": 2456,
+  "stationId": 4749,
+  "problemBankId": 1425,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Software engineer",
+  "description": "<p>Description: Participate in the software development </p><p>? Develop an innovative, appealing, high-quality apps in a cross-functional</p><p>team</p><p>? Write clean, simple and well-tested code</p><p>Skill sets: Python, Java, or similar languages. Basic knowledge of deep</p><p>learning frameworks, such as TensorFlow or PyTorch.</p><p>Basic understanding of 3D point cloud processing, computer vision, and</p><p>machine learning</p><p>concepts.</p><p>Traits expectation:</p><p>Strong problem-solving skills and a logical mindset.</p><p>? Excellent communication and interpersonal skills.</p><p>? Ability to adapt quickly to new challenges and technologies.</p><p>? Enthusiasm for exploring and contributing to the field of artificial</p><p>intelligence and 3D point</p><p>cloud classification.</p><p>? Demonstrated creativity and a proactive approach to learning.</p><p>Expected learning:</p><p>Specific courses required for project execution:</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2456,
+      "projectDisciplineId": 5380,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5380,
+      "projectId": 2456,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 2,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 15521,
+          "projectDisciplineId": 5380,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 15522,
+          "projectDisciplineId": 5380,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2370,
+      "projectId": 2456,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-10T08:42:34",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-10T08:42:58",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51291,
+      "projectId": 2456,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51292,
+      "projectId": 2456,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2456,
+      "projectDomainId": 3465,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2456,
+      "projectDomainId": 3466,
+      "academicDomainId": 2
+    },
+    {
+      "projectId": 2456,
+      "projectDomainId": 3467,
+      "academicDomainId": 41
+    },
+    {
+      "projectId": 2456,
+      "projectDomainId": 3468,
+      "academicDomainId": 281
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3194,
+      "projectId": 2456,
+      "academicSubDomainId": 2
+    },
+    {
+      "projectSubDomainId": 3195,
+      "projectId": 2456,
+      "academicSubDomainId": 489
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

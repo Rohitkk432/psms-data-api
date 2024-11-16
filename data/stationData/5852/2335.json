@@ -10,7 +10,7 @@
   "description": "<p>Title: Re-architecting Postman's Collection Codebase</p><p>Description: Work on re-architecting core flows of Postman&amp;#39;s collection feature to optimize</p><p>performance and improve 99th percentile (aka P99) loading time metrics. Tasks include</p><p>code optimization, transitioning from synchronous to asynchronous flows, removing</p><p>redundant code, implementing pagination, and reducing complexities.</p><p>Skill sets: Node.js, MySQL, Microservices Architecture, Monitoring Tools (New Relic)</p><p>Traits expectation: Strong problem-solving skills, Attention to detail, Eagerness to learn</p><p>and adapt, Good in DS &amp;amp; Database concepts, Team player with good communication skills</p><p>Expected learning: Advanced Node.js, MySQL optimization. Microservices design.</p><p>Performance optimization strategies, Asynchronous programming, Monitoring and</p><p>performance analysis (New Relic)</p><p>Specific courses required for project execution: DS &amp;amp; Algos, OS, Databases</p><p>Title: Optimise the P95 for Public Documentation</p><p>Description: This will involve understanding how the collection documentation is rendered,</p><p>how the workflows of caching and cache expiry works, critical API loading paths,</p><p>optimsations related to the critical paths, DOM virtualisation for the components especially</p><p>in case of large documentations. This also includes instrumenting and measuring various</p><p>client side performance metrics and coming up with a plan to optimise for each of those</p><p>metrics.</p><p>Skill sets: Javascript, React, Node.js, MySQL, Microservices Architecture, Monitoring Tools</p><p>(New Relic)</p><p>Traits expectation:&nbsp;Strong problem-solving skills, Attention to detail, Eagerness to learn</p><p>and adapt, Team player with good communication skills</p><p>Expected learning: Advanced React and Node.js, Microservices design, Performance</p><p>optimization strategies, Asynchronous programming, Monitoring and performance analysis</p><p>(New Relic)</p><p>Specific courses required for project execution: React, Node.js, MySQL, OOP</p><p>Title: Load testing and scaling mock servers to support 10k rpm limit per team</p><p>Description: This requires understanding of critical API collection API loading for mocks,</p><p>optimising the matching algorithms, caching and expiry of collection data, understanding the</p><p>pods and pod based scaling, estimating the capacity of pods and improving the bottlenecks</p><p>in mock execution. This will require load testing of the existing systems and other</p><p>dependent systems in the critical path. This might require some architectural changes as</p><p>well.</p><p>Skill sets: Node.js, MySQL, Microservices Architecture, Monitoring Tools (New Relic)</p><p>Traits expectation: Strong problem-solving skills, Attention to detail, Eagerness to learn</p><p>and adapt, Team player with good communication skills</p><p>Expected learning: Advanced React and Node.js, Microservices design, Performance</p><p>optimization strategies, Asynchronous programming, Monitoring and performance analysis</p><p>(New Relic)</p><p>Specific courses required for project execution: DS &amp;amp; Algos, OS, Databases</p><p>Title:&nbsp;Improve end to end test coverage for Postman Secret Scanner feature</p><p>Description: Writing automations for Postman Secret Scanner features to improve quality</p><p>of feature. Tasks include writing integration tests, Postman collections to monitor feature</p><p>flows.</p><p>Skill sets: Basics of JavaScript, Node.js,</p><p>Traits expectation: Team player, communications, curiosity, eager to learn</p><p>Expected learning: Writing production ready code</p><p>Specific courses required for project execution: DS &amp;amp; AlgosNetwork Security</p><p>Title: Show most active Workspaces in a team</p><p>Description: Create a feature to determine and show most used workspaces within a team</p><p><br></p><p>based on different data sources like activities, user actions etc.</p><p>Skill sets: Node.js, MySQL, Microservices Architecture</p><p>Traits expectation: Strong problem-solving skills, Attention to detail, Eagerness to learn</p><p>and adapt</p><p>Expected learning: Asynchronous programming, Node.js, MySQL schema design,</p><p>Microservices API design, Monitoring and performance analysis (New Relic)</p><p>Specific courses required for project execution: OOP, DB</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2335,
-      "projectDisciplineId": 5443,
-      "projectDisciplineCodes": "A7,AnyA7",
-      "discCodesPerProject": "A7,AnyA7",
+      "projectDisciplineId": 6482,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
       "graduationTypeIds": [
         1
       ],
@@ -33,25 +33,25 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5443,
+      "projectDisciplineId": 6482,
       "projectId": 2335,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 7.5,
       "cgpamax": 10,
-      "freshRequirement": 4,
-      "totalRequirement": 4,
+      "freshRequirement": 0,
+      "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
-      "disciplineCodes": "A7,AnyA7",
+      "continuingStudent": 1,
+      "disciplineCodes": "AnyA7,A7",
       "graduationTypeIds": [
-        1,
-        0
+        0,
+        1
       ],
       "degree": "Both",
-      "continuingStudentCount": 0,
+      "continuingStudentCount": 2,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
@@ -61,18 +61,18 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 15723,
-          "projectDisciplineId": 5443,
-          "graduationTypeId": 1,
-          "disciplineId": 12,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 15724,
-          "projectDisciplineId": 5443,
+          "projectDisciplineDetailId": 19478,
+          "projectDisciplineId": 6482,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19479,
+          "projectDisciplineId": 6482,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
         }
       ],
       "selectedContinuingStudentList": null,
@@ -135,11 +135,13 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-03T15:31:29",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-20T16:03:17",
+      "modifiedDate": "2024-11-12T08:49:51",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

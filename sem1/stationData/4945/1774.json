@@ -1,0 +1,226 @@
+{
+  "projectId": 1774,
+  "stationId": 4945,
+  "problemBankId": 967,
+  "problemBankCreatedBy": "ravi.reosekar@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Assignments based on Operational Excellence i.e. Divgi-TTS production system",
+  "description": "<p>-Projects related to Lean Manufacturing, Testing and validation transfer case components.</p><p><span style=\"background-color: white; color: rgb(34, 34, 34);\">-Projects based on Operational Excellence i.e Divgi -TTS Production System, Assembly/part process development, Assembly layout, Lean Mfg, Productivity improvement, Production Planning and control, Design verification/calculation, Problem solving &amp; Product/ part development documentation, SAP data analysis &amp; interpretation etc.</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Gopal Dalvi",
+  "mentorEmailId": "gkdalvi@divgi-tts.com",
+  "mentorContactNumber": "9922909464",
+  "discViewModels": [
+    {
+      "projectId": 1774,
+      "projectDisciplineId": 4936,
+      "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "discCodesPerProject": "AnyA4,AnyAB,A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4936,
+      "projectId": 1774,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 1,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13270,
+          "projectDisciplineId": 4936,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 13271,
+          "projectDisciplineId": 4936,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 13272,
+          "projectDisciplineId": 4936,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13273,
+          "projectDisciplineId": 4936,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 326,
+      "projectId": 1774,
+      "electiveId": 627,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1693,
+      "projectId": 1774,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15500,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 1,
+      "medical": 1,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "ravi.reosekar@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-19T12:46:39",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-12T11:28:09",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37343,
+      "projectId": 1774,
+      "skillId": 164
+    },
+    {
+      "projectSkillId": 37344,
+      "projectId": 1774,
+      "skillId": 126
+    },
+    {
+      "projectSkillId": 37345,
+      "projectId": 1774,
+      "skillId": 107
+    },
+    {
+      "projectSkillId": 37346,
+      "projectId": 1774,
+      "skillId": 277
+    },
+    {
+      "projectSkillId": 37347,
+      "projectId": 1774,
+      "skillId": 188
+    },
+    {
+      "projectSkillId": 37348,
+      "projectId": 1774,
+      "skillId": 425
+    },
+    {
+      "projectSkillId": 37349,
+      "projectId": 1774,
+      "skillId": 44
+    },
+    {
+      "projectSkillId": 37350,
+      "projectId": 1774,
+      "skillId": 45
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1774,
+      "projectDomainId": 2545,
+      "academicDomainId": 187
+    },
+    {
+      "projectId": 1774,
+      "projectDomainId": 2546,
+      "academicDomainId": 130
+    },
+    {
+      "projectId": 1774,
+      "projectDomainId": 2547,
+      "academicDomainId": 140
+    },
+    {
+      "projectId": 1774,
+      "projectDomainId": 2548,
+      "academicDomainId": 148
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2333,
+      "projectId": 1774,
+      "academicSubDomainId": 251
+    },
+    {
+      "projectSubDomainId": 2334,
+      "projectId": 1774,
+      "academicSubDomainId": 312
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

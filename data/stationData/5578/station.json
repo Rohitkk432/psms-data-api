@@ -9,23 +9,33 @@
       "businessDomain": "Electronics",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 6,
-      "noOfProject": 1,
+      "totalRequirement": 0,
+      "noOfProject": 2,
       "batchId": 16,
       "psTypeId": 2,
       "psTypeName": "PS II",
       "semesterId": 1,
       "status": null,
       "createdBy": "planning@bits.com"
+    },
+    {
+      "stationId": 5578,
+      "stationName": "SiFive India Pvt Ltd",
+      "parentStationName": "SiFive India Pvt Ltd",
+      "stationCity": "Bengaluru",
+      "problemBankId": 1948,
+      "businessDomain": "Electronics",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "rekha.anandrao@pilani.bits-pilani.ac.in"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

@@ -2,14 +2,14 @@
   "problemBankGridLines": [
     {
       "stationId": 5523,
-      "stationName": "GE Vernova Advanced Research, JFWTC",
-      "parentStationName": "GE Vernova Advanced Research, JFWTC",
+      "stationName": "GE Vernova Advanced (BANGALORE/NOIDA/HYDERABAD)",
+      "parentStationName": "GE Vernova Advanced ",
       "stationCity": "Bengaluru",
       "problemBankId": 859,
       "businessDomain": "Electronics",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 1,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
@@ -17,15 +17,43 @@
       "semesterId": 1,
       "status": null,
       "createdBy": "planning@bits.com"
+    },
+    {
+      "stationId": 5523,
+      "stationName": "GE Vernova Advanced (BANGALORE/NOIDA/HYDERABAD)",
+      "parentStationName": "GE Vernova Advanced ",
+      "stationCity": "Bengaluru",
+      "problemBankId": 1857,
+      "businessDomain": "Electronics",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "planning@bits.com"
+    },
+    {
+      "stationId": 5523,
+      "stationName": "GE Vernova Advanced (BANGALORE/NOIDA/HYDERABAD)",
+      "parentStationName": "GE Vernova Advanced ",
+      "stationCity": "Bengaluru",
+      "problemBankId": 2107,
+      "businessDomain": "Electronics",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "planning@bits.com"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

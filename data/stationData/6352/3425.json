@@ -1,0 +1,243 @@
+{
+  "projectId": 3425,
+  "stationId": 6352,
+  "problemBankId": 2208,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Job Title: Software Development Engineer (SDE) Intern",
+  "description": "<p><br></p><p>Job Overview:</p><p>We are seeking a skilled and innovative Software Development Engineer to join our dynamic team.</p><p>As an SDE, you will be responsible for designing, developing, and maintaining software applications</p><p><br></p><p>that drive our products and services. You will work in an agile environment, collaborating with cross-</p><p>functional teams to deliver high-quality solutions that meet business objectives and enhance the</p><p><br></p><p>user experience.</p><p>Key Responsibilities:</p><p>• Design, Develop, and Test Software: Build scalable, reliable, and efficient software solutions</p><p>using modern programming languages and frameworks.</p><p>• Collaborate with Teams: Work closely with product managers, designers, and other</p><p>engineers to understand requirements and translate them into high-quality code.</p><p>• Code Reviews and Testing: Participate in code reviews and ensure best practices in software</p><p>development are followed. Write unit tests and perform debugging to ensure software</p><p>quality.</p><p>• Optimize Performance: Identify bottlenecks and improve performance of existing software</p><p>systems to ensure scalability and reliability.</p><p>• Continuous Improvement: Stay updated with the latest industry trends, tools, and</p><p>technologies, and incorporate them into your work to improve the development process.</p><p>• Problem-Solving: Tackle complex technical challenges by analyzing problems and creating</p><p>effective solutions.</p><p>Qualifications:</p><p>• Educational Background: Bachelor’s degree in Engineering, or related field.</p><p>• Proficiency in Programming: Strong knowledge of programming languages such as Python,</p><p>JavaScript, etc and web technologies such as React, Typescript, Websockets, etc.</p><p>• Software Design Principles: Understanding of object-oriented programming, software design</p><p>patterns such as MVC, etc and data structures.</p><p>• Database Knowledge: Experience working with relational databases (SQL) and NoSQL</p><p>databases.</p><p>• Problem-Solving Skills: Strong analytical and problem-solving abilities, especially when</p><p>working with complex systems.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3425,
+      "projectDisciplineId": 6687,
+      "projectDisciplineCodes": "AnyA7,A7,H103,H112",
+      "discCodesPerProject": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6687,
+      "projectId": 3425,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20220,
+          "projectDisciplineId": 6687,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20221,
+          "projectDisciplineId": 6687,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20222,
+          "projectDisciplineId": 6687,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20223,
+          "projectDisciplineId": 6687,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3288,
+      "projectId": 3425,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 35000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-15T18:51:45",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60024,
+      "projectId": 3425,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 60025,
+      "projectId": 3425,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60026,
+      "projectId": 3425,
+      "skillId": 128
+    },
+    {
+      "projectSkillId": 60027,
+      "projectId": 3425,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 60028,
+      "projectId": 3425,
+      "skillId": 102
+    },
+    {
+      "projectSkillId": 60029,
+      "projectId": 3425,
+      "skillId": 439
+    },
+    {
+      "projectSkillId": 60030,
+      "projectId": 3425,
+      "skillId": 236
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3425,
+      "projectDomainId": 5091,
+      "academicDomainId": 298
+    },
+    {
+      "projectId": 3425,
+      "projectDomainId": 5092,
+      "academicDomainId": 295
+    },
+    {
+      "projectId": 3425,
+      "projectDomainId": 5093,
+      "academicDomainId": 54
+    },
+    {
+      "projectId": 3425,
+      "projectDomainId": 5094,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 3425,
+      "projectDomainId": 5095,
+      "academicDomainId": 18
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4697,
+      "projectId": 3425,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 4698,
+      "projectId": 3425,
+      "academicSubDomainId": 116
+    },
+    {
+      "projectSubDomainId": 4699,
+      "projectId": 3425,
+      "academicSubDomainId": 115
+    },
+    {
+      "projectSubDomainId": 4700,
+      "projectId": 3425,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 4701,
+      "projectId": 3425,
+      "academicSubDomainId": 138
+    },
+    {
+      "projectSubDomainId": 4702,
+      "projectId": 3425,
+      "academicSubDomainId": 117
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,199 @@
+{
+  "projectId": 3369,
+  "stationId": 4851,
+  "problemBankId": 2173,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Data Engineering Interns",
+  "description": "<p>Title: Data Engineering Interns</p><p>Description: Students will be working with the CPG BU with the Data Engineering</p><p>Team. Please refer to the JD for more info</p><p>Data Engineer will be a hands-on person responsible for designing, prototyping, and</p><p>implementing data products that support a wide variety of data processing, data</p><p>science, and analytics needs. Data Engineers work closely with data scientists,</p><p>product managers, and data platform teams to understand the functional data</p><p>requirements and leverage the underlying tech stack to come up with scalable, robust</p><p>data applications which can crunch terabytes of data in real-time.</p><p>Data products and applications you build will enable data-driven decision-making</p><p>across business, analytics, and operations.</p><p><br></p><p>Skill sets: Knowledge on data analytics languages and tools such as SQL,</p><p>Python, Machine Learning, etc</p><p>Expected learning:</p><p>? Working with experienced DEs</p><p>? Collaborating with Data Scientists, PMs, BAs</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3369,
+      "projectDisciplineId": 6586,
+      "projectDisciplineCodes": "AnyA7,AnyAA,AnyA8,AnyB4,A7,AA,A8,B4",
+      "discCodesPerProject": "AnyA7,AnyAA,AnyA8,AnyB4,A7,AA,A8,B4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6586,
+      "projectId": 3369,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyAA,AnyA8,AnyB4,A7,AA,A8,B4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19844,
+          "projectDisciplineId": 6586,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19845,
+          "projectDisciplineId": 6586,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 19846,
+          "projectDisciplineId": 6586,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 19847,
+          "projectDisciplineId": 6586,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 19848,
+          "projectDisciplineId": 6586,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19849,
+          "projectDisciplineId": 6586,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19850,
+          "projectDisciplineId": 6586,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19851,
+          "projectDisciplineId": 6586,
+          "graduationTypeId": 1,
+          "disciplineId": 19,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3234,
+      "projectId": 3369,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday,Saturday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Yes - flight tickets to & from Bangalore\n+ 15 days initial accommodation on twin\nsharing basis",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-14T13:10:41",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59868,
+      "projectId": 3369,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 59869,
+      "projectId": 3369,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3369,
+      "projectDomainId": 5009,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4616,
+      "projectId": 3369,
+      "academicSubDomainId": 522
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

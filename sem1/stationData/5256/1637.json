@@ -1,0 +1,170 @@
+{
+  "projectId": 1637,
+  "stationId": 5256,
+  "problemBankId": 886,
+  "problemBankCreatedBy": "jyotsana.grover@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Cost optimisation of Destination Loads ",
+  "description": "<p>Description: In order to become the best ETL solution of choice, it is important for us to make sure that Destination Loading is optimised to be as economical as possible for the end user. This project aims to accomplish few of those features in the product. Skill sets: Java, Dropwizard, Junit, Mysql Expected learning:Understanding of Hevo Platform, Java and JUnit, REST APIs and ETL&nbsp;</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "sOURABH",
+  "mentorEmailId": "sourabh@hevodata.com",
+  "mentorContactNumber": "9945657973",
+  "discViewModels": [
+    {
+      "projectId": 1637,
+      "projectDisciplineId": 5096,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5096,
+      "projectId": 1637,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 14079,
+          "projectDisciplineId": 5096,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 14080,
+          "projectDisciplineId": 5096,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1557,
+      "projectId": 1637,
+      "officeStartTime": "09:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 100000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Relocation assistance",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "jyotsana.grover@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-10T16:27:14",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T06:16:26",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36179,
+      "projectId": 1637,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 36180,
+      "projectId": 1637,
+      "skillId": 419
+    },
+    {
+      "projectSkillId": 36181,
+      "projectId": 1637,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 36182,
+      "projectId": 1637,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1637,
+      "projectDomainId": 2333,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2142,
+      "projectId": 1637,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 2143,
+      "projectId": 1637,
+      "academicSubDomainId": 116
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -9,7 +9,7 @@
       "businessDomain": "Finance and Mgmt",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 1,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
@@ -17,15 +17,25 @@
       "semesterId": 1,
       "status": null,
       "createdBy": "planning@bits.com"
+    },
+    {
+      "stationId": 5650,
+      "stationName": "RIGI Digital Marketing",
+      "parentStationName": "RIGI Digital Marketing",
+      "stationCity": "Bengaluru",
+      "problemBankId": 1979,
+      "businessDomain": "Finance and Mgmt",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "planning@bits.com"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

@@ -1,0 +1,135 @@
+{
+  "projectId": 2203,
+  "stationId": 5131,
+  "problemBankId": 1237,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Cost modeling",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"background-color: yellow; color: black;\">Description:</strong><strong style=\"color: black;\"> Modeling of costs of different goods/services as needed to build an estimate of what is the optimal level of price to pay for those goods/services</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: yellow; color: black;\">Skill sets:</strong><strong style=\"color: black;\"> good data crunching and analysis acumen is key; Someone who is very comfortable working with excel</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: yellow; color: black;\">Expected learning</strong><strong style=\"color: black;\">: learn how to build cost models from scratch for selected manpower/goods categories and see what are the market dynamics that impact the cost/schedule/quality of those goods/services. Eg- maintenance labour, hoisting equipments etc</strong></p><p><strong style=\"background-color: yellow; color: black;\">Specific courses required for project execution:</strong><strong style=\"color: black;\"> Engineering degree with preference to mechanical, chemical, electrical, Civil to be able to relate to the technical aspects needed to build/refresh the cost models</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2203,
+      "projectDisciplineId": 4325,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4325,
+      "projectId": 2203,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Dual",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2117,
+      "projectId": 2203,
+      "officeStartTime": "08:00:00",
+      "officeEndTime": "16:30:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T05:41:26",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50699,
+      "projectId": 2203,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 50700,
+      "projectId": 2203,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2203,
+      "projectDomainId": 3109,
+      "academicDomainId": 269
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2853,
+      "projectId": 2203,
+      "academicSubDomainId": 471
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

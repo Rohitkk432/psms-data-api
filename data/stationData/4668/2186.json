@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2186,
-      "projectDisciplineId": 5191,
+      "projectDisciplineId": 6589,
       "projectDisciplineCodes": "A7,AnyA7",
       "discCodesPerProject": "A7,AnyA7",
       "graduationTypeIds": [
@@ -33,12 +33,12 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5191,
+      "projectDisciplineId": 6589,
       "projectId": 2186,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 7.5,
+      "cgpamin": 8.5,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
@@ -61,15 +61,15 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 14613,
-          "projectDisciplineId": 5191,
+          "projectDisciplineDetailId": 19868,
+          "projectDisciplineId": 6589,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 14614,
-          "projectDisciplineId": 5191,
+          "projectDisciplineDetailId": 19869,
+          "projectDisciplineId": 6589,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
@@ -116,11 +116,13 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-30T10:49:12",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T06:12:49",
+      "modifiedDate": "2024-11-14T13:19:48",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

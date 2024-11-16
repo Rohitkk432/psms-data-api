@@ -1,0 +1,214 @@
+{
+  "projectId": 2935,
+  "stationId": 6196,
+  "problemBankId": 1826,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1 Title: Generative AI tool allowing writers to convert their stories into comics and video, Project 2 Title: Mobile application for reading and sharing comics",
+  "description": "<p>Project 1 Title: Generative AI tool allowing writers to convert their stories into comics and video</p><p>Description: Building a multi-step AI system that provides a self-serve capability for</p><p>users to adapt their long-form written content into faithful, consistent, and rich visuals.</p><p>Skill sets: Interns will be expected to be familiar with pre-training both image and text</p><p>models, comfortable with AI-integration frameworks, proficient with data modeling and</p><p>have at least a novice understanding of version control</p><p>Traits expectation: Effectively communicate complex AI concepts with the non-technical</p><p>teammates, efficiently collaborate with other types of tech teammates, and be adaptable</p><p>to a constantly evolving landscape.</p><p>Expected learning: Working on an AI system in the cloud built to be scalable,</p><p>sustainable, and safe.</p><p>Specific courses required for project execution: Design &amp; Analysis of Algorithms,</p><p>Databases</p><p><br></p><p>Project 2 Title: Mobile application for reading and sharing comics</p><p><br></p><p>Description: Building an OS-agnostic mobile application with a focus on a content</p><p>creation tool, a self-serve upload feature as well as social &amp; discovery elements.</p><p>Skill sets: Comfort with the React Native framework, proficient in version control,</p><p>experience with implementing responsive designs.</p><p>Traits expectation: Able to pivot quickly based on user feedback, opinionated on user</p><p>experience.</p><p>Expected learning: Hands-on experience in building a product built for a global</p><p>audience with a focus on social features and AI integrations</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2935,
+      "projectDisciplineId": 6025,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A3,A8",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6025,
+      "projectId": 2935,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17757,
+          "projectDisciplineId": 6025,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 17758,
+          "projectDisciplineId": 6025,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17759,
+          "projectDisciplineId": 6025,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 17760,
+          "projectDisciplineId": 6025,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 17761,
+          "projectDisciplineId": 6025,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17762,
+          "projectDisciplineId": 6025,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17763,
+          "projectDisciplineId": 6025,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17764,
+          "projectDisciplineId": 6025,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2845,
+      "projectId": 2935,
+      "officeStartTime": "10:30:00",
+      "officeEndTime": "19:30:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-10-04T09:25:29",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55961,
+      "projectId": 2935,
+      "skillId": 303
+    },
+    {
+      "projectSkillId": 55962,
+      "projectId": 2935,
+      "skillId": 231
+    },
+    {
+      "projectSkillId": 55963,
+      "projectId": 2935,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2935,
+      "projectDomainId": 4286,
+      "academicDomainId": 65
+    },
+    {
+      "projectId": 2935,
+      "projectDomainId": 4287,
+      "academicDomainId": 57
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3939,
+      "projectId": 2935,
+      "academicSubDomainId": 264
+    },
+    {
+      "projectSubDomainId": 3940,
+      "projectId": 2935,
+      "academicSubDomainId": 143
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

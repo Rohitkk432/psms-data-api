@@ -1,0 +1,187 @@
+{
+  "projectId": 2923,
+  "stationId": 6190,
+  "problemBankId": 1816,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1 Title: Reduce TCP retransmissions, Project 2 Title: Creating pseudo/virtual production setups",
+  "description": "<p>Project 1 Title: Reduce TCP retransmissions</p><p><br></p><p>Description: Analyzing cause for TCP retransmission, finding root cause and presenting</p><p>solution to reduce them</p><p>Skill sets: Networking &amp; C++</p><p>Traits expectation: Problem solving, debugging</p><p>Expected learning: Deep understanding of networking</p><p>Specific courses required for project execution: Networking, C++</p><p><br></p><p>Project 2 Title: Creating pseudo/virtual production setups</p><p><br></p><p>Description: We have complex trading setups, with multiple components governed by specific</p><p>configurations &amp; connected via multiple ways/protocols. We want to mimic exact replica of</p><p>these setups required for varied workflows including release testing</p><p>Skill sets: C++, networking, DS-Algo</p><p>Traits expectation: Problem solving, debugging</p><p>Expected learning: Virtualization, networking, Order Manager</p><p>Specific courses required for project execution: C++, networking, DS-Algo</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Amit Kumar",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2923,
+      "projectDisciplineId": 6473,
+      "projectDisciplineCodes": "A7B3,A7",
+      "discCodesPerProject": "A7B3,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6473,
+      "projectId": 2923,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 9,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7B3,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 1,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19433,
+          "projectDisciplineId": 6473,
+          "graduationTypeId": 0,
+          "disciplineId": 12,
+          "discipline2Id": 18
+        },
+        {
+          "projectDisciplineDetailId": 19434,
+          "projectDisciplineId": 6473,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2833,
+      "projectId": 2923,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday,Saturday",
+      "ugstipend": 180000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "We provide local conveyance to all employees and one time accommodation incase of relocation",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-10-01T04:59:54",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-12T08:27:46",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55922,
+      "projectId": 2923,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 55923,
+      "projectId": 2923,
+      "skillId": 234
+    },
+    {
+      "projectSkillId": 55924,
+      "projectId": 2923,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 55925,
+      "projectId": 2923,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2923,
+      "projectDomainId": 4262,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2923,
+      "projectDomainId": 4263,
+      "academicDomainId": 197
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3918,
+      "projectId": 2923,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 3919,
+      "projectId": 2923,
+      "academicSubDomainId": 115
+    },
+    {
+      "projectSubDomainId": 3920,
+      "projectId": 2923,
+      "academicSubDomainId": 116
+    },
+    {
+      "projectSubDomainId": 3921,
+      "projectId": 2923,
+      "academicSubDomainId": 138
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

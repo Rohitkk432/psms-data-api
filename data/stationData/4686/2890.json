@@ -1,0 +1,197 @@
+{
+  "projectId": 2890,
+  "stationId": 4686,
+  "problemBankId": 1784,
+  "problemBankCreatedBy": "pravin.pawar@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Software Engineer, Intern",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Title: </strong><em style=\"color: black;\">Software Engineer, Intern</em></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong></p><p class=\"ql-align-justify\"><em style=\"color: black;\">As a Backend Software Engineer, intern you will work on our suite of cloud and on-premise software running on Apache Kafka, which powers hundreds of trillions of events per day at top companies like Netflix, LinkedIn, and Uber. If you love building cutting edge systems and software that are mission critical to how enterprises work with data, then you will fit right in.</em></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong></p><p class=\"ql-align-justify\"><em style=\"color: black;\">Bachelor’s degree in computer science, or similar science, quantitative, or computing field</em></p><p class=\"ql-align-justify\"><em style=\"color: black;\">Java, C/ C++, Scala</em></p><p class=\"ql-align-justify\"><em style=\"color: black;\">&nbsp;</em></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Specific courses required for project execution:&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><em style=\"color: black;\">Strong CS Fundementals</em></p><ul><li class=\"ql-align-justify\"><em>A self-starter with the ability to work effectively in teams </em></li><li class=\"ql-align-justify\"><em>Strong fundamentals in algorithms and data structures</em></li><li class=\"ql-align-justify\"><em>Experience in open-source development, experience using Apache Kafka is a big plus</em></li></ul><p class=\"ql-align-justify\"><strong style=\"color: black;\">&nbsp;</strong></p><p>  </p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Edward Rasquinha",
+  "mentorEmailId": "erasquinha@confluent.io",
+  "mentorContactNumber": "9986995934",
+  "discViewModels": [
+    {
+      "projectId": 2890,
+      "projectDisciplineId": 5970,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5970,
+      "projectId": 2890,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 5,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17555,
+          "projectDisciplineId": 5970,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17556,
+          "projectDisciplineId": 5970,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2800,
+      "projectId": 2890,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 110000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "pravin.pawar@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-09-10T14:24:46",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Hybrid",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55769,
+      "projectId": 2890,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 55770,
+      "projectId": 2890,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 55771,
+      "projectId": 2890,
+      "skillId": 75
+    },
+    {
+      "projectSkillId": 55772,
+      "projectId": 2890,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 55773,
+      "projectId": 2890,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 55774,
+      "projectId": 2890,
+      "skillId": 407
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2890,
+      "projectDomainId": 4184,
+      "academicDomainId": 57
+    },
+    {
+      "projectId": 2890,
+      "projectDomainId": 4185,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3838,
+      "projectId": 2890,
+      "academicSubDomainId": 116
+    },
+    {
+      "projectSubDomainId": 3839,
+      "projectId": 2890,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 3840,
+      "projectId": 2890,
+      "academicSubDomainId": 138
+    },
+    {
+      "projectSubDomainId": 3841,
+      "projectId": 2890,
+      "academicSubDomainId": 264
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

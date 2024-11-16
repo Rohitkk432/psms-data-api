@@ -1,0 +1,478 @@
+[
+    {
+        "id": 1,
+        "name": "B.E. Chemical",
+        "code": "A1",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 2,
+        "name": "B.E. Civil",
+        "code": "A2",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 3,
+        "name": "B.E. Electricals & Electronics",
+        "code": "A3",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 4,
+        "name": "B.E. Mechanical",
+        "code": "A4",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 11,
+        "name": "B. Pharm.",
+        "code": "A5",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 12,
+        "name": "B.E. Computer Science",
+        "code": "A7",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 13,
+        "name": "B.E. Electronics and Instrumentation",
+        "code": "A8",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 14,
+        "name": "B.E. Electronics and Communication",
+        "code": "AA",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 15,
+        "name": "B.E. Manufcturing Engineering",
+        "code": "AB",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 16,
+        "name": "M.Sc. Biological Science",
+        "code": "B1",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 17,
+        "name": "M.Sc. Chemistry",
+        "code": "B2",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 18,
+        "name": "M.Sc. Economics",
+        "code": "B3",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 19,
+        "name": "M.Sc. Mathematics",
+        "code": "B4",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 20,
+        "name": "M.Sc. Physics",
+        "code": "B5",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 42,
+        "name": "C2",
+        "code": "C2",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 37,
+        "name": "Msc. (Tech.) Information Systems",
+        "code": "C6",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 38,
+        "name": "Msc. (Tech.) Finance",
+        "code": "C7",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 21,
+        "name": "M.Sc. General Studies",
+        "code": "D2",
+        "parentId": 1,
+        "isActive": 1
+    },
+    {
+        "id": 6,
+        "name": "M.E. Chemical",
+        "code": "H101",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 23,
+        "name": "M.E. Computer Science",
+        "code": "H103",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 28,
+        "name": "M.E. Mechanical",
+        "code": "H106",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 32,
+        "name": "M. Pharm.",
+        "code": "H108",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 31,
+        "name": "M.E. Software System",
+        "code": "H112",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 30,
+        "name": "M.E. Microelectronics",
+        "code": "H123",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 22,
+        "name": "M.E. Communication Engineering",
+        "code": "H124",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 5,
+        "name": "M.E. Biotechnology",
+        "code": "H129",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 9,
+        "name": "M.E.  Civil with Specilization in Transportation Engineering",
+        "code": "H130",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 7,
+        "name": "M.E. Chemical with specilization in Petroleum Engineering",
+        "code": "H132",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 26,
+        "name": "M.E. Embedded System",
+        "code": "H140",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 25,
+        "name": "M.E. Design Engineering",
+        "code": "H141",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 27,
+        "name": "M.E. Manufacturing System Engineering",
+        "code": "H142",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 8,
+        "name": "M.E.  Civil with Specilization in Structrual Engineering",
+        "code": "H143",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 10,
+        "name": "M.E.  Civil with Specilization in Infrastructure Engineering & Mngement",
+        "code": "H144",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 33,
+        "name": "M. Pharm. in specialization in Pharmaceutics",
+        "code": "H146",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 34,
+        "name": "M. Pharm. in specialization in Pharmaceutical Chemistry",
+        "code": "H147",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 29,
+        "name": "M.E. Mechanical with specialization in Thermal Engineering",
+        "code": "H148",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 36,
+        "name": "M.B.A",
+        "code": "H149",
+        "parentId": 2,
+        "isActive": 0
+    },
+    {
+        "id": 35,
+        "name": "M. Pharm. in specialization in Pharmacology",
+        "code": "H153",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 68,
+        "name": "M.B.A",
+        "code": "H154",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 24,
+        "name": "M.E. Computer Science with specialization in Informtion Security",
+        "code": "H313",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 41,
+        "name": "HD12",
+        "code": "HD12",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 43,
+        "name": "HD24",
+        "code": "HD24",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 64,
+        "name": "HD40",
+        "code": "HD40",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 65,
+        "name": "HS03",
+        "code": "HS03",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 39,
+        "name": "HS12",
+        "code": "HS12",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 40,
+        "name": "HS23",
+        "code": "HS23",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 44,
+        "name": "HS40",
+        "code": "HS40",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 45,
+        "name": "HS42",
+        "code": "HS42",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 66,
+        "name": "HS46",
+        "code": "HS46",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 67,
+        "name": "HS49",
+        "code": "HS49",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 47,
+        "name": "K101",
+        "code": "K101",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 52,
+        "name": "K103",
+        "code": "K103",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 57,
+        "name": "K106",
+        "code": "K106",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 59,
+        "name": "K108",
+        "code": "K108",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 53,
+        "name": "K112",
+        "code": "K112",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 58,
+        "name": "K123",
+        "code": "K123",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 51,
+        "name": "K124",
+        "code": "K124",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 46,
+        "name": "K129",
+        "code": "K129",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 50,
+        "name": "K130",
+        "code": "K130",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 55,
+        "name": "K140",
+        "code": "K140",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 54,
+        "name": "K141",
+        "code": "K141",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 56,
+        "name": "K142",
+        "code": "K142",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 49,
+        "name": "K143",
+        "code": "K143",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 48,
+        "name": "K144",
+        "code": "K144",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 61,
+        "name": "K146",
+        "code": "K146",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 60,
+        "name": "K147",
+        "code": "K147",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 63,
+        "name": "K148",
+        "code": "K148",
+        "parentId": 2,
+        "isActive": 1
+    },
+    {
+        "id": 62,
+        "name": "K149",
+        "code": "K149",
+        "parentId": 2,
+        "isActive": 1
+    }
+]

@@ -1,0 +1,157 @@
+{
+  "projectId": 3391,
+  "stationId": 6335,
+  "problemBankId": 2184,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: ETL processing at Eureka Forbes",
+  "description": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">: The project involves building data pipelines which powers analytics and reporting at Eureka Forbes. Data pipelines pull data from various data sources and collate to Delta lake, further pipelines refine these data and brings out information out of it for reporting, analytics, marketing, etc.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Python, Pandas, Databricks, ETL</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Traits expectation: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Ability to understand the business requirements and explore available solutions and customize them to our requirements. A self-learner who can quickly grasp concepts related to Databricks, Python, databases.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Handling large volume of data and optimizing data pipelines. Opportunity to learn the devops culture with CI/CD. Opportunity to learn from Eureka Forbes top-notch engineering and product leadership. Opportunity to learn large ETL pipelines and technologies needed to build the pipelines.</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3391,
+      "projectDisciplineId": 6614,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6614,
+      "projectId": 3391,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.75,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19956,
+          "projectDisciplineId": 6614,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19957,
+          "projectDisciplineId": 6614,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3256,
+      "projectId": 3391,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-15T05:25:22",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59913,
+      "projectId": 3391,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 59914,
+      "projectId": 3391,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3391,
+      "projectDomainId": 5033,
+      "academicDomainId": 6
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4645,
+      "projectId": 3391,
+      "academicSubDomainId": 99
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

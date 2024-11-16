@@ -1,0 +1,191 @@
+{
+  "projectId": 1562,
+  "stationId": 4755,
+  "problemBankId": 844,
+  "problemBankCreatedBy": "swarna.chaudhary@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Secure Multi-Party Computation",
+  "description": "<p>Secure Multi-Party Computation (SMPC) is a subfield of cryptography that allows multiple parties to jointly compute a function over their inputs, while keeping those inputs private. The basic input-privacy property of a SMPC protocol ensures that no information about the private</p><p>data held by the parties can be inferred from the messages exchanged during the execution of the protocol (the only information that can be inferred about the private data is whatever could be inferred from seeing the output of the function alone).</p><p>- This project involves optimized implementation of machine learning algorithms and electronic double-auction algorithms using SMPC protocols.</p><p><br></p><p>Skill sets:</p><p>An ideal student for this project should be an expert in C++ having experience in handling large scale projects. Knowledge and interest in cryptography protocols is an advantage.</p><p><br></p><p>Expected learning:</p><p>This project provides an opportunity for publication of technical papers that may help students get admission to top international institutes for higher studies.</p><p><br></p><p>Specific courses required for project execution:</p><p>Programming, Data Science, Data Analytics</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Anshoo Tandon",
+  "mentorEmailId": "anshoo.tandon@datakaveri.org",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1562,
+      "projectDisciplineId": 5002,
+      "projectDisciplineCodes": "AnyA3,AnyA7,A7,A3",
+      "discCodesPerProject": "AnyA3,AnyA7,A7,A3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5002,
+      "projectId": 1562,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,A7,A3",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 13612,
+          "projectDisciplineId": 5002,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 13613,
+          "projectDisciplineId": 5002,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 13614,
+          "projectDisciplineId": 5002,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 13615,
+          "projectDisciplineId": 5002,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 308,
+      "projectId": 1562,
+      "electiveId": 1087,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1489,
+      "projectId": 1562,
+      "officeStartTime": "08:30:46",
+      "officeEndTime": "17:30:03",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "swarna.chaudhary@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-07T09:38:14",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:42:30",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36000,
+      "projectId": 1562,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 36001,
+      "projectId": 1562,
+      "skillId": 235
+    },
+    {
+      "projectSkillId": 36002,
+      "projectId": 1562,
+      "skillId": 158
+    },
+    {
+      "projectSkillId": 36003,
+      "projectId": 1562,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 36004,
+      "projectId": 1562,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1562,
+      "projectDomainId": 2241,
+      "academicDomainId": 105
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2049,
+      "projectId": 1562,
+      "academicSubDomainId": 193
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

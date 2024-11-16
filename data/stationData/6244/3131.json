@@ -1,0 +1,188 @@
+{
+  "projectId": 3131,
+  "stationId": 6244,
+  "problemBankId": 1977,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "AI Engineer Intern",
+  "description": "<p>Description: Work on a project to develop and integrate AI/ML models for</p><p>predictive analytics in e-commerce, focusing on customer behavior and sales</p><p>forecasting.</p><p>Skill sets: NodeJs, Typescript, PostgreSQL, ReactJs, Python, TensorFlow or</p><p>PyTorch, SQL, Data Engineering, Cloud Services (AWS, GCP, or Azure)</p><p>Traits expectation: Analytical mindset, problem-solving skills, detail-oriented,</p><p>proactive in exploring data insights.</p><p>Expected learning: Building, training, and deploying machine learning models,</p><p>data preprocessing, and integration with web applications.</p><p>Specific courses required for project execution: OS, DBMS, DSA, Machine</p><p>Learning, Data Structures &amp; Algorithms, Probability &amp; Statistics, Database</p><p>Management Systems</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Kshitij Abhishek",
+  "mentorEmailId": "kshitij@bitespeed.co",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3131,
+      "projectDisciplineId": 6217,
+      "projectDisciplineCodes": "AnyA7,A7,H103,H112",
+      "discCodesPerProject": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6217,
+      "projectId": 3131,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18691,
+          "projectDisciplineId": 6217,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 18692,
+          "projectDisciplineId": 6217,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18693,
+          "projectDisciplineId": 6217,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18694,
+          "projectDisciplineId": 6217,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3000,
+      "projectId": 3131,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 75000,
+      "pgstipend": 75000,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-07T09:57:41",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57658,
+      "projectId": 3131,
+      "skillId": 161
+    },
+    {
+      "projectSkillId": 57659,
+      "projectId": 3131,
+      "skillId": 226
+    },
+    {
+      "projectSkillId": 57660,
+      "projectId": 3131,
+      "skillId": 187
+    },
+    {
+      "projectSkillId": 57661,
+      "projectId": 3131,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 57662,
+      "projectId": 3131,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3131,
+      "projectDomainId": 4536,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4155,
+      "projectId": 3131,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

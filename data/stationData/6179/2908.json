@@ -1,0 +1,231 @@
+{
+  "projectId": 2908,
+  "stationId": 6179,
+  "problemBankId": 1802,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Growth and Marketing for SaaS and AI Products",
+  "description": "<p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Description: As a Growth and Marketing Intern, you will help drive the growth strategy for our SaaS and AI products. You will focus on customer acquisition, retention, and brand awareness through various digital marketing channels. You will analyze market trends, experiment with growth strategies, and contribute to marketing campaigns that drive engagement and conversions.</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">Skill sets: Digital Marketing, SEO, Content Strategy, Social Media Marketing, Analytics, Email Campaigns, Growth Hacking</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">Expected learning: Growth Marketing Tactics, Conversion Rate Optimization (CRO), Customer Journey Mapping, Brand Positioning, Data Analytics, Campaign Execution, and Performance Tracking</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2908,
+      "projectDisciplineId": 5995,
+      "projectDisciplineCodes": "AnyA7,AnyB3,A7,B3",
+      "discCodesPerProject": "AnyA7,AnyB3,A7,B3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5995,
+      "projectId": 2908,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyB3,A7,B3",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17662,
+          "projectDisciplineId": 5995,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 17663,
+          "projectDisciplineId": 5995,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 18
+        },
+        {
+          "projectDisciplineDetailId": 17664,
+          "projectDisciplineId": 5995,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 17665,
+          "projectDisciplineId": 5995,
+          "graduationTypeId": 1,
+          "disciplineId": 18,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2818,
+      "projectId": 2908,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-09-27T09:51:24",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55859,
+      "projectId": 2908,
+      "skillId": 300
+    },
+    {
+      "projectSkillId": 55860,
+      "projectId": 2908,
+      "skillId": 173
+    },
+    {
+      "projectSkillId": 55861,
+      "projectId": 2908,
+      "skillId": 299
+    },
+    {
+      "projectSkillId": 55862,
+      "projectId": 2908,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2908,
+      "projectDomainId": 4223,
+      "academicDomainId": 212
+    },
+    {
+      "projectId": 2908,
+      "projectDomainId": 4224,
+      "academicDomainId": 240
+    },
+    {
+      "projectId": 2908,
+      "projectDomainId": 4225,
+      "academicDomainId": 123
+    },
+    {
+      "projectId": 2908,
+      "projectDomainId": 4226,
+      "academicDomainId": 58
+    },
+    {
+      "projectId": 2908,
+      "projectDomainId": 4227,
+      "academicDomainId": 22
+    },
+    {
+      "projectId": 2908,
+      "projectDomainId": 4228,
+      "academicDomainId": 155
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3878,
+      "projectId": 2908,
+      "academicSubDomainId": 53
+    },
+    {
+      "projectSubDomainId": 3879,
+      "projectId": 2908,
+      "academicSubDomainId": 158
+    },
+    {
+      "projectSubDomainId": 3880,
+      "projectId": 2908,
+      "academicSubDomainId": 254
+    },
+    {
+      "projectSubDomainId": 3881,
+      "projectId": 2908,
+      "academicSubDomainId": 230
+    },
+    {
+      "projectSubDomainId": 3882,
+      "projectId": 2908,
+      "academicSubDomainId": 268
+    },
+    {
+      "projectSubDomainId": 3883,
+      "projectId": 2908,
+      "academicSubDomainId": 431
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

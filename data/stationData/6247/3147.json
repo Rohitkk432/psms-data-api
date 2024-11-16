@@ -1,0 +1,176 @@
+{
+  "projectId": 3147,
+  "stationId": 6247,
+  "problemBankId": 1987,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project No-1 & 8 for Biology",
+  "description": "<p>Project 1 Title: Developing single molecule techniques to study phase separation of biomolecules</p><p>Description: Phase separation of proteins and other biomolecules plays important roles in cellular</p><p>functions and diseases. However, investigation of these processes in the earliest phase, although</p><p>critically important, is difficult. Therefore, it is necessary to develop single molecule sensitive techniques</p><p>that can help visualize and characterize these events. We are working to develop microscopy and</p><p>spectroscopy techniques to characterize the liquid liquid phase separation of proteins such as tau protein</p><p>that are involved in the pathology of diseases such as Alzheimer’s and Parkinson’s disease.</p><p>Skill sets: knowledge of physics, coding, electronics, engineering</p><p>Traits expectation: interest in building techniques, coding and data analysis</p><p>Expected learning: experience with developing state of the art methodologies in biophysical experiments</p><p>Specific courses required for project execution: physics and/or engineering courses</p><p><br></p><p>Project 8 Title: Determinants of Mammalian origin of replication selection</p><p>Description: In eukaryotes, replication initiation is determined by two temporally decoupled sequential</p><p>steps; replication origin licensing and firing. During origin licensing, it is estimated that many thousands</p><p>of sites are bound by inactive replicative helicases in each human cell. However, no discernible</p><p>sequence or proteomic profile has been conclusively attributed to origin sites in mammalian cells.</p><p>Influence of DNA structure and epigenetic context on the origin selection and replication timing will be</p><p>explored.</p><p>Skill sets: Understanding of DNA and protein structure and interactions.</p><p>Traits expectation: Interested in DNA replication and repair.</p><p>Expected learning: Cell culture, DNA fibre, flow cytometry, genome editing.</p><p>Specific courses required for project execution: Biochemistry, Molecular biology</p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3147,
+      "projectDisciplineId": 6235,
+      "projectDisciplineCodes": "AnyB1,B1,H129",
+      "discCodesPerProject": "AnyB1,B1,H129",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6235,
+      "projectId": 3147,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 8.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB1,B1,H129",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18732,
+          "projectDisciplineId": 6235,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 16
+        },
+        {
+          "projectDisciplineDetailId": 18733,
+          "projectDisciplineId": 6235,
+          "graduationTypeId": 1,
+          "disciplineId": 16,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18734,
+          "projectDisciplineId": 6235,
+          "graduationTypeId": 2,
+          "disciplineId": 5,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3017,
+      "projectId": 3147,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "For TIFR we will pay a scholarship of 20k for our students (CGPA 6 and above). ",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T02:03:26",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-15T04:31:02",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57706,
+      "projectId": 3147,
+      "skillId": 203
+    },
+    {
+      "projectSkillId": 57707,
+      "projectId": 3147,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 57708,
+      "projectId": 3147,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3147,
+      "projectDomainId": 4555,
+      "academicDomainId": 10
+    },
+    {
+      "projectId": 3147,
+      "projectDomainId": 4556,
+      "academicDomainId": 121
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4173,
+      "projectId": 3147,
+      "academicSubDomainId": 229
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

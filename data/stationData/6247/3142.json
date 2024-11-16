@@ -1,0 +1,162 @@
+{
+  "projectId": 3142,
+  "stationId": 6247,
+  "problemBankId": 1987,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Total No -2,3,7 Project - Details given below",
+  "description": "<p>Project 2 Title: Techniques in ultra-low field NMR</p><p>Description: Zero to ultra-low field NMR (ZULF NMR) is an emerging spectroscopic technique with the</p><p>potential to complement traditional NMR methods. We are investigating the application of ZULF NMR</p><p>to in situ studies of electrolysis processes in alkaline batteries. By analyzing the electrochemical</p><p>reactions and molecular dynamics within the battery, this research aims to gain deeper insights into the</p><p>charging and discharging mechanisms and identify opportunities for enhancing battery performance.</p><p>Skill sets: Basic optics, electronics, matlab/python, quantum mechanics</p><p>Traits expectation: Interest towards instrumentation, patients for systematic studies, entrepreneurial</p><p>aspiration</p><p>Expected learning: Techniques in optical instrumentation and NMR methodologies</p><p>Specific courses required for project execution: Physics, Quantum physics, Optics, Electronics.</p><p>Project 3 Title: Development and automation of interferometric autocorrelator for ultrashort pulse measurement</p><p>Description: Direct measurement of ultrashort pulse duration using photodetection is often limited by</p><p>the response time of the detector. The typical best-case, picosecond rise-times of the commercially</p><p>available photodetectors cannot be readily used to measure the duration of shorter pulses. The primary</p><p>goal of this project is to learn and build an interferometric setup to measure optical pulse duration in the</p><p>picosecond-femtosecond time-scales using the autocorrelation technique. Further, it also involves</p><p>characterization, optimization, automation and testing of the interferometric autocorrelator.</p><p>Skill sets: Basic optics, engineering, Labview, mechanical design tools (CAD)</p><p>Traits expectation: Interest towards instrumentation, diagnostic building, problem solving attitude,</p><p>entrepreneurial aspiration.</p><p>Expected learning: Ultrafast optical measurement techniques</p><p>Specific courses required for project execution: Physics/Engineering/Optics/Ultrafast Optics/Optical</p><p>Engineering/Photonics</p><p>Project 7 Title: Femtosecond laser driven structuring of liquid flows</p><p>Description: Liquid flows are ubiquitous in nature with applications in fluid dynamics, micromachining</p><p>industry or in medicine and bio science. Often, on demand shapings of liquid flows are required to</p><p>address a specific problem, which could involve planar sheets, cylindrical jets, spherical droplets. This</p><p>project aims to understand and develop the structuring of these 1-d, 2-d and 3-d liquid structures with</p><p>femtosecond lasers.</p><p>Skill sets: Basic optics, engineering, Python programming.</p><p>Traits expectation: Ultrafast lasers, Optomechanics, optofluidics.</p><p>Expected learning: Femtosecond lasers, fluid flow, ultrafast dynamics.</p><p>Specific courses required for project execution: Fluid Mechanics/Engineering/Optics</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3142,
+      "projectDisciplineId": 6230,
+      "projectDisciplineCodes": "AnyB5,B5",
+      "discCodesPerProject": "AnyB5,B5",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6230,
+      "projectId": 3142,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8.5,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB5,B5",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18716,
+          "projectDisciplineId": 6230,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 20
+        },
+        {
+          "projectDisciplineDetailId": 18717,
+          "projectDisciplineId": 6230,
+          "graduationTypeId": 1,
+          "disciplineId": 20,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3012,
+      "projectId": 3142,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "For TIFR we will pay a scholarship of 20k for our students (CGPA 6 and above). ",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T01:43:45",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-15T04:30:00",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57694,
+      "projectId": 3142,
+      "skillId": 453
+    },
+    {
+      "projectSkillId": 57695,
+      "projectId": 3142,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 57696,
+      "projectId": 3142,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3142,
+      "projectDomainId": 4550,
+      "academicDomainId": 66
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4167,
+      "projectId": 3142,
+      "academicSubDomainId": 204
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

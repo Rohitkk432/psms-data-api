@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Flipkart: UI Projects",
-  "description": "<p>UI Projects at Flipkart in Bangalore. Experience of working on actual engineering problems, designing data structures &amp; crafting algorithms. Ability to work on complex &amp; scalable business problems in e-commerce domain.</p>",
+  "title": "UI Intern",
+  "description": "<p>The candidate shall be working on the front end tech stacks as a UI engg intern.</p><p>Skill sets: Algorithm &amp; data structures</p><p>Expected learning:</p><p>Experience of working on actual engg. problems, designing data structures &amp;</p><p>crafting algorithms. Ability to work on complex &amp; scalable business problems</p><p>Strong understanding of E Commerce landscape</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 1547,
-      "projectDisciplineId": 5047,
-      "projectDisciplineCodes": "A7,AnyA7",
-      "discCodesPerProject": "A7,AnyA7",
+      "projectDisciplineId": 6588,
+      "projectDisciplineCodes": "AnyA7,AnyA8,AnyAA,AnyB4,A7,AA,A8,B4",
+      "discCodesPerProject": "AnyA7,AnyA8,AnyAA,AnyB4,A7,AA,A8,B4",
       "graduationTypeIds": [
         1
       ],
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5047,
+      "projectDisciplineId": 6588,
       "projectId": 1547,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -45,10 +45,10 @@
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A7,AnyA7",
+      "disciplineCodes": "AnyA7,AnyA8,AnyAA,AnyB4,A7,AA,A8,B4",
       "graduationTypeIds": [
-        1,
-        0
+        0,
+        1
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -61,18 +61,60 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 13857,
-          "projectDisciplineId": 5047,
+          "projectDisciplineDetailId": 19860,
+          "projectDisciplineId": 6588,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 19861,
+          "projectDisciplineId": 6588,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 19862,
+          "projectDisciplineId": 6588,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 19863,
+          "projectDisciplineId": 6588,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 19864,
+          "projectDisciplineId": 6588,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 13858,
-          "projectDisciplineId": 5047,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
+          "projectDisciplineDetailId": 19865,
+          "projectDisciplineId": 6588,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19866,
+          "projectDisciplineId": 6588,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19867,
+          "projectDisciplineId": 6588,
+          "graduationTypeId": 1,
+          "disciplineId": 19,
+          "discipline2Id": null
         }
       ],
       "selectedContinuingStudentList": null,
@@ -100,7 +142,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "Flight tickets to & from Bangalore + 15 days initial accommodation on twin sharing basis.\nStudents must be available to work for extended hours on weekdays.",
+      "others": "Yes - flight tickets to & from Bangalore\n+ 15 days initial accommodation on twin\nsharing basis",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -116,11 +158,13 @@
       "createdBy": "vk.garg@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-04T05:14:41",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T05:24:20",
+      "modifiedDate": "2024-11-14T13:17:47",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

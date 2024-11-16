@@ -1,0 +1,187 @@
+{
+  "projectId": 3150,
+  "stationId": 6248,
+  "problemBankId": 1988,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1 Title: Quant Research Intern",
+  "description": "<p><br></p><p>Description: Attached</p><p>Skill sets: Python, Machine Learning, Problem Solving, knowledge of Finance</p><p>Traits expectation: -</p><p>Expected learning: In depth and hands on experience in quant research and ML</p><p>Specific courses required for project execution: N/A</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3150,
+      "projectDisciplineId": 6240,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6240,
+      "projectId": 3150,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3020,
+      "projectId": 3150,
+      "officeStartTime": "11:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 451000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Reimbursement for relocation expenses up to INR 80,000",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T02:26:58",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57715,
+      "projectId": 3150,
+      "skillId": 135
+    },
+    {
+      "projectSkillId": 57716,
+      "projectId": 3150,
+      "skillId": 292
+    },
+    {
+      "projectSkillId": 57717,
+      "projectId": 3150,
+      "skillId": 295
+    },
+    {
+      "projectSkillId": 57718,
+      "projectId": 3150,
+      "skillId": 90
+    },
+    {
+      "projectSkillId": 57719,
+      "projectId": 3150,
+      "skillId": 301
+    },
+    {
+      "projectSkillId": 57720,
+      "projectId": 3150,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 57721,
+      "projectId": 3150,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3150,
+      "projectDomainId": 4561,
+      "academicDomainId": 4
+    },
+    {
+      "projectId": 3150,
+      "projectDomainId": 4562,
+      "academicDomainId": 43
+    },
+    {
+      "projectId": 3150,
+      "projectDomainId": 4563,
+      "academicDomainId": 86
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4177,
+      "projectId": 3150,
+      "academicSubDomainId": 469
+    },
+    {
+      "projectSubDomainId": 4178,
+      "projectId": 3150,
+      "academicSubDomainId": 126
+    },
+    {
+      "projectSubDomainId": 4179,
+      "projectId": 3150,
+      "academicSubDomainId": 313
+    },
+    {
+      "projectSubDomainId": 4180,
+      "projectId": 3150,
+      "academicSubDomainId": 192
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,155 @@
+{
+  "projectId": 1551,
+  "stationId": 4879,
+  "problemBankId": 838,
+  "problemBankCreatedBy": "ashish.narang@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": " Service App (Client Facing)",
+  "description": "<p>Description: Join our team in developing a cutting-edge Service App designed for hospitals and clients.</p><p>This project aims to create a user-friendly platform for tracking medical equipment history and facilitating</p><p>service requests. As an intern, you'll contribute to the development of an innovative solution that</p><p>enhances healthcare asset management, improving patient care and operational efficiency. Gain</p><p>valuable experience and make a difference in healthcare technology with us.</p><p>Skill sets: Flutter programming language</p><p>Traits expectation: High intent to learn, high energy, Hardworking, Disciplined, Organized</p><p>Expected learning: Flutter programming language</p><p>Specific courses required for project execution:</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Arshil Naqvi",
+  "mentorEmailId": "arshil@zoplar.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1551,
+      "projectDisciplineId": 3511,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3511,
+      "projectId": 1551,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8764,
+          "projectDisciplineId": 3511,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 8765,
+          "projectDisciplineId": 3511,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1478,
+      "projectId": 1551,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Mode: Work from office",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "ashish.narang@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-06T07:23:06",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 35944,
+      "projectId": 1551,
+      "skillId": 353
+    },
+    {
+      "projectSkillId": 35945,
+      "projectId": 1551,
+      "skillId": 354
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1551,
+      "projectDomainId": 2223,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2033,
+      "projectId": 1551,
+      "academicSubDomainId": 418
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

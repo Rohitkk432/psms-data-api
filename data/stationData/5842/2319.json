@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2319,
-      "projectDisciplineId": 5461,
+      "projectDisciplineId": 5781,
       "projectDisciplineCodes": "B3,AnyB3",
       "discCodesPerProject": "B3,AnyB3",
       "graduationTypeIds": [
@@ -33,7 +33,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5461,
+      "projectDisciplineId": 5781,
       "projectId": 2319,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -41,7 +41,7 @@
       "cgpamin": 7.5,
       "cgpamax": 10,
       "freshRequirement": 2,
-      "totalRequirement": 2,
+      "totalRequirement": 3,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -55,21 +55,21 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 15761,
-          "projectDisciplineId": 5461,
+          "projectDisciplineDetailId": 17087,
+          "projectDisciplineId": 5781,
           "graduationTypeId": 1,
           "disciplineId": 18,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 15762,
-          "projectDisciplineId": 5461,
+          "projectDisciplineDetailId": 17088,
+          "projectDisciplineId": 5781,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 18
@@ -120,7 +120,9 @@
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
     }
   ],
   "projectSkill": [

@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details awaited",
-  "description": "<p>--</p>",
+  "title": "Job Title: Intern-Product Control",
+  "description": "<p>Job Title: Intern-Product Control</p><p><br></p><p>Your role</p><p>An exciting opportunity is available in FAC-FCS in which the candidate will be responsible for:</p><p>• Production of daily/monthly P&amp;L and balance sheet</p><p>• Developing solutions to automate existing processes and dashboards to improve overall controls</p><p>in product control</p><p>• Providing commentary on P&amp;L drivers and T0 v T1 variance</p><p>• Performing relevant PnL and Balance sheet checks and ensure that they are correctly reported at</p><p>month ends</p><p>• Performing reconciliations and ensuring that all breaks/ issues are identified and resolved</p><p>• Ensuring that all the controls are adhered to</p><p><br></p><p>Your team</p><p>• FCS- is part of Group Finance India</p><p>You are / have</p><p>• A relevant degree as prescribed by UBS HR Policy.</p><p>• Should have understanding of financial products</p><p>• Should have inclination to learn accounting aspects of business which impact PNL &amp; Balance</p><p>Sheet.</p><p>• A proactive and change focused mind-set with problem solving ability</p><p>• A team player, interacts well and creates synergy in team environment</p><p>• Enthusiastic, takes initiatives and is diligent.</p><p>Technical</p><p>• Strong Proficiency in Python, Alteryx Power Platform or Excel Macros, SQL.</p><p>• Understanding of Artificial Intelligence, Machine Learning.</p><p>• MS office (especially excel and power point) - basic level</p><p>• Strong presentation skills, ability to communicate clearly and effectively in both oral and written</p><p>form</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2215,
-      "projectDisciplineId": 4520,
+      "projectDisciplineId": 6546,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -31,15 +31,15 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 4520,
+      "projectDisciplineId": 6546,
       "projectId": 2215,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 7,
+      "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 0,
-      "totalRequirement": 4,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -50,8 +50,8 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 4,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 1,
       "disciplineDetails": [],
@@ -96,38 +96,70 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-31T07:52:17",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T05:55:08",
+      "modifiedDate": "2024-11-14T09:16:18",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
     {
-      "projectSkillId": 50721,
+      "projectSkillId": 59803,
       "projectId": 2215,
-      "skillId": 431
+      "skillId": 89
     },
     {
-      "projectSkillId": 50722,
+      "projectSkillId": 59804,
       "projectId": 2215,
-      "skillId": 141
+      "skillId": 225
+    },
+    {
+      "projectSkillId": 59805,
+      "projectId": 2215,
+      "skillId": 100
+    },
+    {
+      "projectSkillId": 59806,
+      "projectId": 2215,
+      "skillId": 399
+    },
+    {
+      "projectSkillId": 59807,
+      "projectId": 2215,
+      "skillId": 70
+    },
+    {
+      "projectSkillId": 59808,
+      "projectId": 2215,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 59809,
+      "projectId": 2215,
+      "skillId": 42
     }
   ],
   "projectAcademicDomain": [
     {
       "projectId": 2215,
-      "projectDomainId": 3126,
-      "academicDomainId": 81
+      "projectDomainId": 4972,
+      "academicDomainId": 127
+    },
+    {
+      "projectId": 2215,
+      "projectDomainId": 4973,
+      "academicDomainId": 92
     }
   ],
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 2868,
+      "projectSubDomainId": 4587,
       "projectId": 2215,
-      "academicSubDomainId": 162
+      "academicSubDomainId": 179
     }
   ],
   "projectSubjectArea": [],

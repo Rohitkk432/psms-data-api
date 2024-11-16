@@ -1,0 +1,137 @@
+{
+  "projectId": 3345,
+  "stationId": 4845,
+  "problemBankId": 2149,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Generative AI powered platform for private company analysis",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Title: </strong><span style=\"color: black;\">Generative AI powered platform for private company analysis</span><strong style=\"color: black;\">&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong><span style=\"color: black;\">Build a platform using generative AI to&nbsp;&nbsp;</span></p><ul><li class=\"ql-align-justify\">Provide a conversational interface to private company data using generative AI.&nbsp;</li><li class=\"ql-align-justify\">Use a variety of cutting-edge AI models and develop additional models for the platform</li><li class=\"ql-align-justify\">Ingest and process data from various sources such as MCA filings, news and internally sourced data and store it in a manner that can be easily consumed by the generative AI engine.&nbsp;</li><li class=\"ql-align-justify\">Integrate with web search capabilities</li><li class=\"ql-align-justify\">Create a high quality user interface with rich user experience</li></ul><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: LLM, Generative AI, ReactJS / Javascript, Python, AWS, Vector Databases&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning:&nbsp;&nbsp;</strong></p><ul><li class=\"ql-align-justify\">Generative AI&nbsp;&amp; other AI</li></ul><p class=\"ql-align-justify\"><span style=\"color: black;\">o&nbsp;&nbsp;&nbsp;GPT, Claude&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">o&nbsp;&nbsp;&nbsp;Open source LLMs&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">o&nbsp;&nbsp;&nbsp;Classification, Named Entity Recognition</span></p><ul><li class=\"ql-align-justify\">Data Engineering&nbsp;</li></ul><p class=\"ql-align-justify\"><span style=\"color: black;\">o&nbsp;&nbsp;&nbsp;Robust pipeline to ingest vast amounts of data.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">o&nbsp;&nbsp;&nbsp;Observability – Alerting and monitoring of the pipeline.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">o&nbsp;&nbsp;&nbsp;Vector databases</span></p><ul><li class=\"ql-align-justify\">User Interface creation</li><li class=\"ql-align-justify\">Designing systems for large scale&nbsp;</li><li class=\"ql-align-justify\">Designing a cloud native platform&nbsp;</li></ul><p class=\"ql-align-justify\"><strong style=\"color: black;\">Specific courses required for project execution:&nbsp;&nbsp;&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">We are looking for&nbsp;&nbsp;</strong></p><ul><li class=\"ql-align-justify\">One frontend engineer (ReactJS / NextJS / Typescript)&nbsp;</li><li class=\"ql-align-justify\">Two backend engineers (Python / Golang)&nbsp;</li><li class=\"ql-align-justify\">One data science engineer&nbsp;&nbsp;</li></ul><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3345,
+      "projectDisciplineId": 6528,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6528,
+      "projectId": 3345,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 4,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3212,
+      "projectId": 3345,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 60000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-14T05:22:54",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 59760,
+      "projectId": 3345,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 59761,
+      "projectId": 3345,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3345,
+      "projectDomainId": 4955,
+      "academicDomainId": 81
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4575,
+      "projectId": 3345,
+      "academicSubDomainId": 162
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

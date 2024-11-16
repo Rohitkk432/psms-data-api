@@ -6,15 +6,16 @@ const data1 = require("../data/stations.json");
 require("dotenv").config();
 
 const AUTH_TOKEN = process.env.PSMS_TOKEN;
-// console.log(AUTH_TOKEN);
 
 const USER_NAME = "f20201141@goa.bits-pilani.ac.in";
+
+const API_URL = 'https://psms.bits-pilani.ac.in/api/api';
 
 const getStationProjectsData = async (stationID: number, pbID: number, projectID: number) => {
     let config = {
         method: "get",
         maxBodyLength: Infinity,
-        url: `https://bits-psms-api-prod.azurewebsites.net/api/ProblemBank/project/${projectID}?expand=all`,
+        url: `${API_URL}/ProblemBank/project/${projectID}?expand=all`,
         headers: {
             Accept: "application/json, text/plain, */*",
             "Accept-Language": "en-US,en;q=0.9",
@@ -58,14 +59,12 @@ const getStationProblemBank = async (stationID: number, pbID: number) => {
     let config = {
         method: "get",
         maxBodyLength: Infinity,
-        url: `https://bits-psms-api-prod.azurewebsites.net/api/stationallotment/student/preference/projects?problemBankId=${pbID}&userName=${USER_NAME}`,
+        url: `${API_URL}/stationallotment/student/preference/projects?problemBankId=${pbID}&userName=${USER_NAME}`,
         headers: {
             Accept: "application/json, text/plain, */*",
             "Accept-Language": "en-US,en;q=0.9",
             Authorization: AUTH_TOKEN,
-            Connection: "keep-alive",
-            Origin: "https://psms-web.azureedge.net",
-            Referer: "https://psms-web.azureedge.net/",
+            Connection: "keep-alive"
         },
     };
 
@@ -106,14 +105,12 @@ const getStationData = async (stationID: number, stationName: string) => {
     let config = {
         method: "get",
         maxBodyLength: Infinity,
-        url: `https://bits-psms-api-prod.azurewebsites.net/api/ProblemBank/listview/?stationId=${stationID}`,
+        url: `${API_URL}/stationallotment/student/preference/problembanks?stationId=${stationID}&userName=${USER_NAME}`,
         headers: {
             Accept: "application/json, text/plain, */*",
             "Accept-Language": "en-US,en;q=0.9",
             Authorization: AUTH_TOKEN,
-            Connection: "keep-alive",
-            Origin: "https://psms-web.azureedge.net",
-            Referer: "https://psms-web.azureedge.net/",
+            Connection: "keep-alive"
         },
     };
 

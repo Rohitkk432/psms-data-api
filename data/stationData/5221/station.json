@@ -2,14 +2,14 @@
   "problemBankGridLines": [
     {
       "stationId": 5221,
-      "stationName": "GRASIM Pulp & Fiber Business",
+      "stationName": "Birla Cellulose, Pulp & Fiber Business, Harihar",
       "parentStationName": "GRASIM Pulp & Fiber Business",
-      "stationCity": "Taloja",
+      "stationCity": "Harihar",
       "problemBankId": 1008,
       "businessDomain": "Chemical",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 1,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
@@ -17,15 +17,25 @@
       "semesterId": 1,
       "status": null,
       "createdBy": "planning@bits.com"
+    },
+    {
+      "stationId": 5221,
+      "stationName": "Birla Cellulose, Pulp & Fiber Business, Harihar",
+      "parentStationName": "GRASIM Pulp & Fiber Business",
+      "stationCity": "Harihar",
+      "problemBankId": 1991,
+      "businessDomain": "Chemical",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 2,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "maitya@pilani.bits-pilani.ac.in"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

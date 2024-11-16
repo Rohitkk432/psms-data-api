@@ -1,0 +1,67 @@
+{
+  "problemBankGridLines": [
+    {
+      "stationId": 5243,
+      "stationName": "Birla Polyfibers,Harihar",
+      "parentStationName": "Birla Polyfibers,Harihar",
+      "stationCity": "Haveri",
+      "problemBankId": 941,
+      "businessDomain": "Chemical",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 2,
+      "totalRequirement": 2,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 1,
+      "status": null,
+      "createdBy": "maitya@pilani.bits-pilani.ac.in"
+    },
+    {
+      "stationId": 5243,
+      "stationName": "Birla Polyfibers,Harihar",
+      "parentStationName": "Birla Polyfibers,Harihar",
+      "stationCity": "Haveri",
+      "problemBankId": 1504,
+      "businessDomain": "Chemical",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 2,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 1,
+      "status": null,
+      "createdBy": "planning@bits.com"
+    },
+    {
+      "stationId": 5243,
+      "stationName": "Birla Polyfibers,Harihar",
+      "parentStationName": "Birla Polyfibers,Harihar",
+      "stationCity": "Haveri",
+      "problemBankId": 1507,
+      "businessDomain": "Chemical",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 1,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 1,
+      "status": null,
+      "createdBy": "planning@bits.com"
+    }
+  ],
+  "pageInfo": {
+    "page": 1,
+    "pageSize": 50,
+    "defaultPageSize": 50,
+    "totalItemCount": 3,
+    "numberOfPages": 1,
+    "sortBy": "ProblemBankId",
+    "sortDirection": null
+  }
+}

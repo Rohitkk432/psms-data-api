@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Details Awaited",
-  "description": "<p>--</p>",
+  "title": "Analog Engineering Intern",
+  "description": "<p>Job Description:</p><p>The internship will give you a flavor of the real work at TI. You would be assigned to a real time project where</p><p>your deliverables will feed in to the deliverables of your team. You will be assigned a mentor who would work</p><p>very closely with you and guide you through the entire process. You will have the opportunity to work in one of</p><p>the many exciting areas that TI works on like wireless infrastructure, audio, energy automation, electronic point</p><p>of service, industrial automation, infotainment, ADAS, medical imaging, high speed interface, clocks and</p><p>synthesizers, automotive, storage, power supply, battery management, linear power, DLP and many more.</p><p>Some projects that Analog Engineering interns have done in the past:</p><p>• Design of FPGA based modular ADC data capture solution</p><p>• Elliptical filter design for a passband of 3.4 GHz to 3.8 GHz with a notch at 2.949 GHz</p><p>• MATLAB based music efficiency calculator</p><p>• Evaluation of machine learning algorithms to replace output LUTs for non linear ADC</p><p>• Efficiency calculator for Music Files</p><p>Change the world.</p><p>Love your job.</p><p>Connect</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,43 +18,114 @@
   "discViewModels": [
     {
       "projectId": 1786,
-      "projectDisciplineId": 5714,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectDisciplineId": 6577,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA,H123,H124,H140",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA,H123,H124,H140",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5714,
+      "projectDisciplineId": 6577,
       "projectId": 1786,
       "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 0,
-      "cgpamin": 0,
+      "higherDegree": 1,
+      "cgpamin": 7,
       "cgpamax": 10,
-      "freshRequirement": 0,
-      "totalRequirement": 10,
+      "freshRequirement": 6,
+      "totalRequirement": 6,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA,H123,H124,H140",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 10,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 19819,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 19820,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 19821,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 19822,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19823,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19824,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19825,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 2,
+          "disciplineId": 30,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19826,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 2,
+          "disciplineId": 22,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 19827,
+          "projectDisciplineId": 6577,
+          "graduationTypeId": 2,
+          "disciplineId": 26,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -96,11 +167,13 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-19T17:10:33",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-07-04T06:15:22",
+      "modifiedDate": "2024-11-14T11:50:34",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
-      "boysAccomodationCityName": null
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

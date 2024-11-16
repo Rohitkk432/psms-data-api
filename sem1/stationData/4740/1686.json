@@ -1,0 +1,231 @@
+{
+  "projectId": 1686,
+  "stationId": 4740,
+  "problemBankId": 905,
+  "problemBankCreatedBy": "monali.mavani@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Development Intern (Engineering Team)",
+  "description": "<p>Description: Students will work as a part of development project teams. They</p><p>will be assigned projects based on their current hands-on experience, courses</p><p>done and what they feel passionate about.</p><p>Skill sets: Java, Golang, ReactJS, Data Structures, Algorithms</p><p>Expected learning: *B2B Enterprise Platform Product development</p><p>*Learn how customers use Eltropy products and how they benefit</p><p>Specific courses required for project execution: Data structures, Algorithms,</p><p>Java. CS projects.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1686,
+      "projectDisciplineId": 5643,
+      "projectDisciplineCodes": "AnyA7,AnyA3,AnyA8,AnyAA,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA7,AnyA3,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5643,
+      "projectId": 1686,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 6,
+      "totalRequirement": 11,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,AnyA3,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 5,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 16660,
+          "projectDisciplineId": 5643,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 16661,
+          "projectDisciplineId": 5643,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 16662,
+          "projectDisciplineId": 5643,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 16663,
+          "projectDisciplineId": 5643,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 16664,
+          "projectDisciplineId": 5643,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16665,
+          "projectDisciplineId": 5643,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16666,
+          "projectDisciplineId": 5643,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 16667,
+          "projectDisciplineId": 5643,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 1057,
+      "projectId": 1686,
+      "electiveId": 1090,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1058,
+      "projectId": 1686,
+      "electiveId": 1343,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1059,
+      "projectId": 1686,
+      "electiveId": 1257,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1606,
+      "projectId": 1686,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "9am - 5pm and should be flexible to attend occasional meetings in the evenings for U.S.customers\nSpecific courses required for project execution: Data structures, Algorithms, Java. CS projects.",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "monali.mavani@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-15T07:03:19",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:39:34",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37066,
+      "projectId": 1686,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 37067,
+      "projectId": 1686,
+      "skillId": 82
+    },
+    {
+      "projectSkillId": 37068,
+      "projectId": 1686,
+      "skillId": 223
+    },
+    {
+      "projectSkillId": 37069,
+      "projectId": 1686,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1686,
+      "projectDomainId": 2404,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2210,
+      "projectId": 1686,
+      "academicSubDomainId": 1
+    },
+    {
+      "projectSubDomainId": 2211,
+      "projectId": 1686,
+      "academicSubDomainId": 128
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

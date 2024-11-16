@@ -1,0 +1,162 @@
+{
+  "projectId": 3143,
+  "stationId": 6247,
+  "problemBankId": 1987,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project No - 4 & 6 for Chemistry/engineering",
+  "description": "<p>Project 4 Title: Synthesis of polymer composite membranes for for hydrocarbon separation</p><p>Description: State of the art polymer membranes lack sufficient efficacy (permselectivity) to replace</p><p>energy intensive distillation methods. Our aim is to strategise and fabricate high flux and selective</p><p>composite membranes, which are sustainable. We aim to fabricate and test the membrane performance</p><p>in lab-made gas permeation set up.</p><p>Skill sets: organic synthesis, chemical engineering</p><p>Traits expectation: Interest in material chemistry</p><p>Expected learning: membrane design and synthesis, material characterization techniques</p><p>Specific courses required for project execution: chemistry or chemical engineering background</p><p><br></p><p>Project 6 Title: Computational modeling of atmospheric molecular processes</p><p>Description: The lifetime of the molecules in atmospheric conditions depend on their solvated</p><p><br></p><p>microstructure that are dynamic. The project will survey some of the pollutants such as sulfate ions, free-</p><p>radicals, volatile organic compounds, etc. Selected methods based on computational chemistry (density</p><p><br></p><p>functional theory) and machine learning will be applied to model the dynamical composition of these</p><p>molecules.</p><p>Skill sets: Able to work with Linux environment, plotting with Python/Matplotlib, Basic physical chemistry</p><p>Traits expectation: Interest in reviewing project-related literature and atmospheric chemistry, Interested</p><p>in discussions with PhD students.</p><p>Expected learning: Atmospheric chemistry, computational chemistry, application of machine learning</p><p>Specific courses required for project execution: Python programming, Physical chemistry</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3143,
+      "projectDisciplineId": 6231,
+      "projectDisciplineCodes": "AnyB2,B2",
+      "discCodesPerProject": "AnyB2,B2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6231,
+      "projectId": 3143,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB2,B2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18718,
+          "projectDisciplineId": 6231,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 17
+        },
+        {
+          "projectDisciplineDetailId": 18719,
+          "projectDisciplineId": 6231,
+          "graduationTypeId": 1,
+          "disciplineId": 17,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3013,
+      "projectId": 3143,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "For TIFR we will pay a scholarship of 20k for our students (CGPA 6 and above). ",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T01:47:13",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-15T04:30:10",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57697,
+      "projectId": 3143,
+      "skillId": 278
+    },
+    {
+      "projectSkillId": 57698,
+      "projectId": 3143,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 57699,
+      "projectId": 3143,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3143,
+      "projectDomainId": 4551,
+      "academicDomainId": 67
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4168,
+      "projectId": 3143,
+      "academicSubDomainId": 339
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,356 @@
+{
+  "projectId": 3200,
+  "stationId": 6276,
+  "problemBankId": 2033,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Design and development of automatic assembly machines,",
+  "description": "<p>Production techniques for commutator production</p><p>Inventory management for the product Laser Land leveller for AGRICULTURE PURPOSE</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3200,
+      "projectDisciplineId": 6295,
+      "projectDisciplineCodes": "B1A4,B2AB,A4,AB",
+      "discCodesPerProject": "B1A4,B2AB,A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6295,
+      "projectId": 3200,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "B1A4,B2AB,A4,AB",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18859,
+          "projectDisciplineId": 6295,
+          "graduationTypeId": 0,
+          "disciplineId": 16,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 18860,
+          "projectDisciplineId": 6295,
+          "graduationTypeId": 0,
+          "disciplineId": 17,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 18861,
+          "projectDisciplineId": 6295,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 18862,
+          "projectDisciplineId": 6295,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3069,
+      "projectId": 3200,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-08T15:29:52",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 58181,
+      "projectId": 3200,
+      "skillId": 456
+    },
+    {
+      "projectSkillId": 58182,
+      "projectId": 3200,
+      "skillId": 129
+    },
+    {
+      "projectSkillId": 58183,
+      "projectId": 3200,
+      "skillId": 134
+    },
+    {
+      "projectSkillId": 58184,
+      "projectId": 3200,
+      "skillId": 407
+    },
+    {
+      "projectSkillId": 58185,
+      "projectId": 3200,
+      "skillId": 354
+    },
+    {
+      "projectSkillId": 58186,
+      "projectId": 3200,
+      "skillId": 97
+    },
+    {
+      "projectSkillId": 58187,
+      "projectId": 3200,
+      "skillId": 44
+    },
+    {
+      "projectSkillId": 58188,
+      "projectId": 3200,
+      "skillId": 245
+    },
+    {
+      "projectSkillId": 58189,
+      "projectId": 3200,
+      "skillId": 290
+    },
+    {
+      "projectSkillId": 58190,
+      "projectId": 3200,
+      "skillId": 131
+    },
+    {
+      "projectSkillId": 58191,
+      "projectId": 3200,
+      "skillId": 83
+    },
+    {
+      "projectSkillId": 58192,
+      "projectId": 3200,
+      "skillId": 120
+    },
+    {
+      "projectSkillId": 58193,
+      "projectId": 3200,
+      "skillId": 406
+    },
+    {
+      "projectSkillId": 58194,
+      "projectId": 3200,
+      "skillId": 331
+    },
+    {
+      "projectSkillId": 58195,
+      "projectId": 3200,
+      "skillId": 45
+    },
+    {
+      "projectSkillId": 58196,
+      "projectId": 3200,
+      "skillId": 88
+    },
+    {
+      "projectSkillId": 58197,
+      "projectId": 3200,
+      "skillId": 65
+    },
+    {
+      "projectSkillId": 58198,
+      "projectId": 3200,
+      "skillId": 114
+    },
+    {
+      "projectSkillId": 58199,
+      "projectId": 3200,
+      "skillId": 141
+    },
+    {
+      "projectSkillId": 58200,
+      "projectId": 3200,
+      "skillId": 122
+    },
+    {
+      "projectSkillId": 58201,
+      "projectId": 3200,
+      "skillId": 436
+    },
+    {
+      "projectSkillId": 58202,
+      "projectId": 3200,
+      "skillId": 457
+    },
+    {
+      "projectSkillId": 58203,
+      "projectId": 3200,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 58204,
+      "projectId": 3200,
+      "skillId": 69
+    },
+    {
+      "projectSkillId": 58205,
+      "projectId": 3200,
+      "skillId": 332
+    },
+    {
+      "projectSkillId": 58206,
+      "projectId": 3200,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 58207,
+      "projectId": 3200,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 58208,
+      "projectId": 3200,
+      "skillId": 438
+    },
+    {
+      "projectSkillId": 58209,
+      "projectId": 3200,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 58210,
+      "projectId": 3200,
+      "skillId": 43
+    },
+    {
+      "projectSkillId": 58211,
+      "projectId": 3200,
+      "skillId": 238
+    },
+    {
+      "projectSkillId": 58212,
+      "projectId": 3200,
+      "skillId": 334
+    },
+    {
+      "projectSkillId": 58213,
+      "projectId": 3200,
+      "skillId": 323
+    },
+    {
+      "projectSkillId": 58214,
+      "projectId": 3200,
+      "skillId": 445
+    },
+    {
+      "projectSkillId": 58215,
+      "projectId": 3200,
+      "skillId": 319
+    },
+    {
+      "projectSkillId": 58216,
+      "projectId": 3200,
+      "skillId": 106
+    },
+    {
+      "projectSkillId": 58217,
+      "projectId": 3200,
+      "skillId": 401
+    },
+    {
+      "projectSkillId": 58218,
+      "projectId": 3200,
+      "skillId": 167
+    },
+    {
+      "projectSkillId": 58219,
+      "projectId": 3200,
+      "skillId": 12
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3200,
+      "projectDomainId": 4668,
+      "academicDomainId": 293
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4276,
+      "projectId": 3200,
+      "academicSubDomainId": 517
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

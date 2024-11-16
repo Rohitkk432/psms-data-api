@@ -2,14 +2,14 @@
   "problemBankGridLines": [
     {
       "stationId": 6020,
-      "stationName": "ABB Global Industries and Services Private Limited,",
+      "stationName": "ABB Global Industries and Services Private Limited, AIC - INOPC",
       "parentStationName": "ABB Global Industries and Services Private Limited, ",
       "stationCity": "Bengaluru",
       "problemBankId": 1628,
       "businessDomain": "Electronics",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 20,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
@@ -17,15 +17,25 @@
       "semesterId": 1,
       "status": null,
       "createdBy": "planning@bits.com"
+    },
+    {
+      "stationId": 6020,
+      "stationName": "ABB Global Industries and Services Private Limited, AIC - INOPC",
+      "parentStationName": "ABB Global Industries and Services Private Limited, ",
+      "stationCity": "Bengaluru",
+      "problemBankId": 1884,
+      "businessDomain": "Electronics",
+      "totalFemalRequirement": 0,
+      "totalMaleRequirement": 0,
+      "totalRequirement": 0,
+      "noOfProject": 1,
+      "batchId": 16,
+      "psTypeId": 2,
+      "psTypeName": "PS II",
+      "semesterId": 2,
+      "status": null,
+      "createdBy": "planning@bits.com"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }

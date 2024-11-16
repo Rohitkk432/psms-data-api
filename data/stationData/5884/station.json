@@ -2,30 +2,22 @@
   "problemBankGridLines": [
     {
       "stationId": 5884,
-      "stationName": "DBOI - Global Reporting, Mumbai",
-      "parentStationName": "DBOI - Global Reporting",
+      "stationName": "DBOI- Global Reporting,Mumbai/Pune",
+      "parentStationName": "DBOI- Global Reporting,Mumbai/Pune ",
       "stationCity": "Mumbai",
       "problemBankId": 1389,
       "businessDomain": "Finance and Mgmt",
       "totalFemalRequirement": 0,
       "totalMaleRequirement": 0,
-      "totalRequirement": 1,
+      "totalRequirement": 0,
       "noOfProject": 1,
       "batchId": 16,
       "psTypeId": 2,
       "psTypeName": "PS II",
-      "semesterId": 1,
+      "semesterId": 2,
       "status": null,
       "createdBy": "planning@bits.com"
     }
   ],
-  "pageInfo": {
-    "page": 1,
-    "pageSize": 50,
-    "defaultPageSize": 50,
-    "totalItemCount": 1,
-    "numberOfPages": 1,
-    "sortBy": "ProblemBankId",
-    "sortDirection": null
-  }
+  "projectGridLines": null
 }
