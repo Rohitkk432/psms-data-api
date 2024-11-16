@@ -3,118 +3,121 @@
 import { useState, useEffect, useMemo } from "react";
 import StationData from "../../../../data/stations.json";
 import cn from "classnames";
+import Dropdown from "@/components/dropdown";
+import RangeSlider from "@/components/rangeSlider";
+
+const locationOptions = ["Bangalore", "Hyderabad", "Mumbai", "Pune", "Gurgaon", "Delhi", "Others"];
+const branchOptions = ["Finance and Mgmt", "Electronics", "Chemical", "Others", "Infrastructure", "CSIS/IT", "Mechanical", "Health Care", "Others"];
 
 export default function StationsPage() {
-    //location filters
-    const initLocationFilter = {
-        bangalore: 1,
-        mumbai: 1,
-        pune: 1,
-        hyd: 1,
-        gurgaon: 1,
-        delhi: 1,
-        other: 1,
-    };
-    const [locationFil, setLocationFil] = useState(initLocationFilter);
-
-    const handleLocFilter = (e: any) => {
-        const _newData = { ...locationFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
-        setLocationFil(_newData);
-        localStorage.setItem("locationFil", JSON.stringify(_newData));
-    };
-
-    //branch filters
-    const initStipendFilter = {
-        lt10K: 1,
-        gt10K: 1,
-        gt30K: 1,
-        gt60K: 1,
-        gt80K: 1,
-        gt100K: 1,
-    };
-    const [stipendFil, setStipendFil] = useState(initStipendFilter);
-    const handleStipendFilter = (e: any) => {
-        const _newData = { ...stipendFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
-        setStipendFil(_newData);
-        localStorage.setItem("stipendFil", JSON.stringify(_newData));
-    };
-
-    //branch filters
-    const initBranchFilter = {
-        csis: 1,
-        addOther: 0,
-        Others: 0,
-        finance: 0,
-    };
-    const [branchFil, setBranchFil] = useState(initBranchFilter);
-    const handleBranchFilter = (e: any) => {
-        const _newData = { ...branchFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
-        setBranchFil(_newData);
-        localStorage.setItem("branchFil", JSON.stringify(_newData));
-    };
-
-    //cgpa filters
-    const initCgpaFilter = {
-        gt0: 1,
-        gt6: 1,
-        gt65: 1,
-        gt7: 1,
-        gt75: 1,
-        gt8: 1,
-        gt85: 1,
-        gt9: 1,
-    };
-    const [cgpaFil, setCgpaFil] = useState(initCgpaFilter);
-    const handleCgpaFilter = (e: any) => {
-        const _newData = { ...cgpaFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
-        setCgpaFil(_newData);
-        localStorage.setItem("cgpaFil", JSON.stringify(_newData));
-    };
-
-    //requirement filters
-    const initReqFilter = {
-        req0: 1,
-        req0to10: 1,
-        req10to20: 1,
-        req20to30: 1,
-        req30plus: 1,
-    };
-    const [reqFil, setReqFil] = useState(initReqFilter);
-    const handleReqFilter = (e: any) => {
-        const _newData = { ...reqFil, [e.target.name]: e.target.value == 1 ? 0 : 1 };
-        setReqFil(_newData);
-        localStorage.setItem("reqFil", JSON.stringify(_newData));
-    };
+    const [location, setLocation] = useState<string[]>([]);
+    const [branch, setBranch] = useState<string[]>([]);
+    const [rangeCGPA, setRangeCGPA] = useState<[number, number]>([0, 10]);
+    const [rangeStipend, setRangeStipend] = useState<[number, number]>([0, 200]);
+    const [rangeReq, setRangeReq] = useState<[number, number]>([0, 100]);
 
     const [search, setSearch] = useState("");
     const [sortFunc, setSortFunc] = useState(true);
 
-    //back fill filters from localStorage
+    const [isInitialized, setIsInitialized] = useState(false);
+
+    const filteredAndSortedStations = useMemo(() => {
+        let filtered: any[] = StationData;
+
+        // Apply search filter
+        if (search.trim()) {
+            filtered = filtered.filter((station) => station.stationName.toLowerCase().includes(search.toLowerCase()) || station.stationDomain.toLowerCase().includes(search.toLowerCase()));
+        }
+
+        // Filter by location
+        if (location.length > 0) {
+            filtered = filtered.filter((station) => {
+                const cityLower = station.city.toLowerCase();
+                return location.some((loc) => {
+                    if (loc === "Others") {
+                        return !["bangalore", "bengaluru", "hyderabad", "mumbai", "pune", "gurgaon", "delhi"].some((city) => cityLower.includes(city.toLowerCase()));
+                    }
+                    // Special case for Bangalore/Bengaluru
+                    if (loc.toLowerCase() === "bangalore") {
+                        return cityLower.includes("bangalore") || cityLower.includes("bengaluru");
+                    }
+                    return cityLower.includes(loc.toLowerCase());
+                });
+            });
+        }
+
+        // Filter by branch/domain
+        if (branch.length > 0) {
+            filtered = filtered.filter((station) => {
+                return branch.some((b) => {
+                    if (b === "Others") {
+                        return !["Finance and Mgmt", "Electronics", "Chemical", "Others", "Infrastructure", "CSIS/IT", "Mechanical", "Health Care"].includes(station.stationDomain);
+                    }
+                    return station.stationDomain === b;
+                });
+            });
+        }
+
+        // Filter by CGPA range
+        filtered = filtered.filter((station) => station.minCgpa >= rangeCGPA[0] && station.minCgpa <= rangeCGPA[1]);
+
+        // Filter by stipend range (converting K to actual values)
+        filtered = filtered.filter((station) => {
+            if (rangeStipend[1] >= 200) {
+                // If max is 200K or more, only apply lower bound
+                return station.ugstipend >= rangeStipend[0] * 1000;
+            }
+            // Otherwise apply both bounds
+            return station.ugstipend >= rangeStipend[0] * 1000 && station.ugstipend <= rangeStipend[1] * 1000;
+        });
+
+        // Filter by requirements range
+        filtered = filtered.filter((station) => {
+            if (rangeReq[1] >= 100) {
+                // If max is 100 or more, only apply lower bound
+                return station.requirements >= rangeReq[0];
+            }
+            // Otherwise apply both bounds
+            return station.requirements >= rangeReq[0] && station.requirements <= rangeReq[1];
+        });
+
+        // Apply sorting
+        return sortFunc
+            ? [...filtered].sort((a, b) => a.stationName.localeCompare(b.stationName)) // Alphabetically
+            : [...filtered].sort((a, b) => b.ugstipend - a.ugstipend); // By stipend (high to low)
+    }, [StationData, search, location, branch, rangeCGPA, rangeStipend, rangeReq, sortFunc]);
+
     useEffect(() => {
-        setLocationFil(JSON.parse(localStorage.getItem("locationFil") || JSON.stringify(initLocationFilter)));
-        setBranchFil(JSON.parse(localStorage.getItem("branchFil") || JSON.stringify(initBranchFilter)));
-        setStipendFil(JSON.parse(localStorage.getItem("stipendFil") || JSON.stringify(initStipendFilter)));
-        setCgpaFil(JSON.parse(localStorage.getItem("cgpaFil") || JSON.stringify(initCgpaFilter)));
-        setReqFil(JSON.parse(localStorage.getItem("reqFil") || JSON.stringify(initReqFilter)));
+        const savedLocation = localStorage.getItem('psms-location');
+        const savedBranch = localStorage.getItem('psms-branch');
+        const savedCGPA = localStorage.getItem('psms-cgpa');
+        const savedStipend = localStorage.getItem('psms-stipend');
+        const savedReq = localStorage.getItem('psms-req');
+        const savedSearch = localStorage.getItem('psms-search');
+        const savedSort = localStorage.getItem('psms-sort');
+
+        if (savedLocation) setLocation(JSON.parse(savedLocation));
+        if (savedBranch) setBranch(JSON.parse(savedBranch));
+        if (savedCGPA) setRangeCGPA(JSON.parse(savedCGPA));
+        if (savedStipend) setRangeStipend(JSON.parse(savedStipend));
+        if (savedReq) setRangeReq(JSON.parse(savedReq));
+        if (savedSearch) setSearch(savedSearch);
+        if (savedSort) setSortFunc(JSON.parse(savedSort));
+
+        setIsInitialized(true);
     }, []);
 
-    const searchResult = useMemo(() => {
-        if (!search)
-            return sortFunc
-                ? StationData
-                : StationData.toSorted((a: any, b: any) => {
-                      return b.ugstipend - a.ugstipend;
-                  });
+    useEffect(() => {
+        if (!isInitialized) return; // Skip saving during initial load
 
-        const newData = StationData.filter((_station) => {
-            return _station.stationName.toLowerCase().includes(search.toLowerCase());
-        });
-        return sortFunc
-            ? newData
-            : newData.toSorted((a: any, b: any) => {
-                  return b.ugstipend - a.ugstipend;
-              });
-    }, [search, sortFunc]);
+        localStorage.setItem('psms-location', JSON.stringify(location));
+        localStorage.setItem('psms-branch', JSON.stringify(branch));
+        localStorage.setItem('psms-cgpa', JSON.stringify(rangeCGPA));
+        localStorage.setItem('psms-stipend', JSON.stringify(rangeStipend));
+        localStorage.setItem('psms-req', JSON.stringify(rangeReq));
+        localStorage.setItem('psms-search', search);
+        localStorage.setItem('psms-sort', JSON.stringify(sortFunc));
+    }, [isInitialized,location, branch, rangeCGPA, rangeStipend, rangeReq, search, sortFunc]);
 
     return (
         <main className="flex min-h-screen flex-col items-center gap-4 px-8 py-12">
@@ -128,149 +131,34 @@ export default function StationsPage() {
                 Thank GOD Kodam
             </div>
             <div className="w-full flex items-center justify-center text-2xl font-bold">PS Stations List</div>
-            {/* location filter btns */}
+
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <div className="text-lg">Location Filters - </div>
-                <button
-                    onClick={handleLocFilter}
-                    name="bangalore"
-                    value={locationFil.bangalore}
-                    type="button"
-                    className={!locationFil.bangalore ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Bengluru
-                </button>
-                <button onClick={handleLocFilter} name="hyd" value={locationFil.hyd} type="button" className={!locationFil.hyd ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Hyderabad
-                </button>
-                <button
-                    onClick={handleLocFilter}
-                    name="mumbai"
-                    value={locationFil.mumbai}
-                    type="button"
-                    className={!locationFil.mumbai ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Mumbai
-                </button>
-                <button onClick={handleLocFilter} name="pune" value={locationFil.pune} type="button" className={!locationFil.pune ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Pune
-                </button>
-                <button
-                    onClick={handleLocFilter}
-                    name="gurgaon"
-                    value={locationFil.gurgaon}
-                    type="button"
-                    className={!locationFil.gurgaon ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Gurgaon
-                </button>
-                <button onClick={handleLocFilter} name="delhi" value={locationFil.delhi} type="button" className={!locationFil.delhi ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Delhi
-                </button>
-                <button onClick={handleLocFilter} name="other" value={locationFil.other} type="button" className={!locationFil.other ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    others
-                </button>
+                <Dropdown className="w-[20rem]" options={locationOptions} selected={location} setSelected={setLocation} selectMultiple />
             </div>
 
-            {/* branch filter btns */}
             <div className="w-full flex items-center justify-center my-3 gap-4">
-                <div className="text-lg">Branch Filters - </div>
-                <button onClick={handleBranchFilter} name="csis" value={branchFil.csis} type="button" className={!branchFil.csis ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    CSIS/IT, HealthCare
-                </button>
-                <button
-                    onClick={handleBranchFilter}
-                    name="finance"
-                    value={branchFil.finance}
-                    type="button"
-                    className={!branchFil.finance ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Finance and Mgmt
-                </button>
-                <button onClick={handleBranchFilter} name="Others" value={branchFil.Others} type="button" className={!branchFil.Others ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Others
-                </button>
-                <button
-                    onClick={handleBranchFilter}
-                    name="addOther"
-                    value={branchFil.addOther}
-                    type="button"
-                    className={!branchFil.addOther ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Add Other Domains
-                </button>
+                <div className="text-lg">Domain Filters - </div>
+                <Dropdown className="w-[20rem]" options={branchOptions} selected={branch} setSelected={setBranch} selectMultiple />
             </div>
-            {/* Stipend filter btns */}
-            <div className="w-full flex items-center justify-center my-3 gap-4">
-                <div className="text-lg">Stipend Filters - </div>
-                <button onClick={handleStipendFilter} name="lt10K" value={stipendFil.lt10K} type="button" className={!stipendFil.lt10K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`<10K`}
-                </button>
-                <button onClick={handleStipendFilter} name="gt10K" value={stipendFil.gt10K} type="button" className={!stipendFil.gt10K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`10K<=$$<30K`}
-                </button>
-                <button onClick={handleStipendFilter} name="gt30K" value={stipendFil.gt30K} type="button" className={!stipendFil.gt30K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`30K<=$$<60K`}
-                </button>
-                <button onClick={handleStipendFilter} name="gt60K" value={stipendFil.gt60K} type="button" className={!stipendFil.gt60K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`60K<=$$<80K`}
-                </button>
-                <button onClick={handleStipendFilter} name="gt80K" value={stipendFil.gt80K} type="button" className={!stipendFil.gt80K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`80K<=$$<100K`}
-                </button>
-                <button
-                    onClick={handleStipendFilter}
-                    name="gt100K"
-                    value={stipendFil.gt100K}
-                    type="button"
-                    className={!stipendFil.gt100K ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`100K<=$$`}
-                </button>
-            </div>
-            {/* req filter btns */}
-            <div className="w-full flex items-center justify-center my-3 gap-4">
-                <div className="text-lg">Requirements Filters - </div>
-                <button onClick={handleReqFilter} name="req0" value={reqFil.req0} type="button" className={!reqFil.req0 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    Req == 0
-                </button>
-                <button onClick={handleReqFilter} name="req0to10" value={reqFil.req0to10} type="button" className={!reqFil.req0to10 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`0 < req <= 10`}
-                </button>
-                <button onClick={handleReqFilter} name="req10to20" value={reqFil.req10to20} type="button" className={!reqFil.req10to20 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`10 < req <= 20`}
-                </button>
-                <button onClick={handleReqFilter} name="req20to30" value={reqFil.req20to30} type="button" className={!reqFil.req20to30 ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`20 < req <= 30`}
-                </button>
-                <button onClick={handleReqFilter} name="req30plus" value={reqFil.req30plus} type="button" className={!reqFil.req30plus ? "bg-gray-600 px-3 rounded-md" : "bg-blue-500 px-3 rounded-md"}>
-                    {`30 < req`}
-                </button>
-            </div>
-            {/* cgpa filter btns */}
+
             <div className="w-full flex items-center justify-center my-3 gap-4">
                 <div className="text-lg">CGPA Filters - </div>
-                <button onClick={handleCgpaFilter} name="gt0" value={cgpaFil.gt0} type="button" className={!cgpaFil.gt0 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
-                    0-6 CGPA
-                </button>
-                <button onClick={handleCgpaFilter} name="gt6" value={cgpaFil.gt6} type="button" className={!cgpaFil.gt6 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
-                    6-6.5 CGPA
-                </button>
-                <button onClick={handleCgpaFilter} name="gt65" value={cgpaFil.gt65} type="button" className={!cgpaFil.gt65 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
-                    6.5-7 CGPA
-                </button>
-                <button onClick={handleCgpaFilter} name="gt7" value={cgpaFil.gt7} type="button" className={!cgpaFil.gt7 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
-                    7-7.5 CGPA
-                </button>
-                <button onClick={handleCgpaFilter} name="gt75" value={cgpaFil.gt75} type="button" className={!cgpaFil.gt75 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
-                    7.5-8 CGPA
-                </button>
-                <button onClick={handleCgpaFilter} name="gt8" value={cgpaFil.gt8} type="button" className={!cgpaFil.gt8 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
-                    8-8.5 CGPA
-                </button>
-                <button onClick={handleCgpaFilter} name="gt85" value={cgpaFil.gt85} type="button" className={!cgpaFil.gt85 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
-                    8.5-9 CGPA
-                </button>
-                <button onClick={handleCgpaFilter} name="gt9" value={cgpaFil.gt9} type="button" className={!cgpaFil.gt9 ? "bg-gray-600 px-5 rounded-md" : "bg-blue-500 px-5 rounded-md"}>
-                    9+ CGPA
-                </button>
+                <RangeSlider value={rangeCGPA} onChange={setRangeCGPA} min={0} max={10} step={0.5} />
             </div>
-            {/* searchBar */}
+
             <div className="w-full flex items-center justify-center my-3 gap-4">
+                <div className="text-lg">Stipend Filters(in K) - </div>
+                <RangeSlider value={rangeStipend} onChange={setRangeStipend} min={0} max={200} step={10} />
+            </div>
+
+            <div className="w-full flex items-center justify-center my-3 gap-4">
+                <div className="text-lg">Requirements Filters - </div>
+                <RangeSlider value={rangeReq} onChange={setRangeReq} min={0} max={100} step={10} />
+            </div>
+
+            {/* searchBar */}
+            <div className="w-full flex flex-col items-center justify-center my-3 gap-8">
                 <input type="text" placeholder="Search" className="w-[30rem] py-2 rounded-full px-8 bg-gray-900 border-blue-600 border-2" value={search} onChange={(e) => setSearch(e.target.value)} />
                 <div className="flex items-center gap-3">
                     <div>Sort: </div>
@@ -294,77 +182,21 @@ export default function StationsPage() {
                 <div className="flex items-center justify-center">Details</div>
             </div>
 
-            {searchResult.map((item: any) => {
-                // put cgpa filters
-                if (
-                    (cgpaFil.gt6 && item.minCgpa >= 6 && item.minCgpa < 6.5) ||
-                    (cgpaFil.gt65 && item.minCgpa >= 6.5 && item.minCgpa < 7) ||
-                    (cgpaFil.gt7 && item.minCgpa >= 7 && item.minCgpa < 7.5) ||
-                    (cgpaFil.gt75 && item.minCgpa >= 7.5 && item.minCgpa < 8) ||
-                    (cgpaFil.gt8 && item.minCgpa >= 8 && item.minCgpa < 8.5) ||
-                    (cgpaFil.gt85 && item.minCgpa >= 8.5 && item.minCgpa < 9) ||
-                    (cgpaFil.gt9 && item.minCgpa >= 9) ||
-                    (cgpaFil.gt0 && item.minCgpa >= 0 && item.minCgpa < 6)
-                )
-                    if (
-                        (stipendFil.lt10K && item.ugstipend < 10000) ||
-                        (stipendFil.gt10K && item.ugstipend >= 10000 && item.ugstipend < 30000) ||
-                        (stipendFil.gt30K && item.ugstipend >= 30000 && item.ugstipend < 60000) ||
-                        (stipendFil.gt60K && item.ugstipend >= 60000 && item.ugstipend < 80000) ||
-                        (stipendFil.gt80K && item.ugstipend >= 80000 && item.ugstipend < 10000) ||
-                        (stipendFil.gt100K && item.ugstipend >= 100000)
-                    )
-                        if (
-                            (branchFil.csis && item.stationDomain === "CSIS/IT") ||
-                            (branchFil.csis && item.stationDomain === "Health Care") ||
-                            (branchFil.finance && item.stationDomain === "Finance and Mgmt") ||
-                            (branchFil.Others && item.stationDomain === "Others") ||
-                            (branchFil.addOther &&
-                                item.stationDomain !== "CSIS/IT" &&
-                                item.stationDomain !== "Health Care" &&
-                                item.stationDomain !== "Finance and Mgmt" &&
-                                item.stationDomain !== "Others")
-                        )
-                            if (
-                                (reqFil.req0 && item.requirements === 0) ||
-                                (reqFil.req0to10 && item.requirements > 0 && item.requirements <= 10) ||
-                                (reqFil.req10to20 && item.requirements > 10 && item.requirements <= 20) ||
-                                (reqFil.req20to30 && item.requirements > 20 && item.requirements <= 30) ||
-                                (reqFil.req30plus && item.requirements > 30)
-                            )
-                                if (
-                                    (locationFil.pune && item.city.includes("Pune")) ||
-                                    (locationFil.hyd && item.city.includes("Hyderabad")) ||
-                                    (locationFil.mumbai && item.city.includes("Mumbai")) ||
-                                    (locationFil.gurgaon && item.city.includes("Gurgaon")) ||
-                                    (locationFil.bangalore && (item.city.includes("Bangalore") || item.city.includes("Bengaluru"))) ||
-                                    (locationFil.delhi && item.city.includes("Delhi")) ||
-                                    (locationFil.other &&
-                                        !item.city.includes("Pune") &&
-                                        !item.city.includes("Hyderabad") &&
-                                        !item.city.includes("Mumbai") &&
-                                        !item.city.includes("Gurgaon") &&
-                                        !item.city.includes("Bangalore") &&
-                                        !item.city.includes("Delhi") &&
-                                        !item.city.includes("Bengaluru"))
-                                )
-                                    // put branch filters
-                                    // put requirement filters
-                                    // put location filters
-                                    return (
-                                        <div key={item.stationId} className="w-full grid grid-cols-10 py-2 items-center justify-center border-b text-white text-lg">
-                                            <div className="flex items-center justify-center">{item.stationId}</div>
-                                            <div className="col-span-3 text-center flex items-center justify-center">{item.stationName}</div>
-                                            <div className="flex items-center justify-center">{item.city}</div>
-                                            <div className="flex items-center text-center justify-center">{item.stationDomain}</div>
-                                            <div className="flex items-center justify-center">{item.ugstipend}</div>
-                                            <div className="flex items-center justify-center">{item.requirements}</div>
-                                            <div className="flex items-center justify-center">{item.minCgpa}</div>
-                                            <a href={`/station-details/${item.stationId}`} className="flex items-center rounded-xl bg-blue-500 justify-center">
-                                                Details
-                                            </a>
-                                        </div>
-                                    );
+            {filteredAndSortedStations.map((item: any) => {
+                return (
+                    <div key={item.stationId} className="w-full grid grid-cols-10 py-2 items-center justify-center border-b text-white text-lg">
+                        <div className="flex items-center justify-center">{item.stationId}</div>
+                        <div className="col-span-3 text-center flex items-center justify-center">{item.stationName}</div>
+                        <div className="flex items-center justify-center">{item.city}</div>
+                        <div className="flex items-center text-center justify-center">{item.stationDomain}</div>
+                        <div className="flex items-center justify-center">{item.ugstipend.toString().match(/.{1,3}(?=(.{3})*$)/g).join(',')}</div>
+                        <div className="flex items-center justify-center">{item.requirements}</div>
+                        <div className="flex items-center justify-center">{item.minCgpa}</div>
+                        <a href={`/station-details/${item.stationId}`} className="flex items-center rounded-xl bg-blue-500 justify-center">
+                            Details
+                        </a>
+                    </div>
+                );
             })}
         </main>
     );

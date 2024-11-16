@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.clear-input-style {
+  border: none !important; /* Removes border */
+  outline: none !important; /* Removes focus outline */
+  box-shadow: none !important; /* Removes any shadow (e.g., ring effects) */
+}
