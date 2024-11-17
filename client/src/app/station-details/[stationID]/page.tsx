@@ -43,10 +43,10 @@ const StationDetails = async ({ params }: any) => {
                     <p className="text-center text-blue-400">{station.businessDomain}</p>
                 </div>
 
-                {/* Station Overview Card */}
+                {/* Station Overview Card - Enhanced */}
                 <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 mb-10 border border-gray-700">
                     <h2 className="text-xl font-semibold mb-6 text-blue-400">Station Overview</h2>
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6">
                         <StatsCard
                             title="Location"
                             value={station.stationCity}
@@ -58,14 +58,39 @@ const StationDetails = async ({ params }: any) => {
                             icon="👥"
                         />
                         <StatsCard
+                            title="Male Positions"
+                            value={station.totalMaleRequirement}
+                            icon="👨"
+                        />
+                        <StatsCard
+                            title="Female Positions"
+                            value={station.totalFemalRequirement}
+                            icon="👩"
+                        />
+                        <StatsCard
                             title="Projects"
                             value={station.noOfProject}
                             icon="📋"
                         />
+                        <StatsCard
+                            title="PS Type"
+                            value={station.psTypeName}
+                            icon="📑"
+                        />
+                        <StatsCard
+                            title="Problem Bank ID"
+                            value={station.problemBankId}
+                            icon="🏦"
+                        />
+                        <StatsCard
+                            title="Station ID"
+                            value={station.stationId}
+                            icon="🔢"
+                        />
                     </div>
                 </div>
 
-                {/* Projects Section */}
+                {/* Projects Section - Enhanced */}
                 <div className="space-y-8">
                     {Object.values(projects).map((item: any, key) => (
                         <div key={item.projectId} 
@@ -93,8 +118,8 @@ const StationDetails = async ({ params }: any) => {
                                 </MarkdownRenderer>
                             </div>
 
-                            {/* Requirements Grid */}
-                            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                            {/* Enhanced Requirements Grid */}
+                            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-6">
                                 <RequirementCard
                                     label="CGPA Required"
                                     value={`${item.projectDiscipline[0].cgpamin} - ${item.projectDiscipline[0].cgpamax}`}
@@ -107,9 +132,29 @@ const StationDetails = async ({ params }: any) => {
                                     label="Stipend (PG)"
                                     value={`${item.projectFacility[0].pgstipend} ${item.projectFacility[0].currency}`}
                                 />
+                                <RequirementCard
+                                    label="Total Requirement"
+                                    value={item.projectDiscipline[0].totalRequirement}
+                                />
+                                <RequirementCard
+                                    label="Male Requirement"
+                                    value={item.projectDiscipline[0].maleRequirement}
+                                />
+                                <RequirementCard
+                                    label="Female Requirement"
+                                    value={item.projectDiscipline[0].femaleRequirement}
+                                />
+                                <RequirementCard
+                                    label="Fresh Requirement"
+                                    value={item.projectDiscipline[0].freshRequirement}
+                                />
+                                <RequirementCard
+                                    label="Degree"
+                                    value={item.projectDiscipline[0].degree}
+                                />
                             </div>
 
-                            {/* Skills and Requirements */}
+                            {/* Skills and Requirements - Enhanced */}
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <DetailSection
                                     title="Required Skills"
@@ -128,6 +173,30 @@ const StationDetails = async ({ params }: any) => {
                                     })}
                                     bgColor="bg-green-500/20"
                                     textColor="text-green-400"
+                                />
+                                <DetailSection
+                                    title="Academic Sub-Domains"
+                                    items={item.projectAcademicSubDomain.map((skl: any) => {
+                                        const _skl = acadSubDomains.find((fd: any) => fd.academicSubDomainId === skl.academicSubDomainId);
+                                        return _skl?.name;
+                                    })}
+                                    bgColor="bg-blue-500/20"
+                                    textColor="text-blue-400"
+                                />
+                                <DetailSection
+                                    title="Project Electives"
+                                    items={item.projectElective.map((skl: any) => {
+                                        const _skl = elective1.find((fd: any) => fd.electiveId === skl.electiveId);
+                                        return `${_skl?.elective1} (Grade: ${skl.grade})`;
+                                    })}
+                                    bgColor="bg-amber-500/20"
+                                    textColor="text-amber-400"
+                                />
+                                <DetailSection
+                                    title="Discipline Codes"
+                                    items={[item.projectDiscipline[0].disciplineCodes]}
+                                    bgColor="bg-rose-500/20"
+                                    textColor="text-rose-400"
                                 />
                             </div>
                         </div>
