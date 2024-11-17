@@ -35,7 +35,7 @@ export default async function LandingPage() {
                     </div>
 
                     {/* Content Box */}
-                    <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-8 border border-gray-700">
+                    <div className="rounded-2xl p-8 border border-gray-700">
                         {session ? (
                             // Show main content when logged in
                             <div className="space-y-6">
