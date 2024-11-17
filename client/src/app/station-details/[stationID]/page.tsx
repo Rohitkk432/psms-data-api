@@ -33,154 +33,155 @@ const StationDetails = async ({ params }: any) => {
     );
 
     return (
-        <div className="flex min-h-screen w-full justify-between flex-wrap flex-row p-12">
-            <div className="flex w-[48%] my-4 flex-col p-4 gap-2 border rounded-xl">
-                <div className="w-full flex text-2xl font-bold items-center justify-center">{station.stationName}</div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>stationCity</div>
-                    <div>{station.stationCity}</div>
+        <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800">
+            <div className="container mx-auto px-4 py-8">
+                {/* Station Header */}
+                <div className="mb-10">
+                    <h1 className="text-3xl md:text-4xl font-bold text-center text-white mb-2">
+                        {station.stationName}
+                    </h1>
+                    <p className="text-center text-blue-400">{station.businessDomain}</p>
                 </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>businessDomain</div>
-                    <div>{station.businessDomain}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>stationId</div>
-                    <div>{station.stationId}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>totalMaleRequirement</div>
-                    <div>{station.totalMaleRequirement}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>totalFemalRequirement</div>
-                    <div>{station.totalFemalRequirement}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>totalRequirement</div>
-                    <div>{station.totalRequirement}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>noOfProject</div>
-                    <div>{station.noOfProject}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>psTypeName</div>
-                    <div>{station.psTypeName}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>problemBankId</div>
-                    <div>{station.problemBankId}</div>
-                </div>
-            </div>
-            {Object.values(projects).map((item: any, key) => {
-                return (
-                    <div key={item.projectId} className="flex w-[48%] my-4 flex-col p-4 border rounded-xl gap-2">
-                        <div className="w-full flex text-2xl font-bold items-center justify-center">
-                            Project {key + 1} - {item.title}
-                        </div>
 
-                        <div className="w-full flex items-start justify-between flex-wrap text-lg px-10 gap-2 my-4">
-                            <strong>description-</strong>
-                            <div>
+                {/* Station Overview Card */}
+                <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 mb-10 border border-gray-700">
+                    <h2 className="text-xl font-semibold mb-6 text-blue-400">Station Overview</h2>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                        <StatsCard
+                            title="Location"
+                            value={station.stationCity}
+                            icon="🌍"
+                        />
+                        <StatsCard
+                            title="Total Positions"
+                            value={station.totalRequirement}
+                            icon="👥"
+                        />
+                        <StatsCard
+                            title="Projects"
+                            value={station.noOfProject}
+                            icon="📋"
+                        />
+                    </div>
+                </div>
+
+                {/* Projects Section */}
+                <div className="space-y-8">
+                    {Object.values(projects).map((item: any, key) => (
+                        <div key={item.projectId} 
+                             className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-gray-700 transition-all hover:border-blue-500/50">
+                            {/* Project Header */}
+                            <div className="flex items-center justify-between mb-6">
+                                <h2 className="text-2xl font-bold text-white">
+                                    Project {key + 1}
+                                </h2>
+                                <span className="px-4 py-1 bg-blue-500/20 text-blue-400 rounded-full text-sm">
+                                    ID: {item.projectId}
+                                </span>
+                            </div>
+
+                            {/* Project Title */}
+                            <h3 className="text-xl text-blue-400 font-semibold mb-4">{item.title}</h3>
+
+                            {/* Description */}
+                            <div className="bg-black/20 rounded-xl p-4 mb-6">
                                 <MarkdownRenderer>
                                     {item.description
                                         .replaceAll("color: rgb(0, 0, 0);", "color: rgb(255, 255, 255);")
                                         .replaceAll("color: black", "color: rgb(255, 255, 255);")
-                                        .replaceAll("background-color: rgb(255, 255, 255)", "background-color: rgb(0, 0, 0)")}
+                                        .replaceAll("background-color: rgb(255, 255, 255)", "background-color: transparent")}
                                 </MarkdownRenderer>
                             </div>
-                        </div>
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <div>projectId </div>
-                            <div>{item.projectId}</div>
-                        </div>
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <strong>CGPA </strong>
-                            <div>
-                                {item.projectDiscipline[0].cgpamin} - {item.projectDiscipline[0].cgpamax}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>maleRequirement </strong>
-                            <div>{item.projectDiscipline[0].maleRequirement}</div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>femaleRequirement </strong>
-                            <div>{item.projectDiscipline[0].femaleRequirement}</div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>totalRequirement </strong>
-                            <div>{item.projectDiscipline[0].totalRequirement}</div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>freshRequirement </strong>
-                            <div>{item.projectDiscipline[0].freshRequirement}</div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>disciplineCodes</strong>
-                            <div>{item.projectDiscipline[0].disciplineCodes}</div>
-                        </div>
 
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>degree</strong>
-                            <div>{item.projectDiscipline[0].degree}</div>
-                        </div>
+                            {/* Requirements Grid */}
+                            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                                <RequirementCard
+                                    label="CGPA Required"
+                                    value={`${item.projectDiscipline[0].cgpamin} - ${item.projectDiscipline[0].cgpamax}`}
+                                />
+                                <RequirementCard
+                                    label="Stipend (UG)"
+                                    value={`${item.projectFacility[0].ugstipend} ${item.projectFacility[0].currency}`}
+                                />
+                                <RequirementCard
+                                    label="Stipend (PG)"
+                                    value={`${item.projectFacility[0].pgstipend} ${item.projectFacility[0].currency}`}
+                                />
+                            </div>
 
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>ugstipend</strong>
-                            <div>
-                                {item.projectFacility[0].ugstipend} {item.projectFacility[0].currency}
+                            {/* Skills and Requirements */}
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                <DetailSection
+                                    title="Required Skills"
+                                    items={item.projectSkill.map((skl: any) => {
+                                        const _skl = skills.find((fd: any) => fd.skillId === skl.skillId);
+                                        return _skl?.skillName;
+                                    })}
+                                    bgColor="bg-purple-500/20"
+                                    textColor="text-purple-400"
+                                />
+                                <DetailSection
+                                    title="Academic Domains"
+                                    items={item.projectAcademicDomain.map((skl: any) => {
+                                        const _skl = acadDomains.find((fd: any) => fd.academicDomainId === skl.academicDomainId);
+                                        return _skl?.name;
+                                    })}
+                                    bgColor="bg-green-500/20"
+                                    textColor="text-green-400"
+                                />
                             </div>
                         </div>
-
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>pgstipend</strong>
-                            <div>
-                                {item.projectFacility[0].pgstipend} {item.projectFacility[0].currency}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap flex-col my-4 justify-between text-lg px-10">
-                            <strong>projectElective - </strong>
-                            <div className="flex flex-col gap-1">
-                                {item.projectElective.map((skl: any) => {
-                                    const _skl = elective1.find((fd: any) => fd.electiveId === skl.electiveId);
-                                    return <div key={skl.projectElectiveId}>{`${_skl?.elective1} - ${skl.grade}`}</div>;
-                                })}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>academicDomain - </strong>
-                            <div>
-                                {item.projectAcademicDomain.map((skl: any) => {
-                                    const _skl = acadDomains.find((fd: any) => fd.academicDomainId === skl.academicDomainId);
-                                    return `${_skl?.name} ,`;
-                                })}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>academicSubDomain - </strong>
-                            <div>
-                                {item.projectAcademicSubDomain.map((skl: any) => {
-                                    const _skl = acadSubDomains.find((fd: any) => fd.academicSubDomainId === skl.academicSubDomainId);
-                                    return `${_skl?.name} ,`;
-                                })}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10 my-4">
-                            <strong>projectSkill -</strong>
-                            <div>
-                                {item.projectSkill.map((skl: any) => {
-                                    const _skl = skills.find((fd: any) => fd.skillId === skl.skillId);
-                                    return `${_skl?.skillName} ,`;
-                                })}
-                            </div>
-                        </div>
-                    </div>
-                );
-            })}
+                    ))}
+                </div>
+            </div>
         </div>
     );
 };
+
+// Helper Components
+const StatsCard = ({ title, value, icon }: { title: string; value: string | number; icon: string }) => (
+    <div className="bg-white/5 rounded-xl p-4 flex items-center space-x-4">
+        <span className="text-2xl">{icon}</span>
+        <div>
+            <p className="text-gray-400 text-sm">{title}</p>
+            <p className="text-white font-semibold">{value}</p>
+        </div>
+    </div>
+);
+
+const RequirementCard = ({ label, value }: { label: string; value: string }) => (
+    <div className="bg-white/5 rounded-xl p-4">
+        <p className="text-gray-400 text-sm mb-1">{label}</p>
+        <p className="text-white font-semibold">{value}</p>
+    </div>
+);
+
+const DetailSection = ({ 
+    title, 
+    items, 
+    bgColor, 
+    textColor 
+}: { 
+    title: string; 
+    items: (string | undefined)[]; 
+    bgColor: string;
+    textColor: string;
+}) => (
+    <div className="bg-white/5 rounded-xl p-4">
+        <h3 className="font-semibold mb-3 text-white">{title}</h3>
+        <div className="flex flex-wrap gap-2">
+            {items.map((item, index) => (
+                item && (
+                    <span 
+                        key={index} 
+                        className={`${bgColor} ${textColor} px-3 py-1 rounded-full text-sm font-medium`}
+                    >
+                        {item}
+                    </span>
+                )
+            ))}
+        </div>
+    </div>
+);
 
 export default StationDetails;
