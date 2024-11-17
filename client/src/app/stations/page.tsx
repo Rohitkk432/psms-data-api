@@ -63,33 +63,39 @@ export default function StationsPage() {
             });
         }
 
-        // Filter by CGPA range
-        filtered = filtered.filter((station) => station.minCgpa >= rangeCGPA[0] && station.minCgpa <= rangeCGPA[1]);
-
-        // Filter by stipend range (converting K to actual values)
+        // Filter by CGPA range - only filter if value exists
         filtered = filtered.filter((station) => {
+            if (station.minCgpa === null || station.minCgpa === undefined) return true;
+            return station.minCgpa >= rangeCGPA[0] && station.minCgpa <= rangeCGPA[1];
+        });
+
+        // Filter by stipend range - only filter if value exists
+        filtered = filtered.filter((station) => {
+            if (station.ugstipend === null || station.ugstipend === undefined) return true;
             if (rangeStipend[1] >= 200) {
-                // If max is 200K or more, only apply lower bound
                 return station.ugstipend >= rangeStipend[0] * 1000;
             }
-            // Otherwise apply both bounds
             return station.ugstipend >= rangeStipend[0] * 1000 && station.ugstipend <= rangeStipend[1] * 1000;
         });
 
-        // Filter by requirements range
+        // Filter by requirements range - only filter if value exists
         filtered = filtered.filter((station) => {
+            if (station.requirements === null || station.requirements === undefined) return true;
             if (rangeReq[1] >= 100) {
-                // If max is 100 or more, only apply lower bound
                 return station.requirements >= rangeReq[0];
             }
-            // Otherwise apply both bounds
             return station.requirements >= rangeReq[0] && station.requirements <= rangeReq[1];
         });
 
-        // Apply sorting
+        // Update sorting to handle null values
         return sortFunc
-            ? [...filtered].sort((a, b) => a.stationName.localeCompare(b.stationName)) // Alphabetically
-            : [...filtered].sort((a, b) => b.ugstipend - a.ugstipend); // By stipend (high to low)
+            ? [...filtered].sort((a, b) => a.stationName.localeCompare(b.stationName))
+            : [...filtered].sort((a, b) => {
+                // If either value is null/undefined, treat them as 0 for sorting
+                const stipendA = a.ugstipend ?? -1;  // Use -1 to put null values at the end
+                const stipendB = b.ugstipend ?? -1;
+                return stipendB - stipendA;
+            });
     }, [StationData, Sem1StationData, semester, search, location, branch, rangeCGPA, rangeStipend, rangeReq, sortFunc]);
 
     useEffect(() => {
@@ -341,14 +347,24 @@ export default function StationsPage() {
                             </div>
                             <div className="flex items-center justify-center p-4">
                                 <span className="text-green-400 font-medium">
-                                    ₹{item.ugstipend.toString().match(/.{1,3}(?=(.{3})*$)/g).join(',')}
+                                    {item.ugstipend !== null && item.ugstipend !== undefined 
+                                        ? `₹${item.ugstipend.toString().match(/.{1,3}(?=(.{3})*$)/g)?.join(',')}`
+                                        : 'Not Found'}
                                 </span>
                             </div>
                             <div className="flex items-center justify-center p-4">
-                                <span className="text-blue-400">{item.requirements}</span>
+                                <span className="text-blue-400">
+                                    {item.requirements !== null && item.requirements !== undefined 
+                                        ? item.requirements 
+                                        : 'Not Found'}
+                                </span>
                             </div>
                             <div className="flex items-center justify-center p-4">
-                                <span className="text-yellow-400">{item.minCgpa}</span>
+                                <span className="text-yellow-400">
+                                    {item.minCgpa !== null && item.minCgpa !== undefined 
+                                        ? item.minCgpa 
+                                        : 'Not Found'}
+                                </span>
                             </div>
                             <div className="flex items-center justify-center p-4">
                                 <a 
@@ -392,16 +408,26 @@ export default function StationsPage() {
                                 <div className="bg-black/20 rounded-xl p-3">
                                     <span className="text-gray-400 text-sm block mb-1">Stipend</span>
                                     <p className="text-green-400 font-medium">
-                                        ₹{item.ugstipend.toString().match(/.{1,3}(?=(.{3})*$)/g).join(',')}
+                                        {item.ugstipend !== null && item.ugstipend !== undefined 
+                                            ? `₹${item.ugstipend.toString().match(/.{1,3}(?=(.{3})*$)/g)?.join(',')}`
+                                            : 'Not Found'}
                                     </p>
                                 </div>
                                 <div className="bg-black/20 rounded-xl p-3">
                                     <span className="text-gray-400 text-sm block mb-1">Reqs</span>
-                                    <p className="text-blue-400 font-medium">{item.requirements}</p>
+                                    <p className="text-blue-400 font-medium">
+                                        {item.requirements !== null && item.requirements !== undefined 
+                                            ? item.requirements 
+                                            : 'Not Found'}
+                                    </p>
                                 </div>
                                 <div className="bg-black/20 rounded-xl p-3">
                                     <span className="text-gray-400 text-sm block mb-1">CGPA</span>
-                                    <p className="text-amber-400 font-medium">{item.minCgpa}</p>
+                                    <p className="text-amber-400 font-medium">
+                                        {item.minCgpa !== null && item.minCgpa !== undefined 
+                                            ? item.minCgpa 
+                                            : 'Not Found'}
+                                    </p>
                                 </div>
                             </div>
 
