@@ -121,162 +121,163 @@ export default function StationsPage() {
     }, [isInitialized,location, branch, rangeCGPA, rangeStipend, rangeReq, search, sortFunc]);
 
     return (
-        <main className="flex min-h-screen flex-col items-center gap-4 px-2 sm:px-8 py-6 sm:py-12">
-            <div className="w-full flex flex-col border border-gray-600 py-2 sm:py-3 rounded-md gap-1 items-center justify-center">
-                <div className="w-full flex gap-1 items-center justify-center text-6xl font-black">
-                    <div className="text-green-500">P</div>
-                    <div className="text-orange-500">S</div>
-                    <div className="text-violet-500">M</div>
-                    <div className="text-green-500">S</div>
-                </div>
-                Thank GOD Kodam
-            </div>
-            <div className="w-full flex items-center justify-center text-2xl font-bold">PS Stations List</div>
-
-            {/* Filters Section */}
-            <div className="w-full max-w-7xl mx-auto">
-                {/* Dropdowns Section */}
-                <div className="flex flex-col md:flex-row gap-4 mb-6">
-                    {/* Location Filter */}
-                    <div className="flex-1 flex flex-col gap-2">
-                        <label className="text-lg font-medium">Location Filter</label>
-                        <Dropdown 
-                            className="w-full" 
-                            options={locationOptions} 
-                            selected={location} 
-                            setSelected={setLocation} 
-                            selectMultiple 
-                        />
-                    </div>
-
-                    {/* Domain Filter */}
-                    <div className="flex-1 flex flex-col gap-2">
-                        <label className="text-lg font-medium">Domain Filter</label>
-                        <Dropdown 
-                            className="w-full" 
-                            options={branchOptions} 
-                            selected={branch} 
-                            setSelected={setBranch} 
-                            selectMultiple 
-                        />
-                    </div>
+        <main className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800">
+            <div className="container mx-auto px-4 sm:px-2 lg:px-0 py-8">
+                {/* Header Section */}
+                <div className="mb-10">
+                    <h1 className="text-3xl md:text-4xl font-bold text-center text-white mb-2">
+                        PS Stations List
+                    </h1>
+                    <p className="text-center text-blue-400">Find and filter available stations</p>
                 </div>
 
-                {/* Range Sliders Section */}
-                <div className="flex flex-wrap gap-4 mb-6">
-                    {/* CGPA Range */}
-                    <div className="flex-1 min-w-[300px] flex flex-col gap-2 p-4 bg-gray-800 rounded-lg">
-                        <label className="text-lg font-medium">CGPA Range</label>
-                        <RangeSlider 
-                            value={rangeCGPA} 
-                            onChange={setRangeCGPA} 
-                            min={0} 
-                            max={10} 
-                            step={0.5} 
-                            className="!w-full"
-                        />
-                        <div className="flex justify-between text-sm text-gray-400">
-                            <span>Min: {rangeCGPA[0]}</span>
-                            <span>Max: {rangeCGPA[1]}</span>
+                {/* Filters Section - Enhanced UI */}
+                <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 mb-10 border border-gray-700">
+                    <h2 className="text-xl font-semibold mb-6 text-blue-400">Filter Stations</h2>
+                    
+                    {/* Dropdowns Section */}
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                        {/* Location Filter */}
+                        <div className="flex flex-col gap-2">
+                            <label className="text-gray-400">Location Filter</label>
+                            <Dropdown 
+                                className="w-full bg-black/20 border border-gray-700" 
+                                options={locationOptions} 
+                                selected={location} 
+                                setSelected={setLocation} 
+                                selectMultiple 
+                            />
+                        </div>
+
+                        {/* Domain Filter */}
+                        <div className="flex flex-col gap-2">
+                            <label className="text-gray-400">Domain Filter</label>
+                            <Dropdown 
+                                className="w-full bg-black/20 border border-gray-700" 
+                                options={branchOptions} 
+                                selected={branch} 
+                                setSelected={setBranch} 
+                                selectMultiple 
+                            />
                         </div>
                     </div>
 
-                    {/* Requirements Range */}
-                    <div className="flex-1 min-w-[300px] flex flex-col gap-2 p-4 bg-gray-800 rounded-lg">
-                        <label className="text-lg font-medium">Requirements Range</label>
-                        <RangeSlider 
-                            value={rangeReq} 
-                            onChange={setRangeReq} 
-                            min={0} 
-                            max={100} 
-                            step={10} 
-                            className="!w-full"
-                        />
-                        <div className="flex justify-between text-sm text-gray-400">
-                            <span>Min: {rangeReq[0]}</span>
-                            <span>Max: {rangeReq[1]}+</span>
+                    {/* Range Sliders Section */}
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+                        {/* CGPA Range */}
+                        <div className="flex flex-col gap-2 p-4 bg-black/20 rounded-xl border border-gray-700">
+                            <label className="text-gray-400">CGPA Range</label>
+                            <RangeSlider 
+                                value={rangeCGPA} 
+                                onChange={setRangeCGPA} 
+                                min={0} 
+                                max={10} 
+                                step={0.5} 
+                                className="!w-full"
+                            />
+                            <div className="flex justify-between text-sm text-gray-400">
+                                <span>Min: {rangeCGPA[0]}</span>
+                                <span>Max: {rangeCGPA[1]}</span>
+                            </div>
+                        </div>
+
+                        {/* Requirements Range */}
+                        <div className="flex flex-col gap-2 p-4 bg-black/20 rounded-xl border border-gray-700">
+                            <label className="text-gray-400">Requirements Range</label>
+                            <RangeSlider 
+                                value={rangeReq} 
+                                onChange={setRangeReq} 
+                                min={0} 
+                                max={100} 
+                                step={10} 
+                                className="!w-full"
+                            />
+                            <div className="flex justify-between text-sm text-gray-400">
+                                <span>Min: {rangeReq[0]}</span>
+                                <span>Max: {rangeReq[1]}+</span>
+                            </div>
+                        </div>
+
+                        {/* Stipend Range */}
+                        <div className="flex flex-col gap-2 p-4 bg-black/20 rounded-xl border border-gray-700">
+                            <label className="text-gray-400">Stipend Range (in K)</label>
+                            <RangeSlider 
+                                value={rangeStipend} 
+                                onChange={setRangeStipend} 
+                                min={0} 
+                                max={200} 
+                                step={10} 
+                                className="!w-full"
+                            />
+                            <div className="flex justify-between text-sm text-gray-400">
+                                <span>₹{rangeStipend[0]}K</span>
+                                <span>₹{rangeStipend[1]}K+</span>
+                            </div>
                         </div>
                     </div>
 
-                    {/* Stipend Range */}
-                    <div className="flex-1 min-w-[300px] flex flex-col gap-2 p-4 bg-gray-800 rounded-lg">
-                        <label className="text-lg font-medium">Stipend Range (in K)</label>
-                        <RangeSlider 
-                            value={rangeStipend} 
-                            onChange={setRangeStipend} 
-                            min={0} 
-                            max={200} 
-                            step={10} 
-                            className="!w-full"
+                    {/* Search and Sort Section */}
+                    <div className="flex flex-col sm:flex-row items-center gap-4">
+                        <input 
+                            type="text" 
+                            placeholder="Search stations or domains..." 
+                            className="w-full sm:flex-1 py-2 px-4 rounded-xl bg-black/20 border border-gray-700 focus:border-blue-500 transition-colors" 
+                            value={search} 
+                            onChange={(e) => setSearch(e.target.value)} 
                         />
-                        <div className="flex justify-between text-sm text-gray-400">
-                            <span>₹{rangeStipend[0]}K</span>
-                            <span>₹{rangeStipend[1]}K+</span>
+                        <div className="flex items-center gap-2">
+                            <span className="text-gray-400">Sort:</span>
+                            <button 
+                                onClick={() => setSortFunc(true)} 
+                                className={cn(
+                                    "px-4 py-2 rounded-xl transition-colors",
+                                    sortFunc ? "bg-blue-500/20 text-blue-400 border border-blue-500" : "bg-black/20 text-gray-400 border border-gray-700 hover:border-gray-600"
+                                )}
+                            >
+                                A-Z
+                            </button>
+                            <button 
+                                onClick={() => setSortFunc(false)} 
+                                className={cn(
+                                    "px-4 py-2 rounded-xl transition-colors",
+                                    !sortFunc ? "bg-blue-500/20 text-blue-400 border border-blue-500" : "bg-black/20 text-gray-400 border border-gray-700 hover:border-gray-600"
+                                )}
+                            >
+                                Stipend
+                            </button>
                         </div>
-                    </div>
-                </div>
-
-                {/* Search and Sort Section */}
-                <div className="flex flex-col sm:flex-row items-center gap-4 mb-6">
-                    <input 
-                        type="text" 
-                        placeholder="Search stations or domains..." 
-                        className="w-full sm:flex-1 py-2 px-4 rounded-lg bg-gray-900 border-2 border-blue-600 focus:outline-none focus:border-blue-400" 
-                        value={search} 
-                        onChange={(e) => setSearch(e.target.value)} 
-                    />
-                    <div className="flex items-center gap-2">
-                        <span className="text-lg">Sort:</span>
-                        <button 
-                            onClick={() => setSortFunc(true)} 
-                            className={cn(
-                                "px-4 py-2 rounded-lg transition-colors",
-                                sortFunc ? "bg-blue-500" : "bg-gray-600 hover:bg-gray-500"
-                            )}
-                        >
-                            A-Z
-                        </button>
-                        <button 
-                            onClick={() => setSortFunc(false)} 
-                            className={cn(
-                                "px-4 py-2 rounded-lg transition-colors",
-                                !sortFunc ? "bg-blue-500" : "bg-gray-600 hover:bg-gray-500"
-                            )}
-                        >
-                            Stipend
-                        </button>
                     </div>
                 </div>
             </div>
 
             {/* Table/Card View */}
-            <div className="w-full max-w-7xl mx-auto">
+            <div className="container mx-auto px-4 sm:px-2 lg:px-0">
                 {/* Desktop Table - hidden on mobile */}
-                <div className="hidden sm:block overflow-hidden bg-gray-900 rounded-xl shadow-xl">
+                <div className="hidden sm:block overflow-hidden bg-white/5 backdrop-blur-lg rounded-2xl border border-gray-700 shadow-xl">
                     {/* Table Header */}
-                    <div className="grid grid-cols-10 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
-                        <div className="flex items-center justify-center p-4 font-semibold">
+                    <div className="grid grid-cols-10 bg-black/20">
+                        <div className="flex items-center justify-center p-4 font-semibold text-blue-400">
                             <span>StationID</span>
                         </div>
-                        <div className="col-span-3 flex items-center justify-center p-4 font-semibold">
+                        <div className="col-span-3 flex items-center justify-center p-4 font-semibold text-blue-400">
                             <span>Station Name</span>
                         </div>
-                        <div className="flex items-center justify-center p-4 font-semibold">
+                        <div className="flex items-center justify-center p-4 font-semibold text-blue-400">
                             <span>Location</span>
                         </div>
-                        <div className="flex items-center justify-center p-4 font-semibold">
+                        <div className="flex items-center justify-center p-4 font-semibold text-blue-400">
                             <span>Domain</span>
                         </div>
-                        <div className="flex items-center justify-center p-4 font-semibold">
+                        <div className="flex items-center justify-center p-4 font-semibold text-blue-400">
                             <span>Stipend</span>
                         </div>
-                        <div className="flex items-center justify-center p-4 font-semibold">
+                        <div className="flex items-center justify-center p-4 font-semibold text-blue-400">
                             <span>Requirmnt</span>
                         </div>
-                        <div className="flex items-center justify-center p-4 font-semibold">
+                        <div className="flex items-center justify-center p-4 font-semibold text-blue-400">
                             <span>MinCGPA</span>
                         </div>
-                        <div className="flex items-center justify-center p-4 font-semibold">
+                        <div className="flex items-center justify-center p-4 font-semibold text-blue-400">
                             <span>Details</span>
                         </div>
                     </div>
@@ -285,38 +286,35 @@ export default function StationsPage() {
                     {filteredAndSortedStations.map((item: any, index: number) => (
                         <div 
                             key={item.stationId} 
-                            className={cn(
-                                "grid grid-cols-10 hover:bg-gray-800 transition-colors",
-                                index % 2 === 0 ? 'bg-gray-900' : 'bg-gray-850'
-                            )}
+                            className="grid grid-cols-10 hover:bg-white/5 transition-colors border-t border-gray-700/50"
                         >
-                            <div className="flex items-center justify-center p-4 border-b border-gray-800">
-                                <span className="text-gray-400">{item.stationId}</span>
+                            <div className="flex items-center justify-center p-4">
+                                <span className="text-gray-400">#{item.stationId}</span>
                             </div>
-                            <div className="col-span-3 flex p-4 border-b border-gray-800">
+                            <div className="col-span-3 flex p-4">
                                 <span className="font-medium text-white">{item.stationName}</span>
                             </div>
-                            <div className="flex items-center justify-center p-4 border-b border-gray-800">
+                            <div className="flex items-center justify-center p-4">
                                 <span className="text-gray-300 text-center">{item.city}</span>
                             </div>
-                            <div className="flex items-center justify-center p-4 border-b border-gray-800">
+                            <div className="flex items-center justify-center p-4">
                                 <span className="text-gray-300 text-center">{item.stationDomain}</span>
                             </div>
-                            <div className="flex items-center justify-center p-4 border-b border-gray-800">
+                            <div className="flex items-center justify-center p-4">
                                 <span className="text-green-400 font-medium">
                                     ₹{item.ugstipend.toString().match(/.{1,3}(?=(.{3})*$)/g).join(',')}
                                 </span>
                             </div>
-                            <div className="flex items-center justify-center p-4 border-b border-gray-800">
+                            <div className="flex items-center justify-center p-4">
                                 <span className="text-blue-400">{item.requirements}</span>
                             </div>
-                            <div className="flex items-center justify-center p-4 border-b border-gray-800">
+                            <div className="flex items-center justify-center p-4">
                                 <span className="text-yellow-400">{item.minCgpa}</span>
                             </div>
-                            <div className="flex items-center justify-center p-4 border-b border-gray-800">
+                            <div className="flex items-center justify-center p-4">
                                 <a 
                                     href={`/station-details/${item.stationId}`}
-                                    className="p-2 hover:bg-blue-600 text-blue-500 hover:text-white rounded-lg transition-all duration-200 group"
+                                    className="p-2 hover:bg-blue-500/20 text-blue-400 hover:text-blue-300 rounded-lg transition-all duration-200"
                                     title="View Details"
                                 >
                                     <ArrowTopRightOnSquareIcon className="w-6 h-6" />
@@ -326,58 +324,55 @@ export default function StationsPage() {
                     ))}
                 </div>
 
-                {/* Mobile Cards View - show only on mobile */}
+                {/* Mobile Cards View */}
                 <div className="sm:hidden space-y-4">
                     {filteredAndSortedStations.map((item: any) => (
                         <div 
                             key={item.stationId} 
-                            className="bg-gray-800 rounded-lg shadow-lg p-4"
+                            className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-gray-700 hover:border-blue-500/50 transition-all"
                         >
-                            <div className="flex justify-between mb-3 gap-2">
-                                <h3 className="text-lg font-semibold text-white">{item.stationName}</h3>
-                                <span className="text-sm bg-gray-700 px-2 py-1 rounded text-gray-300 whitespace-nowrap h-fit">
+                            <div className="flex justify-between mb-4">
+                                <h3 className="text-xl font-semibold text-white">{item.stationName}</h3>
+                                <span className="px-3 py-1 bg-blue-500/20 text-blue-400 rounded-full text-sm">
                                     #{item.stationId}
                                 </span>
                             </div>
 
-                            <div className="space-y-2">
-                                {/* Location and Domain - Fixed alignment */}
-                                <div className="grid grid-cols-2 gap-2">
-                                    <div>
-                                        <span className="text-gray-400 text-sm block mb-1">Location</span>
-                                        <p className="text-white font-medium">{item.city}</p>
-                                    </div>
-                                    <div>
-                                        <span className="text-gray-400 text-sm block mb-1">Domain</span>
-                                        <p className="text-white font-medium">{item.stationDomain}</p>
-                                    </div>
+                            <div className="grid grid-cols-2 gap-4 mb-4">
+                                <div className="bg-black/20 rounded-xl p-3">
+                                    <span className="text-gray-400 text-sm block mb-1">Location</span>
+                                    <p className="text-white font-medium">{item.city}</p>
                                 </div>
-
-                                <div className="grid grid-cols-4 gap-2">
-                                    <div className="col-span-2">
-                                        <span className="text-gray-400 text-sm">Stipend</span>
-                                        <p className="text-green-400 font-medium">
-                                            ₹{item.ugstipend.toString().match(/.{1,3}(?=(.{3})*$)/g).join(',')}
-                                        </p>
-                                    </div>
-                                    <div>
-                                        <span className="text-gray-400 text-sm">Reqs</span>
-                                        <p className="text-blue-400">{item.requirements}</p>
-                                    </div>
-                                    <div>
-                                        <span className="text-gray-400 text-sm">MinCGPA</span>
-                                        <p className="text-yellow-400">{item.minCgpa}</p>
-                                    </div>
+                                <div className="bg-black/20 rounded-xl p-3">
+                                    <span className="text-gray-400 text-sm block mb-1">Domain</span>
+                                    <p className="text-white font-medium">{item.stationDomain}</p>
                                 </div>
                             </div>
 
-                            <div className="mt-4 flex justify-end">
+                            <div className="grid grid-cols-3 gap-4 mb-4">
+                                <div className="bg-black/20 rounded-xl p-3">
+                                    <span className="text-gray-400 text-sm block mb-1">Stipend</span>
+                                    <p className="text-green-400 font-medium">
+                                        ₹{item.ugstipend.toString().match(/.{1,3}(?=(.{3})*$)/g).join(',')}
+                                    </p>
+                                </div>
+                                <div className="bg-black/20 rounded-xl p-3">
+                                    <span className="text-gray-400 text-sm block mb-1">Reqs</span>
+                                    <p className="text-blue-400 font-medium">{item.requirements}</p>
+                                </div>
+                                <div className="bg-black/20 rounded-xl p-3">
+                                    <span className="text-gray-400 text-sm block mb-1">CGPA</span>
+                                    <p className="text-amber-400 font-medium">{item.minCgpa}</p>
+                                </div>
+                            </div>
+
+                            <div className="flex justify-end">
                                 <a 
                                     href={`/station-details/${item.stationId}`}
-                                    className="p-2 hover:bg-blue-600 text-blue-500 hover:text-white rounded-lg transition-all duration-200 group"
-                                    title="View Details"
+                                    className="px-4 py-2 bg-blue-500/20 text-blue-400 hover:bg-blue-500/30 rounded-lg transition-all flex items-center gap-2"
                                 >
-                                    <ArrowTopRightOnSquareIcon className="w-6 h-6" />
+                                    View Details
+                                    <ArrowTopRightOnSquareIcon className="w-5 h-5" />
                                 </a>
                             </div>
                         </div>

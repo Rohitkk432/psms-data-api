@@ -46,7 +46,7 @@ const StationDetails = async ({ params }: any) => {
                 {/* Station Overview Card - Enhanced */}
                 <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 mb-10 border border-gray-700">
                     <h2 className="text-xl font-semibold mb-6 text-blue-400">Station Overview</h2>
-                    <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                         <StatsCard
                             title="Location"
                             value={station.stationCity}
@@ -119,38 +119,46 @@ const StationDetails = async ({ params }: any) => {
                             </div>
 
                             {/* Enhanced Requirements Grid */}
-                            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-6">
+                            <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 mb-6">
                                 <RequirementCard
                                     label="CGPA Required"
                                     value={`${item.projectDiscipline[0].cgpamin} - ${item.projectDiscipline[0].cgpamax}`}
-                                />
-                                <RequirementCard
-                                    label="Stipend (UG)"
-                                    value={`${item.projectFacility[0].ugstipend} ${item.projectFacility[0].currency}`}
-                                />
-                                <RequirementCard
-                                    label="Stipend (PG)"
-                                    value={`${item.projectFacility[0].pgstipend} ${item.projectFacility[0].currency}`}
-                                />
-                                <RequirementCard
-                                    label="Total Requirement"
-                                    value={item.projectDiscipline[0].totalRequirement}
-                                />
-                                <RequirementCard
-                                    label="Male Requirement"
-                                    value={item.projectDiscipline[0].maleRequirement}
-                                />
-                                <RequirementCard
-                                    label="Female Requirement"
-                                    value={item.projectDiscipline[0].femaleRequirement}
-                                />
-                                <RequirementCard
-                                    label="Fresh Requirement"
-                                    value={item.projectDiscipline[0].freshRequirement}
+                                    className="col-span-1"
                                 />
                                 <RequirementCard
                                     label="Degree"
                                     value={item.projectDiscipline[0].degree}
+                                    className="col-span-1"
+                                />
+                                <RequirementCard
+                                    label="Stipend (UG)"
+                                    value={`${item.projectFacility[0].ugstipend} ${item.projectFacility[0].currency}`}
+                                    className="col-span-1"
+                                />
+                                <RequirementCard
+                                    label="Stipend (PG)"
+                                    value={`${item.projectFacility[0].pgstipend} ${item.projectFacility[0].currency}`}
+                                    className="col-span-1"
+                                />
+                                <RequirementCard
+                                    label="Male Requirement"
+                                    value={item.projectDiscipline[0].maleRequirement}
+                                    className="col-span-1"
+                                />
+                                <RequirementCard
+                                    label="Female Requirement"
+                                    value={item.projectDiscipline[0].femaleRequirement}
+                                    className="col-span-1"
+                                />
+                                <RequirementCard
+                                    label="Fresh Requirement"
+                                    value={item.projectDiscipline[0].freshRequirement}
+                                    className="col-span-1"
+                                />
+                                <RequirementCard
+                                    label="Total Requirement"
+                                    value={item.projectDiscipline[0].totalRequirement}
+                                    className="col-span-1"
                                 />
                             </div>
 
@@ -209,19 +217,27 @@ const StationDetails = async ({ params }: any) => {
 
 // Helper Components
 const StatsCard = ({ title, value, icon }: { title: string; value: string | number; icon: string }) => (
-    <div className="bg-white/5 rounded-xl p-4 flex items-center space-x-4">
-        <span className="text-2xl">{icon}</span>
+    <div className="bg-white/5 rounded-xl p-3 sm:p-4 flex items-center space-x-3 sm:space-x-4">
+        <span className="text-xl sm:text-2xl">{icon}</span>
         <div>
-            <p className="text-gray-400 text-sm">{title}</p>
-            <p className="text-white font-semibold">{value}</p>
+            <p className="text-gray-400 text-xs sm:text-sm">{title}</p>
+            <p className="text-white font-semibold text-sm sm:text-base">{value}</p>
         </div>
     </div>
 );
 
-const RequirementCard = ({ label, value }: { label: string; value: string }) => (
-    <div className="bg-white/5 rounded-xl p-4">
-        <p className="text-gray-400 text-sm mb-1">{label}</p>
-        <p className="text-white font-semibold">{value}</p>
+const RequirementCard = ({ 
+    label, 
+    value, 
+    className = "" 
+}: { 
+    label: string; 
+    value: string | number; 
+    className?: string;
+}) => (
+    <div className={`bg-white/5 rounded-xl p-3 sm:p-4 ${className}`}>
+        <p className="text-gray-400 text-xs sm:text-sm mb-1">{label}</p>
+        <p className="text-white font-semibold text-sm sm:text-base">{value}</p>
     </div>
 );
 
