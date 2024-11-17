@@ -372,7 +372,7 @@ export default function StationsPage() {
                         >
                             <div className="flex justify-between mb-4">
                                 <h3 className="text-xl font-semibold text-white">{item.stationName}</h3>
-                                <span className="px-3 py-1 bg-blue-500/20 text-blue-400 rounded-full text-sm">
+                                <span className="px-3 py-1 bg-blue-500/20 text-blue-400 rounded-full text-sm h-fit">
                                     #{item.stationId}
                                 </span>
                             </div>
