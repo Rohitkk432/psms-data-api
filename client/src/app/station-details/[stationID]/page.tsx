@@ -28,7 +28,11 @@ const StationDetails = async ({ params }: { params: { stationID: string } }) => 
             throw new Error("Invalid station ID");
         }
 
-        const filePath = path.join(process.cwd(), "..", "data", "stationData", stationID);
+        // Extract semester from stationID (assuming format: sem1-xxx or sem2-xxx)
+        const semesterPath = stationID.startsWith('sem1-') ? 'sem1' : 'data';
+        const actualStationID = stationID.replace(/^(sem1-|sem2-)/, '');
+
+        const filePath = path.join(process.cwd(), "..", semesterPath, "stationData", actualStationID);
         
         // Check if directory exists
         if (!fs.existsSync(filePath)) {
