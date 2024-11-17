@@ -167,7 +167,7 @@ const Dropdown: React.FC<DropdownProps> = ({
                 <input
                   placeholder={"search"}
                   type="text"
-                  className="text-base clear-input-style"
+                  className="text-base clear-input-style text-[#1c1c1c]"
                   value={search}
                   onChange={(e) => setSearch(e.target.value)}
                 />
