@@ -96,22 +96,22 @@ const StationDetails = async ({ params }: { params: { stationID: string } }) => 
                             />
                             <StatsCard
                                 title="Total Positions"
-                                value={station.totalRequirement ?? 0}
+                                value={station.totalRequirement || "Not Specified"}
                                 icon="👥"
                             />
                             <StatsCard
                                 title="Male Positions"
-                                value={station.totalMaleRequirement ?? 0}
+                                value={station.totalMaleRequirement || "Not Specified"}
                                 icon="👨"
                             />
                             <StatsCard
                                 title="Female Positions"
-                                value={station.totalFemalRequirement ?? 0}
+                                value={station.totalFemalRequirement || "Not Specified"}
                                 icon="👩"
                             />
                             <StatsCard
                                 title="Projects"
-                                value={station.noOfProject ?? 0}
+                                value={station.noOfProject || "Not Specified"}
                                 icon="📋"
                             />
                             <StatsCard

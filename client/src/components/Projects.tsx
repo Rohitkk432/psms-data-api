@@ -137,19 +137,19 @@ export const Projects = ({ projects }: ProjectProps) => {
                                     />
                                     <RequirementCard
                                         label="Male Requirement"
-                                        value={discipline?.maleRequirement ?? 0}
+                                        value={discipline?.maleRequirement || "Not Specified"}
                                     />
                                     <RequirementCard
                                         label="Female Requirement"
-                                        value={discipline?.femaleRequirement ?? 0}
+                                        value={discipline?.femaleRequirement || "Not Specified"}
                                     />
                                     <RequirementCard
                                         label="Fresh Requirement"
-                                        value={discipline?.freshRequirement ?? 0}
+                                        value={discipline?.freshRequirement || "Not Specified"}
                                     />
                                     <RequirementCard
                                         label="Total Requirement"
-                                        value={discipline?.totalRequirement ?? 0}
+                                        value={discipline?.totalRequirement || "Not Specified"}
                                     />
                                 </div>
 
