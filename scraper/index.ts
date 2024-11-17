@@ -7,7 +7,7 @@ require("dotenv").config();
 
 const AUTH_TOKEN = process.env.PSMS_TOKEN;
 
-const USER_NAME = "f20201141@goa.bits-pilani.ac.in";
+const USER_NAME = process.env.USER_NAME;
 
 const API_URL = 'https://psms.bits-pilani.ac.in/api/api';
 
