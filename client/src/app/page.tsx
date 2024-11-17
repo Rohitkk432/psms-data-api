@@ -94,7 +94,7 @@ export default async function LandingPage() {
                             <div className="flex flex-col items-center justify-center py-16">
                                 <SignInButton />
                                 <p className="mt-4 text-gray-400 text-sm">
-                                    Sign in to access station information
+                                    Sign in using BITS Mail to access station information
                                 </p>
                             </div>
                         )}
