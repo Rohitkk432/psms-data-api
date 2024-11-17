@@ -555,6 +555,27 @@
     "ugstipend": 90000
   },
   {
+    "stationId": 6270,
+    "stationName": "Apple- SW-BPR",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      86,
+      43
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 90000
+  },
+  {
     "stationId": 6269,
     "stationName": "Apple-Automation Engineering-MD team",
     "cityId": 122567,
@@ -655,27 +676,6 @@
     "preferredByStudent": null,
     "stationDomain": "CSIS/IT",
     "state": "Telangana",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 90000
-  },
-  {
-    "stationId": 6270,
-    "stationName": "Apple-Machine Learning-BPR team",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      86,
-      43
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
     "country": "India",
     "minCgpa": 7,
     "requirements": 0,
@@ -5830,7 +5830,9 @@
     "cityId": 29,
     "city": "Pune",
     "accomodation": "null",
-    "projectDomains": [],
+    "projectDomains": [
+      81
+    ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
