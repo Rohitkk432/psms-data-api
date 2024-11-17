@@ -37,3 +37,12 @@ body {
   outline: none !important; /* Removes focus outline */
   box-shadow: none !important; /* Removes any shadow (e.g., ring effects) */
 }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out forwards;
+}
