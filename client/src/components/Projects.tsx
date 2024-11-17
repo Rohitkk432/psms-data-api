@@ -28,11 +28,8 @@ export const Projects = ({ projects }: ProjectProps) => {
             {Object.values(projects).map((item: any, key: number) => (
                 <div key={item.projectId} 
                      className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-gray-700 transition-all hover:border-blue-500/50">
-                    {/* Project Header - Now Clickable */}
-                    <div 
-                        className="flex items-center justify-between mb-6 cursor-pointer"
-                        onClick={() => toggleProject(item.projectId)}
-                    >
+                    {/* Project Header - Always Visible */}
+                    <div className="flex items-center justify-between mb-4">
                         <div className="flex items-center gap-4">
                             <h2 className="text-2xl font-bold text-white">
                                 Project {key + 1}
@@ -41,19 +38,32 @@ export const Projects = ({ projects }: ProjectProps) => {
                                 ID: {item.projectId}
                             </span>
                         </div>
-                        {expandedProjects[item.projectId] ? (
-                            <ChevronUpIcon className="w-6 h-6 text-blue-400" />
-                        ) : (
-                            <ChevronDownIcon className="w-6 h-6 text-blue-400" />
-                        )}
+                    </div>
+
+                    {/* Project Title - Always Visible */}
+                    <h3 className="text-xl text-blue-400 font-semibold mb-4">{item.title}</h3>
+
+                    {/* Enhanced Collapsible Toggle Button */}
+                    <div 
+                        className="flex items-center justify-between cursor-pointer hover:bg-white/5 rounded-lg p-2 transition-colors mb-4"
+                        onClick={() => toggleProject(item.projectId)}
+                    >
+                        <div className="flex items-center gap-2">
+                            {expandedProjects[item.projectId] ? (
+                                <ChevronUpIcon className="w-5 h-5 text-blue-400" />
+                            ) : (
+                                <ChevronDownIcon className="w-5 h-5 text-blue-400" />
+                            )}
+                            <span className="text-gray-400 text-sm font-medium">
+                                {expandedProjects[item.projectId] ? 'Hide Project Details' : 'View Project Details'}
+                            </span>
+                        </div>
+                        <div className="flex-grow mx-4 border-t border-gray-700/50"></div>
                     </div>
 
                     {/* Collapsible Content */}
                     {expandedProjects[item.projectId] && (
                         <div className="space-y-6 animate-fadeIn">
-                            {/* Project Title */}
-                            <h3 className="text-xl text-blue-400 font-semibold mb-4">{item.title}</h3>
-
                             {/* Description */}
                             <div className="bg-black/20 rounded-xl p-4 mb-6">
                                 <MarkdownRenderer>
@@ -64,7 +74,7 @@ export const Projects = ({ projects }: ProjectProps) => {
                                 </MarkdownRenderer>
                             </div>
 
-                            {/* Enhanced Requirements Grid */}
+                            {/* Requirements Grid */}
                             <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 mb-6">
                                 <RequirementCard
                                     label="CGPA Required"
@@ -108,7 +118,7 @@ export const Projects = ({ projects }: ProjectProps) => {
                                 />
                             </div>
 
-                            {/* Skills and Requirements - Enhanced */}
+                            {/* Skills and Requirements Grid */}
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <DetailSection
                                     title="Required Skills"
@@ -152,6 +162,17 @@ export const Projects = ({ projects }: ProjectProps) => {
                                     bgColor="bg-rose-500/20"
                                     textColor="text-rose-400"
                                 />
+                            </div>
+
+                            {/* Collapse Button at Bottom */}
+                            <div 
+                                className="flex items-center justify-center mt-6 cursor-pointer"
+                                onClick={() => toggleProject(item.projectId)}
+                            >
+                                <div className="flex items-center gap-2 px-4 py-2 bg-white/5 hover:bg-white/10 rounded-lg transition-colors">
+                                    <ChevronUpIcon className="w-5 h-5 text-blue-400" />
+                                    <span className="text-gray-400 text-sm font-medium">Collapse Details</span>
+                                </div>
                             </div>
                         </div>
                     )}
