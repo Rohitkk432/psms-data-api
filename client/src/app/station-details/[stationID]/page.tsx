@@ -1,186 +1,169 @@
 import fs from "fs";
 import path from "path";
+import Projects from "@/components/Projects";
 
-import skills from "../../../../../data/catergories/skill.json";
-import acadDomains from "../../../../../data/catergories/academicdomain.json";
-import acadSubDomains from "../../../../../data/catergories/academicsubdomainbyid.json";
+interface Station {
+    stationName?: string;
+    businessDomain?: string;
+    stationCity?: string;
+    totalRequirement?: number;
+    totalMaleRequirement?: number;
+    totalFemalRequirement?: number;
+    noOfProject?: number;
+    psTypeName?: string;
+    problemBankId?: string;
+    stationId?: string;
+}
 
-import elective1 from "../../../../../data/catergories/elective1.json";
+interface StationResponse {
+    problemBankGridLines?: Station[];
+}
 
-import MarkdownRenderer from "@/components/markdown";
+const StationDetails = async ({ params }: { params: { stationID: string } }) => {
+    try {
+        const { stationID } = params;
+        
+        // Validate stationID
+        if (!stationID || typeof stationID !== 'string') {
+            throw new Error("Invalid station ID");
+        }
 
-// Define the server component
-const StationDetails = async ({ params }: any) => {
-    const { stationID } = params;
-    const filePath = path.join(process.cwd(), "..", "data", "stationData", stationID);
-    const files = await fs.promises.readdir(filePath);
+        const filePath = path.join(process.cwd(), "..", "data", "stationData", stationID);
+        
+        // Check if directory exists
+        if (!fs.existsSync(filePath)) {
+            throw new Error("Station not found");
+        }
 
-    let station: any = {};
-    let problemBank: any = {};
-    let projects: any = {};
-    const fileContents = await Promise.all(
-        files.map(async (file) => {
-            const content = await fs.promises.readFile(path.join(filePath, file), "utf-8");
-            if (file === "station.json") {
-                station = JSON.parse(content).problemBankGridLines[0];
-            } else if (file === "problem-bank.json") {
-                problemBank = JSON.parse(content);
-            } else {
-                projects[file] = JSON.parse(content);
-            }
-            return { file, content };
-        })
-    );
+        const files = await fs.promises.readdir(filePath);
 
-    return (
-        <div className="flex min-h-screen w-full justify-between flex-wrap flex-row p-12">
-            <div className="flex w-[48%] my-4 flex-col p-4 gap-2 border rounded-xl">
-                <div className="w-full flex text-2xl font-bold items-center justify-center">{station.stationName}</div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>stationCity</div>
-                    <div>{station.stationCity}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>businessDomain</div>
-                    <div>{station.businessDomain}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>stationId</div>
-                    <div>{station.stationId}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>totalMaleRequirement</div>
-                    <div>{station.totalMaleRequirement}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>totalFemalRequirement</div>
-                    <div>{station.totalFemalRequirement}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>totalRequirement</div>
-                    <div>{station.totalRequirement}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>noOfProject</div>
-                    <div>{station.noOfProject}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>psTypeName</div>
-                    <div>{station.psTypeName}</div>
-                </div>
-                <div className="w-full flex items-center justify-between text-lg px-20">
-                    <div>problemBankId</div>
-                    <div>{station.problemBankId}</div>
-                </div>
-            </div>
-            {Object.values(projects).map((item: any, key) => {
-                return (
-                    <div key={item.projectId} className="flex w-[48%] my-4 flex-col p-4 border rounded-xl gap-2">
-                        <div className="w-full flex text-2xl font-bold items-center justify-center">
-                            Project {key + 1} - {item.title}
-                        </div>
+        let station: Station = {};
+        let problemBank: Record<string, any> = {};
+        let projects: Record<string, any> = {};
 
-                        <div className="w-full flex items-start justify-between flex-wrap text-lg px-10 gap-2 my-4">
-                            <strong>description-</strong>
-                            <div>
-                                <MarkdownRenderer>
-                                    {item.description
-                                        .replaceAll("color: rgb(0, 0, 0);", "color: rgb(255, 255, 255);")
-                                        .replaceAll("color: black", "color: rgb(255, 255, 255);")
-                                        .replaceAll("background-color: rgb(255, 255, 255)", "background-color: rgb(0, 0, 0)")}
-                                </MarkdownRenderer>
-                            </div>
-                        </div>
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <div>projectId </div>
-                            <div>{item.projectId}</div>
-                        </div>
-                        <div className="w-full flex items-center justify-between text-lg px-10">
-                            <strong>CGPA </strong>
-                            <div>
-                                {item.projectDiscipline[0].cgpamin} - {item.projectDiscipline[0].cgpamax}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>maleRequirement </strong>
-                            <div>{item.projectDiscipline[0].maleRequirement}</div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>femaleRequirement </strong>
-                            <div>{item.projectDiscipline[0].femaleRequirement}</div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>totalRequirement </strong>
-                            <div>{item.projectDiscipline[0].totalRequirement}</div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>freshRequirement </strong>
-                            <div>{item.projectDiscipline[0].freshRequirement}</div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>disciplineCodes</strong>
-                            <div>{item.projectDiscipline[0].disciplineCodes}</div>
-                        </div>
+        await Promise.all(
+            files.map(async (file) => {
+                try {
+                    const content = await fs.promises.readFile(path.join(filePath, file), "utf-8");
+                    const parsedContent = JSON.parse(content);
 
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>degree</strong>
-                            <div>{item.projectDiscipline[0].degree}</div>
-                        </div>
+                    if (file === "station.json") {
+                        // Type assertion and safer access
+                        const stationData = parsedContent as StationResponse;
+                        station = stationData?.problemBankGridLines?.[0] ?? {};
+                    } else if (file === "problem-bank.json") {
+                        problemBank = parsedContent ?? {};
+                    } else if (file.endsWith('.json')) {  // Only process JSON files
+                        projects[file] = parsedContent;
+                    }
+                } catch (error) {
+                    console.error(`Error processing file ${file}:`, error);
+                    // Continue with other files even if one fails
+                }
+            })
+        );
 
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>ugstipend</strong>
-                            <div>
-                                {item.projectFacility[0].ugstipend} {item.projectFacility[0].currency}
-                            </div>
-                        </div>
+        // Validate essential data
+        if (!station || Object.keys(station).length === 0) {
+            throw new Error("Station data not found or invalid");
+        }
 
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>pgstipend</strong>
-                            <div>
-                                {item.projectFacility[0].pgstipend} {item.projectFacility[0].currency}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap flex-col my-4 justify-between text-lg px-10">
-                            <strong>projectElective - </strong>
-                            <div className="flex flex-col gap-1">
-                                {item.projectElective.map((skl: any) => {
-                                    const _skl = elective1.find((fd: any) => fd.electiveId === skl.electiveId);
-                                    return <div key={skl.projectElectiveId}>{`${_skl?.elective1} - ${skl.grade}`}</div>;
-                                })}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>academicDomain - </strong>
-                            <div>
-                                {item.projectAcademicDomain.map((skl: any) => {
-                                    const _skl = acadDomains.find((fd: any) => fd.academicDomainId === skl.academicDomainId);
-                                    return `${_skl?.name} ,`;
-                                })}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10">
-                            <strong>academicSubDomain - </strong>
-                            <div>
-                                {item.projectAcademicSubDomain.map((skl: any) => {
-                                    const _skl = acadSubDomains.find((fd: any) => fd.academicSubDomainId === skl.academicSubDomainId);
-                                    return `${_skl?.name} ,`;
-                                })}
-                            </div>
-                        </div>
-                        <div className="w-full flex flex-wrap items-center justify-between text-lg px-10 my-4">
-                            <strong>projectSkill -</strong>
-                            <div>
-                                {item.projectSkill.map((skl: any) => {
-                                    const _skl = skills.find((fd: any) => fd.skillId === skl.skillId);
-                                    return `${_skl?.skillName} ,`;
-                                })}
-                            </div>
+        return (
+            <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800">
+                <div className="container mx-auto px-4 py-8">
+                    {/* Station Header */}
+                    <div className="mb-10">
+                        <h1 className="text-3xl md:text-4xl font-bold text-center text-white mb-2">
+                            {station.stationName || 'Station Name Not Available'}
+                        </h1>
+                        <p className="text-center text-blue-400">
+                            {station.businessDomain || 'Business Domain Not Available'}
+                        </p>
+                    </div>
+
+                    {/* Station Overview Card */}
+                    <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 mb-10 border border-gray-700">
+                        <h2 className="text-xl font-semibold mb-6 text-blue-400">Station Overview</h2>
+                        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                            <StatsCard
+                                title="Location"
+                                value={station.stationCity || 'Not Specified'}
+                                icon="🌍"
+                            />
+                            <StatsCard
+                                title="Total Positions"
+                                value={station.totalRequirement ?? 0}
+                                icon="👥"
+                            />
+                            <StatsCard
+                                title="Male Positions"
+                                value={station.totalMaleRequirement ?? 0}
+                                icon="👨"
+                            />
+                            <StatsCard
+                                title="Female Positions"
+                                value={station.totalFemalRequirement ?? 0}
+                                icon="👩"
+                            />
+                            <StatsCard
+                                title="Projects"
+                                value={station.noOfProject ?? 0}
+                                icon="📋"
+                            />
+                            <StatsCard
+                                title="PS Type"
+                                value={station.psTypeName || 'Not Specified'}
+                                icon="📑"
+                            />
+                            <StatsCard
+                                title="Problem Bank ID"
+                                value={station.problemBankId || 'Not Available'}
+                                icon="🏦"
+                            />
+                            <StatsCard
+                                title="Station ID"
+                                value={station.stationId || 'Not Available'}
+                                icon="🔢"
+                            />
                         </div>
                     </div>
-                );
-            })}
-        </div>
-    );
+
+                    {/* Projects Section */}
+                    <Projects projects={projects} />
+                </div>
+            </div>
+        );
+    } catch (error) {
+        console.error("Error in StationDetails:", error);
+        return (
+            <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 flex items-center justify-center">
+                <div className="text-center text-white">
+                    <h1 className="text-2xl font-bold mb-4">Error Loading Station Details</h1>
+                    <p className="text-gray-400">
+                        {error instanceof Error ? error.message : 'Please try again later'}
+                    </p>
+                </div>
+            </div>
+        );
+    }
 };
+
+const StatsCard = ({ 
+    title, 
+    value, 
+    icon 
+}: { 
+    title: string; 
+    value: string | number; 
+    icon: string;
+}) => (
+    <div className="bg-white/5 rounded-xl p-3 sm:p-4 flex items-center space-x-3 sm:space-x-4">
+        <span className="text-xl sm:text-2xl">{icon}</span>
+        <div>
+            <p className="text-gray-400 text-xs sm:text-sm">{title}</p>
+            <p className="text-white font-semibold text-sm sm:text-base">{value}</p>
+        </div>
+    </div>
+);
 
 export default StationDetails;
