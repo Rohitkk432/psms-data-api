@@ -1,0 +1,239 @@
+{
+  "projectId": 3004,
+  "stationId": 4719,
+  "problemBankId": 1891,
+  "problemBankCreatedBy": "raja.vadhana@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "MA",
+  "description": "<p class=\"ql-align-justify\"><strong>Description: Feature Development in MA team</strong></p><p class=\"ql-align-justify\"><strong>Skill sets: Language: Java, React.js DB: NoSQL, MySQL</strong></p><p class=\"ql-align-justify\"><strong>Traits expectation: Self starter, Dive Deep, Backend heavy but FullStack</strong></p><p class=\"ql-align-justify\"><strong>Expected learning: 1. Production scale Software development 2. Personal development in terms of how to scale things with millions of events in production</strong></p><p><strong>Specific courses required for project execution:&nbsp;Java, OOPS, Software Engineering</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3004,
+      "projectDisciplineId": 6086,
+      "projectDisciplineCodes": "A7",
+      "discCodesPerProject": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6086,
+      "projectId": 3004,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17976,
+          "projectDisciplineId": 6086,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 2066,
+      "projectId": 3004,
+      "electiveId": 1199,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2067,
+      "projectId": 3004,
+      "electiveId": 355,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2068,
+      "projectId": 3004,
+      "electiveId": 1159,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2069,
+      "projectId": 3004,
+      "electiveId": 1083,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2893,
+      "projectId": 3004,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Students are requested to bring their own laptop and ID card for onboarding. The technical team expects talents with very sincere and committed to work. The interns should be a self starter in problem solving and should have inclination to dive deep for resolving issues efficiently . Work timings might sometime depend upon the project timing.",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "raja.vadhana@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-10-24T10:42:54",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 56556,
+      "projectId": 3004,
+      "skillId": 331
+    },
+    {
+      "projectSkillId": 56557,
+      "projectId": 3004,
+      "skillId": 45
+    },
+    {
+      "projectSkillId": 56558,
+      "projectId": 3004,
+      "skillId": 44
+    },
+    {
+      "projectSkillId": 56559,
+      "projectId": 3004,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 56560,
+      "projectId": 3004,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 56561,
+      "projectId": 3004,
+      "skillId": 78
+    },
+    {
+      "projectSkillId": 56562,
+      "projectId": 3004,
+      "skillId": 225
+    },
+    {
+      "projectSkillId": 56563,
+      "projectId": 3004,
+      "skillId": 223
+    },
+    {
+      "projectSkillId": 56564,
+      "projectId": 3004,
+      "skillId": 244
+    },
+    {
+      "projectSkillId": 56565,
+      "projectId": 3004,
+      "skillId": 97
+    },
+    {
+      "projectSkillId": 56566,
+      "projectId": 3004,
+      "skillId": 73
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3004,
+      "projectDomainId": 4359,
+      "academicDomainId": 57
+    },
+    {
+      "projectId": 3004,
+      "projectDomainId": 4360,
+      "academicDomainId": 78
+    },
+    {
+      "projectId": 3004,
+      "projectDomainId": 4361,
+      "academicDomainId": 273
+    },
+    {
+      "projectId": 3004,
+      "projectDomainId": 4362,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4005,
+      "projectId": 3004,
+      "academicSubDomainId": 128
+    },
+    {
+      "projectSubDomainId": 4006,
+      "projectId": 3004,
+      "academicSubDomainId": 1
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

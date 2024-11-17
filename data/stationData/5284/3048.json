@@ -1,0 +1,162 @@
+{
+  "projectId": 3048,
+  "stationId": 5284,
+  "problemBankId": 1924,
+  "problemBankCreatedBy": "kulkarnis@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Intel specific",
+  "description": "<p>VLSI related and COA projects</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3048,
+      "projectDisciplineId": 6824,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6824,
+      "projectId": 3048,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 13,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Dual",
+      "continuingStudentCount": 13,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2929,
+      "projectId": 3048,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "kulkarnis@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-10-28T10:15:42",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-17T16:11:47",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57347,
+      "projectId": 3048,
+      "skillId": 170
+    },
+    {
+      "projectSkillId": 57348,
+      "projectId": 3048,
+      "skillId": 169
+    },
+    {
+      "projectSkillId": 57349,
+      "projectId": 3048,
+      "skillId": 164
+    },
+    {
+      "projectSkillId": 57350,
+      "projectId": 3048,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3048,
+      "projectDomainId": 4423,
+      "academicDomainId": 241
+    },
+    {
+      "projectId": 3048,
+      "projectDomainId": 4424,
+      "academicDomainId": 255
+    },
+    {
+      "projectId": 3048,
+      "projectDomainId": 4425,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4057,
+      "projectId": 3048,
+      "academicSubDomainId": 432
+    },
+    {
+      "projectSubDomainId": 4058,
+      "projectId": 3048,
+      "academicSubDomainId": 470
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

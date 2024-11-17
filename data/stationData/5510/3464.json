@@ -10,7 +10,7 @@
   "description": "<p>Title: Software Engineering Intern (backend)</p><p>Description: The Engineering Intern will work closely with our engineering team to assist in various</p><p>projects and initiatives aimed at advancing our technical capabilities. Under the guidance of experienced</p><p>engineers, the intern will gain hands-on experience in engineering principles, processes, and</p><p>technologies relevant to our industry.</p><p>Focus areas:</p><p>• Assist in the design, development, and testing of engineering systems, components, or</p><p>processes.</p><p>• Collaborate with team members to contribute to the creation of engineering solutions and</p><p>prototypes.</p><p>• Conduct research, gather data, and perform analysis to support engineering projects and</p><p>decision-making.</p><p>• Participate in design reviews, brainstorming sessions, and problem-solving discussions.</p><p>• Assist in the preparation of technical documentation, reports, and presentations.</p><p>• Learn and adhere to industry standards, regulatory requirements, and best practices.</p><p>• Utilize engineering software and tools effectively to support project objectives.</p><p>• Follow safety protocols, procedures, and guidelines to ensure a safe working environment.</p><p>• Other duties as assigned by the engineering team.</p><p>Skill sets: JAVA, Data Structures, C, C++</p><p>Traits expectation: Strong understanding of software architecture, design patterns, and best practices</p><p>for building scalable and maintainable systems.</p><p>Knowledge of cloud services (e.g., AWS, Google Cloud) is a plus.</p><p>Expected learning: Software development &amp; coding</p><p>Specific courses required for project execution: C, C++, Java, Data Structures and Algorithms</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "",
   "mentorEmailId": "",
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 3464,
-      "projectDisciplineId": 6739,
+      "projectDisciplineId": 6832,
       "projectDisciplineCodes": "AnyA7,A7",
       "discCodesPerProject": "AnyA7,A7",
       "graduationTypeIds": [
@@ -33,25 +33,25 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6739,
+      "projectDisciplineId": 6832,
       "projectId": 3464,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 1,
+      "freshRequirement": 0,
       "totalRequirement": 1,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
+      "continuingStudent": 1,
       "disciplineCodes": "AnyA7,A7",
       "graduationTypeIds": [
         0,
         1
       ],
       "degree": "Both",
-      "continuingStudentCount": 0,
+      "continuingStudentCount": 1,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
@@ -61,15 +61,15 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 20430,
-          "projectDisciplineId": 6739,
+          "projectDisciplineDetailId": 20769,
+          "projectDisciplineId": 6832,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 20431,
-          "projectDisciplineId": 6739,
+          "projectDisciplineDetailId": 20770,
+          "projectDisciplineId": 6832,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
@@ -115,8 +115,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-16T10:44:30",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-17T16:56:43",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

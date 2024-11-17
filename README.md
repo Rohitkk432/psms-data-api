@@ -3,7 +3,7 @@
 scraping from https://psms-web.azureedge.net/
 
 SEM1 : last updated - 11 Jul 2024, 11:50 PM
-SEM2 : last updated - 16 Nov 2024, 9:45 PM
+SEM2 : last updated - 17 Nov 2024, 10:21 PM
 
 ## Table of Contents
 - [Installation](#installation)

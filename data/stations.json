@@ -68,6 +68,171 @@
     "ugstipend": 30000
   },
   {
+    "stationId": 5905,
+    "stationName": "AECOM, Asia",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      9,
+      3
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Infrastructure",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 9,
+    "requirements": 0,
+    "ugstipend": 10000
+  },
+  {
+    "stationId": 6209,
+    "stationName": "ALLEGRO MICRO SYSTEMS",
+    "cityId": 29,
+    "city": "Pune",
+    "accomodation": "null",
+    "projectDomains": [
+      28
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 70000
+  },
+  {
+    "stationId": 6302,
+    "stationName": "AMAZON APPLIED SCIENTIST",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      5,
+      109
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 6.5,
+    "requirements": 0,
+    "ugstipend": 120000
+  },
+  {
+    "stationId": 6300,
+    "stationName": "AMAZON SDE",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      5
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 6.5,
+    "requirements": 0,
+    "ugstipend": 110000
+  },
+  {
+    "stationId": 6301,
+    "stationName": "AMAZON SDE - ES",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      28,
+      236,
+      292
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 6.5,
+    "requirements": 0,
+    "ugstipend": 110000
+  },
+  {
+    "stationId": 6332,
+    "stationName": "AMAZON SOLUTION ARCHITECT",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      5
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 110000
+  },
+  {
+    "stationId": 6267,
+    "stationName": "ARM Embedded Technologies Pvt Ltd",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      292,
+      2
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 45000
+  },
+  {
+    "stationId": 6374,
+    "stationName": "ASBL",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      24
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 6,
+    "requirements": 0,
+    "ugstipend": 40000
+  },
+  {
     "stationId": 6240,
     "stationName": "Accenture- Data & AI Intern",
     "cityId": 197076,
@@ -129,27 +294,6 @@
     "minCgpa": 9,
     "requirements": 0,
     "ugstipend": 100000
-  },
-  {
-    "stationId": 5905,
-    "stationName": "AECOM, Asia",
-    "cityId": 14,
-    "city": "Mumbai",
-    "accomodation": "null",
-    "projectDomains": [
-      9,
-      3
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Infrastructure",
-    "state": "Maharashtra",
-    "country": "India",
-    "minCgpa": 9,
-    "requirements": 0,
-    "ugstipend": 10000
   },
   {
     "stationId": 4694,
@@ -300,26 +444,6 @@
     "ugstipend": 50000
   },
   {
-    "stationId": 6209,
-    "stationName": "ALLEGRO MICRO SYSTEMS",
-    "cityId": 29,
-    "city": "Pune",
-    "accomodation": "null",
-    "projectDomains": [
-      28
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Maharashtra",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 70000
-  },
-  {
     "stationId": 5563,
     "stationName": "Altair, Pune",
     "cityId": 29,
@@ -409,89 +533,6 @@
     "ugstipend": 110000
   },
   {
-    "stationId": 6302,
-    "stationName": "AMAZON APPLIED SCIENTIST",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      5,
-      109
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 6.5,
-    "requirements": 0,
-    "ugstipend": 120000
-  },
-  {
-    "stationId": 6300,
-    "stationName": "AMAZON SDE",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      5
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 6.5,
-    "requirements": 0,
-    "ugstipend": 110000
-  },
-  {
-    "stationId": 6301,
-    "stationName": "AMAZON SDE - ES",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      28,
-      236,
-      292
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 6.5,
-    "requirements": 0,
-    "ugstipend": 110000
-  },
-  {
-    "stationId": 6332,
-    "stationName": "AMAZON SOLUTION ARCHITECT",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      5
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 110000
-  },
-  {
     "stationId": 6262,
     "stationName": "Apple Software engineering-WTE team",
     "cityId": 122567,
@@ -522,27 +563,6 @@
     "projectDomains": [
       187,
       239
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 90000
-  },
-  {
-    "stationId": 6270,
-    "stationName": "Apple-Machine Learning-BPR team",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      86,
-      43
     ],
     "preferenceNo": null,
     "isPrefered": false,
@@ -635,6 +655,27 @@
     "preferredByStudent": null,
     "stationDomain": "CSIS/IT",
     "state": "Telangana",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 90000
+  },
+  {
+    "stationId": 6270,
+    "stationName": "Apple-Machine Learning-BPR team",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      86,
+      43
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
     "country": "India",
     "minCgpa": 7,
     "requirements": 0,
@@ -856,47 +897,6 @@
     "ugstipend": 75000
   },
   {
-    "stationId": 6267,
-    "stationName": "ARM Embedded Technologies Pvt Ltd",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      292,
-      2
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 45000
-  },
-  {
-    "stationId": 6374,
-    "stationName": "ASBL",
-    "cityId": 24,
-    "city": "Hyderabad",
-    "accomodation": "null",
-    "projectDomains": [
-      24
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Telangana",
-    "country": "India",
-    "minCgpa": 6,
-    "requirements": 0,
-    "ugstipend": 40000
-  },
-  {
     "stationId": 6366,
     "stationName": "Astera Labs",
     "cityId": 11,
@@ -957,6 +957,46 @@
     "ugstipend": 0
   },
   {
+    "stationId": 6023,
+    "stationName": "BBS TECH SOLUTION",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      14
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 10000
+  },
+  {
+    "stationId": 6345,
+    "stationName": "BUREAU OF INDIAN STANDARDS, PAN INDIA",
+    "cityId": 121802,
+    "city": "New Delhi",
+    "accomodation": "null",
+    "projectDomains": [
+      4
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Delhi",
+    "country": "India",
+    "minCgpa": 7.5,
+    "requirements": 0,
+    "ugstipend": 20000
+  },
+  {
     "stationId": 5740,
     "stationName": "Bajaj Electricals",
     "cityId": 14,
@@ -977,26 +1017,6 @@
     "minCgpa": 0,
     "requirements": 0,
     "ugstipend": 25000
-  },
-  {
-    "stationId": 6023,
-    "stationName": "BBS TECH SOLUTION",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      14
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 10000
   },
   {
     "stationId": 6259,
@@ -1178,6 +1198,26 @@
     "ugstipend": 40000
   },
   {
+    "stationId": 6166,
+    "stationName": "BitGo",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      5
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 45000
+  },
+  {
     "stationId": 6244,
     "stationName": "BiteSpeed - AI Engineering",
     "cityId": 122567,
@@ -1276,26 +1316,6 @@
     "minCgpa": 6.5,
     "requirements": 0,
     "ugstipend": 100000
-  },
-  {
-    "stationId": 6166,
-    "stationName": "BitGo",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      5
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 45000
   },
   {
     "stationId": 6318,
@@ -1433,24 +1453,166 @@
     "ugstipend": 30000
   },
   {
-    "stationId": 6345,
-    "stationName": "BUREAU OF INDIAN STANDARDS, PAN INDIA",
-    "cityId": 121802,
-    "city": "New Delhi",
+    "stationId": 5147,
+    "stationName": "CEG Limited,Jaipur",
+    "cityId": 21,
+    "city": "Jaipur",
     "accomodation": "null",
     "projectDomains": [
-      4
+      3
     ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
     "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
+    "stationDomain": "Infrastructure",
+    "state": "Rajasthan",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
+    "stationId": 6299,
+    "stationName": "CISCO",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      5
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
+    "stationId": 6328,
+    "stationName": "COLLINS AEROSPACE",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      9
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Infrastructure",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
+    "stationId": 6192,
+    "stationName": "COMMVAULT",
+    "cityId": 122578,
+    "city": "Banavar",
+    "accomodation": "null",
+    "projectDomains": [
+      5
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 50000
+  },
+  {
+    "stationId": 5835,
+    "stationName": "CSIR - Central Road Research Institute (CRRI)",
+    "cityId": 121802,
+    "city": "New Delhi",
+    "accomodation": "null",
+    "projectDomains": [
+      156,
+      3
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
     "state": "Delhi",
     "country": "India",
-    "minCgpa": 7.5,
+    "minCgpa": 0,
     "requirements": 0,
-    "ugstipend": 20000
+    "ugstipend": 0
+  },
+  {
+    "stationId": 5729,
+    "stationName": "CSIR-NAL",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      264,
+      265,
+      81,
+      267,
+      43,
+      268,
+      266,
+      17,
+      14,
+      21,
+      177,
+      293,
+      183,
+      86,
+      28,
+      242,
+      188,
+      294,
+      127,
+      259,
+      297
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
+    "stationId": 5954,
+    "stationName": "CSIR-National Metallurgical Laboratory (NML) Madras Centre",
+    "cityId": 23,
+    "city": "Chennai",
+    "accomodation": "null",
+    "projectDomains": [
+      14,
+      67
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "minCgpa": 5,
+    "requirements": 0,
+    "ugstipend": 0
   },
   {
     "stationId": 4967,
@@ -1536,26 +1698,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 5147,
-    "stationName": "CEG Limited,Jaipur",
-    "cityId": 21,
-    "city": "Jaipur",
-    "accomodation": "null",
-    "projectDomains": [
-      3
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Infrastructure",
-    "state": "Rajasthan",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
     "stationId": 6359,
     "stationName": "Champion InfoMetrics Pvt Ltd",
     "cityId": 122567,
@@ -1585,48 +1727,6 @@
     "minCgpa": 6,
     "requirements": 0,
     "ugstipend": 30000
-  },
-  {
-    "stationId": 6299,
-    "stationName": "CISCO",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      5
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
-    "stationId": 5917,
-    "stationName": "clearfeed.ai",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      5,
-      2,
-      57
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 6.5,
-    "requirements": 0,
-    "ugstipend": 60000
   },
   {
     "stationId": 5230,
@@ -1784,46 +1884,6 @@
     "ugstipend": 1000000
   },
   {
-    "stationId": 6328,
-    "stationName": "COLLINS AEROSPACE",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      9
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Infrastructure",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
-    "stationId": 6192,
-    "stationName": "COMMVAULT",
-    "cityId": 122578,
-    "city": "Banavar",
-    "accomodation": "null",
-    "projectDomains": [
-      5
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 50000
-  },
-  {
     "stationId": 5885,
     "stationName": "Concentric Software India Private Limited",
     "cityId": 122567,
@@ -1890,88 +1950,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 5835,
-    "stationName": "CSIR - Central Road Research Institute (CRRI)",
-    "cityId": 121802,
-    "city": "New Delhi",
-    "accomodation": "null",
-    "projectDomains": [
-      156,
-      3
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Delhi",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
-    "stationId": 5729,
-    "stationName": "CSIR-NAL",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      264,
-      265,
-      81,
-      267,
-      43,
-      268,
-      266,
-      17,
-      14,
-      21,
-      177,
-      293,
-      183,
-      86,
-      28,
-      242,
-      188,
-      294,
-      127,
-      259,
-      297
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
-    "stationId": 5954,
-    "stationName": "CSIR-National Metallurgical Laboratory (NML) Madras Centre",
-    "cityId": 23,
-    "city": "Chennai",
-    "accomodation": "null",
-    "projectDomains": [
-      14,
-      67
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Tamil Nadu",
-    "country": "India",
-    "minCgpa": 5,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
     "stationId": 4893,
     "stationName": "D. E. Shaw India Private Limited - Project 1,Hyderabad",
     "cityId": 24,
@@ -2030,26 +2008,6 @@
     "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 200000
-  },
-  {
-    "stationId": 6297,
-    "stationName": "DataZymes Analytics Private Limited",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      35
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Health Care",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
   },
   {
     "stationId": 4680,
@@ -2203,6 +2161,68 @@
     "ugstipend": 50000
   },
   {
+    "stationId": 6287,
+    "stationName": "DORSCH CONSULT INDIA PVT. LTD",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      3,
+      21,
+      4
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 16000
+  },
+  {
+    "stationId": 6242,
+    "stationName": "DS Solutions Lab Private Ltd - 3DS",
+    "cityId": 29,
+    "city": "Pune",
+    "accomodation": "null",
+    "projectDomains": [
+      21
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
+    "stationId": 6297,
+    "stationName": "DataZymes Analytics Private Limited",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      35
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Health Care",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
     "stationId": 6282,
     "stationName": "Dell Technologies",
     "cityId": 122567,
@@ -2244,26 +2264,6 @@
     "ugstipend": 30000
   },
   {
-    "stationId": 5846,
-    "stationName": "Development Consultants Pvt. Ltd. (DCPL),Mumbai",
-    "cityId": 14,
-    "city": "Mumbai",
-    "accomodation": "null",
-    "projectDomains": [
-      81
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Infrastructure",
-    "state": "Maharashtra",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
     "stationId": 4748,
     "stationName": "DevRev Cloud India Pvt. Ltd.,Bengaluru",
     "cityId": 122567,
@@ -2283,6 +2283,26 @@
     "minCgpa": 8.5,
     "requirements": 0,
     "ugstipend": 100000
+  },
+  {
+    "stationId": 5846,
+    "stationName": "Development Consultants Pvt. Ltd. (DCPL),Mumbai",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      81
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Infrastructure",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
   },
   {
     "stationId": 6219,
@@ -2399,28 +2419,6 @@
     "ugstipend": 15500
   },
   {
-    "stationId": 6287,
-    "stationName": "DORSCH CONSULT INDIA PVT. LTD",
-    "cityId": 14,
-    "city": "Mumbai",
-    "accomodation": "null",
-    "projectDomains": [
-      3,
-      21,
-      4
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Maharashtra",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 16000
-  },
-  {
     "stationId": 6245,
     "stationName": "Dr. Reddy's Laboratories Ltd.",
     "cityId": 122567,
@@ -2510,26 +2508,6 @@
     "state": "Maharashtra",
     "country": "India",
     "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
-    "stationId": 6242,
-    "stationName": "DS Solutions Lab Private Ltd - 3DS",
-    "cityId": 29,
-    "city": "Pune",
-    "accomodation": "null",
-    "projectDomains": [
-      21
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Maharashtra",
-    "country": "India",
-    "minCgpa": 0,
     "requirements": 0,
     "ugstipend": 0
   },
@@ -3123,27 +3101,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 4830,
-    "stationName": "Goodera - Category",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      179,
-      228
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 35000
-  },
-  {
     "stationId": 5592,
     "stationName": "Goodera - CSM",
     "cityId": 122567,
@@ -3158,6 +3115,27 @@
     "isOwnAccommodation": null,
     "preferredByStudent": null,
     "stationDomain": "Finance and Mgmt",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 35000
+  },
+  {
+    "stationId": 4830,
+    "stationName": "Goodera - Category",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      179,
+      228
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
     "state": "Karnataka",
     "country": "India",
     "minCgpa": 0,
@@ -3375,49 +3353,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 5761,
-    "stationName": "Harness.io",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      29,
-      2
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 8.5,
-    "requirements": 0,
-    "ugstipend": 80000
-  },
-  {
-    "stationId": 6225,
-    "stationName": "Healthlane Technologies Pvt Ltd (Zelthy)",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      105,
-      260,
-      238
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 6,
-    "requirements": 0,
-    "ugstipend": 35000
-  },
-  {
     "stationId": 4749,
     "stationName": "HERE Technologies India Pvt. Ltd,Mumbai",
     "cityId": 14,
@@ -3439,47 +3374,6 @@
     "minCgpa": 0,
     "requirements": 0,
     "ugstipend": 50000
-  },
-  {
-    "stationId": 5256,
-    "stationName": "Hevo Technologies India Pvt. Ltd.",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      5,
-      81
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 100000
-  },
-  {
-    "stationId": 6355,
-    "stationName": "Honeywell",
-    "cityId": 120306,
-    "city": "Gurgaon",
-    "accomodation": "null",
-    "projectDomains": [
-      14
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Haryana",
-    "country": "India",
-    "minCgpa": 6.5,
-    "requirements": 0,
-    "ugstipend": 30000
   },
   {
     "stationId": 6226,
@@ -3605,6 +3499,90 @@
     "ugstipend": 65000
   },
   {
+    "stationId": 5761,
+    "stationName": "Harness.io",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      29,
+      2
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 8.5,
+    "requirements": 0,
+    "ugstipend": 80000
+  },
+  {
+    "stationId": 6225,
+    "stationName": "Healthlane Technologies Pvt Ltd (Zelthy)",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      105,
+      260,
+      238
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 6,
+    "requirements": 0,
+    "ugstipend": 35000
+  },
+  {
+    "stationId": 5256,
+    "stationName": "Hevo Technologies India Pvt. Ltd.",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      5,
+      81
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 100000
+  },
+  {
+    "stationId": 6355,
+    "stationName": "Honeywell",
+    "cityId": 120306,
+    "city": "Gurgaon",
+    "accomodation": "null",
+    "projectDomains": [
+      14
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Haryana",
+    "country": "India",
+    "minCgpa": 6.5,
+    "requirements": 0,
+    "ugstipend": 30000
+  },
+  {
     "stationId": 6283,
     "stationName": "Humantic AI",
     "cityId": 122567,
@@ -3690,6 +3668,82 @@
     "ugstipend": 45000
   },
   {
+    "stationId": 6260,
+    "stationName": "INDUS INTERNATIONAL FZC",
+    "cityId": 196930,
+    "city": "Sharjaha ",
+    "accomodation": "null",
+    "projectDomains": [
+      21,
+      130
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Mechanical",
+    "state": "Sharjaha",
+    "country": "United Arab Emirates",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 45000
+  },
+  {
+    "stationId": 5737,
+    "stationName": "ITC Limited, PSPD (Paperboards and Specialty Papers Division)",
+    "cityId": 121007,
+    "city": "Bhadrachalam",
+    "accomodation": "null",
+    "projectDomains": [
+      14,
+      21,
+      28,
+      43,
+      60,
+      136,
+      1,
+      67,
+      2,
+      5,
+      179,
+      183
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 6,
+    "requirements": 0,
+    "ugstipend": 30000
+  },
+  {
+    "stationId": 4755,
+    "stationName": "IUDX Program Unit, Indian Institute of science - Data Kaveri,Bengaluru",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      11,
+      105,
+      81,
+      179,
+      57
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 30000
+  },
+  {
     "stationId": 4719,
     "stationName": "Immensitas Pvt. Ltd. (Lemnisk)",
     "cityId": 122567,
@@ -3760,6 +3814,27 @@
     "ugstipend": 40000
   },
   {
+    "stationId": 6316,
+    "stationName": "InMobi Technologies Pvt Ltd, glance digital experience private limited",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      5,
+      86
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 45000
+  },
+  {
     "stationId": 6296,
     "stationName": "Indbank Global Support Services Limited",
     "cityId": 23,
@@ -3805,27 +3880,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 6260,
-    "stationName": "INDUS INTERNATIONAL FZC",
-    "cityId": 196930,
-    "city": "Sharjaha ",
-    "accomodation": "null",
-    "projectDomains": [
-      21,
-      130
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Mechanical",
-    "state": "Sharjaha",
-    "country": "United Arab Emirates",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 45000
-  },
-  {
     "stationId": 4776,
     "stationName": "Infineon - Electronics",
     "cityId": 122567,
@@ -3864,27 +3918,6 @@
     "minCgpa": 0,
     "requirements": 0,
     "ugstipend": 0
-  },
-  {
-    "stationId": 6316,
-    "stationName": "InMobi Technologies Pvt Ltd, glance digital experience private limited",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      5,
-      86
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 45000
   },
   {
     "stationId": 6353,
@@ -3946,9 +3979,9 @@
     "stationDomain": "Electronics",
     "state": "Karnataka",
     "country": "India",
-    "minCgpa": 7.5,
+    "minCgpa": 0,
     "requirements": 0,
-    "ugstipend": 45000
+    "ugstipend": 40000
   },
   {
     "stationId": 4828,
@@ -3969,82 +4002,6 @@
     "minCgpa": 8,
     "requirements": 0,
     "ugstipend": 120000
-  },
-  {
-    "stationId": 5737,
-    "stationName": "ITC Limited, PSPD (Paperboards and Specialty Papers Division)",
-    "cityId": 121007,
-    "city": "Bhadrachalam",
-    "accomodation": "null",
-    "projectDomains": [
-      14,
-      21,
-      28,
-      43,
-      60,
-      136,
-      1,
-      67,
-      2,
-      5,
-      179,
-      183
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Telangana",
-    "country": "India",
-    "minCgpa": 6,
-    "requirements": 0,
-    "ugstipend": 30000
-  },
-  {
-    "stationId": 4755,
-    "stationName": "IUDX Program Unit, Indian Institute of science - Data Kaveri,Bengaluru",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      11,
-      105,
-      81,
-      179,
-      57
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 30000
-  },
-  {
-    "stationId": 5186,
-    "stationName": "Jivox Corporation,Bengaluru",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      65,
-      99
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 75000
   },
   {
     "stationId": 6211,
@@ -4250,6 +4207,27 @@
     "ugstipend": 1000000
   },
   {
+    "stationId": 5186,
+    "stationName": "Jivox Corporation,Bengaluru",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      65,
+      99
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 75000
+  },
+  {
     "stationId": 6360,
     "stationName": "Jupiter Brothers Data Science Pvt Ltd",
     "cityId": 23,
@@ -4277,27 +4255,6 @@
     "ugstipend": 25000
   },
   {
-    "stationId": 6381,
-    "stationName": "Kotak Mahindra Bank",
-    "cityId": 197082,
-    "city": "Pan India",
-    "accomodation": "null",
-    "projectDomains": [
-      235,
-      105
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Maharashtra",
-    "country": "India",
-    "minCgpa": 7.5,
-    "requirements": 0,
-    "ugstipend": 50000
-  },
-  {
     "stationId": 5118,
     "stationName": "KPMG,Gurugram",
     "cityId": 120306,
@@ -4317,6 +4274,27 @@
     "minCgpa": 6,
     "requirements": 0,
     "ugstipend": 30000
+  },
+  {
+    "stationId": 6381,
+    "stationName": "Kotak Mahindra Bank",
+    "cityId": 197082,
+    "city": "Pan India",
+    "accomodation": "null",
+    "projectDomains": [
+      235,
+      105
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 7.5,
+    "requirements": 0,
+    "ugstipend": 50000
   },
   {
     "stationId": 6354,
@@ -4339,6 +4317,27 @@
     "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 75000
+  },
+  {
+    "stationId": 4902,
+    "stationName": "LTIMindtree,Mumbai",
+    "cityId": 14,
+    "city": "Mumbai",
+    "accomodation": "null",
+    "projectDomains": [
+      236,
+      29
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 6,
+    "requirements": 0,
+    "ugstipend": 25000
   },
   {
     "stationId": 6314,
@@ -4383,25 +4382,51 @@
     "ugstipend": 50000
   },
   {
-    "stationId": 4902,
-    "stationName": "LTIMindtree,Mumbai",
-    "cityId": 14,
-    "city": "Mumbai",
+    "stationId": 4642,
+    "stationName": "MBB Labs Private Limited (Maybank),Bengaluru",
+    "cityId": 11,
+    "city": "Bangalore",
     "accomodation": "null",
     "projectDomains": [
-      236,
-      29
+      57,
+      78,
+      62,
+      2,
+      124,
+      63,
+      235
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 35000
+  },
+  {
+    "stationId": 6377,
+    "stationName": "MSA Global Technology and Engineering P Ltd.",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      1,
+      244
     ],
     "preferenceNo": null,
     "isPrefered": false,
     "isOwnAccommodation": null,
     "preferredByStudent": null,
     "stationDomain": "CSIS/IT",
-    "state": "Maharashtra",
+    "state": "Karnataka",
     "country": "India",
-    "minCgpa": 6,
+    "minCgpa": 0,
     "requirements": 0,
-    "ugstipend": 25000
+    "ugstipend": 0
   },
   {
     "stationId": 6183,
@@ -4576,32 +4601,6 @@
     "ugstipend": 55000
   },
   {
-    "stationId": 4642,
-    "stationName": "MBB Labs Private Limited (Maybank),Bengaluru",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      57,
-      78,
-      62,
-      2,
-      124,
-      63,
-      235
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 35000
-  },
-  {
     "stationId": 6272,
     "stationName": "McCain Foods (India) Pvt. Ltd.",
     "cityId": 120306,
@@ -4620,26 +4619,6 @@
     "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 50000
-  },
-  {
-    "stationId": 6185,
-    "stationName": "MediaTek Bangalore Pvt Ltd",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      81
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
   },
   {
     "stationId": 5736,
@@ -4665,6 +4644,26 @@
     "minCgpa": 6,
     "requirements": 0,
     "ugstipend": 25000
+  },
+  {
+    "stationId": 6185,
+    "stationName": "MediaTek Bangalore Pvt Ltd",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      81
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
   },
   {
     "stationId": 5298,
@@ -4906,27 +4905,6 @@
     "ugstipend": 15000
   },
   {
-    "stationId": 6377,
-    "stationName": "MSA Global Technology and Engineering P Ltd.",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      1,
-      244
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
     "stationId": 6180,
     "stationName": "Myntra Designs Pvt. Ltd",
     "cityId": 122567,
@@ -4948,6 +4926,94 @@
     "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 60000
+  },
+  {
+    "stationId": 6256,
+    "stationName": "NAVATA SUPPLY CHAIN SOLUTIONS PVT LTD",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      263,
+      195,
+      216,
+      20,
+      150,
+      244,
+      45,
+      198
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 7.5,
+    "requirements": 0,
+    "ugstipend": 30000
+  },
+  {
+    "stationId": 5124,
+    "stationName": "NBC Bearings,Jaipur",
+    "cityId": 21,
+    "city": "Jaipur",
+    "accomodation": "null",
+    "projectDomains": [
+      18,
+      1
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Mechanical",
+    "state": "Rajasthan",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 10000
+  },
+  {
+    "stationId": 6289,
+    "stationName": "NSE TalentSprint",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      24
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 30000
+  },
+  {
+    "stationId": 6263,
+    "stationName": "NXP India Pvt Ltd. - Hardware domain, Analog & Digital",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      134
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 45000
   },
   {
     "stationId": 6284,
@@ -5010,54 +5076,6 @@
     "minCgpa": 0,
     "requirements": 0,
     "ugstipend": 0
-  },
-  {
-    "stationId": 6256,
-    "stationName": "NAVATA SUPPLY CHAIN SOLUTIONS PVT LTD",
-    "cityId": 24,
-    "city": "Hyderabad",
-    "accomodation": "null",
-    "projectDomains": [
-      263,
-      195,
-      216,
-      20,
-      150,
-      244,
-      45,
-      198
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Telangana",
-    "country": "India",
-    "minCgpa": 7.5,
-    "requirements": 0,
-    "ugstipend": 30000
-  },
-  {
-    "stationId": 5124,
-    "stationName": "NBC Bearings,Jaipur",
-    "cityId": 21,
-    "city": "Jaipur",
-    "accomodation": "null",
-    "projectDomains": [
-      18,
-      1
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Mechanical",
-    "state": "Rajasthan",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 10000
   },
   {
     "stationId": 5539,
@@ -5490,26 +5508,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 6289,
-    "stationName": "NSE TalentSprint",
-    "cityId": 24,
-    "city": "Hyderabad",
-    "accomodation": "null",
-    "projectDomains": [
-      24
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Telangana",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 30000
-  },
-  {
     "stationId": 5815,
     "stationName": "Nurix Labs Private Limited",
     "cityId": 11,
@@ -5555,26 +5553,6 @@
     "minCgpa": 8,
     "requirements": 0,
     "ugstipend": 75000
-  },
-  {
-    "stationId": 6263,
-    "stationName": "NXP India Pvt Ltd. - Hardware domain, Analog & Digital",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      134
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 45000
   },
   {
     "stationId": 5245,
@@ -5636,6 +5614,50 @@
     "minCgpa": 8,
     "requirements": 0,
     "ugstipend": 100000
+  },
+  {
+    "stationId": 5721,
+    "stationName": "PIEDS BITS Pilani",
+    "cityId": 121332,
+    "city": "Pilani",
+    "accomodation": "null",
+    "projectDomains": [
+      44,
+      185,
+      278,
+      193,
+      81
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Rajasthan",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 5000
+  },
+  {
+    "stationId": 6241,
+    "stationName": "PRATT & WHITNEY",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      81
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Mechanical",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 20000
   },
   {
     "stationId": 6349,
@@ -5816,9 +5838,9 @@
     "stationDomain": "Health Care",
     "state": "Maharashtra",
     "country": "India",
-    "minCgpa": 10,
+    "minCgpa": 0,
     "requirements": 0,
-    "ugstipend": 1000000
+    "ugstipend": 0
   },
   {
     "stationId": 4850,
@@ -5839,30 +5861,6 @@
     "minCgpa": 6,
     "requirements": 0,
     "ugstipend": 80000
-  },
-  {
-    "stationId": 5721,
-    "stationName": "PIEDS BITS Pilani",
-    "cityId": 121332,
-    "city": "Pilani",
-    "accomodation": "null",
-    "projectDomains": [
-      44,
-      185,
-      278,
-      193,
-      81
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Rajasthan",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 5000
   },
   {
     "stationId": 6351,
@@ -5969,26 +5967,6 @@
     "minCgpa": 7.5,
     "requirements": 0,
     "ugstipend": 60000
-  },
-  {
-    "stationId": 6241,
-    "stationName": "PRATT & WHITNEY",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      81
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Mechanical",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 20000
   },
   {
     "stationId": 6173,
@@ -6263,88 +6241,6 @@
     "ugstipend": 125000
   },
   {
-    "stationId": 6315,
-    "stationName": "Rahi Platform Technologies",
-    "cityId": 29,
-    "city": "Pune",
-    "accomodation": "null",
-    "projectDomains": [
-      128,
-      5
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Maharashtra",
-    "country": "India",
-    "minCgpa": 6,
-    "requirements": 0,
-    "ugstipend": 50000
-  },
-  {
-    "stationId": 5803,
-    "stationName": "Ramboll, Gurugram/Noida",
-    "cityId": 120306,
-    "city": "Gurgaon",
-    "accomodation": "null",
-    "projectDomains": [
-      3
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Haryana",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 10000
-  },
-  {
-    "stationId": 6208,
-    "stationName": "Renesas",
-    "cityId": 24,
-    "city": "Hyderabad",
-    "accomodation": "null",
-    "projectDomains": [
-      134,
-      28
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Telangana",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 45000
-  },
-  {
-    "stationId": 6199,
-    "stationName": "Ribbon Communication",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      5
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7.5,
-    "requirements": 0,
-    "ugstipend": 75000
-  },
-  {
     "stationId": 4898,
     "stationName": "RIGI - IT,Bengaluru",
     "cityId": 122567,
@@ -6429,6 +6325,122 @@
     "ugstipend": 26000
   },
   {
+    "stationId": 5854,
+    "stationName": "RT Vision Technologies Pvt. Ltd",
+    "cityId": 121981,
+    "city": "Greater Noida",
+    "accomodation": "null",
+    "projectDomains": [
+      81,
+      134,
+      268,
+      51,
+      292,
+      28,
+      188,
+      86,
+      61,
+      109,
+      124,
+      282,
+      284,
+      146,
+      105
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "minCgpa": 6,
+    "requirements": 0,
+    "ugstipend": 20000
+  },
+  {
+    "stationId": 6315,
+    "stationName": "Rahi Platform Technologies",
+    "cityId": 29,
+    "city": "Pune",
+    "accomodation": "null",
+    "projectDomains": [
+      128,
+      5
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 6,
+    "requirements": 0,
+    "ugstipend": 50000
+  },
+  {
+    "stationId": 5803,
+    "stationName": "Ramboll, Gurugram/Noida",
+    "cityId": 120306,
+    "city": "Gurgaon",
+    "accomodation": "null",
+    "projectDomains": [
+      3
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Haryana",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 10000
+  },
+  {
+    "stationId": 6208,
+    "stationName": "Renesas",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      134,
+      28
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 45000
+  },
+  {
+    "stationId": 6199,
+    "stationName": "Ribbon Communication",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      5
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7.5,
+    "requirements": 0,
+    "ugstipend": 75000
+  },
+  {
     "stationId": 6215,
     "stationName": "RingCentral India Pvt Ltd",
     "cityId": 122567,
@@ -6468,40 +6480,6 @@
     "minCgpa": 8,
     "requirements": 0,
     "ugstipend": 70000
-  },
-  {
-    "stationId": 5854,
-    "stationName": "RT Vision Technologies Pvt. Ltd",
-    "cityId": 121981,
-    "city": "Greater Noida",
-    "accomodation": "null",
-    "projectDomains": [
-      81,
-      134,
-      268,
-      51,
-      292,
-      28,
-      188,
-      86,
-      61,
-      109,
-      124,
-      282,
-      284,
-      146,
-      105
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Uttar Pradesh",
-    "country": "India",
-    "minCgpa": 6,
-    "requirements": 0,
-    "ugstipend": 20000
   },
   {
     "stationId": 5308,
@@ -6629,6 +6607,132 @@
     "ugstipend": 15000
   },
   {
+    "stationId": 4729,
+    "stationName": "SEDEMAC Mechatronics Limited",
+    "cityId": 29,
+    "city": "Pune",
+    "accomodation": "null",
+    "projectDomains": [
+      292
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Maharashtra",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 30000
+  },
+  {
+    "stationId": 6194,
+    "stationName": "SIEMENS EDA India Private Limited",
+    "cityId": 122154,
+    "city": "Noida",
+    "accomodation": "null",
+    "projectDomains": [
+      28
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "minCgpa": 7.5,
+    "requirements": 0,
+    "ugstipend": 50000
+  },
+  {
+    "stationId": 6294,
+    "stationName": "SILICON LABS",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      28,
+      127,
+      188
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 40000
+  },
+  {
+    "stationId": 6333,
+    "stationName": "SMARBL LTD",
+    "cityId": 197079,
+    "city": "Abu Dhabi",
+    "accomodation": "null",
+    "projectDomains": [
+      29
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Abu Dhabi Emirate",
+    "country": "United Arab Emirates",
+    "minCgpa": 6,
+    "requirements": 0,
+    "ugstipend": 20000
+  },
+  {
+    "stationId": 6275,
+    "stationName": "STIC Soft E-Solutions Private Limited",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      211
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 8,
+    "requirements": 0,
+    "ugstipend": 35000
+  },
+  {
+    "stationId": 6305,
+    "stationName": "SUPERBUZZ MARKETING TECHNOLOGIES PRIVATE LIMITED - CherryApp",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      124,
+      57,
+      145,
+      20,
+      55
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 10000
+  },
+  {
     "stationId": 6172,
     "stationName": "Salesforce",
     "cityId": 24,
@@ -6718,26 +6822,6 @@
     "ugstipend": 100000
   },
   {
-    "stationId": 4729,
-    "stationName": "SEDEMAC Mechatronics Limited",
-    "cityId": 29,
-    "city": "Pune",
-    "accomodation": "null",
-    "projectDomains": [
-      292
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Maharashtra",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 30000
-  },
-  {
     "stationId": 6070,
     "stationName": "ServCrust Private Limited, Hyderabad",
     "cityId": 24,
@@ -6786,6 +6870,27 @@
     "ugstipend": 25000
   },
   {
+    "stationId": 5578,
+    "stationName": "SiFive India Pvt Ltd",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      28,
+      255
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Electronics",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 8,
+    "requirements": 0,
+    "ugstipend": 40000
+  },
+  {
     "stationId": 5669,
     "stationName": "Siemens EDA (Formerly Mentor Graphics) - Analog",
     "cityId": 122567,
@@ -6826,26 +6931,6 @@
     "minCgpa": 0,
     "requirements": 0,
     "ugstipend": 40000
-  },
-  {
-    "stationId": 6194,
-    "stationName": "SIEMENS EDA India Private Limited",
-    "cityId": 122154,
-    "city": "Noida",
-    "accomodation": "null",
-    "projectDomains": [
-      28
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Uttar Pradesh",
-    "country": "India",
-    "minCgpa": 7.5,
-    "requirements": 0,
-    "ugstipend": 50000
   },
   {
     "stationId": 6321,
@@ -6905,7 +6990,7 @@
     "country": "India",
     "minCgpa": 0,
     "requirements": 0,
-    "ugstipend": 0
+    "ugstipend": 40000
   },
   {
     "stationId": 6012,
@@ -6928,49 +7013,6 @@
     "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 25000
-  },
-  {
-    "stationId": 5578,
-    "stationName": "SiFive India Pvt Ltd",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      28,
-      255
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 8,
-    "requirements": 0,
-    "ugstipend": 40000
-  },
-  {
-    "stationId": 6294,
-    "stationName": "SILICON LABS",
-    "cityId": 24,
-    "city": "Hyderabad",
-    "accomodation": "null",
-    "projectDomains": [
-      28,
-      127,
-      188
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Electronics",
-    "state": "Telangana",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 40000
   },
   {
     "stationId": 6202,
@@ -7013,6 +7055,28 @@
     "ugstipend": 150000
   },
   {
+    "stationId": 6255,
+    "stationName": "SkyServe- Hyspace Technologies Pvt Ltd",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      24,
+      130,
+      131
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 20000
+  },
+  {
     "stationId": 6254,
     "stationName": "Skydo",
     "cityId": 122567,
@@ -7036,48 +7100,6 @@
     "minCgpa": 0,
     "requirements": 0,
     "ugstipend": 75000
-  },
-  {
-    "stationId": 6255,
-    "stationName": "SkyServe- Hyspace Technologies Pvt Ltd",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      24,
-      130,
-      131
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 20000
-  },
-  {
-    "stationId": 6333,
-    "stationName": "SMARBL LTD",
-    "cityId": 197079,
-    "city": "Abu Dhabi",
-    "accomodation": "null",
-    "projectDomains": [
-      29
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Abu Dhabi Emirate",
-    "country": "United Arab Emirates",
-    "minCgpa": 6,
-    "requirements": 0,
-    "ugstipend": 20000
   },
   {
     "stationId": 6277,
@@ -7176,26 +7198,6 @@
     "ugstipend": 20000
   },
   {
-    "stationId": 6275,
-    "stationName": "STIC Soft E-Solutions Private Limited",
-    "cityId": 24,
-    "city": "Hyderabad",
-    "accomodation": "null",
-    "projectDomains": [
-      211
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Telangana",
-    "country": "India",
-    "minCgpa": 8,
-    "requirements": 0,
-    "ugstipend": 35000
-  },
-  {
     "stationId": 6178,
     "stationName": "SuperAGI - Product",
     "cityId": 196818,
@@ -7287,30 +7289,6 @@
     "ugstipend": 40000
   },
   {
-    "stationId": 6305,
-    "stationName": "SUPERBUZZ MARKETING TECHNOLOGIES PRIVATE LIMITED - CherryApp",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      124,
-      57,
-      145,
-      20,
-      55
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 10000
-  },
-  {
     "stationId": 4779,
     "stationName": "Syneos Health,Gurugram",
     "cityId": 120306,
@@ -7330,6 +7308,71 @@
     "minCgpa": 0,
     "requirements": 0,
     "ugstipend": 0
+  },
+  {
+    "stationId": 5613,
+    "stationName": "TATA1MG Technologies",
+    "cityId": 120306,
+    "city": "Gurgaon",
+    "accomodation": "null",
+    "projectDomains": [
+      195,
+      20,
+      299,
+      150
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Haryana",
+    "country": "India",
+    "minCgpa": 8,
+    "requirements": 0,
+    "ugstipend": 70000
+  },
+  {
+    "stationId": 5733,
+    "stationName": "TIF Labs Pvt. Ltd",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      28
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 6,
+    "requirements": 0,
+    "ugstipend": 20000
+  },
+  {
+    "stationId": 6248,
+    "stationName": "TREXQUANT INDIA BUSINESS CONSULTING LLP",
+    "cityId": 120306,
+    "city": "Gurgaon",
+    "accomodation": "null",
+    "projectDomains": [
+      4,
+      43,
+      86
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Haryana",
+    "country": "India",
+    "minCgpa": 8.5,
+    "requirements": 0,
+    "ugstipend": 451000
   },
   {
     "stationId": 6216,
@@ -7377,29 +7420,6 @@
     "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 20000
-  },
-  {
-    "stationId": 5613,
-    "stationName": "TATA1MG Technologies",
-    "cityId": 120306,
-    "city": "Gurgaon",
-    "accomodation": "null",
-    "projectDomains": [
-      195,
-      20,
-      299,
-      150
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Haryana",
-    "country": "India",
-    "minCgpa": 8,
-    "requirements": 0,
-    "ugstipend": 70000
   },
   {
     "stationId": 5860,
@@ -7612,26 +7632,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 5733,
-    "stationName": "TIF Labs Pvt. Ltd",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      28
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 6,
-    "requirements": 0,
-    "ugstipend": 20000
-  },
-  {
     "stationId": 6190,
     "stationName": "Tower Research Capital, Gurugram",
     "cityId": 120306,
@@ -7694,28 +7694,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 6248,
-    "stationName": "TREXQUANT INDIA BUSINESS CONSULTING LLP",
-    "cityId": 120306,
-    "city": "Gurgaon",
-    "accomodation": "null",
-    "projectDomains": [
-      4,
-      43,
-      86
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Haryana",
-    "country": "India",
-    "minCgpa": 8.5,
-    "requirements": 0,
-    "ugstipend": 451000
-  },
-  {
     "stationId": 6365,
     "stationName": "Truva (Porch Technologies Private Limited) - IT",
     "cityId": 14,
@@ -7773,7 +7751,7 @@
     "stationDomain": "CSIS/IT",
     "state": "Telangana",
     "country": "India",
-    "minCgpa": 8,
+    "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 60000
   },
@@ -8128,26 +8106,6 @@
     "ugstipend": 60000
   },
   {
-    "stationId": 5660,
-    "stationName": "Udaan",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      156
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 45000
-  },
-  {
     "stationId": 5116,
     "stationName": "UST Global, Infiniy Labs , Thiruvananthapuram",
     "cityId": 24,
@@ -8168,6 +8126,26 @@
     "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 50000
+  },
+  {
+    "stationId": 5660,
+    "stationName": "Udaan",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      156
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 45000
   },
   {
     "stationId": 5889,
@@ -8279,110 +8257,6 @@
     "ugstipend": 30000
   },
   {
-    "stationId": 5141,
-    "stationName": "Walmart",
-    "cityId": 11,
-    "city": "Bangalore",
-    "accomodation": "null",
-    "projectDomains": [
-      185,
-      41
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
-    "stationId": 6338,
-    "stationName": "Wayfair Global Technology Pvt. Ltd- GST",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      301
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 100000
-  },
-  {
-    "stationId": 5017,
-    "stationName": "Wayfair Global Technology Pvt. Ltd- Search and Recommendations",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      300
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 100000
-  },
-  {
-    "stationId": 6340,
-    "stationName": "Wayfair Global Technology Pvt. Ltd-Marketing, Data and ML platform Engineering team",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      22,
-      105,
-      56,
-      43
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 100000
-  },
-  {
-    "stationId": 6339,
-    "stationName": "Wayfair Global Technology Pvt. Ltd-SCRT",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      302
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 100000
-  },
-  {
     "stationId": 6076,
     "stationName": "WCB Robotics India Pvt Ltd - Mechanical",
     "cityId": 197062,
@@ -8425,66 +8299,6 @@
     "ugstipend": 0
   },
   {
-    "stationId": 6382,
-    "stationName": "Wells Fargo",
-    "cityId": 197083,
-    "city": "Bengaluru/Hyderabad",
-    "accomodation": "null",
-    "projectDomains": [
-      4
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Finance and Mgmt",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
-    "stationId": 6186,
-    "stationName": "Western Digital , Bengaluru",
-    "cityId": 122567,
-    "city": "Bengaluru",
-    "accomodation": "null",
-    "projectDomains": [
-      81
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "CSIS/IT",
-    "state": "Karnataka",
-    "country": "India",
-    "minCgpa": 0,
-    "requirements": 0,
-    "ugstipend": 0
-  },
-  {
-    "stationId": 6153,
-    "stationName": "WILP - Additive Manufacturing, Hyderabad",
-    "cityId": 24,
-    "city": "Hyderabad",
-    "accomodation": "null",
-    "projectDomains": [
-      81
-    ],
-    "preferenceNo": null,
-    "isPrefered": false,
-    "isOwnAccommodation": null,
-    "preferredByStudent": null,
-    "stationDomain": "Others",
-    "state": "Telangana",
-    "country": "India",
-    "minCgpa": 7,
-    "requirements": 0,
-    "ugstipend": 25000
-  },
-  {
     "stationId": 6309,
     "stationName": "WILP - AI for Education Innovation Lab, hyderabad. ( (Spanda.ai)",
     "cityId": 24,
@@ -8504,6 +8318,26 @@
     "state": "Telangana",
     "country": "India",
     "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 25000
+  },
+  {
+    "stationId": 6153,
+    "stationName": "WILP - Additive Manufacturing, Hyderabad",
+    "cityId": 24,
+    "city": "Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      81
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Others",
+    "state": "Telangana",
+    "country": "India",
+    "minCgpa": 7,
     "requirements": 0,
     "ugstipend": 25000
   },
@@ -8682,6 +8516,150 @@
     "ugstipend": 25000
   },
   {
+    "stationId": 5141,
+    "stationName": "Walmart",
+    "cityId": 11,
+    "city": "Bangalore",
+    "accomodation": "null",
+    "projectDomains": [
+      185,
+      41
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
+    "stationId": 6338,
+    "stationName": "Wayfair Global Technology Pvt. Ltd- GST",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      301
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 100000
+  },
+  {
+    "stationId": 5017,
+    "stationName": "Wayfair Global Technology Pvt. Ltd- Search and Recommendations",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      300
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 100000
+  },
+  {
+    "stationId": 6340,
+    "stationName": "Wayfair Global Technology Pvt. Ltd-Marketing, Data and ML platform Engineering team",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      22,
+      105,
+      56,
+      43
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 100000
+  },
+  {
+    "stationId": 6339,
+    "stationName": "Wayfair Global Technology Pvt. Ltd-SCRT",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      302
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 7,
+    "requirements": 0,
+    "ugstipend": 100000
+  },
+  {
+    "stationId": 6382,
+    "stationName": "Wells Fargo",
+    "cityId": 197083,
+    "city": "Bengaluru/Hyderabad",
+    "accomodation": "null",
+    "projectDomains": [
+      4
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "Finance and Mgmt",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
+    "stationId": 6186,
+    "stationName": "Western Digital , Bengaluru",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      81
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 0,
+    "requirements": 0,
+    "ugstipend": 0
+  },
+  {
     "stationId": 6313,
     "stationName": "Wissen Infotech",
     "cityId": 11,
@@ -8836,5 +8814,27 @@
     "minCgpa": 7.5,
     "requirements": 0,
     "ugstipend": 80000
+  },
+  {
+    "stationId": 5917,
+    "stationName": "clearfeed.ai",
+    "cityId": 122567,
+    "city": "Bengaluru",
+    "accomodation": "null",
+    "projectDomains": [
+      5,
+      2,
+      57
+    ],
+    "preferenceNo": null,
+    "isPrefered": false,
+    "isOwnAccommodation": null,
+    "preferredByStudent": null,
+    "stationDomain": "CSIS/IT",
+    "state": "Karnataka",
+    "country": "India",
+    "minCgpa": 6.5,
+    "requirements": 0,
+    "ugstipend": 60000
   }
 ]

@@ -1,5 +1,6 @@
 import { ExclamationTriangleIcon, ClockIcon } from '@heroicons/react/24/solid';
 import Link from "next/link";
+import { TimeConfig } from '../config-time';
 
 export default function LandingPage() {
     return (
@@ -48,7 +49,7 @@ export default function LandingPage() {
                                 <div>
                                     <h3 className="text-lg font-medium text-white">Last Updated</h3>
                                     <p className="text-gray-400">
-                                        {new Date().toLocaleString()}
+                                        {TimeConfig.sem2LastUpdated}
                                     </p>
                                 </div>
                             </div>
