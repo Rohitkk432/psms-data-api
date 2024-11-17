@@ -11,6 +11,28 @@ const USER_NAME = process.env.USER_NAME;
 
 const API_URL = 'https://psms.bits-pilani.ac.in/api/api';
 
+interface ProjectDiscipline {
+    cgpamin: number;
+    cgpamax: number;
+}
+
+interface ProjectFacility {
+    ugstipend: number;
+}
+
+interface StationData {
+    problemBankGridLines: Array<{
+        totalRequirement: number;
+    }>;
+}
+
+interface Station {
+    stationId: number;
+    minCgpa: number | null;
+    requirements: number | null;
+    ugstipend: number | null;
+}
+
 const getStationProjectsData = async (stationID: number, pbID: number, projectID: number) => {
     let config = {
         method: "get",
@@ -152,33 +174,36 @@ const getStationData = async (stationID: number, stationName: string) => {
 const backfillListWithData = async (stationID: number) => {
     const stationDir = path.join(__dirname, "..", "data", "stationData", `${stationID}`);
     const files = fs.readdirSync(stationDir);
-    let minCgpa = 10;
-    let requirements = 0;
-    let minStipend = 1000000;
-    files.forEach((file: any) => {
+    let minCgpa: number | null = null;
+    let requirements: number | null = null;
+    let minStipend: number | null = null;
+    
+    files.forEach((file: string) => {
         if (file.endsWith(".json") && file !== "station.json" && file !== "problem-bank.json") {
             const projectData = JSON.parse(fs.readFileSync(path.join(stationDir, file), "utf8"));
-            projectData.projectDiscipline.forEach((discipline: any) => {
-                if (discipline.cgpamin < minCgpa) {
+            
+            projectData.projectDiscipline.forEach((discipline: ProjectDiscipline) => {
+                if (minCgpa === null || discipline.cgpamin < minCgpa) {
                     minCgpa = discipline.cgpamin;
                 }
-                if (discipline.cgpamax < minCgpa) {
+                if (minCgpa === null || discipline.cgpamax < minCgpa) {
                     minCgpa = discipline.cgpamax;
                 }
             });
-            projectData.projectFacility.forEach((dataItem: any) => {
-                if (dataItem.ugstipend < minStipend) {
+            
+            projectData.projectFacility.forEach((dataItem: ProjectFacility) => {
+                if (dataItem.ugstipend > 0 && (minStipend === null || dataItem.ugstipend < minStipend)) {
                     minStipend = dataItem.ugstipend;
                 }
             });
         }
         if (file === "station.json") {
-            const stationData1 = JSON.parse(fs.readFileSync(path.join(stationDir, file), "utf8"));
-            requirements = stationData1?.problemBankGridLines?.[0]?.totalRequirement;
+            const stationData: StationData = JSON.parse(fs.readFileSync(path.join(stationDir, file), "utf8"));
+            requirements = stationData?.problemBankGridLines?.[0]?.totalRequirement || null;
         }
     });
 
-    const stationIndex = data1.findIndex((station: any) => station.stationId === stationID);
+    const stationIndex = data1.findIndex((station: Station) => station.stationId === stationID);
     if (stationIndex !== -1) {
         data1[stationIndex].minCgpa = minCgpa;
         data1[stationIndex].requirements = requirements;
