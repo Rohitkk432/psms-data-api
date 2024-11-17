@@ -93,7 +93,7 @@ export default async function LandingPage() {
                             // Show login button when not logged in
                             <div className="flex flex-col items-center justify-center py-16">
                                 <SignInButton />
-                                <p className="mt-4 text-gray-400 text-sm">
+                                <p className="mt-4 text-gray-400 text-sm text-center">
                                     Sign in using BITS Mail to access station information
                                 </p>
                             </div>
