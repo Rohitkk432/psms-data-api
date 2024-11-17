@@ -2,10 +2,12 @@
 
 import { useState, useEffect, useMemo } from "react";
 import StationData from "../../../../data/stations.json";
+import Sem1StationData from "../../../../sem1/stations.json";
 import cn from "classnames";
 import Dropdown from "@/components/dropdown";
 import RangeSlider from "@/components/rangeSlider";
 import { ArrowTopRightOnSquareIcon } from "@heroicons/react/24/outline";
+import {TimeConfig} from "../../config-time"
 
 const locationOptions = ["Bangalore", "Hyderabad", "Mumbai", "Pune", "Gurgaon", "Delhi", "Others"];
 const branchOptions = ["Finance and Mgmt", "Electronics", "Chemical", "Others", "Infrastructure", "CSIS/IT", "Mechanical", "Health Care", "Others"];
@@ -22,8 +24,10 @@ export default function StationsPage() {
 
     const [isInitialized, setIsInitialized] = useState(false);
 
+    const [semester, setSemester] = useState<1 | 2>(2);
+
     const filteredAndSortedStations = useMemo(() => {
-        let filtered: any[] = StationData;
+        let filtered: any[] = semester === 1 ? Sem1StationData : StationData;
 
         // Apply search filter
         if (search.trim()) {
@@ -86,7 +90,7 @@ export default function StationsPage() {
         return sortFunc
             ? [...filtered].sort((a, b) => a.stationName.localeCompare(b.stationName)) // Alphabetically
             : [...filtered].sort((a, b) => b.ugstipend - a.ugstipend); // By stipend (high to low)
-    }, [StationData, search, location, branch, rangeCGPA, rangeStipend, rangeReq, sortFunc]);
+    }, [StationData, Sem1StationData, semester, search, location, branch, rangeCGPA, rangeStipend, rangeReq, sortFunc]);
 
     useEffect(() => {
         const savedLocation = localStorage.getItem('psms-location');
@@ -96,6 +100,7 @@ export default function StationsPage() {
         const savedReq = localStorage.getItem('psms-req');
         const savedSearch = localStorage.getItem('psms-search');
         const savedSort = localStorage.getItem('psms-sort');
+        const savedSemester = localStorage.getItem('psms-semester');
 
         if (savedLocation) setLocation(JSON.parse(savedLocation));
         if (savedBranch) setBranch(JSON.parse(savedBranch));
@@ -104,6 +109,7 @@ export default function StationsPage() {
         if (savedReq) setRangeReq(JSON.parse(savedReq));
         if (savedSearch) setSearch(savedSearch);
         if (savedSort) setSortFunc(JSON.parse(savedSort));
+        if (savedSemester) setSemester(JSON.parse(savedSemester));
 
         setIsInitialized(true);
     }, []);
@@ -118,7 +124,8 @@ export default function StationsPage() {
         localStorage.setItem('psms-req', JSON.stringify(rangeReq));
         localStorage.setItem('psms-search', search);
         localStorage.setItem('psms-sort', JSON.stringify(sortFunc));
-    }, [isInitialized,location, branch, rangeCGPA, rangeStipend, rangeReq, search, sortFunc]);
+        localStorage.setItem('psms-semester', JSON.stringify(semester));
+    }, [isInitialized,location, branch, rangeCGPA, rangeStipend, rangeReq, search, sortFunc, semester]);
 
     return (
         <main className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800">
@@ -129,6 +136,38 @@ export default function StationsPage() {
                         PS Stations List
                     </h1>
                     <p className="text-center text-blue-400">Find and filter available stations</p>
+                    
+                    {/* Semester Toggle with Last Updated Time */}
+                    <div className="flex flex-col items-center mt-4 gap-2">
+                        <div className="flex justify-center gap-2">
+                            <button 
+                                onClick={() => setSemester(1)} 
+                                className={cn(
+                                    "px-4 py-2 rounded-xl transition-colors",
+                                    semester === 1 ? "bg-blue-500/20 text-blue-400 border border-blue-500" : "bg-black/20 text-gray-400 border border-gray-700 hover:border-gray-600"
+                                )}
+                            >
+                                Semester 1
+                            </button>
+                            <button 
+                                onClick={() => setSemester(2)} 
+                                className={cn(
+                                    "px-4 py-2 rounded-xl transition-colors",
+                                    semester === 2 ? "bg-blue-500/20 text-blue-400 border border-blue-500" : "bg-black/20 text-gray-400 border border-gray-700 hover:border-gray-600"
+                                )}
+                            >
+                                Semester 2
+                            </button>
+                        </div>
+                        <div className="bg-black/20 border border-gray-700 rounded-xl px-4 py-2 mt-2">
+                            <div className="flex items-center gap-2">
+                                <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
+                                <span className="text-sm text-gray-400">
+                                    Last Updated: {semester === 1 ? TimeConfig.sem1LastUpdated : TimeConfig.sem2LastUpdated}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 {/* Filters Section - Enhanced UI */}
