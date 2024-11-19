@@ -29,7 +29,9 @@
       "anyDual": false,
       "anyEither": false,
       "anyHigher": false,
-      "anyDegree": false
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
     }
   ],
   "projectDiscipline": [
@@ -116,7 +118,7 @@
     {
       "projectElectiveId": 613,
       "projectId": 2391,
-      "electiveId": 1304,
+      "electiveId": 1303,
       "grade": null
     },
     {
@@ -128,7 +130,7 @@
     {
       "projectElectiveId": 615,
       "projectId": 2391,
-      "electiveId": 1273,
+      "electiveId": 1272,
       "grade": null
     },
     {

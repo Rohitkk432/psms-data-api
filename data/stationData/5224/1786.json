@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1786,
-      "projectDisciplineId": 6815,
+      "projectDisciplineId": 6924,
       "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA,H123,H124,H140",
       "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA,H123,H124,H140",
       "graduationTypeIds": [
@@ -29,20 +29,22 @@
       "anyDual": false,
       "anyEither": false,
       "anyHigher": false,
-      "anyDegree": false
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6815,
+      "projectDisciplineId": 6924,
       "projectId": 1786,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 1,
       "cgpamin": 7,
       "cgpamax": 10,
-      "freshRequirement": 11,
-      "totalRequirement": 12,
+      "freshRequirement": 12,
+      "totalRequirement": 13,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 1,
@@ -63,64 +65,64 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 20715,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21076,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 20716,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21077,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 20717,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21078,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 20718,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21079,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20719,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21080,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20720,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21081,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20721,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21082,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 2,
           "disciplineId": 30,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20722,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21083,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 2,
           "disciplineId": 22,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20723,
-          "projectDisciplineId": 6815,
+          "projectDisciplineDetailId": 21084,
+          "projectDisciplineId": 6924,
           "graduationTypeId": 2,
           "disciplineId": 26,
           "discipline2Id": null
@@ -167,7 +169,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-19T17:10:33",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-17T15:31:40",
+      "modifiedDate": "2024-11-18T22:00:17",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 3340,
-      "projectDisciplineId": 6514,
+      "projectDisciplineId": 6963,
       "projectDisciplineCodes": "AnyA7,AnyAA,A7,AA",
       "discCodesPerProject": "AnyA7,AnyAA,A7,AA",
       "graduationTypeIds": [
@@ -28,19 +28,21 @@
       "anyDual": false,
       "anyEither": false,
       "anyHigher": false,
-      "anyDegree": false
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6514,
+      "projectDisciplineId": 6963,
       "projectId": 3340,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 7,
       "cgpamax": 10,
-      "freshRequirement": 2,
+      "freshRequirement": 0,
       "totalRequirement": 2,
       "maleRequirement": 0,
       "femaleRequirement": 0,
@@ -55,35 +57,35 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 2,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 19611,
-          "projectDisciplineId": 6514,
+          "projectDisciplineDetailId": 21255,
+          "projectDisciplineId": 6963,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 19612,
-          "projectDisciplineId": 6514,
+          "projectDisciplineDetailId": 21256,
+          "projectDisciplineId": 6963,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 19613,
-          "projectDisciplineId": 6514,
+          "projectDisciplineDetailId": 21257,
+          "projectDisciplineId": 6963,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19614,
-          "projectDisciplineId": 6514,
+          "projectDisciplineDetailId": 21258,
+          "projectDisciplineId": 6963,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
@@ -129,8 +131,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-13T09:40:44",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-19T19:09:51",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

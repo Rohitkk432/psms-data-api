@@ -29,7 +29,9 @@
       "anyDual": false,
       "anyEither": false,
       "anyHigher": false,
-      "anyDegree": false
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
     }
   ],
   "projectDiscipline": [
@@ -42,7 +44,7 @@
       "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 2,
-      "totalRequirement": 31,
+      "totalRequirement": 33,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -56,7 +58,7 @@
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 1,
-      "conditionalOfferCount": 29,
+      "conditionalOfferCount": 31,
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
@@ -188,7 +190,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-19T17:13:31",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-17T15:42:21",
+      "modifiedDate": "2024-11-18T09:27:14",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

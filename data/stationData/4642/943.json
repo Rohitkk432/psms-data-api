@@ -6,11 +6,11 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Various Projects",
-  "description": "<p>Skill sets: </p><p>? Aspiration to become a software developer </p><p>? Willingness to learn Java, Python, React etc. on the job </p><p>Traits expectation: </p><p>? Curiosity to learn </p><p>? Ability to pick up new skills quickly </p><p>Expected learning: </p><p>? Develop original algorithms, logic and code, and ensure that it withstands any test </p><p>? Understand the difference between creating a product and working on a turnkey project, and write code accordingly </p><p>? Demonstrate significant abstraction skills to convert requirements into usable product features </p><p>? Creating original algorithms and ideas to solve complex issues </p><p>Specific courses required for project execution: </p><p>Knowledge of Java, Python, React etc. will be an advantage </p><p>CGPA Cutoff: </p><p>? No CGPA cut-off </p><p>? Student should not have any subject backlogs </p><p>Broad Project Domain: </p><p>? FinTech; Software development using Java Project Area: </p><p>? Building financial applications</p>",
+  "title": "Title: Will be decided once the student joins",
+  "description": "<p>Title: Will be decided once the student joins</p><p>Description: Will be decided once the student joins</p><p>Skill Set:</p><p>? Aspiration to become a software developer</p><p>? Willingness to learn Java, Python, React etc. on the job</p><p>Traits expectation:</p><p>? Curiosity to learn</p><p>? Ability to pick up new skills quickly</p><p>Expected learning:</p><p>? Develop original algorithms, logic and code, and ensure that it withstands any test</p><p>? Understand the difference between creating a product and working on a turnkey project,</p><p>and write code accordingly</p><p>? Demonstrate significant abstraction skills to convert requirements into usable product</p><p>features</p><p>? Creating original algorithms and ideas to solve complex issues</p><p>Specific courses required for project execution: Knowledge of Java, Python, React etc. will</p><p>be an advantage</p><p><br></p><p>Project 2: Product Engineering</p><p>Projects</p><p><br></p><p>Title: Will be decided once the student joins</p><p>Description: Will be decided once the student joins</p><p>Skill Set:</p><p>? Aspiration to become a software developer</p><p>? Willingness to learn Java, Python, React etc. on the job</p><p>Traits expectation:</p><p>? Curiosity to learn</p><p>? Ability to pick up new skills quickly</p><p>Expected learning:</p><p>? Develop original algorithms, logic and code, and ensure that it withstands any test</p><p>? Understand the difference between creating a product and working on a turnkey project,</p><p>and write code accordingly</p><p>? Demonstrate significant abstraction skills to convert requirements into usable product</p><p>features</p><p>? Creating original algorithms and ideas to solve complex issues</p><p>Specific courses required for project execution: Python and React working knowledge is a</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Mr.",
   "mentorName": "Shradha Nijhawan",
   "mentorEmailId": "shradha.nijhawan@maybank.com",
@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 943,
-      "projectDisciplineId": 5689,
-      "projectDisciplineCodes": "A2,D2,A3,A4,A7,A8,AA,A1,AB,AnyA1,AnyA2,AnyA3,AnyA4,AnyA7,AnyA8,AnyB4,B4,AnyD2",
-      "discCodesPerProject": "A2,D2,A3,A4,A7,A8,AA,A1,AB,AnyA1,AnyA2,AnyA3,AnyA4,AnyA7,AnyA8,AnyB4,B4,AnyD2",
+      "projectDisciplineId": 6854,
+      "projectDisciplineCodes": "B4,AB,A1,AA,A8,A7,A4,A3,A2,AnyD2,AnyB4,AnyA8,AnyA7,AnyA4,AnyA3,AnyA2,D2,AnyA1",
+      "discCodesPerProject": "B4,AB,A1,AA,A8,A7,A4,A3,A2,AnyD2,AnyB4,AnyA8,AnyA7,AnyA4,AnyA3,AnyA2,D2,AnyA1",
       "graduationTypeIds": [
         1
       ],
@@ -28,163 +28,165 @@
       "anyDual": false,
       "anyEither": false,
       "anyHigher": false,
-      "anyDegree": false
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5689,
+      "projectDisciplineId": 6854,
       "projectId": 943,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 10,
-      "totalRequirement": 13,
+      "freshRequirement": 5,
+      "totalRequirement": 7,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
-      "disciplineCodes": "A2,D2,A3,A4,A7,A8,AA,A1,AB,AnyA1,AnyA2,AnyA3,AnyA4,AnyA7,AnyA8,AnyB4,B4,AnyD2",
+      "continuingStudent": 1,
+      "disciplineCodes": "B4,AB,A1,AA,A8,A7,A4,A3,A2,AnyD2,AnyB4,AnyA8,AnyA7,AnyA4,AnyA3,AnyA2,D2,AnyA1",
       "graduationTypeIds": [
         1,
         0
       ],
       "degree": "Both",
-      "continuingStudentCount": 0,
+      "continuingStudentCount": 2,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 3,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 16831,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 2,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16832,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 21,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16833,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 3,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16834,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 4,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16835,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 12,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16836,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 13,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16837,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 14,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16838,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 1,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16839,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 1,
-          "disciplineId": 15,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 16840,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 1
-        },
-        {
-          "projectDisciplineDetailId": 16841,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 2
-        },
-        {
-          "projectDisciplineDetailId": 16842,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 3
-        },
-        {
-          "projectDisciplineDetailId": 16843,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 4
-        },
-        {
-          "projectDisciplineDetailId": 16844,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 12
-        },
-        {
-          "projectDisciplineDetailId": 16845,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 13
-        },
-        {
-          "projectDisciplineDetailId": 16846,
-          "projectDisciplineId": 5689,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 19
-        },
-        {
-          "projectDisciplineDetailId": 16847,
-          "projectDisciplineId": 5689,
+          "projectDisciplineDetailId": 20837,
+          "projectDisciplineId": 6854,
           "graduationTypeId": 1,
           "disciplineId": 19,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 16848,
-          "projectDisciplineId": 5689,
+          "projectDisciplineDetailId": 20838,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20839,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20840,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20841,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20842,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20843,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20844,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20845,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 2,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20846,
+          "projectDisciplineId": 6854,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 21
+        },
+        {
+          "projectDisciplineDetailId": 20847,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 19
+        },
+        {
+          "projectDisciplineDetailId": 20848,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 20849,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20850,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 20851,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 20852,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
+        },
+        {
+          "projectDisciplineDetailId": 20853,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 1,
+          "disciplineId": 21,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20854,
+          "projectDisciplineId": 6854,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
         }
       ],
       "selectedContinuingStudentList": null,
@@ -228,13 +230,13 @@
       "createdBy": "pravin.pawar@pilani.bits-pilani.ac.in",
       "createdDate": "2024-03-27T06:53:33",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-13T04:30:21",
+      "modifiedDate": "2024-11-18T09:51:42",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
       "boysAccomodationCityName": null,
-      "mode": null,
-      "otherMode": null
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [
