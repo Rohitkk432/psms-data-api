@@ -387,7 +387,7 @@ export default function StationsPage() {
                             className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-gray-700 hover:border-blue-500/50 transition-all"
                         >
                             <div className="flex justify-between mb-4">
-                                <h3 className="text-xl font-semibold text-white">{item.stationName}</h3>
+                                <h3 className="text-xl font-semibold text-white break-all">{item.stationName}</h3>
                                 <span className="px-3 py-1 bg-blue-500/20 text-blue-400 rounded-full text-sm h-fit">
                                     #{item.stationId}
                                 </span>
