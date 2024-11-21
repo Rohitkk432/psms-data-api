@@ -1,0 +1,189 @@
+{
+  "projectId": 3505,
+  "stationId": 5280,
+  "problemBankId": 2270,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title:      Avaamo LLaMB Skill and Conversation AI",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title:</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp; Avaamo LLaMB Skill and Conversation AI</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description:</strong><span style=\"color: rgb(0, 0, 0);\"> A next generation platform, Delivering the modern, conversational enterprises</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Skill sets:</strong><span style=\"color: rgb(0, 0, 0);\"> 1. Familiarity with transformer models such as BERT, including an introduction to dense retrieval techniques.</span></p><p>2. &nbsp; &nbsp;Ability to adapt machine learning libraries and frameworks for Natural Language Processing (NLP) tasks, with some exposure to large language models (LLMs).</p><p>3. &nbsp; &nbsp;Experience in developing and training machine learning models.</p><p>4. &nbsp; &nbsp;Practical application of prompt engineering techniques.</p><p>5. &nbsp; &nbsp;Basic statistical analysis of results to support ongoing model improvements.</p><p>6. &nbsp; &nbsp;Utilization of transformers for classification algorithms, NER, reranking etc.</p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Traits expectation:&nbsp;</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Expected learning:</strong><span style=\"color: rgb(0, 0, 0);\"> Budling or be part of next generation platform into AI and ML space</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp; Good to have – Large scale enterprise application development related courses</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3505,
+      "projectDisciplineId": 6805,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6805,
+      "projectId": 3505,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20665,
+          "projectDisciplineId": 6805,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20666,
+          "projectDisciplineId": 6805,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3369,
+      "projectId": 3505,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 75000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-17T14:21:15",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-17T14:21:47",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60317,
+      "projectId": 3505,
+      "skillId": 295
+    },
+    {
+      "projectSkillId": 60318,
+      "projectId": 3505,
+      "skillId": 90
+    },
+    {
+      "projectSkillId": 60319,
+      "projectId": 3505,
+      "skillId": 292
+    },
+    {
+      "projectSkillId": 60320,
+      "projectId": 3505,
+      "skillId": 159
+    },
+    {
+      "projectSkillId": 60321,
+      "projectId": 3505,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60322,
+      "projectId": 3505,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3505,
+      "projectDomainId": 5253,
+      "academicDomainId": 86
+    },
+    {
+      "projectId": 3505,
+      "projectDomainId": 5254,
+      "academicDomainId": 99
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4853,
+      "projectId": 3505,
+      "academicSubDomainId": 192
+    },
+    {
+      "projectSubDomainId": 4854,
+      "projectId": 3505,
+      "academicSubDomainId": 188
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

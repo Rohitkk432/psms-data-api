@@ -1,0 +1,302 @@
+{
+  "projectId": 1839,
+  "stationId": 5165,
+  "problemBankId": 1023,
+  "problemBankCreatedBy": "gaurav.nagpal@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Complex Securities Valuation",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong><span style=\"color: black;\">Develop models to value a variety of financial instruments and to study various business situations, using option pricing theory, fixed income and structured finance models, Monte Carlo simulation, statistical analysis, optimization, decision analysis and other techniques from the financial engineering or decision sciences literature.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong><span style=\"color: black;\">Excel, VBA , Python (Preferred)</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: </strong><span style=\"color: black;\">Understanding of securities and valuation</span><strong style=\"color: black;\"> </strong></p><p><strong style=\"color: black;\">Specific courses required for project execution: </strong>F<span style=\"color: black;\">undamentals of Finance, Business Analysis and Valuation, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Microeconomics, Financial Engineering, Econometrics + Math I + Math II and Math III</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1839,
+      "projectDisciplineId": 6960,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6960,
+      "projectId": 1839,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 2,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21239,
+          "projectDisciplineId": 6960,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 21240,
+          "projectDisciplineId": 6960,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 1320,
+      "projectId": 1839,
+      "electiveId": 1305,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1321,
+      "projectId": 1839,
+      "electiveId": 1303,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1322,
+      "projectId": 1839,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1323,
+      "projectId": 1839,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1324,
+      "projectId": 1839,
+      "electiveId": 1303,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1325,
+      "projectId": 1839,
+      "electiveId": 1303,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1326,
+      "projectId": 1839,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1327,
+      "projectId": 1839,
+      "electiveId": 41,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1328,
+      "projectId": 1839,
+      "electiveId": 1243,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1329,
+      "projectId": 1839,
+      "electiveId": 1282,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1330,
+      "projectId": 1839,
+      "electiveId": 1282,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1331,
+      "projectId": 1839,
+      "electiveId": 1282,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1332,
+      "projectId": 1839,
+      "electiveId": 1282,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1333,
+      "projectId": 1839,
+      "electiveId": 1377,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1334,
+      "projectId": 1839,
+      "electiveId": 1338,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1335,
+      "projectId": 1839,
+      "electiveId": 1358,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1336,
+      "projectId": 1839,
+      "electiveId": 1358,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1337,
+      "projectId": 1839,
+      "electiveId": 1276,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1338,
+      "projectId": 1839,
+      "electiveId": 1316,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1339,
+      "projectId": 1839,
+      "electiveId": 1276,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1340,
+      "projectId": 1839,
+      "electiveId": 1316,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 1341,
+      "projectId": 1839,
+      "electiveId": 714,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1757,
+      "projectId": 1839,
+      "officeStartTime": "08:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 38000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "gaurav.nagpal@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-20T08:12:57",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-20T11:57:39",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37503,
+      "projectId": 1839,
+      "skillId": 169
+    },
+    {
+      "projectSkillId": 37504,
+      "projectId": 1839,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 37505,
+      "projectId": 1839,
+      "skillId": 319
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1839,
+      "projectDomainId": 2622,
+      "academicDomainId": 4
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2402,
+      "projectId": 1839,
+      "academicSubDomainId": 13
+    },
+    {
+      "projectSubDomainId": 2403,
+      "projectId": 1839,
+      "academicSubDomainId": 102
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

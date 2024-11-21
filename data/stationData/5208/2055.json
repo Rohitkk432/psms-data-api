@@ -1,0 +1,174 @@
+{
+  "projectId": 2055,
+  "stationId": 5208,
+  "problemBankId": 1157,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Building Real-Time Analytics Dashboard for Ad Campaign Performance",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: </strong><span style=\"color: rgb(0, 0, 0);\">Building Real-Time Analytics Dashboard for Ad Campaign Performance</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: </strong><span style=\"color: rgb(0, 0, 0);\">The focus of this project is on creating a real-time analytics dashboard to monitor cross-platform ad campaign performance. Using data from Pixis's data lake, students will implement a solution to visualize metrics, trends, and KPIs for ad campaigns, handling high-throughput, low-latency reads from Apache Iceberg tables.</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:&nbsp;</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Proficiency in JavaScript (React/Angular)</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Knowledge of data visualization libraries (D3.js, Plotly)</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Familiarity with Apache Iceberg, Parquet</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Understanding of real-time data processing (Kafka/Flink)</span></li></ul><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation: </strong><span style=\"color: rgb(0, 0, 0);\">Good communication skills, creativity in data visualization, strong teamwork skills.</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning:&nbsp;</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Building scalable, real-time analytics dashboards</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Handling high-performance data queries for visualization</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Working with cross-platform metrics in a consolidated format</span></li></ul><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"color: rgb(0, 0, 0);\">Data Visualization, Real-Time Data Processing, Web Development, Databases</span></p><p><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2055,
+      "projectDisciplineId": 4133,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4133,
+      "projectId": 2055,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 10441,
+          "projectDisciplineId": 4133,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 10442,
+          "projectDisciplineId": 4133,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1971,
+      "projectId": 2055,
+      "officeStartTime": "11:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Food (Breakfast, Lunch, Evening snack and Dinner)\nis provided and office Laptop is provided for work",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-26T18:18:40",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T16:20:52",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60462,
+      "projectId": 2055,
+      "skillId": 213
+    },
+    {
+      "projectSkillId": 60463,
+      "projectId": 2055,
+      "skillId": 128
+    },
+    {
+      "projectSkillId": 60464,
+      "projectId": 2055,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2055,
+      "projectDomainId": 5326,
+      "academicDomainId": 71
+    },
+    {
+      "projectId": 2055,
+      "projectDomainId": 5327,
+      "academicDomainId": 225
+    },
+    {
+      "projectId": 2055,
+      "projectDomainId": 5328,
+      "academicDomainId": 169
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4921,
+      "projectId": 2055,
+      "academicSubDomainId": 145
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

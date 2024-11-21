@@ -1,0 +1,209 @@
+{
+  "projectId": 2627,
+  "stationId": 4674,
+  "problemBankId": 1572,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project detials given in Description",
+  "description": "<p>Project 1 Title: Design and development of independent suspension for mining truck</p><p><br></p><p>Description: Project involves finding latest technologies in this area and implementation of</p><p>the same, complete design, analysis of independent suspension for better ride &amp; comfort,</p><p>K&amp;C evaluation and strength &amp; durability for road loads.</p><p>Skill sets: Vehicle dynamics, Tools – Motionsolve</p><p>Traits expectation: Strong technical fundamentals, pro-active, innovative mindset</p><p>Expected learning: design of suspension systems</p><p>Specific courses required for project execution: Vehicle dynamics, structural mechanics, vibrations</p><p><br></p><p>Project 2 Title: Heat treatment distortion prediction for gears</p><p><br></p><p>Description: Project involves evaluation of distortion during heat treatment process using numerical</p><p>methods. It involves numerical modeling of phase transformation and comparison of distortion with</p><p>actual parts which are heat treated.</p><p>Skill sets: FEA, Basics of heat treatment, Tools – Ansys /Abaqus</p><p>Traits expectation: Strong technical fundamentals, pro-active, innovative mindset</p><p>Expected learning: Simulation of manufacturing methods like heat treatment</p><p>Specific courses required for project execution: Metallurgy, FEA, Numerical methods</p><p>Project 3 Title: Design and development of shifting mechanism for multi speed transmission</p><p>Description: To design auto shifting mechanism for 2 speed transmission for electric 3W</p><p>Skill sets: Matlab, Simulink, Mechatronics,</p><p>Traits expectation: Strong technical fundamentals, pro-active, innovative mindset</p><p>Expected learning: Design of shifting systems</p><p>Specific courses required for project execution: Control systems, Mechatronics</p><p>Project 4 Title: Engineering design process automation using VB script in Excel</p><p>Description: To align with IATF/ISO design process requirements</p><p>Skill sets: Engineering design process, VB</p><p>Traits expectation: Strong technical fundamentals, pro-active, innovative mindset</p><p>Expected learning: Automation of engineering processes</p><p>Specific courses required for project execution: Programming, Product development process</p><p><br></p><p>Project 5 Title: Laser welding of two components – Design, simulation, testing</p><p><br></p><p>Description: To design laser welded differential</p><p>Skill sets: New joining technology, FEA, heat transfer</p><p>Traits expectation: Strong technical fundamentals, pro-active, innovative mindset</p><p>Expected learning: New manufacturing technologies</p><p>Specific courses required for project execution: FEA, Manufacturing technology, Metallurgy</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2627,
+      "projectDisciplineId": 6856,
+      "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB,H106,H142",
+      "discCodesPerProject": "AnyA4,AnyAB,A4,AB,H106,H142",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6856,
+      "projectId": 2627,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,AnyAB,A4,AB,H106,H142",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 5,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20861,
+          "projectDisciplineId": 6856,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 20862,
+          "projectDisciplineId": 6856,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 20863,
+          "projectDisciplineId": 6856,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20864,
+          "projectDisciplineId": 6856,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20865,
+          "projectDisciplineId": 6856,
+          "graduationTypeId": 2,
+          "disciplineId": 28,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20866,
+          "projectDisciplineId": 6856,
+          "graduationTypeId": 2,
+          "disciplineId": 27,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2540,
+      "projectId": 2627,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-25T10:48:49",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T10:13:50",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60377,
+      "projectId": 2627,
+      "skillId": 11
+    },
+    {
+      "projectSkillId": 60378,
+      "projectId": 2627,
+      "skillId": 362
+    },
+    {
+      "projectSkillId": 60379,
+      "projectId": 2627,
+      "skillId": 277
+    },
+    {
+      "projectSkillId": 60380,
+      "projectId": 2627,
+      "skillId": 107
+    },
+    {
+      "projectSkillId": 60381,
+      "projectId": 2627,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60382,
+      "projectId": 2627,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2627,
+      "projectDomainId": 3720,
+      "academicDomainId": 21
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3427,
+      "projectId": 2627,
+      "academicSubDomainId": 70
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

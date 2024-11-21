@@ -1,0 +1,190 @@
+{
+  "projectId": 3501,
+  "stationId": 6384,
+  "problemBankId": 2266,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title : It will be depend on the projects available during the time of PS.",
+  "description": "<p>Title : It will be depend on the projects available during the time of PS.</p><p>Description : Mostly projects will be in domain of pavement evaluation and structural health monitoring.</p><p>Skill set : Pavement evaluation, Pavement management system, Structural analysis etc.</p><p>Traits Expectation : Eagerness to learn, Teamwork and Collaboration, Adaptability and basic skills and knowledge.</p><p><br></p><p>Expected learning : Different type of equipment used for evaluation of structures and Pavement domain. Software required for industry, latest innovations in technologies regarding civil engineering.</p><p>Specific courses required for Project execution : Pavement material, pavement analysis and Design, Pavement management system, building materials, RCC and other Civil engineering courses.</p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3501,
+      "projectDisciplineId": 6797,
+      "projectDisciplineCodes": "H130,H143,H144",
+      "discCodesPerProject": "H130,H143,H144",
+      "graduationTypeIds": [
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6797,
+      "projectId": 3501,
+      "degreeTypeId": null,
+      "firstDegree": 0,
+      "higherDegree": 1,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "H130,H143,H144",
+      "graduationTypeIds": [
+        2
+      ],
+      "degree": "",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20648,
+          "projectDisciplineId": 6797,
+          "graduationTypeId": 2,
+          "disciplineId": 9,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20649,
+          "projectDisciplineId": 6797,
+          "graduationTypeId": 2,
+          "disciplineId": 8,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20650,
+          "projectDisciplineId": 6797,
+          "graduationTypeId": 2,
+          "disciplineId": 10,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3365,
+      "projectId": 3501,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 0,
+      "pgstipend": 22000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-17T13:42:48",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60293,
+      "projectId": 3501,
+      "skillId": 320
+    },
+    {
+      "projectSkillId": 60294,
+      "projectId": 3501,
+      "skillId": 387
+    },
+    {
+      "projectSkillId": 60295,
+      "projectId": 3501,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60296,
+      "projectId": 3501,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3501,
+      "projectDomainId": 5246,
+      "academicDomainId": 3
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4837,
+      "projectId": 3501,
+      "academicSubDomainId": 8
+    },
+    {
+      "projectSubDomainId": 4838,
+      "projectId": 3501,
+      "academicSubDomainId": 9
+    },
+    {
+      "projectSubDomainId": 4839,
+      "projectId": 3501,
+      "academicSubDomainId": 10
+    },
+    {
+      "projectSubDomainId": 4840,
+      "projectId": 3501,
+      "academicSubDomainId": 476
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

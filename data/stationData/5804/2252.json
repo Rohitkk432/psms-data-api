@@ -1,0 +1,159 @@
+{
+  "projectId": 2252,
+  "stationId": 5804,
+  "problemBankId": 1281,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Product Intern",
+  "description": "<p>Title: Product Intern</p><p>Description: Work closely with PMs, engineers, and designers to drive the development of financial</p><p>products for our users. The internship offers a unique opportunity to gain hands-on experience in the</p><p>fast-paced world of fintech while contributing to the growth of a promising startup.</p><p>Skill sets:</p><p>1. Passion for fintech and a keen interest in financial technology trends and innovations.</p><p>2. Strong problem-solving skills and the ability to think critically and creatively.</p><p>3. Excellent communication and teamwork skills.</p><p>4. Highly adaptable and eager to learn in a fast-paced startup environment.</p><p>5. Basic knowledge of product management tools and methodologies is a plus.</p><p>Expected learning:</p><p>1. Workings of the Indian Fintech industry.</p><p>2. Exposure to the end-to-end product development process.</p><p class=\"ql-align-justify\">3. Zero to One problem solving skills.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2252,
+      "projectDisciplineId": 6795,
+      "projectDisciplineCodes": "A5,AnyA5",
+      "discCodesPerProject": "A5,AnyA5",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6795,
+      "projectId": 2252,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A5,AnyA5",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20638,
+          "projectDisciplineId": 6795,
+          "graduationTypeId": 1,
+          "disciplineId": 11,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20639,
+          "projectDisciplineId": 6795,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 11
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2166,
+      "projectId": 2252,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 61000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T15:29:07",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-17T13:15:47",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50809,
+      "projectId": 2252,
+      "skillId": 239
+    },
+    {
+      "projectSkillId": 50810,
+      "projectId": 2252,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2252,
+      "projectDomainId": 3170,
+      "academicDomainId": 30
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2911,
+      "projectId": 2252,
+      "academicSubDomainId": 297
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

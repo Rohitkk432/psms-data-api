@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "WILP-Vehicle security penetration testing facility in collaboration with Bosch",
-  "description": "<p><span style=\"color: rgb(0, 0, 0);\">WILP-Vehicle security penetration testing facility in collaboration with Bosch</span></p>",
+  "title": "Vehicle security penetration testing facility in collaboration with Bosch: ",
+  "description": "<p><span style=\"color: rgb(34, 34, 34);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will be working on setting up the pen testing facility with Experts from Bosch.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(34, 34, 34);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penetration testing, or pen testing, is a cybersecurity process where ethical hackers simulate attacks on a system, network, or application to identify vulnerabilities before malicious actors can exploit them. It involves stages like reconnaissance, vulnerability analysis, exploitation, and reporting, each designed to uncover weak points in security defences.</span></p><p><span style=\"color: rgb(34, 34, 34);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects&nbsp;will be based&nbsp;on network security, HAckerRF, Automotive security, Post-quantum cryptography, Hardware Security Modules, Side channel attack etc.</span></p><p><span style=\"color: rgb(34, 34, 34);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preferable tools and skills:</span></p><p><span style=\"color: rgb(34, 34, 34);\">CANoe, CANalyzer, Ghidra, IDA Pro, HackRF, Burp Suite, Nmap, quiskit (IBM)</span></p><p><span style=\"color: rgb(34, 34, 34);\"> In-vehicle communication protocols CAN,&nbsp;LIN, Ethernet, embedded systems programming (C/C++), firmware analysis, wireless communication security, cryptography, threat modelling, risk assessment, penetration testing, secure coding practices, and application security.</span></p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 2,
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2877,
-      "projectDisciplineId": 6683,
+      "projectDisciplineId": 6977,
       "projectDisciplineCodes": "AnyA3,AnyA7,A7,A3,H140,H103,H112",
       "discCodesPerProject": "AnyA3,AnyA7,A7,A3,H140,H103,H112",
       "graduationTypeIds": [
@@ -36,7 +36,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6683,
+      "projectDisciplineId": 6977,
       "projectId": 2877,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -65,50 +65,50 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 20207,
-          "projectDisciplineId": 6683,
+          "projectDisciplineDetailId": 21311,
+          "projectDisciplineId": 6977,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 20208,
-          "projectDisciplineId": 6683,
+          "projectDisciplineDetailId": 21312,
+          "projectDisciplineId": 6977,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 20209,
-          "projectDisciplineId": 6683,
+          "projectDisciplineDetailId": 21313,
+          "projectDisciplineId": 6977,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20210,
-          "projectDisciplineId": 6683,
+          "projectDisciplineDetailId": 21314,
+          "projectDisciplineId": 6977,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20211,
-          "projectDisciplineId": 6683,
+          "projectDisciplineDetailId": 21315,
+          "projectDisciplineId": 6977,
           "graduationTypeId": 2,
           "disciplineId": 26,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20212,
-          "projectDisciplineId": 6683,
+          "projectDisciplineDetailId": 21316,
+          "projectDisciplineId": 6977,
           "graduationTypeId": 2,
           "disciplineId": 23,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20213,
-          "projectDisciplineId": 6683,
+          "projectDisciplineDetailId": 21317,
+          "projectDisciplineId": 6977,
           "graduationTypeId": 2,
           "disciplineId": 31,
           "discipline2Id": null
@@ -155,7 +155,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-08-04T10:44:38",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-16T15:22:02",
+      "modifiedDate": "2024-11-20T13:17:01",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

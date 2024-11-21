@@ -1,0 +1,163 @@
+{
+  "projectId": 1690,
+  "stationId": 5567,
+  "problemBankId": 909,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Integrated Platform Enhancement Project: Software Development",
+  "description": "<p>Description: BugBase is a continuous vulnerability assessment platform. It is a managed marketplace</p><p>of bounty hunters that facilitates startups and enterprises in hosting and managing bug bounty programs</p><p>and helps organizations continuously identify, manage, and mitigate real security vulnerabilities by</p><p>plugging into Bug Bounty and pen-testing programs.</p><p>We are looking for Full-Stack Developer interns, preferably dual-degree students with a Master's in</p><p>Sciences and a Bachelor's in Engineering, having a possibility of continuing this internship for the</p><p>further semester as a part of the dual-PS2 procedure.</p><p>Responsibilities:</p><p>Your role would be to build new features and improve the website.</p><p>Introducing best coding practices, which include frontend and backend technologies in web</p><p>applications.</p><p>Improving code quality and implementing new features in the application</p><p>Collaborate with the technical team to upkeep and enhance BugBase's website.</p><p>Skillsets: Nextjs, Reactjs, Javascript + Typescript, CSS, Node.js, Express, MongoDB, Mongoose +</p><p>Knowledge of Web Fundamentals, Browser Workings, REST API, Docker, Creativity and Innovation,</p><p>Collaboration and Teamwork, Adaptability and Flexibility, Attention to Detail, Time Management and</p><p>Organization.</p><p>Additional Plus points: Orchestration using Docker, Docker Compose, Self Deployments of full-stack</p><p>applications</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Sitaraman",
+  "mentorEmailId": "sitaraman@bugbase.ai",
+  "mentorContactNumber": "9810705237",
+  "discViewModels": [
+    {
+      "projectId": 1690,
+      "projectDisciplineId": 6919,
+      "projectDisciplineCodes": "B1A4,B1A1",
+      "discCodesPerProject": "B1A4,B1A1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6919,
+      "projectId": 1690,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "B1A4,B1A1",
+      "graduationTypeIds": [
+        0
+      ],
+      "degree": "Dual",
+      "continuingStudentCount": 3,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21054,
+          "projectDisciplineId": 6919,
+          "graduationTypeId": 0,
+          "disciplineId": 16,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 21055,
+          "projectDisciplineId": 6919,
+          "graduationTypeId": 0,
+          "disciplineId": 16,
+          "discipline2Id": 1
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1610,
+      "projectId": 1690,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 10000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-17T07:15:10",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T20:45:43",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37076,
+      "projectId": 1690,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37077,
+      "projectId": 1690,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1690,
+      "projectDomainId": 2408,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 1690,
+      "projectDomainId": 2409,
+      "academicDomainId": 136
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2215,
+      "projectId": 1690,
+      "academicSubDomainId": 77
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

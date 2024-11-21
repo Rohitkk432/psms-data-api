@@ -1,0 +1,211 @@
+{
+  "projectId": 2223,
+  "stationId": 4856,
+  "problemBankId": 1254,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Porting and Optimization of Audio Codecs on ARM, RISC-V and RX MCUs",
+  "description": "<p>Title: Porting and Optimization of Audio Codecs on ARM, RISC-V and RX MCUs</p><p><br></p><p>Description: Work involves three phases</p><p>1. E2A (Literature Survey and Case Study): In this phase, Intern will be asked to do following</p><p>• Perform literature survey on topics provided by reviewing materials available from the</p><p>Company and other sources</p><p>• Synthesis of ideas and organizing them in a logical and coherent fashion in form crisp</p><p>notes on the subject (Notes.pdf)</p><p>• Document the findings as a technical brief that can be published to the external world</p><p>(tbrief.pdf)</p><p>• Solve the identified quiz, problem set and lab projects to demonstrate clarity on the</p><p>topics provided.</p><p><br></p><p>2. E2B (Performance Library): In this phase, Intern will be asked to optimize signal processing</p><p>algorithms available in Performance libraries like ARM CMSIS-DSP, Intel MKL and meet/beat</p><p>the performance of functions provided by Silicon Vendors.</p><p><br></p><p>3. E3 (Production): In this phase, Intern will be asked to optimize 2 to 3 codecs on ARM, RISC-</p><p>V and RX MCU platforms. Base code which need to be optimized will be provided by the</p><p><br></p><p>Company.</p><p>Duration for Phase 1 and 2 is 2 months and Phase 3 is for 3 months.</p><p>Skill sets:</p><p>1. Programming: Proven low level programming skills in C and Assembly and High level</p><p>design/programming Matlab or Python.</p><p>2. Theory: Strong foundational knowledge in Computer Architecture and Digital Signal</p><p>Processing.</p><p>3. Writing: Ability to author technical briefs/papers that can be published and write crisp notes</p><p>that assist future work.</p><p>4. Reading: Ability to read graduate level text books in Computer Architecture, Digital/Audio</p><p>Signal Processing and Audio Coding and solve problems provided in it. Ability to read</p><p>IEEE/ACM Papers and implement ideas noted in them.</p><p>Traits expectation:</p><p>1. Communication: Can articulate the work product and issues in a way that fosters team work</p><p>and win-win for all parties.</p><p>2. Time Management: Deliver tasks assigned to them on time and quality.</p><p>Expected learning:</p><p>1. Algorithms in Signal Processing/Audio Coding</p><p>2. Performance Engineering in MCUs</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2223,
+      "projectDisciplineId": 6901,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6901,
+      "projectId": 2223,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20995,
+          "projectDisciplineId": 6901,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 20996,
+          "projectDisciplineId": 6901,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20997,
+          "projectDisciplineId": 6901,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 20998,
+          "projectDisciplineId": 6901,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 20999,
+          "projectDisciplineId": 6901,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21000,
+          "projectDisciplineId": 6901,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21001,
+          "projectDisciplineId": 6901,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21002,
+          "projectDisciplineId": 6901,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2137,
+      "projectId": 2223,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T09:41:47",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T17:26:16",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60520,
+      "projectId": 2223,
+      "skillId": 250
+    },
+    {
+      "projectSkillId": 60521,
+      "projectId": 2223,
+      "skillId": 472
+    },
+    {
+      "projectSkillId": 60522,
+      "projectId": 2223,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2223,
+      "projectDomainId": 3137,
+      "academicDomainId": 274
+    },
+    {
+      "projectId": 2223,
+      "projectDomainId": 5362,
+      "academicDomainId": 306
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2879,
+      "projectId": 2223,
+      "academicSubDomainId": 475
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

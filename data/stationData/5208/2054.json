@@ -1,0 +1,184 @@
+{
+  "projectId": 2054,
+  "stationId": 5208,
+  "problemBankId": 1157,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Development of Data Ingestion and Transformation Pipeline for Cross-Platform Advertising Data",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title:</strong><span style=\"color: rgb(0, 0, 0);\"> Development of Data Ingestion and Transformation Pipeline for Cross-Platform Advertising Data</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description:</strong><span style=\"color: rgb(0, 0, 0);\"> This project involves building a data ingestion pipeline that fetches, transforms, and stores advertising data from multiple platforms (e.g., Google Ads, Facebook Ads) into Pixis's data lake using a lakehouse approach with Apache Iceberg. Students will work on optimizing the ingestion pipeline for performance, ensuring compliance with data security standards, and normalizing data to handle varying attribution windows, metrics, and demographic breakdowns from different platforms.</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:&nbsp;</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Proficiency in Python or Scala</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Knowledge of Apache Iceberg, Apache Parquet</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Experience with cloud platforms (AWS)</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Basic understanding of AdTech and data pipeline concepts</span></li></ul><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation:</strong><span style=\"color: rgb(0, 0, 0);\"> Strong analytical and problem-solving skills, attention to detail, and a collaborative mindset.</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning:&nbsp;</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Data engineering principles in AdTech</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Designing high-performance ingestion and transformation pipelines</span></li><li class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Understanding cross-platform data normalization and attribution complexities</strong></li></ul><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"color: rgb(0, 0, 0);\">Data Engineering, Cloud Computing, Database Management Systems, Distributed Systems</span></p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2054,
+      "projectDisciplineId": 6892,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6892,
+      "projectId": 2054,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20954,
+          "projectDisciplineId": 6892,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20955,
+          "projectDisciplineId": 6892,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1970,
+      "projectId": 2054,
+      "officeStartTime": "11:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Food (Breakfast, Lunch, Evening snack and Dinner)\nis provided and office Laptop is provided for work",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-26T18:16:09",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T16:18:07",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60458,
+      "projectId": 2054,
+      "skillId": 89
+    },
+    {
+      "projectSkillId": 60459,
+      "projectId": 2054,
+      "skillId": 207
+    },
+    {
+      "projectSkillId": 60460,
+      "projectId": 2054,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60461,
+      "projectId": 2054,
+      "skillId": 213
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2054,
+      "projectDomainId": 5322,
+      "academicDomainId": 127
+    },
+    {
+      "projectId": 2054,
+      "projectDomainId": 5323,
+      "academicDomainId": 222
+    },
+    {
+      "projectId": 2054,
+      "projectDomainId": 5324,
+      "academicDomainId": 168
+    },
+    {
+      "projectId": 2054,
+      "projectDomainId": 5325,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4920,
+      "projectId": 2054,
+      "academicSubDomainId": 95
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

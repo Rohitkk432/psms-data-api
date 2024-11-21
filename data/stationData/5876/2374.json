@@ -1,0 +1,193 @@
+{
+  "projectId": 2374,
+  "stationId": 5876,
+  "problemBankId": 1375,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project details given in Description",
+  "description": "<p><span style=\"color: rgb(1, 116, 195);\">JOB DESCRIPTION</span></p><p><span style=\"color: rgb(89, 89, 89);\">&nbsp;</span></p><p><span style=\"color: rgb(89, 89, 89);\">Candidate should be able to help enhancing our test automation framework for improved test coverage and security posture. Candidate will be responsible for extending the framework's capabilities for both REST APIs and UI testing using Tavern, Python, Cypress, JS, shell script and implementing security validations, and exploring CI/CD integration possibilities. </span></p><p><span style=\"color: rgb(1, 116, 195);\">&nbsp;</span></p><p><span style=\"color: rgb(1, 116, 195);\">RESPONSIBILITIES</span></p><p><span style=\"color: rgb(89, 89, 89);\">&nbsp;</span></p><ul><li>Test Automation Framework Enhancement: Analyse and understand existing REST API test framework using Tavern, Python.</li><li>Analyse and understand existing Cypress UI test framework using Cypress, JS, shell script.</li><li>&nbsp;Develop utilities to: Map various test modules into a single, reusable template.</li><li>&nbsp;Execute multiple test modules together locally and remotely in a scalable manner. </li><li>Create comprehensive test reports providing test status, failures with error details and logs. </li><li>Explore CI/CD integration possibilities for the test automation framework.</li><li>Security Automation Development: Design and develop automated security assessment tools for web applications and REST APIs.</li><li>&nbsp;Focus on vulnerabilities like session management weaknesses, IDOR (Indirect Object Reference), privilege escalation, and HTTP 403 bypass using predefined payloads.</li><li>&nbsp;Implement functionalities for: Creating test data (accounts, orders, organizations etc.)</li><li>&nbsp;Running automated assessments, storing test requests and responses for manual analysis Generating comprehensive security assessment reports</li></ul><p><span style=\"color: rgb(89, 89, 89);\">.</span></p><p><span style=\"color: rgb(1, 116, 195);\">REQUIRED QUALIFICATIONS</span></p><p><span style=\"color: rgb(89, 89, 89);\">&nbsp;</span></p><p><span style=\"color: rgb(89, 89, 89);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"color: black;\">B.E. Computer Science or equivalent degree</span></p><p><span style=\"color: rgb(1, 116, 195);\">&nbsp;</span></p><p><span style=\"color: rgb(1, 116, 195);\">NICE TO HAVE QUALIFICATIONS</span></p><p><span style=\"color: rgb(89, 89, 89);\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming knowledge on Python, Java etc.</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2374,
+      "projectDisciplineId": 6918,
+      "projectDisciplineCodes": "AnyA7,AnyAA,A7,AA",
+      "discCodesPerProject": "AnyA7,AnyAA,A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6918,
+      "projectId": 2374,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "AnyA7,AnyAA,A7,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 2,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21050,
+          "projectDisciplineId": 6918,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 21051,
+          "projectDisciplineId": 6918,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 21052,
+          "projectDisciplineId": 6918,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21053,
+          "projectDisciplineId": 6918,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2288,
+      "projectId": 2374,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-05T05:19:44",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T20:37:11",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60533,
+      "projectId": 2374,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 60534,
+      "projectId": 2374,
+      "skillId": 454
+    },
+    {
+      "projectSkillId": 60535,
+      "projectId": 2374,
+      "skillId": 89
+    },
+    {
+      "projectSkillId": 60536,
+      "projectId": 2374,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2374,
+      "projectDomainId": 5370,
+      "academicDomainId": 127
+    },
+    {
+      "projectId": 2374,
+      "projectDomainId": 5371,
+      "academicDomainId": 248
+    },
+    {
+      "projectId": 2374,
+      "projectDomainId": 5372,
+      "academicDomainId": 128
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4950,
+      "projectId": 2374,
+      "academicSubDomainId": 445
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

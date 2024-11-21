@@ -1,0 +1,202 @@
+{
+  "projectId": 2052,
+  "stationId": 5208,
+  "problemBankId": 1157,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: M&A Deals",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: </strong><span style=\"color: rgb(0, 0, 0);\">M&amp;A Deals</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: </strong><span style=\"color: rgb(0, 0, 0);\">Evaluation, and execution of mergers, acquisitions, divestitures, and other strategic transactions including fund raising Skill sets: Project management, Managing stakeholders, Financial Analysis and Valuation Skills,&nbsp; Strategic thinking and Insights, Negotiation / Communication skills, Understanding/Interpreting company financial reports, excel and ppt proficiency</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation:&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"color: rgb(0, 0, 0);\">Detailed understanding of Pixis capabilities to help identify targets which would complement the current offerings of Pixis AI tool&nbsp;</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"color: rgb(0, 0, 0);\">Background in eCom, finance would be helpful but not a prerequisite&nbsp;</span></p><p><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2052,
+      "projectDisciplineId": 6889,
+      "projectDisciplineCodes": "AnyB3,AnyD2,AnyC7,B3,C7,D2",
+      "discCodesPerProject": "AnyB3,AnyD2,AnyC7,B3,C7,D2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6889,
+      "projectId": 2052,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB3,AnyD2,AnyC7,B3,C7,D2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20941,
+          "projectDisciplineId": 6889,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 18
+        },
+        {
+          "projectDisciplineDetailId": 20942,
+          "projectDisciplineId": 6889,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 21
+        },
+        {
+          "projectDisciplineDetailId": 20943,
+          "projectDisciplineId": 6889,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 38
+        },
+        {
+          "projectDisciplineDetailId": 20944,
+          "projectDisciplineId": 6889,
+          "graduationTypeId": 1,
+          "disciplineId": 18,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20945,
+          "projectDisciplineId": 6889,
+          "graduationTypeId": 1,
+          "disciplineId": 38,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20946,
+          "projectDisciplineId": 6889,
+          "graduationTypeId": 1,
+          "disciplineId": 21,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1968,
+      "projectId": 2052,
+      "officeStartTime": "11:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Food (Breakfast, Lunch, Evening snack and Dinner)\nis provided and office Laptop is provided for work",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-26T18:10:00",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T16:12:16",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60452,
+      "projectId": 2052,
+      "skillId": 301
+    },
+    {
+      "projectSkillId": 60453,
+      "projectId": 2052,
+      "skillId": 333
+    },
+    {
+      "projectSkillId": 60454,
+      "projectId": 2052,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2052,
+      "projectDomainId": 5318,
+      "academicDomainId": 4
+    },
+    {
+      "projectId": 2052,
+      "projectDomainId": 5319,
+      "academicDomainId": 253
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4916,
+      "projectId": 2052,
+      "academicSubDomainId": 13
+    },
+    {
+      "projectSubDomainId": 4917,
+      "projectId": 2052,
+      "academicSubDomainId": 469
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,204 @@
+{
+  "projectId": 2386,
+  "stationId": 5882,
+  "problemBankId": 1381,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project 1  Title: Client Management System, ",
+  "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Project 1</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Title: Client Management System</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Description: Manage new tenders, client contacts, BD visits, sales strategy using IT platform build on Javascript, MS SQL.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Skill sets: Java development, MS SQL database</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Traits expectation: ability to learn &amp; understand the coding using e-learning tools</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Expected learning: Develop complete app from UI to backend development. Discuss with teams to understand requirements and prepare business process document.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp;Java &amp; Database</span></p><p class=\"ql-align-justify\"><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Pratik More",
+  "mentorEmailId": "nihal.swarna@synergizglobal.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2386,
+      "projectDisciplineId": 6861,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6861,
+      "projectId": 2386,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20888,
+          "projectDisciplineId": 6861,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20889,
+          "projectDisciplineId": 6861,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2300,
+      "projectId": 2386,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-05T10:17:06",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T10:48:49",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60392,
+      "projectId": 2386,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 60393,
+      "projectId": 2386,
+      "skillId": 225
+    },
+    {
+      "projectSkillId": 60394,
+      "projectId": 2386,
+      "skillId": 202
+    },
+    {
+      "projectSkillId": 60395,
+      "projectId": 2386,
+      "skillId": 78
+    },
+    {
+      "projectSkillId": 60396,
+      "projectId": 2386,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60397,
+      "projectId": 2386,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2386,
+      "projectDomainId": 3382,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2386,
+      "projectDomainId": 5283,
+      "academicDomainId": 128
+    },
+    {
+      "projectId": 2386,
+      "projectDomainId": 5284,
+      "academicDomainId": 92
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3112,
+      "projectId": 2386,
+      "academicSubDomainId": 138
+    },
+    {
+      "projectSubDomainId": 4889,
+      "projectId": 2386,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 4890,
+      "projectId": 2386,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 4891,
+      "projectId": 2386,
+      "academicSubDomainId": 179
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,213 @@
+{
+  "projectId": 3519,
+  "stationId": 6392,
+  "problemBankId": 2282,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project detials given in Description",
+  "description": "<p>Project 1 Title: Building an ML based propensity model to increase conversion from SL to HL, HL to AL</p><p>&amp; AL To DL</p><p>Description: Developing an ML model to convert existing rule-based model to machine</p><p>learning models. These propensity scores at different stages could help in prioritizing the</p><p>correct leads which in turn would increase conversion &amp; reduce TAT. Use EDA and ML</p><p>techniques on various parameters/attributes to improve the msme loan lending business</p><p>Skill sets: SQL, Python/R, Excel, Bash, MS Office</p><p>Traits expectation: proactive, adaptable, collaborative, curiosity, open-mindedness and</p><p>willingness to take risks.</p><p>Expected learning:</p><p>Specific courses required for project execution: Machine learning, Predictive modeling - Good</p><p>to have, Python</p><p>Project 2 Title: Leveraging external data sources &amp; Building real time data pipelines</p><p>Description: Integrating various external data sources to enhance the data ecosystem and</p><p>enable advanced analytics. You'll work on designing and developing real-time data pipelines,</p><p>ensuring seamless data flow between external APIs, databases, and our internal systems. The</p><p>role will involve handling data ingestion, transformation, and storage in a scalable manner</p><p>while optimizing for performance. you'll gain hands-on experience with modern data</p><p>engineering tools and technologies, contributing to the creation of a robust data infrastructure</p><p>that powers real-time insights and decision-making.</p><p>Skill sets: SQL, Python, Excel, Bash, MS Office, AWS Basic Modules, PySpark, Kafka</p><p>Traits expectation: proactive, adaptable, collaborative, curiosity, open-mindedness and</p><p>willingness to take risks.</p><p>Expected learning:</p><p>Specific courses required for project execution: Data Engineering, Python</p><p>Project 3 Title: Gen AI - LLM based model development &amp; Insights Generation</p><p>Description: Developing and fine-tuning of LLMs to harness the power of GenAI for business</p><p>applications. Working on building models that can understand and generate human-like</p><p>responses, with a specific emphasis on creating solutions that provide prompt-based</p><p>responses and generate actionable insights. It involves end-to-end processes, including data</p><p>acquisition, model training, fine-tuning, and deploying models in real-world scenarios.</p><p>Additionally, you'll explore methods to extract valuable insights from unstructured data,</p><p>enabling data-driven decision-making.</p><p>The project aims to create AI models that are not only capable of understanding complex</p><p>queries but can also offer deep analytics, helping to enhance operational efficiency and</p><p>customer engagement.</p><p>Skill sets: SQL, Python, Excel, LLM (GPT, BERT or other transformer model)</p><p>Traits expectation: proactive, adaptable, collaborative, curiosity, open-mindedness and</p><p>willingness to take risks.</p><p>Expected learning:</p><p>Specific courses required for project execution: Hugging Face - Transformers</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3519,
+      "projectDisciplineId": 6859,
+      "projectDisciplineCodes": "AnyA3,AnyA4,AnyA7,AnyA8,A3,A4,A8,A7,AA",
+      "discCodesPerProject": "AnyA3,AnyA4,AnyA7,AnyA8,A3,A4,A8,A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6859,
+      "projectId": 3519,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA4,AnyA7,AnyA8,A3,A4,A8,A7,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20871,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 20872,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 20873,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20874,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 20875,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20876,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20877,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20878,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20879,
+          "projectDisciplineId": 6859,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3384,
+      "projectId": 3519,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 65000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-18T10:32:09",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60383,
+      "projectId": 3519,
+      "skillId": 235
+    },
+    {
+      "projectSkillId": 60384,
+      "projectId": 3519,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60385,
+      "projectId": 3519,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3519,
+      "projectDomainId": 5281,
+      "academicDomainId": 105
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4885,
+      "projectId": 3519,
+      "academicSubDomainId": 193
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,188 @@
+{
+  "projectId": 2051,
+  "stationId": 5208,
+  "problemBankId": 1157,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Market Research / Company Research",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: </strong><span style=\"color: rgb(0, 0, 0);\">Market Research / Company Research</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: </strong><span style=\"color: rgb(0, 0, 0);\">Process of gathering, analyzing and interpreting information about a market/company, including information about the target audience, competitors, industry multiples and overall industry trendsSkill sets: Analytical mindset, Report Writing, Problem-Solving Skills, Business acumen, versatility</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation:&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"color: rgb(0, 0, 0);\">Market trends / opportunities, understand the competitive landscape, discover unexplored areas to expand product capabilities in</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; </strong><span style=\"color: rgb(0, 0, 0);\">Background in eCom, finance would be helpful but not a prerequisite&nbsp;</span></p><p><br></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2051,
+      "projectDisciplineId": 6888,
+      "projectDisciplineCodes": "AnyB3,AnyD2,B3,D2",
+      "discCodesPerProject": "AnyB3,AnyD2,B3,D2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6888,
+      "projectId": 2051,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyB3,AnyD2,B3,D2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20937,
+          "projectDisciplineId": 6888,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 18
+        },
+        {
+          "projectDisciplineDetailId": 20938,
+          "projectDisciplineId": 6888,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 21
+        },
+        {
+          "projectDisciplineDetailId": 20939,
+          "projectDisciplineId": 6888,
+          "graduationTypeId": 1,
+          "disciplineId": 18,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 20940,
+          "projectDisciplineId": 6888,
+          "graduationTypeId": 1,
+          "disciplineId": 21,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1967,
+      "projectId": 2051,
+      "officeStartTime": "11:00:00",
+      "officeEndTime": "20:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Food (Breakfast, Lunch, Evening snack and Dinner)\nis provided and office Laptop is provided for work",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-26T18:01:08",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-20T09:55:36",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60449,
+      "projectId": 2051,
+      "skillId": 301
+    },
+    {
+      "projectSkillId": 60450,
+      "projectId": 2051,
+      "skillId": 333
+    },
+    {
+      "projectSkillId": 60451,
+      "projectId": 2051,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2051,
+      "projectDomainId": 5316,
+      "academicDomainId": 4
+    },
+    {
+      "projectId": 2051,
+      "projectDomainId": 5317,
+      "academicDomainId": 253
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4914,
+      "projectId": 2051,
+      "academicSubDomainId": 13
+    },
+    {
+      "projectSubDomainId": 4915,
+      "projectId": 2051,
+      "academicSubDomainId": 469
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

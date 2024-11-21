@@ -1,0 +1,246 @@
+{
+  "projectId": 1990,
+  "stationId": 5545,
+  "problemBankId": 876,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Discrepancy Simulator,  Title:Project Stock Account system for Bodoland",
+  "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Title: Discrepancy Simulator</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Description: This software development project aims to create a Digital Public Good which will be used by Civil Society Organizations for sampling design and data analysis. This project will be a continuation of existing work being done.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Skill sets: Python, Data analytics</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Traits expectation: Attention to detail, analysis, collaboration, curiosity</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Expected learning: Building for scale, DPG</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; Python, C++, Intro to analytics</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Title:Project Stock Account system for Bodoland</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Description: The Project Stock Account is an IT system that is developed by CEGIS for the Bodoland Territorial Council. It traces the stock from order to delivery and generates analytics for different layers of Government</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Skill sets: ReactJS, Node, PostgreSQL, Power BI</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Traits expectation: Attention to detail, analysis, collaboration, curiosity</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Expected learning:</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution: Database, Analytics,&nbsp;</span></p><p class=\"ql-align-justify\"><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1990,
+      "projectDisciplineId": 6906,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyAB,AnyA8,A3,A7,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyAB,AnyA8,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6906,
+      "projectId": 1990,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyAB,AnyA8,A3,A7,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21011,
+          "projectDisciplineId": 6906,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 21012,
+          "projectDisciplineId": 6906,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 21013,
+          "projectDisciplineId": 6906,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 21014,
+          "projectDisciplineId": 6906,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 21015,
+          "projectDisciplineId": 6906,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21016,
+          "projectDisciplineId": 6906,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21017,
+          "projectDisciplineId": 6906,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21018,
+          "projectDisciplineId": 6906,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1906,
+      "projectId": 1990,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "\n",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-22T04:51:59",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T17:47:39",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 42791,
+      "projectId": 1990,
+      "skillId": 142
+    },
+    {
+      "projectSkillId": 42796,
+      "projectId": 1990,
+      "skillId": 150
+    },
+    {
+      "projectSkillId": 42797,
+      "projectId": 1990,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60529,
+      "projectId": 1990,
+      "skillId": 236
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1990,
+      "projectDomainId": 2814,
+      "academicDomainId": 143
+    },
+    {
+      "projectId": 1990,
+      "projectDomainId": 2815,
+      "academicDomainId": 23
+    },
+    {
+      "projectId": 1990,
+      "projectDomainId": 2816,
+      "academicDomainId": 11
+    },
+    {
+      "projectId": 1990,
+      "projectDomainId": 2817,
+      "academicDomainId": 105
+    },
+    {
+      "projectId": 1990,
+      "projectDomainId": 5366,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2573,
+      "projectId": 1990,
+      "academicSubDomainId": 334
+    },
+    {
+      "projectSubDomainId": 2574,
+      "projectId": 1990,
+      "academicSubDomainId": 193
+    },
+    {
+      "projectSubDomainId": 2575,
+      "projectId": 1990,
+      "academicSubDomainId": 159
+    },
+    {
+      "projectSubDomainId": 2576,
+      "projectId": 1990,
+      "academicSubDomainId": 256
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,164 @@
+{
+  "projectId": 1915,
+  "stationId": 4859,
+  "problemBankId": 1059,
+  "problemBankCreatedBy": "kranthi.kumar@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Graphics Engineering ",
+  "description": "<p>Strong knowledge in C/C++, Assembly languages and Test development methodologies</p><p>Strong knowledge in Computer/Graphics Architecture, System knowledge</p><p>Strong knowledge in debugging skills and scripting languages</p><p>Skill sets: C/C++/Comp/Graphics Arch, Scripting languages</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Amithab",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1915,
+      "projectDisciplineId": 6880,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6880,
+      "projectId": 1915,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Dual",
+      "continuingStudentCount": 2,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1831,
+      "projectId": 1915,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "kranthi.kumar@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-20T18:05:49",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T14:59:43",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37739,
+      "projectId": 1915,
+      "skillId": 75
+    },
+    {
+      "projectSkillId": 37740,
+      "projectId": 1915,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 37741,
+      "projectId": 1915,
+      "skillId": 384
+    },
+    {
+      "projectSkillId": 37742,
+      "projectId": 1915,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 37743,
+      "projectId": 1915,
+      "skillId": 332
+    },
+    {
+      "projectSkillId": 37744,
+      "projectId": 1915,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1915,
+      "projectDomainId": 2726,
+      "academicDomainId": 28
+    },
+    {
+      "projectId": 1915,
+      "projectDomainId": 2727,
+      "academicDomainId": 237
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2488,
+      "projectId": 1915,
+      "academicSubDomainId": 420
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

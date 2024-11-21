@@ -1,0 +1,210 @@
+{
+  "projectId": 1555,
+  "stationId": 4726,
+  "problemBankId": 840,
+  "problemBankCreatedBy": "monali.mavani@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Voicegain Deep-Neural-Network based Speech Recognition",
+  "description": "<p>Build new features of the Voicegain Deep learning Voice AI platform</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Jacek Jarmulak",
+  "mentorEmailId": "jacek@voicegain.ai",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1555,
+      "projectDisciplineId": 5371,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5371,
+      "projectId": 1555,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 15506,
+          "projectDisciplineId": 5371,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 15507,
+          "projectDisciplineId": 5371,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 293,
+      "projectId": 1555,
+      "electiveId": 1090,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 294,
+      "projectId": 1555,
+      "electiveId": 1159,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 295,
+      "projectId": 1555,
+      "electiveId": 1136,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 296,
+      "projectId": 1555,
+      "electiveId": 305,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 297,
+      "projectId": 1555,
+      "electiveId": 631,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1482,
+      "projectId": 1555,
+      "officeStartTime": "09:47:25",
+      "officeEndTime": "17:47:36",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 42000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "monali.mavani@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-06T15:17:51",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-21T05:18:19",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 35954,
+      "projectId": 1555,
+      "skillId": 295
+    },
+    {
+      "projectSkillId": 35955,
+      "projectId": 1555,
+      "skillId": 303
+    },
+    {
+      "projectSkillId": 35956,
+      "projectId": 1555,
+      "skillId": 90
+    },
+    {
+      "projectSkillId": 35957,
+      "projectId": 1555,
+      "skillId": 134
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1555,
+      "projectDomainId": 2228,
+      "academicDomainId": 86
+    },
+    {
+      "projectId": 1555,
+      "projectDomainId": 2229,
+      "academicDomainId": 65
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2037,
+      "projectId": 1555,
+      "academicSubDomainId": 143
+    },
+    {
+      "projectSubDomainId": 2038,
+      "projectId": 1555,
+      "academicSubDomainId": 192
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

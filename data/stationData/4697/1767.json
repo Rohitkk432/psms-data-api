@@ -1,0 +1,194 @@
+{
+  "projectId": 1767,
+  "stationId": 4697,
+  "problemBankId": 963,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Digital Engineering - FE Org ",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title: Digital Engineering - FE Org&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description: Digital Engineering - Vista&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">&nbsp;HTML, CSS, JS, ES6, React and&nbsp; Redux</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation:&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Must be interested in Frontend development and have some knowledge of HTML, CSS, and JavaScript.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp;&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Core Java, API Architecture, Cloud, https://synchrony.udemy.com/course/the-complete-web-development-bootcamp/</span></p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Ameena Shaikh",
+  "mentorEmailId": "ameena.shaikh@syf.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1767,
+      "projectDisciplineId": 3797,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3797,
+      "projectId": 1767,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9719,
+          "projectDisciplineId": 3797,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9720,
+          "projectDisciplineId": 3797,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1687,
+      "projectId": 1767,
+      "officeStartTime": "14:00:00",
+      "officeEndTime": "23:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 45000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Timing : 2 PM to 11 PM IST : Mode : online",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-19T10:34:16",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T16:45:58",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37331,
+      "projectId": 1767,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60488,
+      "projectId": 1767,
+      "skillId": 79
+    },
+    {
+      "projectSkillId": 60489,
+      "projectId": 1767,
+      "skillId": 160
+    },
+    {
+      "projectSkillId": 60490,
+      "projectId": 1767,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 60491,
+      "projectId": 1767,
+      "skillId": 272
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1767,
+      "projectDomainId": 5342,
+      "academicDomainId": 128
+    },
+    {
+      "projectId": 1767,
+      "projectDomainId": 5343,
+      "academicDomainId": 282
+    },
+    {
+      "projectId": 1767,
+      "projectDomainId": 5344,
+      "academicDomainId": 222
+    },
+    {
+      "projectId": 1767,
+      "projectDomainId": 5345,
+      "academicDomainId": 168
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4932,
+      "projectId": 1767,
+      "academicSubDomainId": 413
+    },
+    {
+      "projectSubDomainId": 4933,
+      "projectId": 1767,
+      "academicSubDomainId": 500
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

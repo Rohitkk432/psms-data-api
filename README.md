@@ -2,7 +2,7 @@
 
 SEM1 : last updated - 11 Jul 2024, 11:50 PM
 
-SEM2 : last updated - 20 Nov 2024, 2:24 AM
+SEM2 : last updated - 21 Nov 2024, 8:00 PM
 
 ## Table of Contents
 - [Installation](#installation)

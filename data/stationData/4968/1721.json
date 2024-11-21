@@ -1,0 +1,206 @@
+{
+  "projectId": 1721,
+  "stationId": 4968,
+  "problemBankId": 927,
+  "problemBankCreatedBy": "uma.nagarajan@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "DD-Continuing ",
+  "description": "<p class=\"ql-align-justify\">DD-Continuing&nbsp;</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Ronak Maheswari and Stephanie",
+  "mentorEmailId": "stephanie.odonnell@crc-ib.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1721,
+      "projectDisciplineId": 6900,
+      "projectDisciplineCodes": "AnyB3",
+      "discCodesPerProject": "AnyB3",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6900,
+      "projectId": 1721,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "AnyB3",
+      "graduationTypeIds": [
+        0
+      ],
+      "degree": "Dual",
+      "continuingStudentCount": 3,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20994,
+          "projectDisciplineId": 6900,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 18
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1641,
+      "projectId": 1721,
+      "officeStartTime": "11:00:54",
+      "officeEndTime": "20:30:23",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 80000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "uma.nagarajan@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-18T15:53:08",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-19T17:36:47",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37143,
+      "projectId": 1721,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 37144,
+      "projectId": 1721,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 37145,
+      "projectId": 1721,
+      "skillId": 43
+    },
+    {
+      "projectSkillId": 37146,
+      "projectId": 1721,
+      "skillId": 120
+    },
+    {
+      "projectSkillId": 37147,
+      "projectId": 1721,
+      "skillId": 114
+    },
+    {
+      "projectSkillId": 37148,
+      "projectId": 1721,
+      "skillId": 97
+    },
+    {
+      "projectSkillId": 37149,
+      "projectId": 1721,
+      "skillId": 354
+    },
+    {
+      "projectSkillId": 37150,
+      "projectId": 1721,
+      "skillId": 301
+    },
+    {
+      "projectSkillId": 37151,
+      "projectId": 1721,
+      "skillId": 192
+    },
+    {
+      "projectSkillId": 37152,
+      "projectId": 1721,
+      "skillId": 146
+    },
+    {
+      "projectSkillId": 37153,
+      "projectId": 1721,
+      "skillId": 150
+    },
+    {
+      "projectSkillId": 37154,
+      "projectId": 1721,
+      "skillId": 4
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1721,
+      "projectDomainId": 2445,
+      "academicDomainId": 194
+    },
+    {
+      "projectId": 1721,
+      "projectDomainId": 2446,
+      "academicDomainId": 77
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2249,
+      "projectId": 1721,
+      "academicSubDomainId": 154
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

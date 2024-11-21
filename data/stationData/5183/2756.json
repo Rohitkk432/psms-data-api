@@ -1,0 +1,219 @@
+{
+  "projectId": 2756,
+  "stationId": 5183,
+  "problemBankId": 1663,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Project details given in Description.",
+  "description": "<p><strong style=\"color: rgb(0, 0, 0);\">Project 1: Title: Publication Monitoring Tool</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">Description:</strong><span style=\"color: rgb(0, 0, 0);\"> This is a proprietary document monitoring tool that helps enhance efficiency in the client’s document procurement process. This tool scours several global stock exchanges and company websites using advanced multi-level crawling</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Tech stack: </strong><span style=\"color: rgb(0, 0, 0);\">Vue.js, Node.js, Python Programming, Postgresql, AWS</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Expected Learning: </strong><span style=\"color: rgb(0, 0, 0);\">Data ETL &amp; Solutions</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Specific Courses Required for Project Execution: </strong><span style=\"color: rgb(0, 0, 0);\">Data Engineering</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Project reference: </strong><a href=\"https://www.sganalytics.com/esg-document-tracking-software/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(5, 99, 193);\">https://www.sganalytics.com/esg-document-tracking-software/</a></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Project 2: Intelligent Data Extraction &amp; Tagging Tool (IDEAT)</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">Description:</strong><span style=\"color: rgb(0, 0, 0);\"> This is an AI-powered solution that streamlines data extraction &amp; analysis from documents, enabling secondary research analysts to swiftly extract metrics &amp; answers, with better accuracy and saves their time by minimizing manual processes</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Tech Stack: </strong><span style=\"color: rgb(0, 0, 0);\">Vue.js, Node.js, Python Programming, Data Science, In-house LLM, Postgresql, AWS</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Expected Learning: </strong><span style=\"color: rgb(0, 0, 0);\">Data Science &amp; Solutions</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Specific Courses Required for Project Execution: </strong><span style=\"color: rgb(0, 0, 0);\">Data Science</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Project reference: </strong><a href=\"https://www.sganalytics.com/esg-data-management-software/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(5, 99, 193);\">https://www.sganalytics.com/esg-data-management-software/</a></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2756,
+      "projectDisciplineId": 6897,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6897,
+      "projectId": 2756,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 20964,
+          "projectDisciplineId": 6897,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 20965,
+          "projectDisciplineId": 6897,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2670,
+      "projectId": 2756,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 28000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-07-12T05:45:07",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T16:57:51",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60498,
+      "projectId": 2756,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 60499,
+      "projectId": 2756,
+      "skillId": 231
+    },
+    {
+      "projectSkillId": 60500,
+      "projectId": 2756,
+      "skillId": 230
+    },
+    {
+      "projectSkillId": 60501,
+      "projectId": 2756,
+      "skillId": 1
+    },
+    {
+      "projectSkillId": 60502,
+      "projectId": 2756,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 60503,
+      "projectId": 2756,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60504,
+      "projectId": 2756,
+      "skillId": 235
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2756,
+      "projectDomainId": 5351,
+      "academicDomainId": 248
+    },
+    {
+      "projectId": 2756,
+      "projectDomainId": 5352,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2756,
+      "projectDomainId": 5353,
+      "academicDomainId": 127
+    },
+    {
+      "projectId": 2756,
+      "projectDomainId": 5354,
+      "academicDomainId": 105
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4938,
+      "projectId": 2756,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 4939,
+      "projectId": 2756,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 4940,
+      "projectId": 2756,
+      "academicSubDomainId": 115
+    },
+    {
+      "projectSubDomainId": 4941,
+      "projectId": 2756,
+      "academicSubDomainId": 116
+    },
+    {
+      "projectSubDomainId": 4942,
+      "projectId": 2756,
+      "academicSubDomainId": 117
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,189 @@
+{
+  "projectId": 1768,
+  "stationId": 4697,
+  "problemBankId": 963,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title:CIA Jack Ryan",
+  "description": "<p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title:</strong><span style=\"color: rgb(0, 0, 0);\">CIA Jack Ryan</span></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description:&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">&nbsp;API Engineering</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Skill sets:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Java, Spring Boot, Spring Batch, APIGEE and AWS</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Traits expectation:&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Expected learning:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">&nbsp;Java, Spring Boot and Spring Batch</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; https://synchrony.udemy.com/course/the-complete-web-development-bootcamp/</strong></p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Roopasree Ranganna",
+  "mentorEmailId": "roopasree.ranganna@syf.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1768,
+      "projectDisciplineId": 3798,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3798,
+      "projectId": 1768,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9721,
+          "projectDisciplineId": 3798,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 9722,
+          "projectDisciplineId": 3798,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1688,
+      "projectId": 1768,
+      "officeStartTime": "14:00:00",
+      "officeEndTime": "23:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 45000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Office Timing : 2 PM to 11 PM IST   Mode : Online , ",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-19T10:36:34",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-18T16:50:35",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37333,
+      "projectId": 1768,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60494,
+      "projectId": 1768,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 60495,
+      "projectId": 1768,
+      "skillId": 207
+    },
+    {
+      "projectSkillId": 60496,
+      "projectId": 1768,
+      "skillId": 471
+    },
+    {
+      "projectSkillId": 60497,
+      "projectId": 1768,
+      "skillId": 404
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1768,
+      "projectDomainId": 5348,
+      "academicDomainId": 128
+    },
+    {
+      "projectId": 1768,
+      "projectDomainId": 5349,
+      "academicDomainId": 222
+    },
+    {
+      "projectId": 1768,
+      "projectDomainId": 5350,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4936,
+      "projectId": 1768,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 4937,
+      "projectId": 1768,
+      "academicSubDomainId": 95
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
