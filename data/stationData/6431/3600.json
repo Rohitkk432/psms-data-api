@@ -1,0 +1,151 @@
+{
+  "projectId": 3600,
+  "stationId": 6431,
+  "problemBankId": 2344,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Bottleneck study in CPW for capacity enhancement",
+  "description": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Bottleneck study in CPW for capacity enhancement</span></p><p>The goal is to pinpoint bottlenecks in the production line, operational areas that limit output</p><p class=\"ql-align-justify\">  <strong>Project domain (IT, Finance, etc.)</strong></p><p class=\"ql-align-justify\"> Production</p><p class=\"ql-align-justify\">   <strong>Project area</strong></p><p class=\"ql-align-justify\"> Production VAP (CPW)</p><p class=\"ql-align-justify\">    <strong>Skill set required to execute the project (Technical)</strong></p><p class=\"ql-align-justify\"> Basic knowledge of chemical engineering</p><p class=\"ql-align-justify\">   <strong>Other soft skill competencies required</strong></p><p class=\"ql-align-justify\"> Learning agility, precision</p><p class=\"ql-align-justify\">    <strong>Expected learning (in bullet points)</strong></p><p class=\"ql-align-justify\"> ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understanding of CPW production</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Root Cause Identification</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workflow improvement</p><p>  </p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3600,
+      "projectDisciplineId": 7076,
+      "projectDisciplineCodes": "A1",
+      "discCodesPerProject": "A1",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7076,
+      "projectId": 3600,
+      "degreeTypeId": 1,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A1",
+      "graduationTypeIds": [
+        1
+      ],
+      "degree": "Single",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21758,
+          "projectDisciplineId": 7076,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3462,
+      "projectId": 3600,
+      "officeStartTime": "08:30:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Acco. may provided, One way fare",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-21T17:40:43",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60719,
+      "projectId": 3600,
+      "skillId": 423
+    },
+    {
+      "projectSkillId": 60720,
+      "projectId": 3600,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3600,
+      "projectDomainId": 5458,
+      "academicDomainId": 321
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5021,
+      "projectId": 3600,
+      "academicSubDomainId": 544
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

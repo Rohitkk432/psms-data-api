@@ -1,0 +1,210 @@
+{
+  "projectId": 3633,
+  "stationId": 5855,
+  "problemBankId": 2373,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "IT project",
+  "description": "<p><span style=\"color: black;\">Interns will work on our projects exclusively and are not permitted to undertake individual academic projects during this period. They may integrate internship work into their academic projects if required. Attendance at the office is mandatory from Monday to Friday.</span></p><p><br></p><p><span style=\"color: black;\">This internship offers the opportunity to transition into a full-time role upon successful completion. Once converted, the proposed package is 8 LPA.</span></p><p><span style=\"color: black;\">&nbsp;</span></p><p><span style=\"color: black;\">Looking forward to receiving the list of interested candidates.</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3633,
+      "projectDisciplineId": 7145,
+      "projectDisciplineCodes": "AnyA7,A7,H103,H112",
+      "discCodesPerProject": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7145,
+      "projectId": 3633,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7,H103,H112",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 22115,
+          "projectDisciplineId": 7145,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 22116,
+          "projectDisciplineId": 7145,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22117,
+          "projectDisciplineId": 7145,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22118,
+          "projectDisciplineId": 7145,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3494,
+      "projectId": 3633,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 30000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-22T09:59:42",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60832,
+      "projectId": 3633,
+      "skillId": 385
+    },
+    {
+      "projectSkillId": 60833,
+      "projectId": 3633,
+      "skillId": 90
+    },
+    {
+      "projectSkillId": 60834,
+      "projectId": 3633,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60835,
+      "projectId": 3633,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 60836,
+      "projectId": 3633,
+      "skillId": 166
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3633,
+      "projectDomainId": 5532,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5080,
+      "projectId": 3633,
+      "academicSubDomainId": 77
+    },
+    {
+      "projectSubDomainId": 5081,
+      "projectId": 3633,
+      "academicSubDomainId": 95
+    },
+    {
+      "projectSubDomainId": 5082,
+      "projectId": 3633,
+      "academicSubDomainId": 115
+    },
+    {
+      "projectSubDomainId": 5083,
+      "projectId": 3633,
+      "academicSubDomainId": 116
+    },
+    {
+      "projectSubDomainId": 5084,
+      "projectId": 3633,
+      "academicSubDomainId": 117
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

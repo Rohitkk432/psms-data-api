@@ -74,7 +74,51 @@
     }
   ],
   "projectElective": [],
-  "projectFacility": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3511,
+      "projectId": 3496,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 120000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-23T06:48:25",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
   "projectSkill": [
     {
       "projectSkillId": 60268,
@@ -102,9 +146,9 @@
   "projectSubjectAreaSpecifics": [],
   "projectAcademicSubDomain": [
     {
-      "projectSubDomainId": 4829,
+      "projectSubDomainId": 5110,
       "projectId": 3496,
-      "academicSubDomainId": 528
+      "academicSubDomainId": 193
     }
   ],
   "projectSubjectArea": [],

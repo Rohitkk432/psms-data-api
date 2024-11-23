@@ -1,0 +1,226 @@
+{
+  "projectId": 1779,
+  "stationId": 4832,
+  "problemBankId": 972,
+  "problemBankCreatedBy": "manoj.kakade@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "RISC processor Design and Architecture",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Description:&nbsp;</strong><strong>Design with Verilog HDL</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong></p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verilog</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scripting and Automation</p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation:&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Listening, Clear Communication</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Motivated to learn new things</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Willing to work in a dynamic environment.</span><strong style=\"color: black;\"> </strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: </strong></p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-end VLSI Design</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Architecture</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RISC Processors</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Processor SW and tools</p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Specific courses required for project execution:&nbsp;</strong></p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microelectronics</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Electronics</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Architecture</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microprocessors</p><p>  </p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Sachin Garg",
+  "mentorEmailId": "sgarg@mips.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1779,
+      "projectDisciplineId": 5471,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5471,
+      "projectId": 1779,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 15824,
+          "projectDisciplineId": 5471,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 15825,
+          "projectDisciplineId": 5471,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 15826,
+          "projectDisciplineId": 5471,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 15827,
+          "projectDisciplineId": 5471,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 15828,
+          "projectDisciplineId": 5471,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 15829,
+          "projectDisciplineId": 5471,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 15830,
+          "projectDisciplineId": 5471,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 15831,
+          "projectDisciplineId": 5471,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 1531,
+      "projectId": 1779,
+      "electiveId": 1292,
+      "grade": ""
+    },
+    {
+      "projectElectiveId": 1532,
+      "projectId": 1779,
+      "electiveId": 365,
+      "grade": ""
+    },
+    {
+      "projectElectiveId": 1533,
+      "projectId": 1779,
+      "electiveId": 184,
+      "grade": ""
+    },
+    {
+      "projectElectiveId": 1534,
+      "projectId": 1779,
+      "electiveId": 140,
+      "grade": ""
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1702,
+      "projectId": 1779,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:59",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "manoj.kakade@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-19T17:07:16",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T04:46:19",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37370,
+      "projectId": 1779,
+      "skillId": 117
+    },
+    {
+      "projectSkillId": 37371,
+      "projectId": 1779,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1779,
+      "projectDomainId": 2556,
+      "academicDomainId": 241
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2343,
+      "projectId": 1779,
+      "academicSubDomainId": 432
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

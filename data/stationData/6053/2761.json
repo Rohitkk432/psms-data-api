@@ -1,0 +1,159 @@
+{
+  "projectId": 2761,
+  "stationId": 6053,
+  "problemBankId": 1667,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "GHG Accounting (Scope 1, 2 and 3 emissions), CBAM (Carbon Border Adjustment  Mechanism), Materiality Assessment etc.",
+  "description": "<p>Description: Comprehensive GHG emissions accounting, CBAM implementation, and ESG</p><p>materiality assessment.</p><p>Skill sets: Data analysis, Environmental regulations, Project management, MS Office, Google Suite,</p><p>Secondary research.</p><p>Traits expectation: Attention to detail, analytical, problem-solving, communicative, collaborative,</p><p>proactive, ethical, adaptable.</p><p>Expected learning: Gain expertise in GHG accounting, CBAM implementation, materiality</p><p>assessments, data analysis, sustainability reporting, regulatory compliance, and project management</p><p>for advisory projects.</p><p>Specific courses required for project execution: Civil Engineering (Core), Introduction to Rock</p><p>Mechanics, Introduction to Environmental Engineering, Earthquake Resistant Design of Concrete</p><p>Structures, Mass Media and Content Design, Current Affairs, Introduction to Gender Studies,</p><p>Fundamentals of Finance and Accounting.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Suvegya Sharma",
+  "mentorEmailId": "suvegya.sharma@nangia-andersen.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2761,
+      "projectDisciplineId": 5787,
+      "projectDisciplineCodes": "AnyA2,A2",
+      "discCodesPerProject": "AnyA2,A2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5787,
+      "projectId": 2761,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 5.6,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA2,A2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17117,
+          "projectDisciplineId": 5787,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
+        },
+        {
+          "projectDisciplineDetailId": 17118,
+          "projectDisciplineId": 5787,
+          "graduationTypeId": 1,
+          "disciplineId": 2,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2675,
+      "projectId": 2761,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-07-15T09:58:09",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-07-22T13:44:32",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55409,
+      "projectId": 2761,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55410,
+      "projectId": 2761,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2761,
+      "projectDomainId": 3907,
+      "academicDomainId": 3
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3607,
+      "projectId": 2761,
+      "academicSubDomainId": 183
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

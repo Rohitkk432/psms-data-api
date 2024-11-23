@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "JD Data Scientist",
-  "description": "<p>The Role - Data Science Analyst/Intern</p><p>Data in the current business environment is the key for business success. As a Data Science Analyst you will be a part of the team working closely with cross-functional teams to extract, analyze, and visualize data to uncover insights that drive informed business decisions. You will also be responsible for developing and maintaining data models and predictive analytics to support our company's goals</p><p>Responsibilities</p><p>? Collaborate with business stakeholders to understand data requirements and objectives. ? Collaborate with the data science team to collect, clean, and analyze large datasets</p><p>? Extract, transform, and load (ETL) data from various sources, including databases, APIs, and external datasets.</p><p>? Perform exploratory data analysis to identify trends, patterns, and anomalies in the data.</p><p>? Develop and maintain predictive models, machine learning algorithms, and statistical analyses to solve business problems.</p><p>? Create data visualizations and dashboards to communicate insights effectively to non-technical stakeholders.</p><p>? Monitor model performance and make necessary adjustments to ensure accuracy and reliability.</p><p>? Work with the data engineering team to ensure data quality and integrity.</p><p>? Stay up-to-date with the latest advancements in data science and analytics.</p><p>? Support the development of data-driven strategies and provide recommendations for process improvements</p><p>Qualifications &amp; Competencies Master's degree in a quantitative field such as Mathematics, Statistics, Economics, Analytics, computer science or related fields. Internships in field of Data &amp; Analytics will be preferred Key Competencies</p><p>? Proficiency in data manipulation, analysis, and visualization using tools such as Python, R, or similar.</p><p>? Experience with machine learning libraries (e.g., scikit-learn, TensorFlow, or PyTorch).</p><p>? Strong analytical and problem-solving skills.</p><p>? Solid understanding of statistical concepts and techniques.</p><p>? Knowledge of SQL and database management systems.</p><p>? Some Experience with data visualization tools (e.g., Tableau, Power BI, or similar)</p><p>? Excellent problem solving and comprehensive analytical skills - ability to structure ambiguous problem statements, perform detailed analysis and derive crisp insights.</p><p>? Strong communication and presentation skills - ability to connect the dots through data, communicate and present with impact to all levels of the organization</p><p>? Intellectual Curiosity - Initiative to dig into the who, why, where, what &amp; how. Curiosity about business and customer behavior</p>",
+  "title": "Analyst Intern",
+  "description": "<p>The Role - Analyst</p><p>Data in the current business environment is the key for business success. As a analyst you will be a</p><p>part of the team working with Analytics and Technology to build analytics solutions that create</p><p>impact for Nykaa</p><p>Key Responsibilities</p><p>? Collaborate with the analytics team to collect, clean, and analyze data from various</p><p>sources. -</p><p>? Assist in the development and implementation of data models and statistical algorithms</p><p>to extract insights and solve business problems.</p><p>? Conduct exploratory data analysis to identify trends, patterns, and anomalies in the data.</p><p>- Prepare reports and visualizations to communicate findings and recommendations to</p><p>the team.</p><p>? Work on data-driven projects to support decision-making and business optimization. -</p><p>Keep up-to-date with industry best practices and emerging trends in analytics.</p><p>? Support with Product team on designing experiments and then tracking performance of</p><p>A/Bs</p><p>? Communicating findings to stakeholders and taking initiative for improving business</p><p>performance</p><p>Desired Qualifications and Competencies</p><p>Qualifications:</p><p>Bachelor or Master's degree in a quantitative field such as Mathematics, Statistics, Economics,</p><p>Analytics, computer science or related fields</p><p>Internships in field of Data &amp; Analytics will be preferred</p><p>Key Competencies</p><p>1. Knowledge of data analysis tools and programming languages such as Python, R, or</p><p>SQL.</p><p>2. Basic understanding of statistical techniques and data visualization. - Excellent</p><p>communication and teamwork skills.</p><p><br></p><p>3. Excellent problem solving and comprehensive analytical skills - ability to structure</p><p>ambiguous problem statements, perform detailed analysis and derive crisp insights.</p><p>4. Strong communication and presentation skills - ability to connect the dots through data,</p><p>communicate and present with impact to all levels of the organization</p><p>5. Intellectual Curiosity - Initiative to dig into the who, why, where, what &amp; how. Curiosity about</p><p>business and customer behavior</p><p>6. Eagerness to learn and a strong desire to contribute to the success of the analytics</p><p>team.</p><p>7. Extremely positive ‘Can do’ attitude which continuously drives you to take initiatives and</p><p>demonstrate high degree of self motivation</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 2,
@@ -18,39 +18,41 @@
   "discViewModels": [
     {
       "projectId": 3376,
-      "projectDisciplineId": 7048,
-      "projectDisciplineCodes": "AnyA7,AnyB3,AnyB4,A7,B3,B4",
-      "discCodesPerProject": "AnyA7,AnyB3,AnyB4,A7,B3,B4",
+      "projectDisciplineId": 7118,
+      "projectDisciplineCodes": "AnyA7,AnyB3,AnyB4,A7,B3,B4,H112,H103",
+      "discCodesPerProject": "AnyA7,AnyB3,AnyB4,A7,B3,B4,H112,H103",
       "graduationTypeIds": [
-        1
+        1,
+        2
       ],
       "anySingle": false,
       "anyDual": false,
       "anyEither": false,
       "anyHigher": false,
       "anyDegree": false,
-      "isHigher": false,
-      "isSingle": true
+      "isHigher": true,
+      "isSingle": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 7048,
+      "projectDisciplineId": 7118,
       "projectId": 3376,
       "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 0,
+      "higherDegree": 1,
       "cgpamin": 7.5,
       "cgpamax": 10,
-      "freshRequirement": 2,
-      "totalRequirement": 2,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA7,AnyB3,AnyB4,A7,B3,B4",
+      "disciplineCodes": "AnyA7,AnyB3,AnyB4,A7,B3,B4,H112,H103",
       "graduationTypeIds": [
         0,
-        1
+        1,
+        2
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -63,45 +65,59 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 21616,
-          "projectDisciplineId": 7048,
+          "projectDisciplineDetailId": 21935,
+          "projectDisciplineId": 7118,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 21617,
-          "projectDisciplineId": 7048,
+          "projectDisciplineDetailId": 21936,
+          "projectDisciplineId": 7118,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 18
         },
         {
-          "projectDisciplineDetailId": 21618,
-          "projectDisciplineId": 7048,
+          "projectDisciplineDetailId": 21937,
+          "projectDisciplineId": 7118,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 19
         },
         {
-          "projectDisciplineDetailId": 21619,
-          "projectDisciplineId": 7048,
+          "projectDisciplineDetailId": 21938,
+          "projectDisciplineId": 7118,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 21620,
-          "projectDisciplineId": 7048,
+          "projectDisciplineDetailId": 21939,
+          "projectDisciplineId": 7118,
           "graduationTypeId": 1,
           "disciplineId": 18,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 21621,
-          "projectDisciplineId": 7048,
+          "projectDisciplineDetailId": 21940,
+          "projectDisciplineId": 7118,
           "graduationTypeId": 1,
           "disciplineId": 19,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21941,
+          "projectDisciplineId": 7118,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21942,
+          "projectDisciplineId": 7118,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
           "discipline2Id": null
         }
       ],
@@ -118,7 +134,7 @@
       "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
       "ugstipend": 60000,
-      "pgstipend": 0,
+      "pgstipend": 60000,
       "scholarship": null,
       "currency": "INR",
       "subsidizedLunch": 2,
@@ -146,7 +162,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-14T13:35:42",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-21T15:40:23",
+      "modifiedDate": "2024-11-22T13:05:02",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -1,0 +1,206 @@
+{
+  "projectId": 3603,
+  "stationId": 5953,
+  "problemBankId": 1467,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "4)Real time multi-object tracking and re-identification 5)Video analytics based dynamic person queue monitoring 6) Human activity recognition in surveillance views 7)Person attribute recognition in surveillance scenarios 8)Ptz camera analytics ",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Title: Real time multi-object tracking and re-identification</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This project aims to track multiple objects in a real-time video stream with re-identification (ReID). The application of ReID is crucial in various domains, such as multi-camera tracking, detecting persons loitering, traffic monitoring, etc.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Framework:</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\"> </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Pytorch/ Caffe/ Tensorflow, Coding language: Python</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Learning-based approaches for object detection, tracking, and re-identification</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Deep learning (compulsory), Computer vision</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\"> </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(preferable)</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Title: Video analytics based dynamic person queue monitoring&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This project involves developing a video analytics system that can efficiently manage human queues. The system is to be designed to monitor the number of people in each queue, facilitate management of multiple queues, calculate wait times, and guide individuals to their correct destination. Proof of concept is expected. This system has a range of potential applications, including hospitals, airports, restaurants, and other public spaces where queuing is commonplace.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Framework:</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\"> </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Pytorch/ Caffe/ Tensorflow, Coding Language: Python, mathematical aptitude</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Learning-based approaches for person detection, tracking. different algorithmic formulation for queue monitoring</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Deep learning, Machine learning</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Title: Human activity recognition in surveillance views</strong></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This project aims at detecting and recognizing complex human actions based on motion, the interaction between human-to-human, human-to-object, and human to the environment. Such actions may include but are not limited to walking, running, carrying, riding, fighting, cleaning, throwing, snatching, grabbing, kicking, waving, falling, and more.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Framework:</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\"> </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Pytorch/ Caffe/ Tensorflow, Coding Language: Python</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Approaches for action recognition model</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Deep learning</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Title: Person attribute recognition in surveillance scenarios</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This project aims at predicting a group of attributes to describe the characteristics of a person from a predefined attribute list, for example, gender, clothes type, color, accessories, pose, etc. The successful completion of this project will required analysis of state-of-the-art approaches and comparing their results against our dataset.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Framework: Pytorch/ Caffe/ Tensorflow, Coding Language: Python</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Approaches for multi-label multi class classification</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Deep learning, Machine learning</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Title: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Ptz camera analytics&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Implement locking on and tracking a pedestrian using a pan-tilt-zoom camera.&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Python, OpenCV.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Tracking in video and using it to control a camera.&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Computer vision.</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;</strong></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3603,
+      "projectDisciplineId": 7079,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyAA,AnyA8,A7,AA,A3,A8",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyAA,AnyA8,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7079,
+      "projectId": 3603,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyAA,AnyA8,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21768,
+          "projectDisciplineId": 7079,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 21769,
+          "projectDisciplineId": 7079,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 21770,
+          "projectDisciplineId": 7079,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 21771,
+          "projectDisciplineId": 7079,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 21772,
+          "projectDisciplineId": 7079,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21773,
+          "projectDisciplineId": 7079,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21774,
+          "projectDisciplineId": 7079,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21775,
+          "projectDisciplineId": 7079,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3465,
+      "projectId": 3603,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-21T17:45:29",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60725,
+      "projectId": 3603,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 60726,
+      "projectId": 3603,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3603,
+      "projectDomainId": 5463,
+      "academicDomainId": 322
+    },
+    {
+      "projectId": 3603,
+      "projectDomainId": 5464,
+      "academicDomainId": 28
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5024,
+      "projectId": 3603,
+      "academicSubDomainId": 133
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

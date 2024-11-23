@@ -1,0 +1,173 @@
+{
+  "projectId": 2036,
+  "stationId": 5720,
+  "problemBankId": 1153,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Pharma Forecasting & Competitive Intelligence",
+  "description": "<p class=\"ql-align-justify\">  <strong style=\"color: black;\">Title: </strong><span style=\"color: black;\">Pharma Forecasting &amp; Competitive Intelligence</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong><span style=\"color: black;\">Developing various models utilizing different methodologies and datasets to forecast sales and volume for in-line and pipeline Pharmaceutical products</span><strong style=\"color: black;\"> </strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Skill sets: </strong><span style=\"color: black;\">Understanding of Pharma Industry, drug development process, business acumen, logical reasoning, quantitative aptitude, analytical mindset, strong research skills</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Traits expectation: </strong><span style=\"color: black;\">Self learning, Research, Attention to detail</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Expected learning: </strong><span style=\"color: black;\">In-depth understanding of commercial operations in Pharma Industry, their business challenges and generating strategic insights</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Specific courses required for project execution:&nbsp;</strong></p><p>  </p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2036,
+      "projectDisciplineId": 7015,
+      "projectDisciplineCodes": "AnyA5,AnyC7,A5,C7",
+      "discCodesPerProject": "AnyA5,AnyC7,A5,C7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7015,
+      "projectId": 2036,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA5,AnyC7,A5,C7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21446,
+          "projectDisciplineId": 7015,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 11
+        },
+        {
+          "projectDisciplineDetailId": 21447,
+          "projectDisciplineId": 7015,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 38
+        },
+        {
+          "projectDisciplineDetailId": 21448,
+          "projectDisciplineId": 7015,
+          "graduationTypeId": 1,
+          "disciplineId": 11,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21449,
+          "projectDisciplineId": 7015,
+          "graduationTypeId": 1,
+          "disciplineId": 38,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1952,
+      "projectId": 2036,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-25T05:39:53",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-21T11:08:09",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50315,
+      "projectId": 2036,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 60630,
+      "projectId": 2036,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2036,
+      "projectDomainId": 2881,
+      "academicDomainId": 32
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2636,
+      "projectId": 2036,
+      "academicSubDomainId": 457
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

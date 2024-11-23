@@ -1,0 +1,175 @@
+{
+  "projectId": 2255,
+  "stationId": 5806,
+  "problemBankId": 1284,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title:Product Management for AI-Assisted Annotation Tools",
+  "description": "<p>Title:Product Management for AI-Assisted Annotation Tools</p><p><br></p><p>Description: The PS II folks will be working day to day with the product team to</p><p>deliver on the quarterly/monthly roadmaps. The work would include competitive</p><p>analysis, specification writing, user research, and working with</p><p>engineering/design teams.</p><p>Skill sets: Written and Verbal Communication, Presentation, Problem Solving ,</p><p>Communication Skills</p><p>Expected learning:</p><p>Learn how to build Enterprise software applications</p><p>? Managing a large number of stakeholders</p><p>? Conducting user research and deeply understanding pain</p><p>points</p><p>? Build cutting edge products that support FAANG and</p><p>Autonomous Vehicles</p><p>? Building ML/AI related applications</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2255,
+      "projectDisciplineId": 7010,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": true,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7010,
+      "projectId": 2255,
+      "degreeTypeId": 2,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8",
+      "graduationTypeIds": [
+        0
+      ],
+      "degree": "Dual",
+      "continuingStudentCount": 1,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21432,
+          "projectDisciplineId": 7010,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 21433,
+          "projectDisciplineId": 7010,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 21434,
+          "projectDisciplineId": 7010,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2169,
+      "projectId": 2255,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 104000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-31T16:33:33",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-21T10:26:03",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50819,
+      "projectId": 2255,
+      "skillId": 73
+    },
+    {
+      "projectSkillId": 50820,
+      "projectId": 2255,
+      "skillId": 72
+    },
+    {
+      "projectSkillId": 50821,
+      "projectId": 2255,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2255,
+      "projectDomainId": 3176,
+      "academicDomainId": 128
+    },
+    {
+      "projectId": 2255,
+      "projectDomainId": 3177,
+      "academicDomainId": 92
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2916,
+      "projectId": 2255,
+      "academicSubDomainId": 179
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

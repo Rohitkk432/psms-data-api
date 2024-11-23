@@ -1,0 +1,188 @@
+{
+  "projectId": 3621,
+  "stationId": 6441,
+  "problemBankId": 2361,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Climate resilient cooling solution",
+  "description": "<p>Project Brief :  Ideate, design and build new generation, ultra high energy efficient air cooling product. Student(s) will be responsible for design calculations, prototyping and testing of new concepts in air conditioning and cooling products</p><p><br></p><p>Broad Domain of the project  :  Refrigeration and Air Conditioning, Heat Transfer.</p><p><br></p><p>Discipline of study   :  B.E Mechanical/ M.E. Mechanical</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3621,
+      "projectDisciplineId": 7128,
+      "projectDisciplineCodes": "AnyA4,A4,H106",
+      "discCodesPerProject": "AnyA4,A4,H106",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7128,
+      "projectId": 3621,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,A4,H106",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21978,
+          "projectDisciplineId": 7128,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 21979,
+          "projectDisciplineId": 7128,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21980,
+          "projectDisciplineId": 7128,
+          "graduationTypeId": 2,
+          "disciplineId": 28,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3482,
+      "projectId": 3621,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 28000,
+      "pgstipend": 28000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-22T07:52:37",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60765,
+      "projectId": 3621,
+      "skillId": 11
+    },
+    {
+      "projectSkillId": 60766,
+      "projectId": 3621,
+      "skillId": 232
+    },
+    {
+      "projectSkillId": 60767,
+      "projectId": 3621,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60768,
+      "projectId": 3621,
+      "skillId": 42
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3621,
+      "projectDomainId": 5491,
+      "academicDomainId": 21
+    },
+    {
+      "projectId": 3621,
+      "projectDomainId": 5492,
+      "academicDomainId": 74
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5049,
+      "projectId": 3621,
+      "academicSubDomainId": 70
+    },
+    {
+      "projectSubDomainId": 5050,
+      "projectId": 3621,
+      "academicSubDomainId": 168
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

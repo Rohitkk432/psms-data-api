@@ -1,0 +1,159 @@
+{
+  "projectId": 1687,
+  "stationId": 5565,
+  "problemBankId": 906,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Analyssis and design of multistoried concrete and steel composite building",
+  "description": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Description: Candidate will be trained to apply design codes and practices on above mentioned kind of projects</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Skill sets: &nbsp;listed below</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Traits expectation: </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Expected learning: Application of codes , use of analysis and design tools and softwares for RCC and composite structures.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Specific courses required for project execution: Design of Steel and concrete Structures,</span></p><p><span style=\"color: black;\">&nbsp;Exposure to CSI softwares like, ETABS,SAFE and STAAD</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1687,
+      "projectDisciplineId": 3703,
+      "projectDisciplineCodes": "AnyA2,A2",
+      "discCodesPerProject": "AnyA2,A2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3703,
+      "projectId": 1687,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA2,A2",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 9305,
+          "projectDisciplineId": 3703,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
+        },
+        {
+          "projectDisciplineDetailId": 9306,
+          "projectDisciplineId": 3703,
+          "graduationTypeId": 1,
+          "disciplineId": 2,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1607,
+      "projectId": 1687,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:45:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 1,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-17T06:20:18",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37070,
+      "projectId": 1687,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37071,
+      "projectId": 1687,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1687,
+      "projectDomainId": 2405,
+      "academicDomainId": 250
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2212,
+      "projectId": 1687,
+      "academicSubDomainId": 448
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

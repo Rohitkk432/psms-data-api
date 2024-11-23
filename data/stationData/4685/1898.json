@@ -1,0 +1,159 @@
+{
+  "projectId": 1898,
+  "stationId": 4685,
+  "problemBankId": 1055,
+  "problemBankCreatedBy": "hamirwasiamk@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Building Information Modelling (BIM) ",
+  "description": "<p>The project will be related to application of BIM to infrastructure, civil and MEP projects.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Ms.",
+  "mentorName": "Pooja Parekh",
+  "mentorEmailId": "",
+  "mentorContactNumber": "9130092841",
+  "discViewModels": [
+    {
+      "projectId": 1898,
+      "projectDisciplineId": 5107,
+      "projectDisciplineCodes": "A2,AnyA2",
+      "discCodesPerProject": "A2,AnyA2",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5107,
+      "projectId": 1898,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A2,AnyA2",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 14114,
+          "projectDisciplineId": 5107,
+          "graduationTypeId": 1,
+          "disciplineId": 2,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 14115,
+          "projectDisciplineId": 5107,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1814,
+      "projectId": 1898,
+      "officeStartTime": "08:30:00",
+      "officeEndTime": "18:30:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 15000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "hamirwasiamk@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-20T14:04:51",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-02T11:02:15",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37644,
+      "projectId": 1898,
+      "skillId": 320
+    },
+    {
+      "projectSkillId": 37645,
+      "projectId": 1898,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1898,
+      "projectDomainId": 2692,
+      "academicDomainId": 3
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2467,
+      "projectId": 1898,
+      "academicSubDomainId": 183
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

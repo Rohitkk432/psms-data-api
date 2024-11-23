@@ -1,0 +1,211 @@
+{
+  "projectId": 3601,
+  "stationId": 5953,
+  "problemBankId": 1467,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "1)Geodesically Accurate Distance as Loss for Face Recogntition 2)Autocalibration: Calibrating road cameras using moving vehicles 3)Pseudo coloring of x-ray images",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Title: Geodesically Accurate Distance as Loss for Face Recogntition&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The project aims to improve accuracy and generalization for face recognition.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Python, Pytorch, Linear Algebra</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Basics of High Dimensional Geometry, Loss Functions</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Image Processing, Linear Algebra</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Title: Autocalibration: Calibrating road cameras using moving vehicles</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The objective of this project is to determine the camera parameters utilizing the vehicles on the road instead on relying on conventional calibration patterns.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Python, deep learning, Mathematics, computer vision</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Problem solving skills in computer vision domain</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Computer vision and deep learning</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Title: Pseudo coloring of x-ray images</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> The objective of the project is to come up with an optimal method of assigning colors to the grayscale pixels in x-ray images of&nbsp; baggage scanners</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Python, curve fitting (should not have color blindness).</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning:&nbsp; </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Problem solving skills in image processing domain,&nbsp; exposure to color spaces</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Image processing</span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3601,
+      "projectDisciplineId": 7077,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A7,AA,A3,A8",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyA7,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7077,
+      "projectId": 3601,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyA7,A7,AA,A3,A8",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 21759,
+          "projectDisciplineId": 7077,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 21760,
+          "projectDisciplineId": 7077,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 21761,
+          "projectDisciplineId": 7077,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 21762,
+          "projectDisciplineId": 7077,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 21763,
+          "projectDisciplineId": 7077,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21764,
+          "projectDisciplineId": 7077,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21765,
+          "projectDisciplineId": 7077,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 21766,
+          "projectDisciplineId": 7077,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3463,
+      "projectId": 3601,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-21T17:42:57",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-21T17:45:39",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60721,
+      "projectId": 3601,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 60722,
+      "projectId": 3601,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3601,
+      "projectDomainId": 5459,
+      "academicDomainId": 28
+    },
+    {
+      "projectId": 3601,
+      "projectDomainId": 5460,
+      "academicDomainId": 109
+    },
+    {
+      "projectId": 3601,
+      "projectDomainId": 5461,
+      "academicDomainId": 227
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5022,
+      "projectId": 3601,
+      "academicSubDomainId": 205
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}
