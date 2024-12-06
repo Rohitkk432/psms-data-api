@@ -296,7 +296,7 @@ export default function StationsPage() {
             </div>
 
             {/* Table/Card View */}
-            <div className="container mx-auto px-4 sm:px-2 lg:px-0">
+            <div className="container mx-auto px-4 sm:px-2 lg:px-0 pb-16">
                 {/* Desktop Table - hidden on mobile */}
                 <div className="hidden sm:block overflow-hidden bg-white/5 backdrop-blur-lg rounded-2xl border border-gray-700 shadow-xl">
                     {/* Table Header */}

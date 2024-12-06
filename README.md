@@ -2,7 +2,7 @@
 
 SEM1 : last updated - 11 Jul 2024, 11:50 PM
 
-SEM2 : last updated - 23 Nov 2024, 12:21 PM
+SEM2 : last updated - 6 Dec 2024, 10:26 PM
 
 ## Table of Contents
 - [Installation](#installation)
@@ -51,10 +51,10 @@ $ npm install
 ### Run
 
 #### index.ts changes as needed -
-- sort pasted <code>./data/stations.json</code> by uncommenting line 202
-- fetch data(problemBank, projects) on all station by uncommenting lines 207-210 (output.txt logs stations with no projects)
-- backfill <code>./data/stations.json</code> by uncommenting lines 215-218 (needed to show in frontend table) (output.txt logs stations with no folder in stationData)
-- to check for (sum of requirements,number of companies) on each domain(line226) uncomment lines 224-235.
+- sort pasted <code>./data/stations.json</code> by uncommenting line 230
+- fetch data(problemBank, projects) on all station by uncommenting lines 234-237 (output.txt logs stations with no projects)
+- backfill <code>./data/stations.json</code> by uncommenting lines 239-242 (needed to show in frontend table) (output.txt logs stations with no folder in stationData)
+- to check for (sum of requirements,number of companies) on each domain(line250) uncomment lines 248-259.
 
 ```
 $ npm run start
