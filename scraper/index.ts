@@ -2,6 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 const data1 = require("../data/stations.json");
+const { validEmailsPS2Sem2 } = require("./validEmails");
 
 require("dotenv").config();
 
@@ -257,3 +258,53 @@ data1.forEach(async (stationItem: any) => {
 //     }
 // });
 // console.log(typeDomain, sum, num);
+
+let allotmentData: { [key: string]: any } = {};
+
+const getAllotmentByMail = async (emailID: string) => {
+    let config = {
+        method: "get",
+        maxBodyLength: Infinity,
+        url: `${API_URL}/StationAllotment/stationAllotedByStudent/${emailID}`,
+        headers: {
+            Accept: "application/json, text/plain, */*",
+            "Accept-Language": "en-US,en;q=0.9",
+            Authorization: AUTH_TOKEN,
+            Connection: "keep-alive"
+        },
+    };
+
+    try {
+        const response = await axios.request(config);
+        if (response.status === 200) {
+            allotmentData[emailID] = response.data;
+            console.log(emailID);
+        }
+    } catch (error) {
+        //blank error
+    }
+};
+
+const getAllAllotmentData = async () => {
+    // const emailIds1 = Array.from({ length: 2701 }, (_, i) => 
+    //     `f2020${i.toString().padStart(4, '0')}@goa.bits-pilani.ac.in`
+    // );
+    
+    // const emailIds2 = Array.from({ length: 3300 }, (_, i) => 
+    //     `f2021${i.toString().padStart(4, '0')}@goa.bits-pilani.ac.in`
+    // );
+    
+    // Combine all email IDs
+    const allEmails = [...validEmailsPS2Sem2];
+    
+    for (let i=0;i<allEmails.length;i++){
+        await getAllotmentByMail(allEmails[i]);
+    }
+
+    // Write to file after all API calls are done
+    const filePath = path.join(__dirname, "..", "data", "allotments.json");
+    fs.writeFileSync(filePath, JSON.stringify(allotmentData, null, 2));
+    console.log("Allotment data written to file");
+}
+
+// getAllAllotmentData();
