@@ -137,7 +137,7 @@ export default function StationsPage() {
     return (
         <main className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800">
             {/* Navigation Menu */}
-            <nav className="absolute top-4 left-4">
+            <nav className="flex justify-center pt-4">
                 <div className="flex gap-2">
                     <Link 
                         href="/stations" 

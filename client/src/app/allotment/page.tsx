@@ -6,6 +6,7 @@ import Dropdown from "@/components/dropdown";
 import allotmentData from "../../../../data/allotments.json";
 import cn from "classnames";
 import { ChevronDownIcon, ChevronUpIcon } from '@heroicons/react/24/solid';
+import { TimeConfig } from "@/config-time";
 
 export default function AllotmentPage() {
     const [email, setEmail] = useState("");
@@ -109,7 +110,7 @@ export default function AllotmentPage() {
     return (
         <main className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800">
             {/* Navigation Menu */}
-            <nav className="absolute top-4 left-4">
+            <nav className="flex justify-center pt-4">
                 <div className="flex gap-2">
                     <Link href="/stations" className="px-4 py-2 bg-black/20 text-gray-400 hover:text-blue-400 border border-gray-700 hover:border-blue-500 rounded-xl transition-colors">
                         Stations
@@ -123,7 +124,18 @@ export default function AllotmentPage() {
             <div className="container mx-auto px-4 sm:px-2 lg:px-0 py-8">
                 {/* Header Section */}
                 <div className="mb-10">
-                    <h1 className="text-3xl md:text-4xl font-bold text-center text-white mb-2">PS2 Allotment (2024-25)</h1>
+                    <h1 className="text-3xl md:text-4xl font-bold text-center text-white mb-2">PS2 Allotment (24-25)</h1>
+                    {/* Last Updated Timestamp for Semester 2 with similar UI to Stations Page */}
+                    <div className="flex flex-col items-center mt-4 gap-2">
+                        <div className="bg-black/20 border border-gray-700 rounded-xl px-4 py-2">
+                            <div className="flex items-center gap-2">
+                                <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
+                                <span className="text-sm text-gray-400">
+                                    Last Updated: {TimeConfig.sem2LastUpdated}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 {/* Search Type Toggle */}
@@ -156,7 +168,7 @@ export default function AllotmentPage() {
 
                 {/* Search Section */}
                 <div className="max-w-[80vw] mx-auto">
-                    <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 mb-10 border border-gray-700 z-[400]">
+                    <div className="bg-white/5 rounded-2xl p-6 mb-10 border border-gray-700 z-[400]">
                         <div className="flex flex-col sm:flex-row gap-4">
                             {searchType === "email" ? (
                                 <input
@@ -196,7 +208,7 @@ export default function AllotmentPage() {
                                     View Station Details
                                 </Link>
                             </div>
-                            <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-gray-700">
+                            <div className="hidden sm:block bg-white/5 rounded-2xl p-6 border border-gray-700">
                                 <h2 className="text-xl text-white mb-4">{searchResult.stationName}</h2>
                                 <div
                                     className={cn("grid gap-4", {
@@ -239,6 +251,30 @@ export default function AllotmentPage() {
                                     </div>
                                 </div>
                             </div>
+                            {/* Mobile Cards View for Email Results */}
+                            <div className="sm:hidden bg-white/5 rounded-2xl p-6 border border-gray-700">
+                                <h2 className="text-xl text-white mb-4">{searchResult.stationName}</h2>
+                                <div className="flex flex-col justify-between mb-4 gap-1">
+                                    <span className="text-gray-400">Email ID:</span>
+                                    <span className="text-white">{searchResult.email}</span>
+                                </div>
+                                <div className="flex flex-col justify-between mb-4 gap-1">
+                                    <span className="text-gray-400">Student Name:</span>
+                                    <span className="text-white">{searchResult.details?.studentName || 'N/A'}</span>
+                                </div>
+                                <div className="flex justify-between mb-4">
+                                    <span className="text-gray-400">Sem:</span>
+                                    <span className="text-blue-400">{searchResult.details?.semesterId || '1'}</span>
+                                </div>
+                                <div className="flex justify-between mb-4">
+                                    <span className="text-gray-400">PS:</span>
+                                    <span className="text-purple-400">{searchResult.details?.pstypeId === 1 ? "PS1" : "PS2"}</span>
+                                </div>
+                                <div className="flex justify-between mb-4">
+                                    <span className="text-gray-400">#PR:</span>
+                                    <span className="text-emerald-400">{searchResult.preferenceNoDisplay}</span>
+                                </div>
+                            </div>
                         </>
                     )}
 
@@ -254,7 +290,8 @@ export default function AllotmentPage() {
 
                             {/* Collapsible Section for Result 1 */}
                             {searchResult.result1.length > 0 && (
-                                <div className="bg-white/5 rounded-2xl p-6 border border-gray-700 mb-8">
+                                <>
+                                <div className="hidden sm:block bg-white/5 rounded-2xl p-6 border border-gray-700 mb-8">
                                     <h2 className="text-xl text-white mb-4">{searchResult.stationName} - Sem1</h2>
                                     <div
                                         className={cn("grid gap-4","grid-cols-6")}>
@@ -282,11 +319,36 @@ export default function AllotmentPage() {
                                         </div>
                                     ))}
                                 </div>
+                                {/* Mobile Cards View for Result 1 */}
+                                <div className="sm:hidden">
+                                    <h2 className="text-xl text-white mb-4">{searchResult.stationName} - Sem1</h2>
+                                    {searchResult.result1.map((result: any) => (
+                                        <div key={result.email} className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-gray-700 gap-2 flex-col flex mb-4">
+                                            <div className="flex flex-col justify-between gap-1">
+                                                <span className="text-gray-400">Email ID:</span>
+                                                <span className="text-white">{result.email}</span>
+                                            </div>
+                                            <div className="flex justify-between">
+                                                <span className="text-gray-400">Sem:</span>
+                                                <span className="text-blue-400">{result.details?.semesterId || '1'}</span>
+                                            </div>
+                                            <div className="flex justify-between">
+                                                <span className="text-gray-400">PS:</span>
+                                                <span className="text-purple-400">{result.details?.pstypeId === 1 ? "PS1" : "PS2"}</span>
+                                            </div>
+                                            <div className="flex justify-between">
+                                                <span className="text-gray-400">#PR:</span>
+                                                <span className="text-emerald-400">{result.preferenceNoDisplay}</span>
+                                            </div>
+                                        </div>
+                                    ))}
+                                </div>
+                                </>
                             )}
 
-                            {/* Collapsible Section for Result 2 */}
-                            {searchResult.result2.length > 0 && (                            
-                                <div className="bg-white/5 rounded-2xl p-6 border border-gray-700">
+                            {searchResult.result2.length > 0 && (
+                                <>                            
+                                <div className="hidden sm:block bg-white/5 rounded-2xl p-6 border border-gray-700">
                                     <h2 className="text-xl text-white mb-4">{searchResult.stationName} - Sem2</h2>
                                     <div
                                         className={cn("grid gap-4","grid-cols-11")}>
@@ -318,6 +380,35 @@ export default function AllotmentPage() {
                                         </div>
                                     ))}
                                 </div>
+                                {/* Mobile Cards View for Result 2 */}
+                                <div className="sm:hidden">
+                                    <h2 className="text-xl text-white mb-4">{searchResult.stationName} - Sem2</h2>
+                                    {searchResult.result2.map((result: any) => (
+                                        <div key={result.email} className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-gray-700 gap-2 flex-col flex mb-4">
+                                            <div className="flex flex-col justify-between gap-1">
+                                                <span className="text-gray-400">Email ID:</span>
+                                                <span className="text-white">{result.email}</span>
+                                            </div>
+                                            <div className="flex flex-col justify-between gap-1">
+                                                <span className="text-gray-400">Student Name:</span>
+                                                <span className="text-white">{result.details?.studentName}</span>
+                                            </div>
+                                            <div className="flex justify-between">
+                                                <span className="text-gray-400">Sem:</span>
+                                                <span className="text-blue-400">{result.details?.semesterId || '1'}</span>
+                                            </div>
+                                            <div className="flex justify-between">
+                                                <span className="text-gray-400">PS:</span>
+                                                <span className="text-purple-400">{result.details?.pstypeId === 1 ? "PS1" : "PS2"}</span>
+                                            </div>
+                                            <div className="flex justify-between">
+                                                <span className="text-gray-400">#PR:</span>
+                                                <span className="text-emerald-400">{result.preferenceNoDisplay}</span>
+                                            </div>
+                                        </div>
+                                    ))}
+                                </div>
+                                </>
                             )}
                         </>
                     )}
