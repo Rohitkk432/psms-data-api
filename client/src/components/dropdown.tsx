@@ -20,6 +20,8 @@ interface DropdownProps {
   dropdownHeight?: string;
   selectPlaceholder?: string;
   disabled?: boolean;
+  maximumSelect?: number;
+  wrapOptions?:boolean;
 }
 
 const Dropdown: React.FC<DropdownProps> = ({
@@ -33,11 +35,14 @@ const Dropdown: React.FC<DropdownProps> = ({
   selectPlaceholder,
   selectMultiple = false,
   disabled = false,
+  maximumSelect = 0,
+  wrapOptions = false
 }) => {
   const [open, setOpen] = useState(false);
   const [search, setSearch] = useState("");
 
   const dropdownRef = useRef<HTMLDivElement>(null); // Create a ref for the dropdown element
+  const inputRef = useRef<HTMLInputElement>(null); // Declare inputRef
 
   // Close the dropdown when clicking outside
   useEffect(() => {
@@ -88,13 +93,19 @@ const Dropdown: React.FC<DropdownProps> = ({
   }, [open]);
 
   const handleMutipleAdd = (item: string) => {
-    setSelected([...selected, item]);
+    if(maximumSelect===0){
+      setSelected([...selected, item]);
+    }else{
+      const _selectedFinal = [...selected, item];
+      setSelected(_selectedFinal.slice(-maximumSelect));
+    }
   };
 
   const handleMultipleRemove = (item: string) => {
     setSelected(
       selected.filter((selectedItem: string) => selectedItem !== item),
     );
+    inputRef.current?.focus(); // Focus the input after removing an item
   };
 
   const handleSelect = (
@@ -126,6 +137,12 @@ const Dropdown: React.FC<DropdownProps> = ({
             if (disabled === true) return;
             if (open && selectMultiple) return;
             if (showDropdown.length === 0) return;
+            if (!open && selectMultiple) {
+              console.log("Focusing input"); // Debug log
+              setTimeout(() => {
+                inputRef.current?.focus(); // Focus the input after a short delay
+              }, 0);
+            }
             setOpen(!open);
           }}
           className={cn(
@@ -165,6 +182,7 @@ const Dropdown: React.FC<DropdownProps> = ({
                 })}
               {open && (
                 <input
+                  ref={inputRef} // Attach the ref to the input
                   placeholder={"search"}
                   type="text"
                   className="text-base clear-input-style text-[#1c1c1c]"
@@ -173,7 +191,11 @@ const Dropdown: React.FC<DropdownProps> = ({
                 />
               )}
               {!open && showDropdown.length > 0 && (
-                <div className="text-base text-[#7F7F80]">search</div>
+                <div
+                  className="text-base text-[#7F7F80]"
+                >
+                  search
+                </div>
               )}
             </div>
           )}
@@ -188,7 +210,10 @@ const Dropdown: React.FC<DropdownProps> = ({
               <div
                 key={idx}
                 onClick={(e) => handleSelect(e, opt)}
-                className={`py-3 px-4 w-full flex items-center justify-between gap-2 text-center whitespace-pre ${idx !== 0 ? "border-t border-gray-300" : ""}`}
+                className={cn(`py-3 px-4 w-full flex items-center justify-between gap-2 ${idx !== 0 ? "border-t border-gray-300" : ""}`,{
+                  "text-center whitespace-pre":!wrapOptions,
+                  "whitespace-wrap":wrapOptions,
+                })}
               >
                 <div className="">
                   {dataKey !== undefined ? opt[dataKey] : opt}

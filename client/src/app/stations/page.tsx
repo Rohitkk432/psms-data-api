@@ -8,6 +8,7 @@ import Dropdown from "@/components/dropdown";
 import RangeSlider from "@/components/rangeSlider";
 import { ArrowTopRightOnSquareIcon } from "@heroicons/react/24/outline";
 import {TimeConfig} from "../../config-time"
+import Link from "next/link";
 
 const locationOptions = ["Bangalore", "Hyderabad", "Mumbai", "Pune", "Gurgaon", "Delhi", "Others"];
 const branchOptions = ["Finance and Mgmt", "Electronics", "Chemical", "Others", "Infrastructure", "CSIS/IT", "Mechanical", "Health Care", "Others"];
@@ -135,6 +136,24 @@ export default function StationsPage() {
 
     return (
         <main className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800">
+            {/* Navigation Menu */}
+            <nav className="absolute top-4 left-4">
+                <div className="flex gap-2">
+                    <Link 
+                        href="/stations" 
+                        className="px-4 py-2 bg-blue-500/20 text-blue-400 border border-blue-500 rounded-xl transition-colors"
+                    >
+                        Stations
+                    </Link>
+                    <Link 
+                        href="/allotment" 
+                        className="px-4 py-2 bg-black/20 text-gray-400 hover:text-blue-400 border border-gray-700 hover:border-blue-500 rounded-xl transition-colors"
+                    >
+                        Allotment
+                    </Link>
+                </div>
+            </nav>
+
             <div className="container mx-auto px-4 sm:px-2 lg:px-0 py-8">
                 {/* Header Section */}
                 <div className="mb-10">

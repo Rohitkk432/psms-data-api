@@ -3,6 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const data1 = require("../data/stations.json");
 const { validEmailsPS2Sem2 } = require("./validEmails");
+const allotmentData1 = require('../data/allotments.json')
 
 require("dotenv").config();
 
@@ -307,4 +308,47 @@ const getAllAllotmentData = async () => {
     console.log("Allotment data written to file");
 }
 
+let allotmentDataClone = allotmentData1;
+
+
+const getAllotmentDetailsByID = async (StudentID: string,emailID:string) => {
+    let config = {
+        method: "get",
+        maxBodyLength: Infinity,
+        url: `${API_URL}/stationallotment/allotmentletter/${StudentID}`,
+        headers: {
+            Accept: "application/json, text/plain, */*",
+            "Accept-Language": "en-US,en;q=0.9",
+            Authorization: AUTH_TOKEN,
+            Connection: "keep-alive"
+        },
+    };
+
+    try {
+        const response = await axios.request(config);
+        if (response.status === 200) {
+            allotmentDataClone[emailID].allotments = response.data.allotments;
+            allotmentDataClone[emailID].academicPeriodDetail = response.data.academicPeriodDetail;
+            console.log(emailID);
+        }
+    } catch (error) {
+        //blank error
+    }
+};
+
+const getAllAllotmentDetailsData = async () => {
+    const allEmails = [...validEmailsPS2Sem2];
+
+    for (let i=0;i<allEmails.length;i++){
+        const StudentID = allotmentData1[allEmails[i]].studentId;
+        await getAllotmentDetailsByID(StudentID,allEmails[i]);
+    }
+
+    // Write to file after all API calls are done
+    const filePath = path.join(__dirname, "..", "data", "allotments.json");
+    fs.writeFileSync(filePath, JSON.stringify(allotmentDataClone, null, 2));
+    console.log("Allotment details data written to file");
+}
+
 // getAllAllotmentData();
+// getAllAllotmentDetailsData();
