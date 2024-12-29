@@ -1,0 +1,202 @@
+{
+  "projectId": 3712,
+  "stationId": 6496,
+  "problemBankId": 2448,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Details",
+  "description": "<p>-</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3712,
+      "projectDisciplineId": 7405,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,AA,A7",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,AA,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7405,
+      "projectId": 3712,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6.5,
+      "cgpamax": 10,
+      "freshRequirement": 5,
+      "totalRequirement": 5,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A8,AA,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 23143,
+          "projectDisciplineId": 7405,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 23144,
+          "projectDisciplineId": 7405,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 23145,
+          "projectDisciplineId": 7405,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 23146,
+          "projectDisciplineId": 7405,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 23147,
+          "projectDisciplineId": 7405,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 23148,
+          "projectDisciplineId": 7405,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 23149,
+          "projectDisciplineId": 7405,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 23150,
+          "projectDisciplineId": 7405,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3573,
+      "projectId": 3712,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 70000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-28T05:28:57",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 61057,
+      "projectId": 3712,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 61058,
+      "projectId": 3712,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3712,
+      "projectDomainId": 5654,
+      "academicDomainId": 81
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5196,
+      "projectId": 3712,
+      "academicSubDomainId": 162
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

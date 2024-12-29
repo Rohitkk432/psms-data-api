@@ -53,9 +53,9 @@
     "stationAddress": "1",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -517,7 +517,7 @@
     "stationAddress": "1",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -546,9 +546,9 @@
     "stationAddress": "8",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -633,9 +633,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -662,9 +662,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -1039,9 +1039,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -1619,7 +1619,7 @@
     "stationAddress": "2",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6.5,
     "requirements": null,
     "ugstipend": 25000
   },
@@ -1764,9 +1764,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -1793,7 +1793,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -1880,9 +1880,9 @@
     "stationAddress": "7",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -1967,9 +1967,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 10000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -2025,9 +2025,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -2083,9 +2083,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -2114,7 +2114,7 @@
     "projectDomains": null,
     "minCgpa": 8,
     "requirements": null,
-    "ugstipend": 10000
+    "ugstipend": null
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -2462,7 +2462,7 @@
     "projectDomains": null,
     "minCgpa": 7,
     "requirements": null,
-    "ugstipend": 80000
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -2489,7 +2489,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 6.5,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": 10000
   },
@@ -2549,7 +2549,7 @@
     "projectDomains": null,
     "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": 100000
+    "ugstipend": null
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -2866,9 +2866,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -3272,7 +3272,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 25000
   },
@@ -3388,7 +3388,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -3475,7 +3475,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 25000
   },
@@ -3504,7 +3504,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 6.5,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 25000
   },
@@ -3533,7 +3533,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 8.5,
+    "minCgpa": 7,
     "requirements": null,
     "ugstipend": 25000
   },
@@ -3794,9 +3794,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 60000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -3883,7 +3883,7 @@
     "projectDomains": null,
     "minCgpa": 7,
     "requirements": null,
-    "ugstipend": 40000
+    "ugstipend": 60000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -3939,9 +3939,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4200,7 +4200,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 6.5,
+    "minCgpa": 7,
     "requirements": null,
     "ugstipend": 50000
   },
@@ -4287,9 +4287,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4316,9 +4316,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4345,9 +4345,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4374,9 +4374,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4548,9 +4548,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4722,9 +4722,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4751,9 +4751,9 @@
     "stationAddress": "1",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4809,9 +4809,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 10000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -4983,7 +4983,7 @@
     "stationAddress": "2",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6.5,
     "requirements": null,
     "ugstipend": 50000
   },
@@ -5012,9 +5012,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 8000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -5041,9 +5041,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -5099,7 +5099,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 6,
+    "minCgpa": 5.5,
     "requirements": null,
     "ugstipend": 15500
   },
@@ -5360,7 +5360,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -5389,9 +5389,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -5418,7 +5418,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -5679,9 +5679,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -5969,9 +5969,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -5998,7 +5998,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 12000
   },
@@ -6114,9 +6114,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -6375,9 +6375,9 @@
     "stationAddress": "484",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -6607,7 +6607,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 30000
   },
@@ -6636,7 +6636,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 30000
   },
@@ -6665,7 +6665,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 30000
   },
@@ -6725,7 +6725,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -6812,7 +6812,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 191666
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -6841,7 +6841,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 191666
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7100,7 +7100,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -7129,9 +7129,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7158,9 +7158,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 10000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7187,9 +7187,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7216,9 +7216,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 10000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7245,9 +7245,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7361,7 +7361,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -7506,9 +7506,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7535,9 +7535,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7564,9 +7564,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7593,9 +7593,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7622,9 +7622,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7651,7 +7651,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -7883,9 +7883,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 72000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7941,9 +7941,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 72000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7970,9 +7970,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 72000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -7999,9 +7999,9 @@
     "stationAddress": "3",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 75000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -8028,9 +8028,9 @@
     "stationAddress": "3",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 74500
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -8175,7 +8175,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -8318,9 +8318,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -8434,7 +8434,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -8579,9 +8579,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -8637,7 +8637,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 40000
   },
@@ -8666,7 +8666,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 40000
   },
@@ -8813,7 +8813,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -8842,7 +8842,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 42000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -8898,7 +8898,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -9074,7 +9074,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 175000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -9596,7 +9596,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 15000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -9625,7 +9625,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 15000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -9710,9 +9710,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 6.5,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": 25000
+    "ugstipend": null
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -9739,9 +9739,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -9768,9 +9768,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -9797,9 +9797,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10058,7 +10058,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -10087,9 +10087,9 @@
     "stationAddress": "2",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10203,9 +10203,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10261,7 +10261,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -10464,7 +10464,7 @@
     "stationAddress": "12",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7.5,
+    "minCgpa": 7,
     "requirements": null,
     "ugstipend": 60000
   },
@@ -10493,9 +10493,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10551,9 +10551,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10580,9 +10580,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10609,9 +10609,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10667,9 +10667,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10696,9 +10696,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -10725,9 +10725,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11015,7 +11015,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -11073,9 +11073,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11131,9 +11131,9 @@
     "stationAddress": "4",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11247,7 +11247,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 25000
   },
@@ -11276,7 +11276,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7.5,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 30000
   },
@@ -11305,7 +11305,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -11334,9 +11334,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 125000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11363,9 +11363,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11450,9 +11450,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11479,9 +11479,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11508,9 +11508,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11537,9 +11537,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11566,9 +11566,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 125000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11595,9 +11595,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11624,9 +11624,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11653,9 +11653,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 113000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11682,9 +11682,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 120000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11827,9 +11827,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -11972,7 +11972,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -12032,7 +12032,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": 45000
+    "ugstipend": 42500
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -12059,9 +12059,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 42500
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -12262,9 +12262,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 60000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -12378,9 +12378,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -12465,9 +12465,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -12494,9 +12494,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -12929,9 +12929,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 22000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -13045,7 +13045,7 @@
     "stationAddress": "30",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 40000
   },
@@ -13132,9 +13132,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 8,
+    "minCgpa": 7.8,
     "requirements": null,
-    "ugstipend": 75000
+    "ugstipend": null
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -13161,7 +13161,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7.5,
+    "minCgpa": 7,
     "requirements": null,
     "ugstipend": 60000
   },
@@ -13190,7 +13190,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7.5,
+    "minCgpa": 7,
     "requirements": null,
     "ugstipend": 60000
   },
@@ -13219,7 +13219,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7.5,
+    "minCgpa": 7,
     "requirements": null,
     "ugstipend": 60000
   },
@@ -13248,7 +13248,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7.5,
+    "minCgpa": 7,
     "requirements": null,
     "ugstipend": 60000
   },
@@ -13335,7 +13335,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -13480,9 +13480,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -13973,9 +13973,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14002,9 +14002,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 75000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14060,9 +14060,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 75000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14118,7 +14118,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6.5,
     "requirements": null,
     "ugstipend": 40000
   },
@@ -14147,9 +14147,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14176,9 +14176,9 @@
     "stationAddress": "2",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 30000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14350,9 +14350,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14379,9 +14379,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 100000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14553,9 +14553,9 @@
     "stationAddress": "1",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14872,9 +14872,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 45000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14930,9 +14930,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14959,9 +14959,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -14988,9 +14988,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -15249,9 +15249,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 45000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -15278,9 +15278,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -15307,7 +15307,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -15336,9 +15336,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 45000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -15742,7 +15742,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -15858,9 +15858,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -15945,9 +15945,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -16003,9 +16003,9 @@
     "stationAddress": "3",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -16090,9 +16090,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -16235,9 +16235,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -16380,9 +16380,9 @@
     "stationAddress": "7",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -16699,9 +16699,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -16757,9 +16757,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -16786,9 +16786,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 12000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -17047,7 +17047,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6,
     "requirements": null,
     "ugstipend": 30000
   },
@@ -17192,7 +17192,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -17308,7 +17308,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -17685,9 +17685,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 70000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -17714,9 +17714,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 150000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -17743,9 +17743,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 70000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -18062,7 +18062,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 0,
+    "minCgpa": 7,
     "requirements": null,
     "ugstipend": 60000
   },
@@ -18178,9 +18178,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 20000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -18294,9 +18294,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 8,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -18383,7 +18383,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 70000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -18439,7 +18439,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 8,
+    "minCgpa": 6.5,
     "requirements": null,
     "ugstipend": 80000
   },
@@ -18468,7 +18468,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6.5,
     "requirements": null,
     "ugstipend": 70000
   },
@@ -18499,7 +18499,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": 12500
+    "ugstipend": null
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -19019,9 +19019,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -19048,9 +19048,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -19077,9 +19077,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -19106,7 +19106,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 6.5,
     "requirements": null,
     "ugstipend": 45000
   },
@@ -19251,7 +19251,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 0,
+    "minCgpa": 7.5,
     "requirements": null,
     "ugstipend": null
   },
@@ -19367,9 +19367,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -19396,9 +19396,9 @@
     "stationAddress": "810",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 50000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -19483,9 +19483,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 60000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -19599,7 +19599,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": null
   },
@@ -19686,7 +19686,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": 25000
   },
@@ -19715,7 +19715,7 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": 7,
+    "minCgpa": 0,
     "requirements": null,
     "ugstipend": 25000
   },
@@ -19746,7 +19746,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": 25000
+    "ugstipend": 500
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -20295,9 +20295,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -20324,9 +20324,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -20353,9 +20353,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -20382,9 +20382,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 35000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -20500,7 +20500,7 @@
     "projectDomains": null,
     "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 60000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -20614,9 +20614,9 @@
     "stationAddress": "148",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 7.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 40000
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -20672,9 +20672,9 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 0,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 22500
   },
   {
     "studentStationAllotmentDetailId": 0,
@@ -20701,8 +20701,8 @@
     "stationAddress": "0",
     "accomodation": null,
     "projectDomains": null,
-    "minCgpa": null,
+    "minCgpa": 6.5,
     "requirements": null,
-    "ugstipend": null
+    "ugstipend": 25000
   }
 ]

@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1472,
-      "projectDisciplineId": 6425,
+      "projectDisciplineId": 7606,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
@@ -33,15 +33,16 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6425,
+      "projectDisciplineId": 7606,
       "projectId": 1472,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 2,
-      "totalRequirement": 3,
+      "freshRequirement": 1,
+      "totalRequirement": 2,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 1,
       "continuingStudent": 1,
@@ -98,7 +99,7 @@
       "createdBy": "anjani.koka@pilani.bits-pilani.ac.in",
       "createdDate": "2024-04-22T04:44:15",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-10T16:41:54",
+      "modifiedDate": "2024-12-03T04:21:39",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

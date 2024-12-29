@@ -1,0 +1,170 @@
+{
+  "projectId": 1894,
+  "stationId": 4796,
+  "problemBankId": 1051,
+  "problemBankCreatedBy": "monali.mavani@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Battery Analytics for Electric Vehicles  and Stationary ",
+  "description": "<p><strong style=\"color: black;\">The Intern will work with the Engineering team on projects related to our Platform development</strong></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1894,
+      "projectDisciplineId": 7635,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7635,
+      "projectId": 1894,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 2,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 2,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 24645,
+          "projectDisciplineId": 7635,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 24646,
+          "projectDisciplineId": 7635,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1811,
+      "projectId": 1894,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "16:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 22500,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "monali.mavani@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-20T12:08:05",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-12-03T08:52:31",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37619,
+      "projectId": 1894,
+      "skillId": 1
+    },
+    {
+      "projectSkillId": 37620,
+      "projectId": 1894,
+      "skillId": 211
+    },
+    {
+      "projectSkillId": 37621,
+      "projectId": 1894,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1894,
+      "projectDomainId": 2683,
+      "academicDomainId": 2
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2461,
+      "projectId": 1894,
+      "academicSubDomainId": 1
+    },
+    {
+      "projectSubDomainId": 2462,
+      "projectId": 1894,
+      "academicSubDomainId": 128
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

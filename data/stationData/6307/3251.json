@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Improving system efficiency, enhancing security, and ensuring scalability,\tEnhancing performance, improving accessibility, and ensuring design consistency\tCreate actionable insights for a product strategy",
-  "description": "<p>1. Design, develop, and maintain software applications using Golang and Node.js.</p><p>2. Create and optimize database schemas and queries using MySQL and MongoDB.</p><p>3. Implement caching solutions with Redis.</p><p>4. Integrate and work with event streaming platforms like Kafka.</p><p>5. Collaborate with DevOps and infrastructure teams to deploy applications on GCP, and Kubernetes.</p><p>6. Solve complex technical challenges and product solutions and contribute to the continuous improvement of our software development practices.1. Translate designs and wireframes into high quality code.</p><p>2. Design and implement new features and enhancements for our iOS/Android applications.</p><p>3. Participate in the full software development lifecycle, including testing, debugging, and deploying applications.</p><p>4. Analyse and provide recommednations, ideas and innovations to improve product performance and user satisfaction.1. Collaborate closely with the product team to define the product roadmap</p><p>2. Analyze product performance, gather user feedback, and provide insights to drive product strategy and development</p><p>3. Conduct user research and analyze feedback to understand user needs, pain points, and potential improvements.</p><p>4. Collaborate with UX/UI teams to translate user feedback into actionable product changes.</p><p>5. Benchmark industry trends, market developments, and competitors to provide insights that inform product strategy and positioning1. Propose strategies to reduce costs and improve procedures of Inventory Management</p><p>2. Create processes to ensure that all sourcing leads are meeting their personal performance standards</p><p>3. Analyze Demand and share buying projections with brand as per targets</p><p>4. Evaluate and share brand's performance scorecard periodically</p><p>5. Create and share dock hit projections, and execute dock hit plans accordingly to ensure minimum deviation from the plan6.</p><p>6. Take the lead in creating profitable ways to manage obsolete and slow-moving stock to help offset losses1. Own the development and maintenance of new and existing artifacts focused on analysis of requirements, metrics, and reporting dashboards.</p><p>2. Work on various long term projects related to beauty category and periodically asses performance metrics like conversion, supply gaps</p><p>3. Enable effective decision making by retrieving and aggregating data from multiple sources and compiling it into a digestible and actionable format.</p><p>4. Work with the category leaders across skincare/makeup/haircare/personal care to drive identification of requirements and create a detailed business analysis, outlining</p><p>problems, opportunities, and solutions.</p>",
+  "title": "Create actionable insights for a product strategy\tStreamlining Supply Chain Effeciency,\tDriving Data Driven Decision Making.,",
+  "description": "<p>1. Collaborate closely with the product team to define the product roadmap</p><p>2. Analyze product performance, gather user feedback, and provide insights to drive product strategy and development</p><p>3. Conduct user research and analyze feedback to understand user needs, pain points, and potential improvements.</p><p>4. Collaborate with UX/UI teams to translate user feedback into actionable product changes.</p><p>5. Benchmark industry trends, market developments, and competitors to provide insights that inform product strategy and positioning1. Propose strategies to reduce costs and improve procedures of Inventory Management</p><p>2. Create processes to ensure that all sourcing leads are meeting their personal performance standards</p><p>3. Analyze Demand and share buying projections with brand as per targets</p><p>4. Evaluate and share brand's performance scorecard periodically</p><p>5. Create and share dock hit projections, and execute dock hit plans accordingly to ensure minimum deviation from the plan6.</p><p>6. Take the lead in creating profitable ways to manage obsolete and slow-moving stock to help offset losses1. Own the development and maintenance of new and existing artifacts focused on analysis of requirements, metrics, and reporting dashboards.</p><p>2. Work on various long term projects related to beauty category and periodically asses performance metrics like conversion, supply gaps</p><p>3. Enable effective decision making by retrieving and aggregating data from multiple sources and compiling it into a digestible and actionable format.</p><p>4. Work with the category leaders across skincare/makeup/haircare/personal care to drive identification of requirements and create a detailed business analysis, outlining</p><p>problems, opportunities, and solutions.1. Partner with the Sr. Key Account Managers to create a joint business plan with the key accounts</p><p>2. Formulate and implement frameworks and strategies to manage inventory levels, manage deal prices across brands &amp; participation in marketing events</p><p>3. Find whitespaces in the marketing opportunities on the various marketplaces to drive visibility &amp; sales growth</p><p>4. Ideate strategies and initiatives to grow brands and categories.</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 2,
@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 3251,
-      "projectDisciplineId": 6347,
-      "projectDisciplineCodes": "AnyA1,AnyA2,AnyA3,AnyA4,AnyA5,AnyA8,AnyAA,AnyAB,A1,A2,A3,A4,A5,AA,A8,AB",
-      "discCodesPerProject": "AnyA1,AnyA2,AnyA3,AnyA4,AnyA5,AnyA8,AnyAA,AnyAB,A1,A2,A3,A4,A5,AA,A8,AB",
+      "projectDisciplineId": 8003,
+      "projectDisciplineCodes": "A8,AA,A5,A4,A3,A2,AB,A1,AnyAA,AnyA8,AnyA5,AnyA4,AnyA3,AnyA2,AnyAB,AnyA1",
+      "discCodesPerProject": "A8,AA,A5,A4,A3,A2,AB,A1,AnyAA,AnyA8,AnyA5,AnyA4,AnyA3,AnyA2,AnyAB,AnyA1",
       "graduationTypeIds": [
         1
       ],
@@ -35,22 +35,23 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6347,
+      "projectDisciplineId": 8003,
       "projectId": 3251,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 6,
-      "totalRequirement": 6,
+      "freshRequirement": 4,
+      "totalRequirement": 4,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA1,AnyA2,AnyA3,AnyA4,AnyA5,AnyA8,AnyAA,AnyAB,A1,A2,A3,A4,A5,AA,A8,AB",
+      "disciplineCodes": "A8,AA,A5,A4,A3,A2,AB,A1,AnyAA,AnyA8,AnyA5,AnyA4,AnyA3,AnyA2,AnyAB,AnyA1",
       "graduationTypeIds": [
-        0,
-        1
+        1,
+        0
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -63,116 +64,116 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 19084,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 1
-        },
-        {
-          "projectDisciplineDetailId": 19085,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 2
-        },
-        {
-          "projectDisciplineDetailId": 19086,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 3
-        },
-        {
-          "projectDisciplineDetailId": 19087,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 4
-        },
-        {
-          "projectDisciplineDetailId": 19088,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 11
-        },
-        {
-          "projectDisciplineDetailId": 19089,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 13
-        },
-        {
-          "projectDisciplineDetailId": 19090,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 14
-        },
-        {
-          "projectDisciplineDetailId": 19091,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 15
-        },
-        {
-          "projectDisciplineDetailId": 19092,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 1,
-          "disciplineId": 1,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 19093,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 1,
-          "disciplineId": 2,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 19094,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 1,
-          "disciplineId": 3,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 19095,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 1,
-          "disciplineId": 4,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 19096,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 1,
-          "disciplineId": 11,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 19097,
-          "projectDisciplineId": 6347,
-          "graduationTypeId": 1,
-          "disciplineId": 14,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 19098,
-          "projectDisciplineId": 6347,
+          "projectDisciplineDetailId": 25971,
+          "projectDisciplineId": 8003,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19099,
-          "projectDisciplineId": 6347,
+          "projectDisciplineDetailId": 25972,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 25973,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 1,
+          "disciplineId": 11,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 25974,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 25975,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 25976,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 1,
+          "disciplineId": 2,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 25977,
+          "projectDisciplineId": 8003,
           "graduationTypeId": 1,
           "disciplineId": 15,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 25978,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 25979,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 25980,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 25981,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 11
+        },
+        {
+          "projectDisciplineDetailId": 25982,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 25983,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 25984,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 2
+        },
+        {
+          "projectDisciplineDetailId": 25985,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 25986,
+          "projectDisciplineId": 8003,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
         }
       ],
       "selectedContinuingStudentList": null,
@@ -215,8 +216,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-09T17:26:54",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-12-19T09:06:51",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2391,
-      "projectDisciplineId": 6650,
+      "projectDisciplineId": 7384,
       "projectDisciplineCodes": "AnyC7,C7,H154",
       "discCodesPerProject": "AnyC7,C7,H154",
       "graduationTypeIds": [
@@ -36,7 +36,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6650,
+      "projectDisciplineId": 7384,
       "projectId": 2391,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -44,10 +44,11 @@
       "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 1,
-      "totalRequirement": 1,
+      "totalRequirement": 2,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
+      "continuingStudent": 1,
       "disciplineCodes": "AnyC7,C7,H154",
       "graduationTypeIds": [
         0,
@@ -55,7 +56,7 @@
         2
       ],
       "degree": "Both",
-      "continuingStudentCount": 0,
+      "continuingStudentCount": 1,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
@@ -65,22 +66,22 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 20133,
-          "projectDisciplineId": 6650,
+          "projectDisciplineDetailId": 23061,
+          "projectDisciplineId": 7384,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 38
         },
         {
-          "projectDisciplineDetailId": 20134,
-          "projectDisciplineId": 6650,
+          "projectDisciplineDetailId": 23062,
+          "projectDisciplineId": 7384,
           "graduationTypeId": 1,
           "disciplineId": 38,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20135,
-          "projectDisciplineId": 6650,
+          "projectDisciplineDetailId": 23063,
+          "projectDisciplineId": 7384,
           "graduationTypeId": 2,
           "disciplineId": 68,
           "discipline2Id": null
@@ -260,7 +261,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-06-06T04:12:10",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-15T16:27:35",
+      "modifiedDate": "2024-11-27T17:46:37",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

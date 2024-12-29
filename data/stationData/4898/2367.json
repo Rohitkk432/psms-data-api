@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2367,
-      "projectDisciplineId": 6505,
+      "projectDisciplineId": 7501,
       "projectDisciplineCodes": "A7,AnyA7",
       "discCodesPerProject": "A7,AnyA7",
       "graduationTypeIds": [
@@ -35,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6505,
+      "projectDisciplineId": 7501,
       "projectId": 2367,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -43,7 +43,8 @@
       "cgpamin": 6,
       "cgpamax": 10,
       "freshRequirement": 3,
-      "totalRequirement": 3,
+      "totalRequirement": 6,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -57,21 +58,21 @@
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
-      "otherConstraint": 0,
-      "otherConstraintCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 3,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 19589,
-          "projectDisciplineId": 6505,
+          "projectDisciplineDetailId": 23644,
+          "projectDisciplineId": 7501,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19590,
-          "projectDisciplineId": 6505,
+          "projectDisciplineDetailId": 23645,
+          "projectDisciplineId": 7501,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
@@ -118,7 +119,7 @@
       "createdBy": "shreyas.rao@pilani.bits-pilani.ac.in",
       "createdDate": "2024-06-04T12:16:17",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-13T08:29:05",
+      "modifiedDate": "2024-11-30T05:37:13",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

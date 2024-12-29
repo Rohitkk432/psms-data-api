@@ -1,0 +1,175 @@
+{
+  "projectId": 1567,
+  "stationId": 4751,
+  "problemBankId": 846,
+  "problemBankCreatedBy": "kulkarnis@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "BI Automation and Monitoring system developer",
+  "description": "<p>Development, and maintenance of an automation system designed to ensure the</p><p>quality of BI dashboards</p><p>Skill sets: Python, SW design, Tableau, Git, GitHub, GitHub actions, Grafana, SQL, Kubernetes,</p><p>Nuclio</p><p>Traits expectation:&nbsp;Problem solving, curious, critical thinking, organized, debugging</p><p>Expected learning:&nbsp;Will learn on SW design, testing methodologies, version control practices, SW</p><p>development and monitoring on cloud environments. Also on BI tools and practices, and introduction</p><p>to chip design, manufacturing, and testing.</p><p>Specific courses required for project execution: SW design, Python fundamentals, Git.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Igal Brenner",
+  "mentorEmailId": "igal@proteantecs.com",
+  "mentorContactNumber": "0000000000",
+  "discViewModels": [
+    {
+      "projectId": 1567,
+      "projectDisciplineId": 3531,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3531,
+      "projectId": 1567,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8815,
+          "projectDisciplineId": 3531,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 8816,
+          "projectDisciplineId": 3531,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1493,
+      "projectId": 1567,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "kulkarnis@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-07T11:19:13",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36021,
+      "projectId": 1567,
+      "skillId": 74
+    },
+    {
+      "projectSkillId": 36022,
+      "projectId": 1567,
+      "skillId": 413
+    },
+    {
+      "projectSkillId": 36023,
+      "projectId": 1567,
+      "skillId": 414
+    },
+    {
+      "projectSkillId": 36024,
+      "projectId": 1567,
+      "skillId": 415
+    },
+    {
+      "projectSkillId": 36025,
+      "projectId": 1567,
+      "skillId": 44
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1567,
+      "projectDomainId": 2245,
+      "academicDomainId": 41
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2053,
+      "projectId": 1567,
+      "academicSubDomainId": 422
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

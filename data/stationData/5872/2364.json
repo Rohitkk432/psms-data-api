@@ -1,0 +1,160 @@
+{
+  "projectId": 2364,
+  "stationId": 5872,
+  "problemBankId": 1370,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "AI Assist Auto Labelling",
+  "description": "<p>Description: Annotate driving images and improve object tracking performance for AI-</p><p>assisted auto-labelling project.</p><p>Skill sets: Python, OOPS, PyTorch, Deep learning, GenAI</p><p>Traits expectation: Good debugging skills, ability to cover edge cases.</p><p>Expected learning: Object detection, object tracking, Transformers.</p><p>Specific courses required for project execution:Data structure &amp;amp; algorithms, Artificial</p><p>Intelligence,&nbsp;Software engineering, Distributed computing (optional).</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Varun Jain",
+  "mentorEmailId": "varun.jain2@zf.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2364,
+      "projectDisciplineId": 4745,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4745,
+      "projectId": 2364,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12450,
+          "projectDisciplineId": 4745,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 12451,
+          "projectDisciplineId": 4745,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2278,
+      "projectId": 2364,
+      "officeStartTime": "08:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-04T11:53:18",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51084,
+      "projectId": 2364,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51085,
+      "projectId": 2364,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2364,
+      "projectDomainId": 3354,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3084,
+      "projectId": 2364,
+      "academicSubDomainId": 138
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

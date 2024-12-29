@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 1733,
-      "projectDisciplineId": 6379,
+      "projectDisciplineId": 7602,
       "projectDisciplineCodes": "AnyA3,AnyA4,AnyA8,AnyAA,AnyAB,A3,A8,AA,A4,AB",
       "discCodesPerProject": "AnyA3,AnyA4,AnyA8,AnyAA,AnyAB,A3,A8,AA,A4,AB",
       "graduationTypeIds": [
@@ -35,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6379,
+      "projectDisciplineId": 7602,
       "projectId": 1733,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -44,9 +44,10 @@
       "cgpamax": 10,
       "freshRequirement": 2,
       "totalRequirement": 2,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
+      "continuingStudent": 1,
       "disciplineCodes": "AnyA3,AnyA4,AnyA8,AnyAA,AnyAB,A3,A8,AA,A4,AB",
       "graduationTypeIds": [
         0,
@@ -63,71 +64,71 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 19234,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24460,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 19235,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24461,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 4
         },
         {
-          "projectDisciplineDetailId": 19236,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24462,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 19237,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24463,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 19238,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24464,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 15
         },
         {
-          "projectDisciplineDetailId": 19239,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24465,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19240,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24466,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19241,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24467,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19242,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24468,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19243,
-          "projectDisciplineId": 6379,
+          "projectDisciplineDetailId": 24469,
+          "projectDisciplineId": 7602,
           "graduationTypeId": 1,
           "disciplineId": 15,
           "discipline2Id": null
@@ -174,7 +175,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-05-18T18:34:20",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-13T04:58:17",
+      "modifiedDate": "2024-12-03T04:05:10",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -1,0 +1,160 @@
+{
+  "projectId": 2740,
+  "stationId": 6040,
+  "problemBankId": 1651,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "PCM mould life enhancement",
+  "description": "<p>Description: This project involves investigating and implementing methods to extend the life of</p><p>moulds used in Pig Casting Machines (PCM). The focus is on understanding wear mechanisms,</p><p>material properties, and process parameters to improve mould longevity and reduce operational</p><p>costs.</p><p>Skill sets: Industrial/Mechanical design knowledge, understanding of casting processes,</p><p>Expected learning: Industrial/Mechanical design exposure and Interns will gain expertise in the</p><p>wear mechanisms affecting PCM moulds, develop process optimization, and enhance their</p><p>understanding of ways to improve mould life and reduce downtime.</p><p>Specific courses required for project execution: Mechanical/Industrial Engineering</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2740,
+      "projectDisciplineId": 5755,
+      "projectDisciplineCodes": "AnyA4,A4",
+      "discCodesPerProject": "AnyA4,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5755,
+      "projectId": 2740,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 17033,
+          "projectDisciplineId": 5755,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 17034,
+          "projectDisciplineId": 5755,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2654,
+      "projectId": 2740,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:30:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 20000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Only local conveyance will be provided from the location NAD to plant",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-07-09T04:02:17",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55344,
+      "projectId": 2740,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 55345,
+      "projectId": 2740,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2740,
+      "projectDomainId": 3868,
+      "academicDomainId": 21
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3567,
+      "projectId": 2740,
+      "academicSubDomainId": 70
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

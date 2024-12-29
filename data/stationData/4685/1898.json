@@ -10,7 +10,7 @@
   "description": "<p>The project will be related to application of BIM to infrastructure, civil and MEP projects.</p>",
   "pstypeId": 2,
   "batchId": 16,
-  "semesterId": 1,
+  "semesterId": 2,
   "salutation": "Ms.",
   "mentorName": "Pooja Parekh",
   "mentorEmailId": "",
@@ -18,39 +18,42 @@
   "discViewModels": [
     {
       "projectId": 1898,
-      "projectDisciplineId": 5107,
-      "projectDisciplineCodes": "A2,AnyA2",
-      "discCodesPerProject": "A2,AnyA2",
+      "projectDisciplineId": 7826,
+      "projectDisciplineCodes": "AnyA4,A4,H106",
+      "discCodesPerProject": "AnyA4,A4,H106",
       "graduationTypeIds": [
-        1
+        1,
+        2
       ],
       "anySingle": false,
       "anyDual": false,
       "anyEither": false,
       "anyHigher": false,
       "anyDegree": false,
-      "isHigher": false,
-      "isSingle": true
+      "isHigher": true,
+      "isSingle": false
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 5107,
+      "projectDisciplineId": 7826,
       "projectId": 1898,
       "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 0,
+      "higherDegree": 1,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 3,
-      "totalRequirement": 3,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A2,AnyA2",
+      "disciplineCodes": "AnyA4,A4,H106",
       "graduationTypeIds": [
+        0,
         1,
-        0
+        2
       ],
       "degree": "Both",
       "continuingStudentCount": 0,
@@ -63,18 +66,25 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 14114,
-          "projectDisciplineId": 5107,
+          "projectDisciplineDetailId": 25383,
+          "projectDisciplineId": 7826,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 25384,
+          "projectDisciplineId": 7826,
           "graduationTypeId": 1,
-          "disciplineId": 2,
+          "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 14115,
-          "projectDisciplineId": 5107,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 2
+          "projectDisciplineDetailId": 25385,
+          "projectDisciplineId": 7826,
+          "graduationTypeId": 2,
+          "disciplineId": 28,
+          "discipline2Id": null
         }
       ],
       "selectedContinuingStudentList": null,
@@ -118,13 +128,13 @@
       "createdBy": "hamirwasiamk@pilani.bits-pilani.ac.in",
       "createdDate": "2024-05-20T14:04:51",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-06-02T11:02:15",
+      "modifiedDate": "2024-12-05T11:00:22",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
       "boysAccomodationCityName": null,
-      "mode": null,
-      "otherMode": null
+      "mode": "Onsite",
+      "otherMode": ""
     }
   ],
   "projectSkill": [

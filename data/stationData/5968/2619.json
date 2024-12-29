@@ -1,0 +1,140 @@
+{
+  "projectId": 2619,
+  "stationId": 5968,
+  "problemBankId": 1564,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Backend Engineering - Python (SDE)",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: Developing server side logic for SaaS softwares in Python and Django</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: Python, Django, PostgreSQL, REST API(s)</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Non-Technical Skill sets:&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: 1. Developing production ready APIs. 2. Engineering at scale 3. Product development in a tech startup</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution: Data Structures and Algorithms, DBMS, OOPS, Operating Systems</strong></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2619,
+      "projectDisciplineId": 7463,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7463,
+      "projectId": 2619,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 4,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 1,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2532,
+      "projectId": 2619,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 74500,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-25T10:10:36",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-28T17:46:17",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55077,
+      "projectId": 2619,
+      "skillId": 135
+    },
+    {
+      "projectSkillId": 55078,
+      "projectId": 2619,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2619,
+      "projectDomainId": 3710,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3418,
+      "projectId": 2619,
+      "academicSubDomainId": 138
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

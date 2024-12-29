@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2992,
-      "projectDisciplineId": 6076,
+      "projectDisciplineId": 7291,
       "projectDisciplineCodes": "B4A7,A7,B4",
       "discCodesPerProject": "B4A7,A7,B4",
       "graduationTypeIds": [
@@ -35,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6076,
+      "projectDisciplineId": 7291,
       "projectId": 2992,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -43,7 +43,8 @@
       "cgpamin": 8,
       "cgpamax": 10,
       "freshRequirement": 0,
-      "totalRequirement": 3,
+      "totalRequirement": 0,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -55,30 +56,30 @@
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
-      "conditionalOffer": 0,
+      "conditionalOffer": 1,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 3,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 17919,
-          "projectDisciplineId": 6076,
+          "projectDisciplineDetailId": 22643,
+          "projectDisciplineId": 7291,
           "graduationTypeId": 0,
           "disciplineId": 19,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 17920,
-          "projectDisciplineId": 6076,
+          "projectDisciplineDetailId": 22644,
+          "projectDisciplineId": 7291,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 17921,
-          "projectDisciplineId": 6076,
+          "projectDisciplineDetailId": 22645,
+          "projectDisciplineId": 7291,
           "graduationTypeId": 1,
           "disciplineId": 19,
           "discipline2Id": null
@@ -124,8 +125,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-10-24T06:13:00",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-26T17:19:26",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

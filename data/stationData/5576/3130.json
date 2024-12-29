@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Customer Success Intern",
-  "description": "<p>Description: As a Customer Success Intern at BiteSpeed, you'll be expected to</p><p>manage a steady stream of customer queries, applying pre-set solutions from our</p><p>database to the issues. This role involves responding to a high volume of</p><p>inquiries, logging each interaction, and ensuring strict compliance with our</p><p>support guidelines. You'll track issues, forward tickets to other teams, and follow</p><p>up as needed. The position requires consistent documentation, long hours in the</p><p>CRM, and adherence to routine protocols. Ideal for someone comfortable with</p><p>predictable, steady work in a structured environment.</p><p>Skill sets: Solid experience with CRM systems: Comfort navigating complex CRM</p><p>tools to find data-driven solutions. High-Volume Workflow Optimization:</p><p>Proficiency in handling concurrent, high-volume ticket queues while maintaining</p><p>efficiency and adherence to service-level agreements (SLAs). Strong multitasking</p><p>and efficiency: Manage a high volume of inquiries without compromising on</p><p>quality or speed.</p><p>Traits expectation: Detail-Oriented, Analytical Mindset, Customer-Centric</p><p>Expected learning: Enhanced Documentation Skills: Gain hands-on experience in</p><p>creating and maintaining detailed, high-quality records that meet industry</p><p>standards. Process Adherence and Compliance: Understand the importance of</p><p>strict adherence to established protocols to maintain consistency and regulatory</p><p>compliance.</p><p>Specific courses required for project execution: ( EEE F416) Digital</p><p>Communication, (EEE F432) Medical Instrumentation, (EEE F435) Digital Image</p><p>Processing, (HSS F323) Organizational Psychology</p>",
+  "title": "Bitespeed - Business Development",
+  "description": "<p>Title: Founder’s Office(Growth)</p><p><br></p><p>Description: As part of the sales team, the sales engineer shall conduct research,</p><p>make calls and send emails, prepare and deliver presentations to deliver technical</p><p>details of the product, and help maintain client relationships, among other tasks.</p><p>Skill sets: Strong communication skills, Proficiency in Python and C++, Structured</p><p>Thinking</p><p>Traits expectation: Goal-oriented, Adaptable, Persistent, Accountable and Curious</p><p>Expected learning: Sales Metrics and Performance Tracking, Customer Service</p><p>Skills, B2B SaaS knowledge, etc</p><p>Specific courses required for project execution: Data Structure and Algorithms</p><p>(DSA), Object Oriented Programming (OOP), Foundations of Data Science</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 2,
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 3130,
-      "projectDisciplineId": 6216,
+      "projectDisciplineId": 7381,
       "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,AnyB3,B3,A3,A8,AA",
       "discCodesPerProject": "AnyA3,AnyA8,AnyAA,AnyB3,B3,A3,A8,AA",
       "graduationTypeIds": [
@@ -35,18 +35,19 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6216,
+      "projectDisciplineId": 7381,
       "projectId": 3130,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 7,
       "cgpamax": 10,
-      "freshRequirement": 1,
-      "totalRequirement": 1,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
-      "continuingStudent": 0,
+      "continuingStudent": 1,
       "disciplineCodes": "AnyA3,AnyA8,AnyAA,AnyB3,B3,A3,A8,AA",
       "graduationTypeIds": [
         0,
@@ -63,57 +64,57 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 18683,
-          "projectDisciplineId": 6216,
+          "projectDisciplineDetailId": 23039,
+          "projectDisciplineId": 7381,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 18684,
-          "projectDisciplineId": 6216,
+          "projectDisciplineDetailId": 23040,
+          "projectDisciplineId": 7381,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 18685,
-          "projectDisciplineId": 6216,
+          "projectDisciplineDetailId": 23041,
+          "projectDisciplineId": 7381,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 18686,
-          "projectDisciplineId": 6216,
+          "projectDisciplineDetailId": 23042,
+          "projectDisciplineId": 7381,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 18
         },
         {
-          "projectDisciplineDetailId": 18687,
-          "projectDisciplineId": 6216,
+          "projectDisciplineDetailId": 23043,
+          "projectDisciplineId": 7381,
           "graduationTypeId": 1,
           "disciplineId": 18,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 18688,
-          "projectDisciplineId": 6216,
+          "projectDisciplineDetailId": 23044,
+          "projectDisciplineId": 7381,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 18689,
-          "projectDisciplineId": 6216,
+          "projectDisciplineDetailId": 23045,
+          "projectDisciplineId": 7381,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 18690,
-          "projectDisciplineId": 6216,
+          "projectDisciplineDetailId": 23046,
+          "projectDisciplineId": 7381,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
@@ -131,7 +132,7 @@
       "officeStartTime": "10:00:00",
       "officeEndTime": "19:00:00",
       "weekHolidays": "Saturday,Sunday",
-      "ugstipend": 80000,
+      "ugstipend": 40000,
       "pgstipend": 0,
       "scholarship": 0,
       "currency": "INR",
@@ -160,7 +161,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-07T09:47:44",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-12T07:50:34",
+      "modifiedDate": "2024-11-27T17:39:26",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

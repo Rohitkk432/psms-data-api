@@ -1,0 +1,140 @@
+{
+  "projectId": 2146,
+  "stationId": 4792,
+  "problemBankId": 1199,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Research & Development, Proposal Writing",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Title:</strong><span style=\"color: rgb(0, 0, 0);\"> Research &amp; Development, Proposal Writing</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Description:</strong><span style=\"color: rgb(0, 0, 0);\"> Research, program design and proposal writing in the social impact areas of education, skill development, health of underprivileged, environment, disability and inclusion, tribal welfare etc.,</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Perform R &amp; D activities on Skills projects, Environmental Projects, Education projects &amp; Health projects. For the projects, understand needs through need assessment. If required need to interact with the related stakeholders, and pay visits. Work on analysis and impact assessments.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Based on organizational requirements. Need to write a proposal for corporate partners.</span></p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Himaasree R",
+  "mentorEmailId": "himasree.r@nirmaan.org",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2146,
+      "projectDisciplineId": 5444,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5444,
+      "projectId": 2146,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 4,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 2,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2060,
+      "projectId": 2146,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-30T06:19:36",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T05:44:59",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50579,
+      "projectId": 2146,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50580,
+      "projectId": 2146,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2146,
+      "projectDomainId": 3043,
+      "academicDomainId": 44
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2785,
+      "projectId": 2146,
+      "academicSubDomainId": 155
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

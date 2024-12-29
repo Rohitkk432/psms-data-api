@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 3598,
-      "projectDisciplineId": 7073,
-      "projectDisciplineCodes": "A3",
-      "discCodesPerProject": "A3",
+      "projectDisciplineId": 7214,
+      "projectDisciplineCodes": "A3,AnyA3",
+      "discCodesPerProject": "A3,AnyA3",
       "graduationTypeIds": [
         1
       ],
@@ -35,23 +35,25 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 7073,
+      "projectDisciplineId": 7214,
       "projectId": 3598,
-      "degreeTypeId": 1,
+      "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "A3",
+      "disciplineCodes": "A3,AnyA3",
       "graduationTypeIds": [
-        1
+        1,
+        0
       ],
-      "degree": "Single",
+      "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -62,11 +64,18 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 21738,
-          "projectDisciplineId": 7073,
+          "projectDisciplineDetailId": 22407,
+          "projectDisciplineId": 7214,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22408,
+          "projectDisciplineId": 7214,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
         }
       ],
       "selectedContinuingStudentList": null,
@@ -109,8 +118,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-21T17:22:42",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-23T11:06:52",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

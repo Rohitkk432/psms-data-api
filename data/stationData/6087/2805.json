@@ -1,0 +1,184 @@
+{
+  "projectId": 2805,
+  "stationId": 6087,
+  "problemBankId": 1702,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title: Portfolio Management",
+  "description": "<p>Title: Portfolio Management</p><p>Description: handling the corporate portfolio</p><p>Skill sets: knowledge of funds, costs, risks, returns</p><p>Traits expectation: market trends, latest financial updates</p><p>Expected learning: will be able to learn about funds and</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2805,
+      "projectDisciplineId": 7460,
+      "projectDisciplineCodes": "AnyA4,AnyB2,B2,A4",
+      "discCodesPerProject": "AnyA4,AnyB2,B2,A4",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7460,
+      "projectId": 2805,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 1,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "AnyA4,AnyB2,B2,A4",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 1,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 23339,
+          "projectDisciplineId": 7460,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 23340,
+          "projectDisciplineId": 7460,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 17
+        },
+        {
+          "projectDisciplineDetailId": 23341,
+          "projectDisciplineId": 7460,
+          "graduationTypeId": 1,
+          "disciplineId": 17,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 23342,
+          "projectDisciplineId": 7460,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2718,
+      "projectId": 2805,
+      "officeStartTime": "09:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-07-25T09:44:14",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-12-03T14:05:27",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55540,
+      "projectId": 2805,
+      "skillId": 301
+    },
+    {
+      "projectSkillId": 55541,
+      "projectId": 2805,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2805,
+      "projectDomainId": 3984,
+      "academicDomainId": 4
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3673,
+      "projectId": 2805,
+      "academicSubDomainId": 13
+    },
+    {
+      "projectSubDomainId": 3674,
+      "projectId": 2805,
+      "academicSubDomainId": 177
+    },
+    {
+      "projectSubDomainId": 3675,
+      "projectId": 2805,
+      "academicSubDomainId": 469
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

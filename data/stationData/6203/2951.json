@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2951,
-      "projectDisciplineId": 6034,
+      "projectDisciplineId": 7316,
       "projectDisciplineCodes": "AnyA7,A7",
       "discCodesPerProject": "AnyA7,A7",
       "graduationTypeIds": [
@@ -35,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6034,
+      "projectDisciplineId": 7316,
       "projectId": 2951,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -43,7 +43,8 @@
       "cgpamin": 0,
       "cgpamax": 10,
       "freshRequirement": 0,
-      "totalRequirement": 3,
+      "totalRequirement": 0,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -55,23 +56,23 @@
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
-      "conditionalOffer": 0,
+      "conditionalOffer": 1,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 3,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 17801,
-          "projectDisciplineId": 6034,
+          "projectDisciplineDetailId": 22705,
+          "projectDisciplineId": 7316,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 17802,
-          "projectDisciplineId": 6034,
+          "projectDisciplineDetailId": 22706,
+          "projectDisciplineId": 7316,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
@@ -89,7 +90,7 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 0,
+      "ugstipend": 70000,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -117,8 +118,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-10-17T05:44:13",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-27T05:24:10",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

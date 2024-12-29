@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 3455,
-      "projectDisciplineId": 6725,
+      "projectDisciplineId": 7309,
       "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A8,A3,AA",
       "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A8,A3,AA",
       "graduationTypeIds": [
@@ -35,15 +35,16 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6725,
+      "projectDisciplineId": 7309,
       "projectId": 3455,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 0,
+      "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 1,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -63,43 +64,43 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 20358,
-          "projectDisciplineId": 6725,
+          "projectDisciplineDetailId": 22684,
+          "projectDisciplineId": 7309,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 20359,
-          "projectDisciplineId": 6725,
+          "projectDisciplineDetailId": 22685,
+          "projectDisciplineId": 7309,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 20360,
-          "projectDisciplineId": 6725,
+          "projectDisciplineDetailId": 22686,
+          "projectDisciplineId": 7309,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 20361,
-          "projectDisciplineId": 6725,
+          "projectDisciplineDetailId": 22687,
+          "projectDisciplineId": 7309,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20362,
-          "projectDisciplineId": 6725,
+          "projectDisciplineDetailId": 22688,
+          "projectDisciplineId": 7309,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 20363,
-          "projectDisciplineId": 6725,
+          "projectDisciplineDetailId": 22689,
+          "projectDisciplineId": 7309,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
@@ -115,7 +116,7 @@
       "projectFacilityId": 3319,
       "projectId": 3455,
       "officeStartTime": "09:00:00",
-      "officeEndTime": "17:00:00",
+      "officeEndTime": "17:45:00",
       "weekHolidays": "Saturday,Sunday",
       "ugstipend": 25000,
       "pgstipend": 0,
@@ -130,7 +131,7 @@
       "conveyance": 2,
       "medical": 2,
       "travels": 2,
-      "others": "",
+      "others": "Accommodation to be arranged by the student on their\nCompany Transport available at plant locations. At Mumbai – students have to travel by local transport \n\n",
       "boysAccomodationAddress1": "",
       "boysAccomodationAddress2": "",
       "boysAccomodationCity": null,
@@ -145,8 +146,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-16T09:50:21",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-27T05:18:20",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

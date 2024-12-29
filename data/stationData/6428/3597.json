@@ -18,30 +18,31 @@
   "discViewModels": [
     {
       "projectId": 3597,
-      "projectDisciplineId": 7070,
+      "projectDisciplineId": 7834,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
       "anySingle": false,
       "anyDual": false,
       "anyEither": true,
-      "anyHigher": true,
-      "anyDegree": true,
-      "isHigher": true,
-      "isSingle": false
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 7070,
+      "projectDisciplineId": 7834,
       "projectId": 3597,
       "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 1,
+      "higherDegree": 0,
       "cgpamin": 8,
       "cgpamax": 10,
       "freshRequirement": 4,
       "totalRequirement": 4,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -61,7 +62,26 @@
       "conditionalOfferStudents": null
     }
   ],
-  "projectElective": [],
+  "projectElective": [
+    {
+      "projectElectiveId": 2334,
+      "projectId": 3597,
+      "electiveId": 54396,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2335,
+      "projectId": 3597,
+      "electiveId": 1136,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2336,
+      "projectId": 3597,
+      "electiveId": 631,
+      "grade": null
+    }
+  ],
   "projectFacility": [
     {
       "projectFacilityId": 3459,
@@ -70,7 +90,7 @@
       "officeEndTime": "19:00:00",
       "weekHolidays": "Saturday,Sunday",
       "ugstipend": 60000,
-      "pgstipend": 60000,
+      "pgstipend": 0,
       "scholarship": 0,
       "currency": "INR",
       "subsidizedLunch": 2,
@@ -97,8 +117,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-21T17:07:34",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-12-06T08:14:23",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

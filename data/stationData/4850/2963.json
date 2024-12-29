@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 2963,
-      "projectDisciplineId": 6040,
+      "projectDisciplineId": 7299,
       "projectDisciplineCodes": "AnyA7,A7",
       "discCodesPerProject": "AnyA7,A7",
       "graduationTypeIds": [
@@ -35,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6040,
+      "projectDisciplineId": 7299,
       "projectId": 2963,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -43,7 +43,8 @@
       "cgpamin": 6,
       "cgpamax": 10,
       "freshRequirement": 0,
-      "totalRequirement": 3,
+      "totalRequirement": 0,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -55,23 +56,23 @@
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
-      "conditionalOffer": 0,
+      "conditionalOffer": 1,
       "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 3,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 17821,
-          "projectDisciplineId": 6040,
+          "projectDisciplineDetailId": 22663,
+          "projectDisciplineId": 7299,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 17822,
-          "projectDisciplineId": 6040,
+          "projectDisciplineDetailId": 22664,
+          "projectDisciplineId": 7299,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
@@ -117,8 +118,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-10-18T06:01:46",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-27T04:42:40",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

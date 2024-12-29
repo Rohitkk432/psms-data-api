@@ -1,0 +1,145 @@
+{
+  "projectId": 2833,
+  "stationId": 6110,
+  "problemBankId": 1727,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "The scope of the internship will include:",
+  "description": "<p>The scope of the internship will include:</p><p>1. Summarize and prepare visual slides which articulate all of the software elements we are building/have built at Distinkt (Output: PowerPoint slides).</p><p>2. Ideate and design data handling and storage – Design and build the data pipelines and storage (things like schemas, APIs to call and retrieve data from the databases, etc.) (Output: data pipeline)</p><p>3. Software MVP- Build a minimally functional SaaS for sales demos (no back end required) (Output: SaaS wireframes)</p><p>*Additional responsibilities may be identified as the internship progresses.</p><p>**Required Tools: Canva, Figma, Miro, Asana, PowerPoint, Notion, Slack</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2833,
+      "projectDisciplineId": 7425,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7425,
+      "projectId": 2833,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 3,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 1,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 1,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2745,
+      "projectId": 2833,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 100,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "USD",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "Mode : ONLINE",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-07-29T10:09:27",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-28T08:02:33",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 55629,
+      "projectId": 2833,
+      "skillId": 220
+    },
+    {
+      "projectSkillId": 55630,
+      "projectId": 2833,
+      "skillId": 41
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2833,
+      "projectDomainId": 4065,
+      "academicDomainId": 5
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3740,
+      "projectId": 2833,
+      "academicSubDomainId": 115
+    },
+    {
+      "projectSubDomainId": 3741,
+      "projectId": 2833,
+      "academicSubDomainId": 95
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,203 @@
+{
+  "projectId": 1566,
+  "stationId": 4751,
+  "problemBankId": 846,
+  "problemBankCreatedBy": "kulkarnis@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Electronic Design Automation (EDA) for Proteantecs’ solutions",
+  "description": "<p>This involves testing the new world-class cutting-edge algorithms,</p><p>developing automations for complex tasks and VLSI design analysis. The role will train</p><p>the candidate for an in-depth analysis of VLSI design while exposing the person to</p><p>writing complex code.</p><p>Skill sets: Knowledge on VLSI design, Algorithms &amp;amp; Data Structures</p><p>Traits expectation: Team player, communication skills</p><p>Expected learning: Industry standard tools usage, building automation around tools,</p><p>testing Proteantecs’ tools.</p><p>Specific courses required for project execution: VLSI design, Algorithms and Data</p><p>Structures, Python basics.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Ranjit Eswaran",
+  "mentorEmailId": "ranjit.eswaran@proteantecs.com",
+  "mentorContactNumber": "0000000000",
+  "discViewModels": [
+    {
+      "projectId": 1566,
+      "projectDisciplineId": 3530,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3530,
+      "projectId": 1566,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8809,
+          "projectDisciplineId": 3530,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 8810,
+          "projectDisciplineId": 3530,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 8811,
+          "projectDisciplineId": 3530,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 8812,
+          "projectDisciplineId": 3530,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8813,
+          "projectDisciplineId": 3530,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8814,
+          "projectDisciplineId": 3530,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1492,
+      "projectId": 1566,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "kulkarnis@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-07T11:10:55",
+      "modifiedBy": "kulkarnis@pilani.bits-pilani.ac.in",
+      "modifiedDate": "2024-05-07T11:12:37",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36016,
+      "projectId": 1566,
+      "skillId": 412
+    },
+    {
+      "projectSkillId": 36017,
+      "projectId": 1566,
+      "skillId": 166
+    },
+    {
+      "projectSkillId": 36018,
+      "projectId": 1566,
+      "skillId": 167
+    },
+    {
+      "projectSkillId": 36019,
+      "projectId": 1566,
+      "skillId": 97
+    },
+    {
+      "projectSkillId": 36020,
+      "projectId": 1566,
+      "skillId": 44
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1566,
+      "projectDomainId": 2244,
+      "academicDomainId": 238
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2052,
+      "projectId": 1566,
+      "academicSubDomainId": 421
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

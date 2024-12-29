@@ -1,0 +1,160 @@
+{
+  "projectId": 3646,
+  "stationId": 6452,
+  "problemBankId": 2386,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "DevOps",
+  "description": "<p>Job Duties and Responsibilities:</p><p>? Assist in the development and maintenance of CI/CD pipelines to streamline</p><p>deployment, testing, and operational processes.</p><p>? Collaborate within the TechOps team to implement and manage infrastructure as code</p><p>using tools like Terraform or Ansible.</p><p>? Write and maintain Python scripts for automation tasks related to system administration</p><p>and deployment.</p><p>? Contribute to automating the data cloning process, ensuring efficient and consistent data</p><p>replication across environments.</p><p>? Monitor system performance, troubleshoot issues within cloud environments, and</p><p>implement solutions to improve reliability and efficiency.</p><p>? Support the optimization and automation of Linux-based tasks, gaining experience in</p><p>reducing manual work and enhancing system performance</p><p>? Document configurations, procedures, and best practices for system administration,</p><p>automation tasks, and cloud infrastructure management.</p><p>Skills You Must Have:</p><p>? Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Information</p><p>Technology, or a related field.</p><p>? Solid understanding of Linux/Unix systems, Python and shell scripting.</p><p>? Familiarity with cloud platforms such as AWS, Azure, or Google Cloud.</p><p>? Understanding of version control systems (e.g., Git).</p><p>? Strong analytical and problem-solving skills.</p><p>? Excellent communication and teamwork abilities.</p><p>? Eagerness to learn and adapt in a fast-paced environment.</p><p>? Attention to detail and a proactive attitude towards identifying and resolving issues.</p><p>Skills That Are Nice to Have:</p><p>? Knowledge of automation tools and frameworks (e.g., Jenkins, Docker, Kubernetes) is a</p><p>plus.</p><p>? Experience with infrastructure as code tools like Terraform or Ansible.</p><p>? Familiarity with monitoring tools such as Prometheus or Grafana.</p><p>Benefits of interning @Reltio</p><p>? Gain practical experience in DevOps and Cloud Platform engineering.</p><p>? Opportunity to work with cutting-edge technologies and tools.</p><p>? Mentorship from experienced professionals in the field.</p><p>? Collaborative and inclusive work environment.</p><p>? Potential for future career opportunities at Reltio.</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3646,
+      "projectDisciplineId": 7171,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7171,
+      "projectId": 3646,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 22285,
+          "projectDisciplineId": 7171,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 22286,
+          "projectDisciplineId": 7171,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3507,
+      "projectId": 3646,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 45000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-23T06:17:42",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60869,
+      "projectId": 3646,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 60870,
+      "projectId": 3646,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3646,
+      "projectDomainId": 5549,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5105,
+      "projectId": 3646,
+      "academicSubDomainId": 367
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

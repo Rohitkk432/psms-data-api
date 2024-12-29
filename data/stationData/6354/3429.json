@@ -44,6 +44,7 @@
       "cgpamax": 10,
       "freshRequirement": 2,
       "totalRequirement": 2,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -123,7 +124,20 @@
       "conditionalOfferStudents": null
     }
   ],
-  "projectElective": [],
+  "projectElective": [
+    {
+      "projectElectiveId": 2342,
+      "projectId": 3429,
+      "electiveId": 1093,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2343,
+      "projectId": 3429,
+      "electiveId": 1324,
+      "grade": null
+    }
+  ],
   "projectFacility": [
     {
       "projectFacilityId": 3292,

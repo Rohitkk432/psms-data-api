@@ -1,0 +1,140 @@
+{
+  "projectId": 2353,
+  "stationId": 4747,
+  "problemBankId": 1364,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "IRIS",
+  "description": "<p>Description: India's first Distributor Financial Super-App</p><p>Skill sets: Product Design, Data Analysis</p><p class=\"ql-align-justify\">Traits expectation: Problem Solving, Data Analysis, Product Building and Management, Marketing &amp; Pre-sales, Market Research</p><p class=\"ql-align-justify\">\tExpected learning: Product Building from O to 1 and scaling, Management, Gauging and Working towards Product Market Fit.</p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Yuvraj Abhishek",
+  "mentorEmailId": "yuvraj.abhishek@kfintech.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2353,
+      "projectDisciplineId": 4732,
+      "projectDisciplineCodes": "Any",
+      "discCodesPerProject": "Any",
+      "graduationTypeIds": [],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": true,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4732,
+      "projectId": 2353,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "Any",
+      "graduationTypeIds": [],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 1,
+      "disciplineDetails": [],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2267,
+      "projectId": 2353,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:30:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-04T10:38:15",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T05:26:36",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51062,
+      "projectId": 2353,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51063,
+      "projectId": 2353,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2353,
+      "projectDomainId": 3339,
+      "academicDomainId": 235
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3069,
+      "projectId": 2353,
+      "academicSubDomainId": 485
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

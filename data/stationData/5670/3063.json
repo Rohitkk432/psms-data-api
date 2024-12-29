@@ -1,0 +1,160 @@
+{
+  "projectId": 3063,
+  "stationId": 5670,
+  "problemBankId": 1084,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Webdeveloper",
+  "description": "<ul><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Writing clean, efficient, and well-documented code using languages such as HTML, CSS, XML, and JavaScript</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Good in any scripting language PERL/SHELL/PYTHON</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Implementing and maintaining website content management systems</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Troubleshooting and debugging issues to ensure websites are functioning correctly</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Staying up-to-date with the latest web technologies and industry trends to ensure the website is current and secure</span></li><li><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Creating and managing databases for website functionality</span></li></ul><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3063,
+      "projectDisciplineId": 6139,
+      "projectDisciplineCodes": "AnyA7,A7",
+      "discCodesPerProject": "AnyA7,A7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 6139,
+      "projectId": 3063,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA7,A7",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 18184,
+          "projectDisciplineId": 6139,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 18185,
+          "projectDisciplineId": 6139,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2941,
+      "projectId": 3063,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-10-28T11:49:35",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-25T15:48:45",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 57455,
+      "projectId": 3063,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 57456,
+      "projectId": 3063,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3063,
+      "projectDomainId": 4440,
+      "academicDomainId": 71
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 4073,
+      "projectId": 3063,
+      "academicSubDomainId": 145
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

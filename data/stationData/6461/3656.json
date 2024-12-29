@@ -1,0 +1,239 @@
+{
+  "projectId": 3656,
+  "stationId": 6461,
+  "problemBankId": 2396,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "-",
+  "description": "<p><strong>Key points:&nbsp;</strong>&nbsp;&nbsp;</p><p>? The resumes will be sent to the organization. Organization will select students either on the basis of resume or on the basis of the telephonic interaction or test. </p><p>? Selected students should not drop out at the later stages. </p><p>? If a student is applying for more than one station through this notice process and gets selected in both, then final station allotment will be decided by PSD keeping other constraints in view. The decision of Dean, PS is final in this regard. </p><p>? Students already placed through campus placement with a conditional PS (HD)/PS lock (FD) are not eligible to apply. Also, if a student is applying for <span style=\"background-color: white; color: rgb(34, 34, 34);\">ST Microelectronics</span> and also simultaneously sitting for campus placement later and gets conditional PS/PS lock, PSD will take a final call depending on the allotment scenario. Students are strongly advised to keep the PSD office posted in case of any developments.&nbsp;&nbsp;</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3656,
+      "projectDisciplineId": 7187,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA,H103,H112,H123,H124,H140",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA,H103,H112,H123,H124,H140",
+      "graduationTypeIds": [
+        1,
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7187,
+      "projectId": 3656,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 1,
+      "cgpamin": 7.5,
+      "cgpamax": 10,
+      "freshRequirement": 0,
+      "totalRequirement": 0,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A3,A7,A8,AA,H103,H112,H123,H124,H140",
+      "graduationTypeIds": [
+        0,
+        1,
+        2
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 22345,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 22346,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 22347,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 22348,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 22349,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22350,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22351,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22352,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22353,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 2,
+          "disciplineId": 23,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22354,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 2,
+          "disciplineId": 31,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22355,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 2,
+          "disciplineId": 30,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22356,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 2,
+          "disciplineId": 22,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22357,
+          "projectDisciplineId": 7187,
+          "graduationTypeId": 2,
+          "disciplineId": 26,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3517,
+      "projectId": 3656,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 40000,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-11-23T07:55:52",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60887,
+      "projectId": 3656,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 60888,
+      "projectId": 3656,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3656,
+      "projectDomainId": 5558,
+      "academicDomainId": 81
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5115,
+      "projectId": 3656,
+      "academicSubDomainId": 162
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -1,0 +1,193 @@
+{
+  "projectId": 2747,
+  "stationId": 4703,
+  "problemBankId": 1655,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Title:Product Management Intern ",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"color: black;\">Title:</strong><span style=\"color: black;\">Product Management Intern</span><strong style=\"color: black;\"> </strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Description: </strong><span style=\"color: black;\">You will be working on an agile (0-1) B2C product. Your role is critical as it involves ideating key features and would drive their execution end to end. Brainstorming, collaboration and tracking of metrics is core in this role.</span></p><p><strong style=\"color: black;\">Specific courses required for project execution: </strong><span style=\"color: black;\">Engineeting students from circuit stream (CS/IT/ECE/EEE)</span></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2747,
+      "projectDisciplineId": 7258,
+      "projectDisciplineCodes": "AnyA3,AnyA7,AnyAA,A7,A3,AA",
+      "discCodesPerProject": "AnyA3,AnyA7,AnyAA,A7,A3,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7258,
+      "projectId": 2747,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA7,AnyAA,A7,A3,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 22532,
+          "projectDisciplineId": 7258,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 22533,
+          "projectDisciplineId": 7258,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 22534,
+          "projectDisciplineId": 7258,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 22535,
+          "projectDisciplineId": 7258,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22536,
+          "projectDisciplineId": 7258,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 22537,
+          "projectDisciplineId": 7258,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2661,
+      "projectId": 2747,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-07-10T11:29:23",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-25T16:47:31",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Online",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 60941,
+      "projectId": 2747,
+      "skillId": 239
+    },
+    {
+      "projectSkillId": 60942,
+      "projectId": 2747,
+      "skillId": 41
+    },
+    {
+      "projectSkillId": 60943,
+      "projectId": 2747,
+      "skillId": 166
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2747,
+      "projectDomainId": 3883,
+      "academicDomainId": 24
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3583,
+      "projectId": 2747,
+      "academicSubDomainId": 385
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

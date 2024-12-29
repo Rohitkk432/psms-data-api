@@ -40,10 +40,11 @@
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 7.5,
+      "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 1,
       "totalRequirement": 6,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 1,
@@ -111,141 +112,135 @@
   ],
   "projectElective": [
     {
-      "projectElectiveId": 1033,
+      "projectElectiveId": 2253,
       "projectId": 2264,
       "electiveId": 1305,
       "grade": null
     },
     {
-      "projectElectiveId": 1034,
+      "projectElectiveId": 2254,
+      "projectId": 2264,
+      "electiveId": 41,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2255,
       "projectId": 2264,
       "electiveId": 1276,
       "grade": null
     },
     {
-      "projectElectiveId": 1035,
+      "projectElectiveId": 2256,
       "projectId": 2264,
       "electiveId": 1276,
       "grade": null
     },
     {
-      "projectElectiveId": 1036,
+      "projectElectiveId": 2257,
       "projectId": 2264,
       "electiveId": 1276,
       "grade": null
     },
     {
-      "projectElectiveId": 1037,
+      "projectElectiveId": 2258,
       "projectId": 2264,
       "electiveId": 1358,
       "grade": null
     },
     {
-      "projectElectiveId": 1038,
+      "projectElectiveId": 2259,
       "projectId": 2264,
       "electiveId": 1358,
       "grade": null
     },
     {
-      "projectElectiveId": 1039,
+      "projectElectiveId": 2260,
       "projectId": 2264,
       "electiveId": 1338,
       "grade": null
     },
     {
-      "projectElectiveId": 1040,
+      "projectElectiveId": 2261,
       "projectId": 2264,
       "electiveId": 1377,
       "grade": null
     },
     {
-      "projectElectiveId": 1041,
+      "projectElectiveId": 2262,
       "projectId": 2264,
       "electiveId": 1282,
       "grade": null
     },
     {
-      "projectElectiveId": 1042,
+      "projectElectiveId": 2263,
+      "projectId": 2264,
+      "electiveId": 714,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2264,
       "projectId": 2264,
       "electiveId": 1282,
       "grade": null
     },
     {
-      "projectElectiveId": 1043,
+      "projectElectiveId": 2265,
+      "projectId": 2264,
+      "electiveId": 1282,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2266,
+      "projectId": 2264,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2267,
+      "projectId": 2264,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2268,
+      "projectId": 2264,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2269,
+      "projectId": 2264,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2270,
+      "projectId": 2264,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2271,
+      "projectId": 2264,
+      "electiveId": 1272,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2272,
+      "projectId": 2264,
+      "electiveId": 41,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2273,
       "projectId": 2264,
       "electiveId": 1276,
       "grade": null
     },
     {
-      "projectElectiveId": 1044,
+      "projectElectiveId": 2274,
       "projectId": 2264,
       "electiveId": 1282,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1045,
-      "projectId": 2264,
-      "electiveId": 1272,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1046,
-      "projectId": 2264,
-      "electiveId": 1272,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1047,
-      "projectId": 2264,
-      "electiveId": 1272,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1048,
-      "projectId": 2264,
-      "electiveId": 1272,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1049,
-      "projectId": 2264,
-      "electiveId": 1272,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1050,
-      "projectId": 2264,
-      "electiveId": 1272,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1051,
-      "projectId": 2264,
-      "electiveId": 41,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1052,
-      "projectId": 2264,
-      "electiveId": 41,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1053,
-      "projectId": 2264,
-      "electiveId": 301,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1054,
-      "projectId": 2264,
-      "electiveId": 1282,
-      "grade": null
-    },
-    {
-      "projectElectiveId": 1055,
-      "projectId": 2264,
-      "electiveId": 714,
       "grade": null
     }
   ],

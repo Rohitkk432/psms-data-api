@@ -1,0 +1,223 @@
+{
+  "projectId": 2358,
+  "stationId": 5868,
+  "problemBankId": 1366,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "GenAI In Innovation Management",
+  "description": "<p>Description: Identify the potential use cases of GenAI in idea generation, elaboration,</p><p>and incubation</p><p>Skill sets: Python, machine learning, Deep learning, GenAI</p><p>Traits expectation: Analytical and critical thinking, Innovation Mindset</p><p>Expected learning: Implementation of LLM model in one of the use cases</p><p>Specific courses required for project execution: Artificial Intelligence, Innovation</p><p>Management,&nbsp;Software engineering,</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Rahul Agarwal",
+  "mentorEmailId": "rahul.agrawal@zf.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2358,
+      "projectDisciplineId": 4739,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 4739,
+      "projectId": 2358,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 12428,
+          "projectDisciplineId": 4739,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 12429,
+          "projectDisciplineId": 4739,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 12430,
+          "projectDisciplineId": 4739,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 12431,
+          "projectDisciplineId": 4739,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12432,
+          "projectDisciplineId": 4739,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 12433,
+          "projectDisciplineId": 4739,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [
+    {
+      "projectElectiveId": 968,
+      "projectId": 2358,
+      "electiveId": 1136,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 969,
+      "projectId": 2358,
+      "electiveId": 1093,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 970,
+      "projectId": 2358,
+      "electiveId": 631,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 971,
+      "projectId": 2358,
+      "electiveId": 301,
+      "grade": null
+    }
+  ],
+  "projectFacility": [
+    {
+      "projectFacilityId": 2272,
+      "projectId": 2358,
+      "officeStartTime": "08:30:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 35000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-06-04T11:15:16",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 51072,
+      "projectId": 2358,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 51073,
+      "projectId": 2358,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2358,
+      "projectDomainId": 3344,
+      "academicDomainId": 28
+    },
+    {
+      "projectId": 2358,
+      "projectDomainId": 3345,
+      "academicDomainId": 65
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 3074,
+      "projectId": 2358,
+      "academicSubDomainId": 133
+    },
+    {
+      "projectSubDomainId": 3075,
+      "projectId": 2358,
+      "academicSubDomainId": 131
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -6,8 +6,8 @@
   "stationCreatedBy": "admin@pilani.bits-pilani.ac.in",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "Project 1 Title: ME - Civil/Infrastructure, Project , Project 2  Title Mechanical (Master Degree) , 3  BIM/Revit/HAP/Dialux knowledge preferred Title: Finance (Master Degree)",
-  "description": "<p>Project 1</p><p>Title: ME - Civil/Infrastructure</p><p>Description: PPP/EPC Space in Project Engineering Consulting Business</p><p>Skill sets: 1</p><p>Expected learning: Opportunity to learn about advisory services on PPP / EPC / Due Diligence in sectors like Aviation / Highway. Possibility of interaction with various professionals related to construction field including Client, Architect, Contractor and Vendors.</p><p>Specific courses required for project execution: Good knowledge in CAD software. BIM/Revit knowledge preferred</p><p>Project 2</p><p>Title Mechanical (Master Degree)</p><p>Description: MEP in Buildings and Mechanical in Oil &amp; Gas</p><p>Skill sets: 1</p><p>Expected learning: Opportunity to learn Basic Engineering, Review of Detailed Engineering in MEP/</p><p>HVAC, and Oil &amp; Gas Sector Specific courses required for project execution: Good knowledge in CAD software.</p><p>Project 3</p><p>BIM/Revit/HAP/Dialux knowledge preferred Title: Finance (Master Degree)</p><p>Description: Techno-Economic Feasibility Studies</p><p>Skill sets: 1</p><p>Expected learning: Opportunity to learn about Financial &amp; Economic Feasibility studies, Financial Modeling in PPP of aviation sector</p><p>Specific courses required for project execution: Good knowledge of Excel including Macros,</p><p>Graphical Presentation</p>",
+  "title": " Project 1  Title Mechanical (Master Degree) , ",
+  "description": "<p><br></p><p>Project 1</p><p>Title Mechanical (Master Degree)</p><p>Description: MEP in Buildings and Mechanical in Oil &amp; Gas</p><p>Skill sets: 1</p><p>Expected learning: Opportunity to learn Basic Engineering, Review of Detailed Engineering in MEP/</p><p>HVAC, and Oil &amp; Gas Sector Specific courses required for project execution: Good knowledge in CAD software.</p><p><br></p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 2,
@@ -18,11 +18,10 @@
   "discViewModels": [
     {
       "projectId": 3211,
-      "projectDisciplineId": 6305,
-      "projectDisciplineCodes": "AnyC7,C7,H130,H143,H106,H148",
-      "discCodesPerProject": "AnyC7,C7,H130,H143,H106,H148",
+      "projectDisciplineId": 7617,
+      "projectDisciplineCodes": "H106",
+      "discCodesPerProject": "H106",
       "graduationTypeIds": [
-        1,
         2
       ],
       "anySingle": false,
@@ -36,25 +35,24 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6305,
+      "projectDisciplineId": 7617,
       "projectId": 3211,
-      "degreeTypeId": 3,
-      "firstDegree": 1,
+      "degreeTypeId": null,
+      "firstDegree": 0,
       "higherDegree": 1,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 3,
-      "totalRequirement": 3,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyC7,C7,H130,H143,H106,H148",
+      "disciplineCodes": "H106",
       "graduationTypeIds": [
-        0,
-        1,
         2
       ],
-      "degree": "Both",
+      "degree": "",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
@@ -65,45 +63,10 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 18880,
-          "projectDisciplineId": 6305,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 38
-        },
-        {
-          "projectDisciplineDetailId": 18881,
-          "projectDisciplineId": 6305,
-          "graduationTypeId": 1,
-          "disciplineId": 38,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 18882,
-          "projectDisciplineId": 6305,
-          "graduationTypeId": 2,
-          "disciplineId": 9,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 18883,
-          "projectDisciplineId": 6305,
-          "graduationTypeId": 2,
-          "disciplineId": 8,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 18884,
-          "projectDisciplineId": 6305,
+          "projectDisciplineDetailId": 24587,
+          "projectDisciplineId": 7617,
           "graduationTypeId": 2,
           "disciplineId": 28,
-          "discipline2Id": null
-        },
-        {
-          "projectDisciplineDetailId": 18885,
-          "projectDisciplineId": 6305,
-          "graduationTypeId": 2,
-          "disciplineId": 29,
           "discipline2Id": null
         }
       ],

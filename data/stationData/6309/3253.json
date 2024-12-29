@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "WILP Project",
-  "description": "<p>WILP Project</p>",
+  "title": "Internship Opportunity: AI Software Development Intern",
+  "description": "<p>Internship Opportunity: AI Software Development Intern</p><p>Location: BITS-WILP Lab (Flexible)</p><p>Duration: 5 months 10 days (08-Jan-2025 to 18-June-2025)</p><p>Stipend: $500 to $1000 per month (depending on experience)</p><p>Eligibility: Undergraduate/Postgraduate students in Computer Science, Data Science, or</p><p>related fields</p><p><br></p><p>Role Overview:</p><p>As an AI Software Development Intern, you will play a key role in enhancing Spanda’s opensource</p><p>AI platform. This hands-on role provides a unique opportunity to collaborate with industry</p><p>experts and customers across diverse sectors.</p><p>Key Responsibilities:</p><p>? Contribute to the design, development, and deployment of Spanda’s AI platform.</p><p>? Work on real-world customer projects in industries like sports, healthcare, oil and gas,</p><p>and education.</p><p>? Develop, fine-tune, train and test AI models tailored to specific verticals.</p><p>? Collaborate with cross-functional teams to understand customer needs and deliver</p><p>optimized solutions.</p><p>? Assist in the integration of machine learning algorithms into scalable software systems.</p><p>? Conduct data analysis, preprocessing, and visualization for industry-specific use cases.</p><p>? Document the work products, findings, model performance and other relevant details</p><p>Skills &amp; Qualifications:</p><p>? Currently enrolled in a Bachelor’s/Master’s degree in Computer Science or Circuit</p><p>Branch Major</p><p>? Completion of courses in:</p><p>? Machine Learning (ML)</p><p>? Object-Oriented Programming (OOP)</p><p>? Data Structures and Algorithms (DSA) Intelligence, Data Science, or related</p><p>fields.</p><p>? Basic knowledge of Python, TensorFlow, PyTorch, or other machine learning</p><p>frameworks.</p><p>? Front end and UI/UX skills if applicable</p><p>? Familiarity with DevOps practices, including continuous integration and deployment</p><p>? Familiarity with data preprocessing, model training, and deployment pipelines.</p><p>? Interpretability - knowledge of techniques for explaining and interpreting AI model</p><p>decisions</p><p>? Strong problem-solving skills and the ability to work on diverse datasets.</p><p>? Excellent communication skills and the ability to collaborate effectively in a team.</p><p>? Passion for applying AI to solve real-world challenges in industries like sports,</p><p>healthcare, and beyond.</p><p>Good to Have:</p><p>? Experience with NLP and Generative AI</p><p>? Topics: Transformer models, text similarity, embeddings, fine-tuning</p><p>language models</p><p>? Familiarity with Retrieval-Augmented Generation (RAG)</p><p>? Topics: Vector databases, document retrieval, hybrid search</p><p>? Frontend Development Skills</p><p>? Experience with React.js, Next.js, Node.js, UI/UX principles</p><p>? Familiarity with cloud computing platforms</p><p>? Experience with AWS, Azure, Google Cloud</p><p>? Containerization and Deployment</p><p>? Knowledge of Docker, Kubernetes</p><p>? Data Science Background</p><p>? Basic understanding of data analysis, statistics, and data visualization (e.g.,</p><p>Pandas, NumPy, Matplotlib)</p><p>What You’ll Gain:</p><p>? For students who may not yet have experience with Large Language Models (LLMs),</p><p>Retrieval-Augmented Generation (RAG), or advanced AI/ML concepts, don’t worry—</p><p>training will be provided from our side.</p><p>? Work with other BITS alumnus that embarked on the same journey last year.</p><p>? Hands-on experience in developing a cutting-edge commercial AI platform.</p><p>? Exposure to customer projects in various industries, from sports analytics to</p><p>healthcare AI.</p><p>? Mentorship from experienced AI professionals and industry leaders.</p><p>? Certificate of Completion and a potential Letter of Recommendation based on</p><p>performance.</p><p>? Networking opportunities with professionals across verticals.</p><p>? Potential to work at our global offices in the US and India if travel and foreign</p><p>assignments interest you. We are also looking to expand into Europe, Middle East and</p><p>Africa in 2025.</p><p>Interview and Travel Requirements:</p><p>? Interview: Selected candidates will participate in an interview to evaluate their technical</p><p>expertise, problem-solving skills, and ability to thrive in a team setting. This step ensures</p><p>alignment with our project goals and determines if the candidate meets our</p><p>requirements.</p><p>? Travel and Accommodation: Candidates will be responsible for arranging their own</p><p>accommodation and travel for the internship.</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 2,
@@ -18,13 +18,15 @@
   "discViewModels": [
     {
       "projectId": 3253,
-      "projectDisciplineId": 6971,
-      "projectDisciplineCodes": "Any",
-      "discCodesPerProject": "Any",
-      "graduationTypeIds": [],
+      "projectDisciplineId": 8008,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyA7,AnyAA,A3,A8,A7,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyA7,AnyAA,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        1
+      ],
       "anySingle": false,
       "anyDual": false,
-      "anyEither": true,
+      "anyEither": false,
       "anyHigher": false,
       "anyDegree": false,
       "isHigher": false,
@@ -33,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6971,
+      "projectDisciplineId": 8008,
       "projectId": 3253,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -42,11 +44,15 @@
       "cgpamax": 10,
       "freshRequirement": 5,
       "totalRequirement": 5,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "Any",
-      "graduationTypeIds": [],
+      "disciplineCodes": "AnyA3,AnyA8,AnyA7,AnyAA,A3,A8,A7,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
@@ -55,8 +61,65 @@
       "otherConstraint": 0,
       "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
-      "anyDualDegree": 1,
-      "disciplineDetails": [],
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 26016,
+          "projectDisciplineId": 8008,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 26017,
+          "projectDisciplineId": 8008,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 26018,
+          "projectDisciplineId": 8008,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 26019,
+          "projectDisciplineId": 8008,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 26020,
+          "projectDisciplineId": 8008,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 26021,
+          "projectDisciplineId": 8008,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 26022,
+          "projectDisciplineId": 8008,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 26023,
+          "projectDisciplineId": 8008,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
       "selectedContinuingStudentList": null,
       "conditionalOfferStudents": null
     }
@@ -69,10 +132,10 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "18:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 25000,
+      "ugstipend": 500,
       "pgstipend": 0,
       "scholarship": null,
-      "currency": "INR",
+      "currency": "USD",
       "subsidizedLunch": 2,
       "boysAccommodation": 0,
       "girlsAccommodation": 0,
@@ -98,7 +161,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-09T17:38:51",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-20T09:28:29",
+      "modifiedDate": "2024-12-21T06:01:30",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 3159,
-      "projectDisciplineId": 6966,
+      "projectDisciplineId": 7681,
       "projectDisciplineCodes": "A7,A3,AA",
       "discCodesPerProject": "A7,A3,AA",
       "graduationTypeIds": [
@@ -35,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6966,
+      "projectDisciplineId": 7681,
       "projectId": 3159,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -43,7 +43,8 @@
       "cgpamin": 7,
       "cgpamax": 10,
       "freshRequirement": 0,
-      "totalRequirement": 3,
+      "totalRequirement": 4,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 1,
@@ -52,7 +53,7 @@
         1
       ],
       "degree": "Both",
-      "continuingStudentCount": 3,
+      "continuingStudentCount": 4,
       "continuingStudentIds": null,
       "conditionalOffer": 0,
       "conditionalOfferCount": 0,
@@ -62,22 +63,22 @@
       "anyDualDegree": 1,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 21267,
-          "projectDisciplineId": 6966,
+          "projectDisciplineDetailId": 24814,
+          "projectDisciplineId": 7681,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 21268,
-          "projectDisciplineId": 6966,
+          "projectDisciplineDetailId": 24815,
+          "projectDisciplineId": 7681,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 21269,
-          "projectDisciplineId": 6966,
+          "projectDisciplineDetailId": 24816,
+          "projectDisciplineId": 7681,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
@@ -124,7 +125,7 @@
       "createdBy": "akshaya.ganesan@pilani.bits-pilani.ac.in",
       "createdDate": "2024-11-08T04:56:50",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-17T16:29:38",
+      "modifiedDate": "2024-12-03T13:54:35",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

@@ -1,0 +1,159 @@
+{
+  "projectId": 3757,
+  "stationId": 6523,
+  "problemBankId": 2492,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "1) Data Analytics for Building Construction Materials 2) Data Analytics for Retail Industry",
+  "description": "<p>Title Data Analytics for Building Construction Materials</p><p>Description: Analysing patterns and trends of consumer consumptions across markets for BCM and thereby strategizing GTM.</p><p>Location Intelligence for Consumer Business</p><p><br></p><p>Title : Data Analytics for Retail Industry</p><p>Analysing patterns and trends of consumer consumptions across markets for BCM and thereby strategizing GTM</p><p>Location Intelligence for Consumer Business</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 3757,
+      "projectDisciplineId": 7936,
+      "projectDisciplineCodes": "H154,H149",
+      "discCodesPerProject": "H154,H149",
+      "graduationTypeIds": [
+        2
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": true,
+      "isSingle": false
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7936,
+      "projectId": 3757,
+      "degreeTypeId": null,
+      "firstDegree": 0,
+      "higherDegree": 1,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 3,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "H154,H149",
+      "graduationTypeIds": [
+        2
+      ],
+      "degree": "",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 1,
+      "otherConstraintCount": 1,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 25850,
+          "projectDisciplineId": 7936,
+          "graduationTypeId": 2,
+          "disciplineId": 68,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 25851,
+          "projectDisciplineId": 7936,
+          "graduationTypeId": 2,
+          "disciplineId": 36,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 3618,
+      "projectId": 3757,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "17:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 0,
+      "pgstipend": 50000,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-12-04T10:48:32",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-12-12T06:56:02",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 61202,
+      "projectId": 3757,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 61203,
+      "projectId": 3757,
+      "skillId": 436
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 3757,
+      "projectDomainId": 5730,
+      "academicDomainId": 195
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 5268,
+      "projectId": 3757,
+      "academicSubDomainId": 549
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

@@ -6,8 +6,8 @@
   "stationCreatedBy": "planning@bits.com",
   "stationCreatedStudentName": null,
   "isStationCreatedByStudent": false,
-  "title": "1) Integrated VR tours 2)Smart Location Maps 3)Integrated web applications 4)Analytics dashboard",
-  "description": "<p>Explore our website for more details: https://www.convrse.ai/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+  "title": "Tech Project",
+  "description": "<p>About the Role</p><p>Are you a passionate web or mobile developer eager to gain practical experience in a</p><p>fast-paced deep-tech company? We're looking for an enthusiastic intern to join our team and</p><p>contribute to the development of cutting-edge PropTech solutions.</p><p>Responsibilities:</p><p>? Contribute to the development of modules for both existing and upcoming solutions</p><p>? Take ownership of features, from Low-Level Design (LLD) to complete development</p><p>? Work on projects involving web and/or mobile applications</p><p>? Collaborate with the development team to ensure high-quality code</p><p>Qualifications:</p><p>? Strong understanding of web or mobile development technologies (e.g., ReactJS, Java, Swift)</p><p>? Eagerness to learn and apply knowledge in a real-world setting</p><p>? Excellent problem-solving and analytical skills</p><p>? Ability to work independently and as part of a team&nbsp;</p>",
   "pstypeId": 2,
   "batchId": 16,
   "semesterId": 2,
@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 3574,
-      "projectDisciplineId": 7033,
+      "projectDisciplineId": 7270,
       "projectDisciplineCodes": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A8,A3",
       "discCodesPerProject": "AnyA3,AnyA7,AnyA8,AnyAA,A7,AA,A8,A3",
       "graduationTypeIds": [
@@ -35,15 +35,16 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 7033,
+      "projectDisciplineId": 7270,
       "projectId": 3574,
       "degreeTypeId": 3,
       "firstDegree": 1,
       "higherDegree": 0,
       "cgpamin": 0,
       "cgpamax": 10,
-      "freshRequirement": 3,
-      "totalRequirement": 3,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -63,57 +64,57 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 21499,
-          "projectDisciplineId": 7033,
+          "projectDisciplineDetailId": 22578,
+          "projectDisciplineId": 7270,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 3
         },
         {
-          "projectDisciplineDetailId": 21500,
-          "projectDisciplineId": 7033,
+          "projectDisciplineDetailId": 22579,
+          "projectDisciplineId": 7270,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 21501,
-          "projectDisciplineId": 7033,
+          "projectDisciplineDetailId": 22580,
+          "projectDisciplineId": 7270,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 13
         },
         {
-          "projectDisciplineDetailId": 21502,
-          "projectDisciplineId": 7033,
+          "projectDisciplineDetailId": 22581,
+          "projectDisciplineId": 7270,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 14
         },
         {
-          "projectDisciplineDetailId": 21503,
-          "projectDisciplineId": 7033,
+          "projectDisciplineDetailId": 22582,
+          "projectDisciplineId": 7270,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 21504,
-          "projectDisciplineId": 7033,
+          "projectDisciplineDetailId": 22583,
+          "projectDisciplineId": 7270,
           "graduationTypeId": 1,
           "disciplineId": 14,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 21505,
-          "projectDisciplineId": 7033,
+          "projectDisciplineDetailId": 22584,
+          "projectDisciplineId": 7270,
           "graduationTypeId": 1,
           "disciplineId": 13,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 21506,
-          "projectDisciplineId": 7033,
+          "projectDisciplineDetailId": 22585,
+          "projectDisciplineId": 7270,
           "graduationTypeId": 1,
           "disciplineId": 3,
           "discipline2Id": null
@@ -159,8 +160,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-21T12:47:53",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-26T10:45:12",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
@@ -176,29 +177,19 @@
       "skillId": 394
     },
     {
-      "projectSkillId": 60652,
+      "projectSkillId": 60953,
       "projectId": 3574,
-      "skillId": 475
+      "skillId": 73
     },
     {
-      "projectSkillId": 60653,
+      "projectSkillId": 60954,
       "projectId": 3574,
-      "skillId": 474
+      "skillId": 187
     },
     {
-      "projectSkillId": 60654,
+      "projectSkillId": 60955,
       "projectId": 3574,
-      "skillId": 476
-    },
-    {
-      "projectSkillId": 60655,
-      "projectId": 3574,
-      "skillId": 477
-    },
-    {
-      "projectSkillId": 60656,
-      "projectId": 3574,
-      "skillId": 436
+      "skillId": 41
     }
   ],
   "projectAcademicDomain": [
@@ -211,6 +202,11 @@
       "projectId": 3574,
       "projectDomainId": 5425,
       "academicDomainId": 28
+    },
+    {
+      "projectId": 3574,
+      "projectDomainId": 5603,
+      "academicDomainId": 128
     }
   ],
   "projectSubjectAreaSpecifics": [],

@@ -1,0 +1,184 @@
+{
+  "projectId": 1818,
+  "stationId": 5110,
+  "problemBankId": 1009,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Vertical discharge Ac and PCM integration in to AC",
+  "description": "<p>Description: To develop energy efficient Ac.</p><p>Skill sets: Mechanical Engg/ Mechatronics, Materials science, CAD software proficiency</p><p>Traits expectation: Problem-Solving Skills, Attention to Detail, Creativity and Innovation</p><p>Expected learning: HVAC System Design and Optimization, Integration of Mechanical and Electronic</p><p>Systems Prototyping and Testing</p><p>and</p><p>Description: To develop energy efficient Ac.</p><p>Skill sets: Mechanical Engg/ Mechatronics, Materials science, CAD software proficiency</p><p>Traits expectation: Problem-Solving Skills, Attention to Detail, Creativity and Innovation</p><p>Expected learning: HVAC System Design and Optimization, Integration of Mechanical and Electronic</p><p>Systems Prototyping and Testing</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 1,
+  "salutation": "Mr.",
+  "mentorName": "Saurabh Ingle",
+  "mentorEmailId": "saurabh_ingle@ifbglobal.com",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1818,
+      "projectDisciplineId": 5260,
+      "projectDisciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "discCodesPerProject": "AnyA4,AnyAB,A4,AB",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 5260,
+      "projectId": 1818,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 7,
+      "cgpamax": 10,
+      "freshRequirement": 2,
+      "totalRequirement": 2,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA4,AnyAB,A4,AB",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 14951,
+          "projectDisciplineId": 5260,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 14952,
+          "projectDisciplineId": 5260,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 15
+        },
+        {
+          "projectDisciplineDetailId": 14953,
+          "projectDisciplineId": 5260,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 14954,
+          "projectDisciplineId": 5260,
+          "graduationTypeId": 1,
+          "disciplineId": 15,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1737,
+      "projectId": 1818,
+      "officeStartTime": "09:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Sunday",
+      "ugstipend": 25000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-19T18:34:48",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-06-13T06:40:46",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 37442,
+      "projectId": 1818,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 37443,
+      "projectId": 1818,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1818,
+      "projectDomainId": 3240,
+      "academicDomainId": 21
+    },
+    {
+      "projectId": 1818,
+      "projectDomainId": 3241,
+      "academicDomainId": 135
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2973,
+      "projectId": 1818,
+      "academicSubDomainId": 70
+    },
+    {
+      "projectSubDomainId": 2974,
+      "projectId": 1818,
+      "academicSubDomainId": 244
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

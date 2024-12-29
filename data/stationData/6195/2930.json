@@ -18,30 +18,31 @@
   "discViewModels": [
     {
       "projectId": 2930,
-      "projectDisciplineId": 6020,
+      "projectDisciplineId": 7849,
       "projectDisciplineCodes": "Any",
       "discCodesPerProject": "Any",
       "graduationTypeIds": [],
       "anySingle": false,
       "anyDual": false,
       "anyEither": true,
-      "anyHigher": true,
-      "anyDegree": true,
-      "isHigher": true,
-      "isSingle": false
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
     }
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6020,
+      "projectDisciplineId": 7849,
       "projectId": 2930,
       "degreeTypeId": 3,
       "firstDegree": 1,
-      "higherDegree": 1,
+      "higherDegree": 0,
       "cgpamin": 7.5,
       "cgpamax": 10,
       "freshRequirement": 8,
       "totalRequirement": 8,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -61,7 +62,20 @@
       "conditionalOfferStudents": null
     }
   ],
-  "projectElective": [],
+  "projectElective": [
+    {
+      "projectElectiveId": 2340,
+      "projectId": 2930,
+      "electiveId": 54396,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2341,
+      "projectId": 2930,
+      "electiveId": 1136,
+      "grade": null
+    }
+  ],
   "projectFacility": [
     {
       "projectFacilityId": 2840,
@@ -70,7 +84,7 @@
       "officeEndTime": "18:30:00",
       "weekHolidays": "Saturday,Sunday",
       "ugstipend": 12000,
-      "pgstipend": 12000,
+      "pgstipend": 0,
       "scholarship": 0,
       "currency": "INR",
       "subsidizedLunch": 2,
@@ -98,7 +112,7 @@
       "createdBy": "planning@bits.com",
       "createdDate": "2024-10-01T10:05:39",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-12T09:43:55",
+      "modifiedDate": "2024-12-06T09:04:46",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

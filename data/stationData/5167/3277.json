@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 3277,
-      "projectDisciplineId": 6387,
+      "projectDisciplineId": 7724,
       "projectDisciplineCodes": "A4,AB",
       "discCodesPerProject": "A4,AB",
       "graduationTypeIds": [
@@ -35,15 +35,16 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6387,
+      "projectDisciplineId": 7724,
       "projectId": 3277,
       "degreeTypeId": 1,
       "firstDegree": 1,
       "higherDegree": 0,
-      "cgpamin": 6,
+      "cgpamin": 5.5,
       "cgpamax": 10,
       "freshRequirement": 2,
       "totalRequirement": 2,
+      "filledRequirement": null,
       "maleRequirement": 2,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -62,15 +63,15 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 19258,
-          "projectDisciplineId": 6387,
+          "projectDisciplineDetailId": 25023,
+          "projectDisciplineId": 7724,
           "graduationTypeId": 1,
           "disciplineId": 4,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19259,
-          "projectDisciplineId": 6387,
+          "projectDisciplineDetailId": 25024,
+          "projectDisciplineId": 7724,
           "graduationTypeId": 1,
           "disciplineId": 15,
           "discipline2Id": null
@@ -117,7 +118,7 @@
       "createdBy": "ravi.reosekar@pilani.bits-pilani.ac.in",
       "createdDate": "2024-11-10T12:02:42",
       "modifiedBy": "planning@bits.com",
-      "modifiedDate": "2024-11-13T10:11:28",
+      "modifiedDate": "2024-12-04T07:17:01",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

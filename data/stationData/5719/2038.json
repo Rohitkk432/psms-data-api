@@ -1,0 +1,260 @@
+{
+  "projectId": 2038,
+  "stationId": 5719,
+  "problemBankId": 1152,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Conversational Analytics with Generative AI",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: This project leverages generative AI for conversational analytics on Evolve's vast qualitative data. The intern will build an internal tool using NLP to extract consumer insights for content, marketing, and product roadmap development.&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: Python, NLP libraries (spaCy, NLTK), data analysis tools (Pandas, Tableau), generative AI models.</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: Gain experience with NLP for text analysis and topic modeling, data visualization techniques, and building internal tools.</strong></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "Surbhi Jain",
+  "mentorEmailId": "surbhi@evolveinc.io",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 2038,
+      "projectDisciplineId": 7702,
+      "projectDisciplineCodes": "AnyA1,AnyA3,AnyA4,AnyA8,AnyAA,AnyA7,A1,A4,A7,A3,A8,AA",
+      "discCodesPerProject": "AnyA1,AnyA3,AnyA4,AnyA8,AnyAA,AnyA7,A1,A4,A7,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 7702,
+      "projectId": 2038,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 6,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA1,AnyA3,AnyA4,AnyA8,AnyAA,AnyA7,A1,A4,A7,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 24921,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 24922,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 24923,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 4
+        },
+        {
+          "projectDisciplineDetailId": 24924,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 24925,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 24926,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        },
+        {
+          "projectDisciplineDetailId": 24927,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 1,
+          "disciplineId": 1,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 24928,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 1,
+          "disciplineId": 4,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 24929,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 24930,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 24931,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 24932,
+          "projectDisciplineId": 7702,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1953,
+      "projectId": 2038,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 30000,
+      "pgstipend": 0,
+      "scholarship": 0,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-25T05:41:55",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-24T09:57:26",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": "Onsite",
+      "otherMode": ""
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 50317,
+      "projectId": 2038,
+      "skillId": 431
+    },
+    {
+      "projectSkillId": 50318,
+      "projectId": 2038,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 2038,
+      "projectDomainId": 2882,
+      "academicDomainId": 5
+    },
+    {
+      "projectId": 2038,
+      "projectDomainId": 2883,
+      "academicDomainId": 21
+    },
+    {
+      "projectId": 2038,
+      "projectDomainId": 2884,
+      "academicDomainId": 28
+    },
+    {
+      "projectId": 2038,
+      "projectDomainId": 2885,
+      "academicDomainId": 14
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2637,
+      "projectId": 2038,
+      "academicSubDomainId": 138
+    },
+    {
+      "projectSubDomainId": 2638,
+      "projectId": 2038,
+      "academicSubDomainId": 135
+    },
+    {
+      "projectSubDomainId": 2639,
+      "projectId": 2038,
+      "academicSubDomainId": 406
+    },
+    {
+      "projectSubDomainId": 2640,
+      "projectId": 2038,
+      "academicSubDomainId": 407
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

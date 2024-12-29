@@ -1,0 +1,160 @@
+{
+  "projectId": 1597,
+  "stationId": 5521,
+  "problemBankId": 855,
+  "problemBankCreatedBy": "planning@bits.com",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Development of LogStash plugins for  security log ingestion and Automation of creation of schema documents for user defined custom parsers in Secureworks  XDR Portal",
+  "description": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Description: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Project involves development, maintenance and test automation of Ingestor apps</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">that push data from LogStash and make the data normalized for for threat detection and alerting. Also includes development of tools to generate up-to-date schema markup that help end users to define custom parsers for incoming logs.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Skill sets: AWS, Kubernetes, GoLang, GraphQL, REST APIs, Python, PyTest, GITLab CI/CD, Playwright</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Traits expectation: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Problem Solving, High degree of perception, Equal importance to writing code for development and for test automation.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Expected learning: </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Agile based Software Development and Delivery, Working with APIs that handle large amounts of data, Working with Cloud Technologies, Understanding of Cyber Security, Threat detection and response</span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">.</strong></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Specific courses required for project execution:&nbsp; </strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Programming in GoLang, Gitlab and Gitlab CI/CD, Writing DDL and DML SQL, Basic Familiarity with AWS Technologies (VPC, S3, RDS, Lambdas,EKS)</span></p><p><br></p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1597,
+      "projectDisciplineId": 3590,
+      "projectDisciplineCodes": "A7,AnyA7",
+      "discCodesPerProject": "A7,AnyA7",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3590,
+      "projectId": 1597,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 8.5,
+      "cgpamax": 10,
+      "freshRequirement": 1,
+      "totalRequirement": 1,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "A7,AnyA7",
+      "graduationTypeIds": [
+        1,
+        0
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8947,
+          "projectDisciplineId": 3590,
+          "graduationTypeId": 1,
+          "disciplineId": 12,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8948,
+          "projectDisciplineId": 3590,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 12
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1520,
+      "projectId": 1597,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "19:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 50000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "planning@bits.com",
+      "createdDate": "2024-05-08T09:03:44",
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-05-20T08:47:17",
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36085,
+      "projectId": 1597,
+      "skillId": 132
+    },
+    {
+      "projectSkillId": 36086,
+      "projectId": 1597,
+      "skillId": 141
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1597,
+      "projectDomainId": 2280,
+      "academicDomainId": 29
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2086,
+      "projectId": 1597,
+      "academicSubDomainId": 400
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

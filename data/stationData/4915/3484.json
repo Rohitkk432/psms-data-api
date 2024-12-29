@@ -44,6 +44,7 @@
       "cgpamax": 10,
       "freshRequirement": 10,
       "totalRequirement": 10,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -123,7 +124,44 @@
       "conditionalOfferStudents": null
     }
   ],
-  "projectElective": [],
+  "projectElective": [
+    {
+      "projectElectiveId": 2350,
+      "projectId": 3484,
+      "electiveId": 1090,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2351,
+      "projectId": 3484,
+      "electiveId": 1159,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2352,
+      "projectId": 3484,
+      "electiveId": 1257,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2353,
+      "projectId": 3484,
+      "electiveId": 450,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2354,
+      "projectId": 3484,
+      "electiveId": 365,
+      "grade": null
+    },
+    {
+      "projectElectiveId": 2355,
+      "projectId": 3484,
+      "electiveId": 1343,
+      "grade": null
+    }
+  ],
   "projectFacility": [
     {
       "projectFacilityId": 3347,

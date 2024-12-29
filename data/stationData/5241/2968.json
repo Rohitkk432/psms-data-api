@@ -18,9 +18,9 @@
   "discViewModels": [
     {
       "projectId": 2968,
-      "projectDisciplineId": 6051,
-      "projectDisciplineCodes": "AnyA1,AnyA7,A1,A7",
-      "discCodesPerProject": "AnyA1,AnyA7,A1,A7",
+      "projectDisciplineId": 7350,
+      "projectDisciplineCodes": "AnyA7,AnyA1,A7,A1",
+      "discCodesPerProject": "AnyA7,AnyA1,A7,A1",
       "graduationTypeIds": [
         1
       ],
@@ -35,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6051,
+      "projectDisciplineId": 7350,
       "projectId": 2968,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -43,11 +43,12 @@
       "cgpamin": 0,
       "cgpamax": 10,
       "freshRequirement": 0,
-      "totalRequirement": 10,
+      "totalRequirement": 13,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
-      "disciplineCodes": "AnyA1,AnyA7,A1,A7",
+      "disciplineCodes": "AnyA7,AnyA1,A7,A1",
       "graduationTypeIds": [
         0,
         1
@@ -55,39 +56,39 @@
       "degree": "Both",
       "continuingStudentCount": 0,
       "continuingStudentIds": null,
-      "conditionalOffer": 0,
-      "conditionalOfferCount": 0,
-      "otherConstraint": 1,
-      "otherConstraintCount": 10,
+      "conditionalOffer": 1,
+      "conditionalOfferCount": 13,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
       "otherSuggestedStation": 0,
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 17845,
-          "projectDisciplineId": 6051,
-          "graduationTypeId": 0,
-          "disciplineId": null,
-          "discipline2Id": 1
-        },
-        {
-          "projectDisciplineDetailId": 17846,
-          "projectDisciplineId": 6051,
+          "projectDisciplineDetailId": 22869,
+          "projectDisciplineId": 7350,
           "graduationTypeId": 0,
           "disciplineId": null,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 17847,
-          "projectDisciplineId": 6051,
+          "projectDisciplineDetailId": 22870,
+          "projectDisciplineId": 7350,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 1
+        },
+        {
+          "projectDisciplineDetailId": 22871,
+          "projectDisciplineId": 7350,
           "graduationTypeId": 1,
-          "disciplineId": 1,
+          "disciplineId": 12,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 17848,
-          "projectDisciplineId": 6051,
+          "projectDisciplineDetailId": 22872,
+          "projectDisciplineId": 7350,
           "graduationTypeId": 1,
-          "disciplineId": 12,
+          "disciplineId": 1,
           "discipline2Id": null
         }
       ],
@@ -103,7 +104,7 @@
       "officeStartTime": "09:00:00",
       "officeEndTime": "17:00:00",
       "weekHolidays": "Sunday",
-      "ugstipend": 0,
+      "ugstipend": 191666,
       "pgstipend": 0,
       "scholarship": null,
       "currency": "INR",
@@ -131,8 +132,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-10-19T04:57:08",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-27T10:17:52",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,

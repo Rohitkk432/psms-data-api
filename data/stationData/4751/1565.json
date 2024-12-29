@@ -1,0 +1,213 @@
+{
+  "projectId": 1565,
+  "stationId": 4751,
+  "problemBankId": 846,
+  "problemBankCreatedBy": "kulkarnis@pilani.bits-pilani.ac.in",
+  "stationCreatedBy": "planning@bits.com",
+  "stationCreatedStudentName": null,
+  "isStationCreatedByStudent": false,
+  "title": "Flow Manager (Physical Design RTL2GDS Flow) &amp; Product validation",
+  "description": "<p>In house Physical design flow for supporting IP Hardening, Validation on products. Flow</p><p>supports based on product requirements for advanced nodes like 3nm, 5nm etc (including various</p><p>foundry process). The internship also includes validation of proteanTecs Implementation solution, in</p><p>Flow Manager, before release using complex test-designs on advanced nodes</p><p>Skill sets: Knowledge in VLSI Design flow (including Physical Design), STA, TCL/Shell basic coding.</p><p>Traits expectation: Problem solving, curious, critical thinking, debugging.</p><p>Expected learning: Will learn on physical design aspect of chip designing (RTL2GDS), flow</p><p>methodology, challenges associated with advanced nodes and Industry approach of solving.</p><p>Specific courses required for project execution: VLSI flow, small scripting background (for further</p><p>ramp-up, Training will be provided in house by experts/mentors)</p>",
+  "pstypeId": 2,
+  "batchId": 16,
+  "semesterId": 2,
+  "salutation": "Mr.",
+  "mentorName": "",
+  "mentorEmailId": "",
+  "mentorContactNumber": "",
+  "discViewModels": [
+    {
+      "projectId": 1565,
+      "projectDisciplineId": 3529,
+      "projectDisciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "discCodesPerProject": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        1
+      ],
+      "anySingle": false,
+      "anyDual": false,
+      "anyEither": false,
+      "anyHigher": false,
+      "anyDegree": false,
+      "isHigher": false,
+      "isSingle": true
+    }
+  ],
+  "projectDiscipline": [
+    {
+      "projectDisciplineId": 3529,
+      "projectId": 1565,
+      "degreeTypeId": 3,
+      "firstDegree": 1,
+      "higherDegree": 0,
+      "cgpamin": 0,
+      "cgpamax": 10,
+      "freshRequirement": 3,
+      "totalRequirement": 3,
+      "filledRequirement": null,
+      "maleRequirement": 0,
+      "femaleRequirement": 0,
+      "continuingStudent": 0,
+      "disciplineCodes": "AnyA3,AnyA8,AnyAA,A3,A8,AA",
+      "graduationTypeIds": [
+        0,
+        1
+      ],
+      "degree": "Both",
+      "continuingStudentCount": 0,
+      "continuingStudentIds": null,
+      "conditionalOffer": 0,
+      "conditionalOfferCount": 0,
+      "otherConstraint": 0,
+      "otherConstraintCount": 0,
+      "otherSuggestedStation": 0,
+      "anyDualDegree": 0,
+      "disciplineDetails": [
+        {
+          "projectDisciplineDetailId": 8803,
+          "projectDisciplineId": 3529,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 3
+        },
+        {
+          "projectDisciplineDetailId": 8804,
+          "projectDisciplineId": 3529,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 13
+        },
+        {
+          "projectDisciplineDetailId": 8805,
+          "projectDisciplineId": 3529,
+          "graduationTypeId": 0,
+          "disciplineId": null,
+          "discipline2Id": 14
+        },
+        {
+          "projectDisciplineDetailId": 8806,
+          "projectDisciplineId": 3529,
+          "graduationTypeId": 1,
+          "disciplineId": 3,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8807,
+          "projectDisciplineId": 3529,
+          "graduationTypeId": 1,
+          "disciplineId": 13,
+          "discipline2Id": null
+        },
+        {
+          "projectDisciplineDetailId": 8808,
+          "projectDisciplineId": 3529,
+          "graduationTypeId": 1,
+          "disciplineId": 14,
+          "discipline2Id": null
+        }
+      ],
+      "selectedContinuingStudentList": null,
+      "conditionalOfferStudents": null
+    }
+  ],
+  "projectElective": [],
+  "projectFacility": [
+    {
+      "projectFacilityId": 1491,
+      "projectId": 1565,
+      "officeStartTime": "10:00:00",
+      "officeEndTime": "18:00:00",
+      "weekHolidays": "Saturday,Sunday",
+      "ugstipend": 40000,
+      "pgstipend": 0,
+      "scholarship": null,
+      "currency": "INR",
+      "subsidizedLunch": 2,
+      "boysAccommodation": 0,
+      "girlsAccommodation": 0,
+      "accomodationAddress": "",
+      "ta": 2,
+      "da": 2,
+      "conveyance": 2,
+      "medical": 2,
+      "travels": 2,
+      "others": "",
+      "boysAccomodationAddress1": "",
+      "boysAccomodationAddress2": "",
+      "boysAccomodationCity": null,
+      "boysAccomodationState": null,
+      "boysAccomodationCountry": null,
+      "boysAccomodationPincode": "",
+      "girlsAccomodationAddress1": "",
+      "girlsAccomodationAddress2": "",
+      "girlsAccomodationCity": null,
+      "girlsAccomodationState": null,
+      "girlsAccomodationCountry": null,
+      "girlsAccomodationPincode": "",
+      "createdBy": "kulkarnis@pilani.bits-pilani.ac.in",
+      "createdDate": "2024-05-07T11:01:27",
+      "modifiedBy": null,
+      "modifiedDate": null,
+      "girlsAccomodationOtherCityName": null,
+      "boysAccomodationOtherCityName": null,
+      "girlsAccomodationCityName": null,
+      "boysAccomodationCityName": null,
+      "mode": null,
+      "otherMode": null
+    }
+  ],
+  "projectSkill": [
+    {
+      "projectSkillId": 36009,
+      "projectId": 1565,
+      "skillId": 117
+    },
+    {
+      "projectSkillId": 36010,
+      "projectId": 1565,
+      "skillId": 411
+    },
+    {
+      "projectSkillId": 36011,
+      "projectId": 1565,
+      "skillId": 42
+    },
+    {
+      "projectSkillId": 36012,
+      "projectId": 1565,
+      "skillId": 167
+    },
+    {
+      "projectSkillId": 36013,
+      "projectId": 1565,
+      "skillId": 97
+    },
+    {
+      "projectSkillId": 36014,
+      "projectId": 1565,
+      "skillId": 114
+    },
+    {
+      "projectSkillId": 36015,
+      "projectId": 1565,
+      "skillId": 120
+    }
+  ],
+  "projectAcademicDomain": [
+    {
+      "projectId": 1565,
+      "projectDomainId": 2243,
+      "academicDomainId": 237
+    }
+  ],
+  "projectSubjectAreaSpecifics": [],
+  "projectAcademicSubDomain": [
+    {
+      "projectSubDomainId": 2051,
+      "projectId": 1565,
+      "academicSubDomainId": 420
+    }
+  ],
+  "projectSubjectArea": [],
+  "continuingStudents": null
+}

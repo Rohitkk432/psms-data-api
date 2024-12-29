@@ -18,7 +18,7 @@
   "discViewModels": [
     {
       "projectId": 3348,
-      "projectDisciplineId": 6530,
+      "projectDisciplineId": 7287,
       "projectDisciplineCodes": "B5A7,A5,A7",
       "discCodesPerProject": "B5A7,A5,A7",
       "graduationTypeIds": [
@@ -35,7 +35,7 @@
   ],
   "projectDiscipline": [
     {
-      "projectDisciplineId": 6530,
+      "projectDisciplineId": 7287,
       "projectId": 3348,
       "degreeTypeId": 3,
       "firstDegree": 1,
@@ -44,6 +44,7 @@
       "cgpamax": 10,
       "freshRequirement": 0,
       "totalRequirement": 5,
+      "filledRequirement": null,
       "maleRequirement": 0,
       "femaleRequirement": 0,
       "continuingStudent": 0,
@@ -63,22 +64,22 @@
       "anyDualDegree": 0,
       "disciplineDetails": [
         {
-          "projectDisciplineDetailId": 19638,
-          "projectDisciplineId": 6530,
+          "projectDisciplineDetailId": 22634,
+          "projectDisciplineId": 7287,
           "graduationTypeId": 0,
           "disciplineId": 20,
           "discipline2Id": 12
         },
         {
-          "projectDisciplineDetailId": 19639,
-          "projectDisciplineId": 6530,
+          "projectDisciplineDetailId": 22635,
+          "projectDisciplineId": 7287,
           "graduationTypeId": 1,
           "disciplineId": 11,
           "discipline2Id": null
         },
         {
-          "projectDisciplineDetailId": 19640,
-          "projectDisciplineId": 6530,
+          "projectDisciplineDetailId": 22636,
+          "projectDisciplineId": 7287,
           "graduationTypeId": 1,
           "disciplineId": 12,
           "discipline2Id": null
@@ -124,8 +125,8 @@
       "girlsAccomodationPincode": "",
       "createdBy": "planning@bits.com",
       "createdDate": "2024-11-16T14:59:39",
-      "modifiedBy": null,
-      "modifiedDate": null,
+      "modifiedBy": "planning@bits.com",
+      "modifiedDate": "2024-11-26T16:55:23",
       "girlsAccomodationOtherCityName": null,
       "boysAccomodationOtherCityName": null,
       "girlsAccomodationCityName": null,
