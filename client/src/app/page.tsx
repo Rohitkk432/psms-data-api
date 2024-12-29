@@ -40,19 +40,34 @@ export default async function LandingPage() {
                             // Show main content when logged in
                             <div className="space-y-6">
                                 {/* Main Action Button */}
-                                <Link 
-                                    href="/stations" 
-                                    className="block w-full bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 rounded-2xl transition-all duration-200 shadow-lg shadow-blue-500/25 hover:shadow-blue-500/40 group"
-                                >
-                                    <div className="px-6 py-8 text-center">
-                                        <h2 className="text-2xl font-semibold text-white mb-2">
-                                            View Station Data
-                                        </h2>
-                                        <p className="text-blue-200/80">
-                                            Access comprehensive information about all available stations
-                                        </p>
-                                    </div>
-                                </Link>
+                                <div className="flex gap-4">
+                                    <Link 
+                                        href="/stations" 
+                                        className="block w-full bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 rounded-2xl transition-all duration-200 shadow-lg shadow-blue-500/25 hover:shadow-blue-500/40 group"
+                                    >
+                                        <div className="px-6 py-8 text-center">
+                                            <h2 className="text-2xl font-semibold text-white mb-2">
+                                                View Station Data
+                                            </h2>
+                                            <p className="text-blue-200/80">
+                                                Access comprehensive information about all available stations
+                                            </p>
+                                        </div>
+                                    </Link>
+                                    <Link 
+                                        href="/allotment" 
+                                        className="block w-full bg-gradient-to-r from-purple-600 to-purple-500 hover:from-purple-700 hover:to-purple-600 rounded-2xl transition-all duration-200 shadow-lg shadow-purple-500/25 hover:shadow-purple-500/40 group"
+                                    >
+                                        <div className="px-6 py-8 text-center">
+                                            <h2 className="text-2xl font-semibold text-white mb-2">
+                                                View Station Allotment
+                                            </h2>
+                                            <p className="text-purple-200/80">
+                                                Access information about station allotments
+                                            </p>
+                                        </div>
+                                    </Link>
+                                </div>
 
                                 {/* Info Cards Grid */}
                                 <div className="grid md:grid-cols-2 gap-4">

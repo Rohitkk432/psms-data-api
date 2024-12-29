@@ -169,16 +169,21 @@ export default function AllotmentPage() {
                 {/* Search Section */}
                 <div className="max-w-[80vw] mx-auto">
                     <div className="bg-white/5 rounded-2xl p-6 mb-10 border border-gray-700 z-[400]">
-                        <div className="flex flex-col sm:flex-row gap-4">
+                        <div className="flex flex-col sm:flex-row gap-4 items-end">
                             {searchType === "email" ? (
+                                <div className="flex flex-col gap-2 w-full">
+                                <h2 className="text-xl font-semibold mb-4 text-white">Search Allotment by Email ID / BITS ID</h2>
                                 <input
                                     type="email"
-                                    placeholder="Enter your email ID..."
+                                    placeholder="Enter your email ID / BITS ID"
                                     className="w-full py-2 px-4 rounded-xl bg-black/20 border border-gray-700 focus:border-blue-500 transition-colors text-white"
                                     value={email}
                                     onChange={(e) => setEmail(e.target.value)}
                                 />
+                                </div>
                             ) : (
+                                <div className="flex flex-col gap-2 w-full">
+                                <h2 className="text-xl font-semibold mb-4 text-white">Search Allotment by Selecting PS Station</h2>
                                 <Dropdown
                                     options={stationOptions}
                                     selected={selectedStation}
@@ -189,8 +194,9 @@ export default function AllotmentPage() {
                                     className="w-full"
                                     wrapOptions={true}
                                 />
+                                </div>
                             )}
-                            <button onClick={handleSearch} className="px-6 py-2 bg-blue-500/20 text-blue-400 hover:bg-blue-500/30 rounded-xl transition-colors border border-blue-500 h-fit">
+                            <button onClick={handleSearch} className="px-6 py-2 bg-blue-500/20 text-blue-400 hover:bg-blue-500/30 rounded-xl transition-colors border border-blue-500 h-fit sm:w-fit w-full">
                                 Search
                             </button>
                         </div>
